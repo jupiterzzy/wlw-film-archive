@@ -27,3 +27,30 @@ function wireLongPressDrag(field){
 wireLongPressDrag(countryField);
 
 document.addEventListener("click",event=>{const button=event.target.closest(".country-orb,.region-crystal");if(!button)return;if(Date.now()<suppressClickUntil||button.classList.contains("is-dragging")||button.classList.contains("is-returning")){event.preventDefault();return;}if(button.classList.contains("is-shattering"))return;event.preventDefault();const destination=button.href;if(matchMedia("(prefers-reduced-motion: reduce)").matches){location.href=destination;return;}addShards(button);button.classList.add("is-shattering");setTimeout(()=>{location.href=destination;},620);});
+
+function resetCountryDirectoryState(){
+  dragState=null;
+  suppressClickUntil=0;
+
+  [countryField,regionField].forEach(field=>{
+    field.querySelectorAll(".country-orb,.region-crystal").forEach(button=>{
+      button.classList.remove(
+        "is-shattering",
+        "is-dragging",
+        "is-returning",
+        "is-displaced",
+        "is-settling"
+      );
+
+      button.style.removeProperty("--drag-x");
+      button.style.removeProperty("--drag-y");
+      button.style.removeProperty("--push-x");
+      button.style.removeProperty("--push-y");
+
+      button.querySelectorAll(".crystal-shard").forEach(shard=>shard.remove());
+    });
+  });
+}
+
+window.addEventListener("pageshow",resetCountryDirectoryState);
+window.addEventListener("pagehide",resetCountryDirectoryState);
