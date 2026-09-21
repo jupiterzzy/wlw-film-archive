@@ -35,6 +35,8 @@ const currentLetter=alphabet.includes(requestedLetter)?requestedLetter:"A";
 function sortableTitle(title){return title.replace(/^the\s+/i,"").trim();}
 function letterFor(title){return sortableTitle(title).charAt(0).toUpperCase();}
 function compareTitles(a,b){return sortableTitle(a.title).localeCompare(sortableTitle(b.title),"en",{sensitivity:"base",numeric:true});}
+function hasDetailPage(movie){return letterFor(movie.title)==="A";}
+function navigationHref(movie){return hasDetailPage(movie)?`./movie.html?title=${encodeURIComponent(movie.title)}`:`./index.html?letter=${letterFor(movie.title)}`;}
 
 const movies=allMovies.filter(movie=>letterFor(movie.title)===currentLetter).sort(compareTitles);
 const hero=document.querySelector("#hero");
@@ -55,7 +57,7 @@ function renderMovies(){
   const fragment=document.createDocumentFragment();
   if(!movies.length){const empty=document.createElement("p");empty.className="empty-letter";empty.textContent="该字母下暂无影片";movieGrid.appendChild(empty);return;}
   movies.forEach(movie=>{const card=cardTemplate.content.cloneNode(true);const poster=card.querySelector(".poster");const titleLink=card.querySelector("h3 a");
-    card.querySelectorAll("a").forEach(link=>{link.href="#";link.setAttribute("aria-label",`${movie.title}（详情页暂未制作）`);});
+    card.querySelectorAll("a").forEach(link=>{link.href=hasDetailPage(movie)?navigationHref(movie):"#";link.setAttribute("aria-label",hasDetailPage(movie)?`查看 ${movie.title} 详情`:`${movie.title}（详情页暂未制作）`);});
     poster.src=window.getWLWPoster(movie);poster.alt=`${movie.title} 电影海报`;poster.addEventListener("error",()=>{poster.src=placeholderPoster(movie.title);},{once:true});
     titleLink.textContent=movie.title;titleLink.title=movie.title;card.querySelector(".movie-meta").textContent=[movie.year,...movie.genres.slice(0,2)].join(" • ");fragment.appendChild(card);
   });
@@ -70,9 +72,9 @@ function renderAlphabet(){
 
 function normalizeSearchText(value){return value.normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/&|\band\b/g," and ").replace(/[^\p{L}\p{N}]+/gu," ").trim().replace(/\s+/g," ");}
 function matchesQuery(movie,query){return [movie.title,...movie.aliases].map(normalizeSearchText).some(name=>name.includes(query));}
-function showSearchResults(rawQuery){const query=normalizeSearchText(rawQuery);searchResults.replaceChildren();if(!query){searchResults.hidden=true;searchInput.setAttribute("aria-expanded","false");return[];}const results=allMovies.filter(movie=>matchesQuery(movie,query)).slice(0,8);if(!results.length){const empty=document.createElement("p");empty.className="empty-result";empty.textContent="没有找到匹配的电影";searchResults.appendChild(empty);}else{results.forEach(movie=>{const result=document.createElement("a");result.className="search-result";result.href=`./index.html?letter=${letterFor(movie.title)}`;result.setAttribute("role","option");result.innerHTML=`<span>${movie.title}</span><span>${movie.year}</span>`;searchResults.appendChild(result);});}searchResults.hidden=false;searchInput.setAttribute("aria-expanded","true");return results;}
+function showSearchResults(rawQuery){const query=normalizeSearchText(rawQuery);searchResults.replaceChildren();if(!query){searchResults.hidden=true;searchInput.setAttribute("aria-expanded","false");return[];}const results=allMovies.filter(movie=>matchesQuery(movie,query)).slice(0,8);if(!results.length){const empty=document.createElement("p");empty.className="empty-result";empty.textContent="没有找到匹配的电影";searchResults.appendChild(empty);}else{results.forEach(movie=>{const result=document.createElement("a");result.className="search-result";result.href=navigationHref(movie);result.setAttribute("role","option");result.innerHTML=`<span>${movie.title}</span><span>${movie.year}</span>`;searchResults.appendChild(result);});}searchResults.hidden=false;searchInput.setAttribute("aria-expanded","true");return results;}
 searchInput.addEventListener("input",event=>showSearchResults(event.target.value));
-searchForm.addEventListener("submit",event=>{event.preventDefault();const results=showSearchResults(searchInput.value);if(results.length===1)location.href=`./index.html?letter=${letterFor(results[0].title)}`;});
+searchForm.addEventListener("submit",event=>{event.preventDefault();const results=showSearchResults(searchInput.value);if(results.length===1)location.href=navigationHref(results[0]);});
 document.addEventListener("click",event=>{if(!searchForm.contains(event.target)){searchResults.hidden=true;searchInput.setAttribute("aria-expanded","false");}});
 
 let currentSlide=0;let slideTimer;
