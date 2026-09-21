@@ -120,40 +120,67 @@
 .cast-list {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 0;
-  border-top: 1px solid rgba(247, 243, 238, 0.12);
+  gap: 0.9rem;
 }
 
 .cast-member {
   min-width: 0;
-  padding: 1rem 0;
-  border-bottom: 1px solid rgba(247, 243, 238, 0.12);
+  overflow: hidden;
+  padding: 0 0 0.85rem;
+  border: 1px solid rgba(247, 243, 238, 0.14);
+  border-radius: 0.65rem;
+  background: #0d0d0f;
 }
 
-.cast-member:nth-child(odd) {
-  padding-right: 1rem;
+.cast-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  background: #171319;
 }
 
-.cast-member:nth-child(even) {
-  padding-left: 1rem;
-  border-left: 1px solid rgba(247, 243, 238, 0.12);
+.cast-photo-placeholder {
+  background:
+    radial-gradient(circle at 50% 38%, #3b343c 0 15%, transparent 16%),
+    radial-gradient(circle at 50% 80%, #3b343c 0 31%, transparent 32%),
+    #171319;
 }
 
 .cast-name,
 .cast-role {
   display: block;
   overflow-wrap: anywhere;
+  padding-inline: 0.7rem;
 }
 
 .cast-name {
+  margin-top: 0.72rem;
   font-weight: 700;
+  line-height: 1.3;
 }
 
 .cast-role {
-  margin-top: 0.3rem;
+  margin-top: 0.28rem;
   color: #aaa0ac;
-  font-size: 0.875rem;
-  line-height: 1.45;
+  font-size: 0.82rem;
+  line-height: 1.4;
+}
+
+@media (min-width: 38rem) {
+  .cast-list {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 64rem) {
+  .detail-main {
+    width: min(100%, 72rem);
+  }
+
+  .cast-list {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
 }
 
 .detail-error p {
