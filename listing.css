@@ -9,7 +9,39 @@
 .listing-title-row p { margin:0; color:var(--muted); white-space:nowrap; }
 .country-title-row { justify-content:flex-start; align-items:baseline; gap:clamp(.9rem,3vw,2rem); }
 .country-title-row .listing-subtitle { font-size:clamp(1.25rem,3.2vw,2.35rem); font-weight:650; letter-spacing:.02em; }
-.listing-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:clamp(1rem,3vw,2rem); }
+.listing-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: clamp(1rem, 2.2vw, 2rem);
+}
+
+/* 平板竖屏 */
+@media (min-width: 600px) {
+  .listing-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+/* 较宽平板竖屏 / 小尺寸横屏 */
+@media (min-width: 760px) {
+  .listing-grid {
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+  }
+}
+
+/* 平板横屏 / 笔记本 */
+@media (min-width: 1024px) {
+  .listing-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
+/* 大电脑屏幕 */
+@media (min-width: 1440px) {
+  .listing-grid {
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+}
 .listing-grid .movie-card { min-width:0; }
 .listing-grid .poster-link { aspect-ratio:2 / 3; }
 .listing-pagination { display:flex; justify-content:center; align-items:center; flex-wrap:wrap; gap:.5rem; margin-top:3.2rem; }
