@@ -77,20 +77,36 @@
     castList.appendChild(empty);
   } else {
     femaleCast.forEach(person => {
-      const member = document.createElement("div");
-      member.className = "cast-member";
-      const name = document.createElement("span");
-      name.className = "cast-name";
-      name.textContent = person.name;
-      member.appendChild(name);
-      if (person.character) {
-        const role = document.createElement("span");
-        role.className = "cast-role";
-        role.textContent = person.character;
-        member.appendChild(role);
-      }
-      castList.appendChild(member);
-    });
+  const member = document.createElement("div");
+  member.className = "cast-member";
+
+  if (person.profilePath) {
+    const photo = document.createElement("img");
+    photo.className = "cast-photo";
+    photo.src = `https://image.tmdb.org/t/p/w342${person.profilePath}`;
+    photo.alt = person.name;
+    photo.loading = "lazy";
+    photo.addEventListener("error", () => photo.remove(), { once: true });
+    member.appendChild(photo);
+  } else {
+    const placeholder = document.createElement("div");
+    placeholder.className = "cast-photo cast-photo-placeholder";
+    placeholder.setAttribute("aria-hidden", "true");
+    member.appendChild(placeholder);
+  }
+
+  const name = document.createElement("span");
+  name.className = "cast-name";
+  name.textContent = person.name;
+  member.appendChild(name);
+
+  const role = document.createElement("span");
+  role.className = "cast-role";
+  role.textContent = person.character || "—";
+  member.appendChild(role);
+
+  castList.appendChild(member);
+});
   }
 
   loading.hidden = true;
