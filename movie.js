@@ -43,6 +43,25 @@
   document.querySelector("#detail-title").textContent = movie.title;
   document.title = `${movie.title} · WLW Film Archive`;
 
+  const detailBack = document.querySelector(".detail-back");
+
+const backLetter = movie.title
+  .replace(/^the\s+/i, "")
+  .trim()
+  .charAt(0)
+  .toUpperCase() || "A";
+
+detailBack.href =
+  backLetter === "A"
+    ? "./index.html"
+    : `./index.html?letter=${encodeURIComponent(backLetter)}`;
+
+detailBack.textContent = `← ${backLetter}`;
+detailBack.setAttribute(
+  "aria-label",
+  `返回 ${backLetter} 字母电影列表`
+);
+
   const year = details.year || metadata.year || movie.year;
   const genres = (details.genres || []).map(item => typeof item === "string" ? item : item.name).filter(Boolean);
   document.querySelector("#detail-meta").textContent = [year, ...genres].filter(Boolean).join(" • ");
