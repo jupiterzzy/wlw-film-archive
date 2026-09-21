@@ -1,0 +1,773 @@
+{
+  "generatedAt": "2026-09-21T11:47:46.262Z",
+  "titles": {
+    "A Date for Mad Mary": {
+      "tmdbId": 405473,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 1800021,
+          "name": "Barbara Brennan",
+          "character": "Nan",
+          "order": 6
+        },
+        {
+          "id": 1362814,
+          "name": "Stephen Cromwell",
+          "character": "Grungy Guy",
+          "order": 7
+        },
+        {
+          "id": 1800022,
+          "name": "Sarah Gorman",
+          "character": "Grungy Guy's Girlfriend",
+          "order": 8
+        },
+        {
+          "id": 1800023,
+          "name": "John Finegan",
+          "character": "Angry Club Bouncer",
+          "order": 9
+        },
+        {
+          "id": 1800027,
+          "name": "Jamiu Giwa",
+          "character": "Udel",
+          "order": 13
+        },
+        {
+          "id": 1354545,
+          "name": "Mark Dunne",
+          "character": "Scrote",
+          "order": 14
+        },
+        {
+          "id": 1707889,
+          "name": "Emily Thomson",
+          "character": "Single Lady in Dating Video",
+          "order": 16
+        },
+        {
+          "id": 1800029,
+          "name": "Emmet Ryan",
+          "character": "Sham",
+          "order": 18
+        },
+        {
+          "id": 1124980,
+          "name": "Timmy Creed",
+          "character": "Cork Guy",
+          "order": 19
+        },
+        {
+          "id": 1518970,
+          "name": "Colm Kenny-Vaughan",
+          "character": "Sam (Date 1)",
+          "order": 21
+        },
+        {
+          "id": 1800031,
+          "name": "Rob Harrington",
+          "character": "Chazz (Date 3)",
+          "order": 23
+        },
+        {
+          "id": 2193225,
+          "name": "Joe Lydon",
+          "character": "Patsy (Date 4)",
+          "order": 24
+        },
+        {
+          "id": 1800033,
+          "name": "Shaun Dunne",
+          "character": "Liam",
+          "order": 25
+        },
+        {
+          "id": 1346501,
+          "name": "Conor Byrne",
+          "character": "Fusion Bouncer",
+          "order": 26
+        },
+        {
+          "id": 1800034,
+          "name": "Jason O'Reilly",
+          "character": "Fusion Bouncer",
+          "order": 27
+        },
+        {
+          "id": 2845811,
+          "name": "Michael Duffy",
+          "character": "Drunk Superhero",
+          "order": 28
+        },
+        {
+          "id": 1800036,
+          "name": "Kelly Kierans",
+          "character": "Bride",
+          "order": 29
+        },
+        {
+          "id": 1800037,
+          "name": "John Paul Donnelly",
+          "character": "Groom",
+          "order": 30
+        },
+        {
+          "id": 1800038,
+          "name": "John Matthews",
+          "character": "Country Wedding Priest",
+          "order": 31
+        },
+        {
+          "id": 1800039,
+          "name": "Clive Fitzpatrick",
+          "character": "Country Groomsman",
+          "order": 32
+        },
+        {
+          "id": 1800040,
+          "name": "John Paul Maguire",
+          "character": "Country Groomsman",
+          "order": 33
+        },
+        {
+          "id": 1800041,
+          "name": "Alan Maguire",
+          "character": "Country Groomsman",
+          "order": 34
+        },
+        {
+          "id": 1800042,
+          "name": "Marc Matthews",
+          "character": "Country Groomsman",
+          "order": 35
+        },
+        {
+          "id": 1800043,
+          "name": "Ciara Duffin",
+          "character": "Country Bridesmaid",
+          "order": 36
+        },
+        {
+          "id": 1800044,
+          "name": "Leah Rossiter",
+          "character": "Country Bridesmaid",
+          "order": 37
+        },
+        {
+          "id": 1710416,
+          "name": "David Thornton",
+          "character": "Father of the Bride",
+          "order": 38
+        },
+        {
+          "id": 1800045,
+          "name": "Kelly Byrne",
+          "character": "Scarred Girl",
+          "order": 39
+        },
+        {
+          "id": 1800047,
+          "name": "Darren Creaven",
+          "character": "Taxi Driver",
+          "order": 44
+        }
+      ]
+    },
+    "A Great Ride": {
+      "tmdbId": 628890,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 4522692,
+          "name": "Brenda Crawford",
+          "character": "Self",
+          "order": 1
+        }
+      ]
+    },
+    "A Marine Story": {
+      "tmdbId": 46564,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 5949963,
+          "name": "Deacon Conroy",
+          "character": "Burner",
+          "order": 4
+        },
+        {
+          "id": 5949965,
+          "name": "Ned Mochel",
+          "character": "Bill",
+          "order": 11
+        }
+      ]
+    },
+    "A Perfect Ending": {
+      "tmdbId": 107257,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 1510827,
+          "name": "Mary Jane Wells",
+          "character": "Shirin",
+          "order": 6
+        },
+        {
+          "id": 1510829,
+          "name": "Bryan Mordechai Jackson",
+          "character": "Hank Westridge",
+          "order": 9
+        },
+        {
+          "id": 1510834,
+          "name": "Lee Anne Matusek",
+          "character": "Megan",
+          "order": 14
+        },
+        {
+          "id": 4446345,
+          "name": "Erika Schiff",
+          "character": "Ella",
+          "order": 15
+        },
+        {
+          "id": 4446359,
+          "name": "Todd Gilliam",
+          "character": "S&M John",
+          "order": 18
+        },
+        {
+          "id": 4446360,
+          "name": "Christa Hoven",
+          "character": "Marissa",
+          "order": 21
+        }
+      ]
+    },
+    "A Secret Love": {
+      "tmdbId": 687156,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 2934678,
+          "name": "Diana Bolan",
+          "character": "Self",
+          "order": 2
+        },
+        {
+          "id": 2934679,
+          "name": "Kim Donahue",
+          "character": "Self",
+          "order": 3
+        },
+        {
+          "id": 2934680,
+          "name": "Tammy Donahue",
+          "character": "Self",
+          "order": 4
+        },
+        {
+          "id": 2934681,
+          "name": "Jack Xagas",
+          "character": "Self",
+          "order": 5
+        },
+        {
+          "id": 2934682,
+          "name": "John Byrd",
+          "character": "Self",
+          "order": 6
+        },
+        {
+          "id": 2934683,
+          "name": "Yvonne Zipter",
+          "character": "Self",
+          "order": 7
+        },
+        {
+          "id": 2934684,
+          "name": "Marge Summit",
+          "character": "Self",
+          "order": 8
+        },
+        {
+          "id": 2934686,
+          "name": "Tracy Baim",
+          "character": "Self",
+          "order": 9
+        },
+        {
+          "id": 2934687,
+          "name": "Jeff Samburg",
+          "character": "Self",
+          "order": 10
+        }
+      ]
+    },
+    "A Winter to Remember": {
+      "tmdbId": 459918,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 1686894,
+          "name": "Mercedes Burgos",
+          "character": "Olivia",
+          "order": 0
+        },
+        {
+          "id": 2434734,
+          "name": "Cecilia Valenzuela Gioia",
+          "character": "Lucia",
+          "order": 1
+        }
+      ]
+    },
+    "A Woman Like Eve": {
+      "tmdbId": 96597,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 2934561,
+          "name": "Heleen van Meurs",
+          "character": "Lawyer",
+          "order": 6
+        },
+        {
+          "id": 1492862,
+          "name": "Karin Meerman",
+          "character": "Aunt",
+          "order": 7
+        },
+        {
+          "id": 6161724,
+          "name": "Mike Bendig",
+          "character": "Sander",
+          "order": 11
+        },
+        {
+          "id": 3752441,
+          "name": "Anna Knaup",
+          "character": "Britta",
+          "order": 12
+        },
+        {
+          "id": 211085,
+          "name": "Theo de Groot",
+          "character": "Uncle",
+          "order": 13
+        }
+      ]
+    },
+    "Accused": {
+      "tmdbId": 1389149,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 4186053,
+          "name": "Mashhoor Amrohi",
+          "character": "Jaideep Bharghav",
+          "order": 3
+        },
+        {
+          "id": 3098270,
+          "name": "Monica Mahendru",
+          "character": "Simran",
+          "order": 4
+        },
+        {
+          "id": 6047295,
+          "name": "Keshav Bhardwaj",
+          "character": "Rohit",
+          "order": 7
+        },
+        {
+          "id": 6047294,
+          "name": "Christopher Jones",
+          "character": "Dr. Logan",
+          "order": 8
+        },
+        {
+          "id": 5517605,
+          "name": "Daniele Secondi",
+          "character": "Dr. Martin Cooper",
+          "order": 9
+        },
+        {
+          "id": 6037726,
+          "name": "Gautami Khatavkar",
+          "character": "Disha Sen",
+          "order": 12
+        },
+        {
+          "id": 6035761,
+          "name": "Sheetal Mahadik",
+          "character": "Anjali Maasi",
+          "order": 14
+        },
+        {
+          "id": 6035762,
+          "name": "Harish Lalwani",
+          "character": "Anjali Maasi Husband",
+          "order": 15
+        },
+        {
+          "id": 5929394,
+          "name": "Geeta Thakkar",
+          "character": "Meera's Mother",
+          "order": 17
+        },
+        {
+          "id": 4426149,
+          "name": "Janak Chanchlani",
+          "character": "Zaid Ali",
+          "order": 18
+        },
+        {
+          "id": 5758704,
+          "name": "Tomasz Żurek",
+          "character": "David Brown",
+          "order": 19
+        }
+      ]
+    },
+    "Afternoon Breezes": {
+      "tmdbId": 338371,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 2223273,
+          "name": "Mari Atake",
+          "character": "",
+          "order": 3
+        }
+      ]
+    },
+    "Aimée & Jaguar": {
+      "tmdbId": 2211,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 1447055,
+          "name": "Lia Dultzkaya",
+          "character": "Hulda",
+          "order": 13
+        },
+        {
+          "id": 1244344,
+          "name": "Rüdiger Hacker",
+          "character": "Ernst Biermösel",
+          "order": 16
+        },
+        {
+          "id": 4764717,
+          "name": "Jake Steinfels",
+          "character": "Eberhard (The Wust Children)",
+          "order": 24
+        },
+        {
+          "id": 4764722,
+          "name": "Yannik Richter",
+          "character": "Reinhard (The Wust Children)",
+          "order": 25
+        },
+        {
+          "id": 4764724,
+          "name": "Henrik Meng",
+          "character": "Albrecht (The Wust Children)",
+          "order": 26
+        },
+        {
+          "id": 4764731,
+          "name": "Klaus Koennecke",
+          "character": "Mr. Ude",
+          "order": 28
+        },
+        {
+          "id": 4764742,
+          "name": "Falk Baumhauer",
+          "character": "Their Son",
+          "order": 31
+        },
+        {
+          "id": 3454672,
+          "name": "Wolfgang Woytt",
+          "character": "Old Man",
+          "order": 33
+        },
+        {
+          "id": 10266,
+          "name": "Werner Rehm",
+          "character": "Conductor",
+          "order": 34
+        },
+        {
+          "id": 4764744,
+          "name": "Karoline Siewinska",
+          "character": "Girl with a Hat",
+          "order": 36
+        },
+        {
+          "id": 4764747,
+          "name": "Jerzy Milton",
+          "character": "Aaron",
+          "order": 37
+        },
+        {
+          "id": 1290246,
+          "name": "Helmut Ehmig",
+          "character": "Waiter",
+          "order": 42
+        },
+        {
+          "id": 4764768,
+          "name": "Margritta Heyn",
+          "character": "Woman with Glasses",
+          "order": 45
+        }
+      ]
+    },
+    "Ajeeb Daastaans": {
+      "tmdbId": 802403,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 2821357,
+          "name": "Inayat Verma",
+          "character": "Binny (segment 'Khilauna')",
+          "order": 5
+        },
+        {
+          "id": 2997737,
+          "name": "Armaan Ralhan",
+          "character": "Raj (segment 'Majnu')",
+          "order": 8
+        },
+        {
+          "id": 3056078,
+          "name": "Arvind Pandey",
+          "character": "Gopal (segment 'Majnu')",
+          "order": 13
+        },
+        {
+          "id": 3056079,
+          "name": "Abhay Joshi",
+          "character": "Mishra (segment 'Majnu')",
+          "order": 14
+        },
+        {
+          "id": 3056080,
+          "name": "Shabnamn Vadhera",
+          "character": "Mrs. Mishra (segment 'Majnu')",
+          "order": 15
+        },
+        {
+          "id": 2639556,
+          "name": "Meenal Kapoor",
+          "character": "Abha (segment 'Khilauna')",
+          "order": 16
+        },
+        {
+          "id": 3056361,
+          "name": "Maneesh Verma",
+          "character": "Vinod Agarwal (segment 'Khilauna')",
+          "order": 17
+        },
+        {
+          "id": 1179630,
+          "name": "Gyan Prakash",
+          "character": "Factory Manager (segment 'Geeli Pucchi')",
+          "order": 18
+        },
+        {
+          "id": 1867902,
+          "name": "Bachan Pachera",
+          "character": "Dashrath (segment 'Geeli Pucchi')",
+          "order": 19
+        },
+        {
+          "id": 1172850,
+          "name": "Anita Kanwal",
+          "character": "Mother-in-Law (segment 'Geeli Pucchi')",
+          "order": 20
+        }
+      ]
+    },
+    "All the Silence": {
+      "tmdbId": 1131443,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 4557658,
+          "name": "Moisés Melchor",
+          "character": "Manuel",
+          "order": 2
+        },
+        {
+          "id": 2750595,
+          "name": "Eugenio Rubio",
+          "character": "Kostia",
+          "order": 6
+        },
+        {
+          "id": 4261124,
+          "name": "Gonzalo Esesarte",
+          "character": "Mcdevenko",
+          "order": 11
+        },
+        {
+          "id": 3321191,
+          "name": "Angélica Bauter",
+          "character": "Teresa",
+          "order": 12
+        },
+        {
+          "id": 4747848,
+          "name": "Aida del Rio",
+          "character": "Nina",
+          "order": 13
+        },
+        {
+          "id": 4747849,
+          "name": "Eduardo Dominguez",
+          "character": "Actor Seña & Verbo",
+          "order": 14
+        },
+        {
+          "id": 3682846,
+          "name": "Socorro Casillas",
+          "character": "Actriz Seña y Verbo",
+          "order": 15
+        },
+        {
+          "id": 1417289,
+          "name": "Mauricio García Lozano",
+          "character": "Trigorin",
+          "order": 16
+        },
+        {
+          "id": 4747855,
+          "name": "Karen Woodin",
+          "character": "Friend",
+          "order": 17
+        },
+        {
+          "id": 4778546,
+          "name": "Saúl Villa Guzmán",
+          "character": "Chico Sordo",
+          "order": 18
+        }
+      ]
+    },
+    "Amantes": {
+      "tmdbId": 1535419,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 5648068,
+          "name": "Nabila Nina Mekkid",
+          "character": "",
+          "order": 0
+        },
+        {
+          "id": 5648069,
+          "name": "Tessa Bazin",
+          "character": "",
+          "order": 2
+        },
+        {
+          "id": 4049350,
+          "name": "Caroline Cristofoli",
+          "character": "",
+          "order": 3
+        },
+        {
+          "id": 5648070,
+          "name": "Maïlys Favreau",
+          "character": "",
+          "order": 4
+        },
+        {
+          "id": 5648072,
+          "name": "Maia Lefourn",
+          "character": "",
+          "order": 5
+        },
+        {
+          "id": 2031747,
+          "name": "Angélique Zaïni",
+          "character": "",
+          "order": 6
+        },
+        {
+          "id": 2978867,
+          "name": "Sabine Cisse",
+          "character": "",
+          "order": 8
+        },
+        {
+          "id": 5648076,
+          "name": "Melissa Cornu",
+          "character": "",
+          "order": 9
+        },
+        {
+          "id": 5648077,
+          "name": "Pauline Boireau",
+          "character": "",
+          "order": 10
+        }
+      ]
+    },
+    "Ammonite": {
+      "tmdbId": 568467,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 2808724,
+          "name": "David Juritz",
+          "character": "Musician",
+          "order": 21
+        },
+        {
+          "id": 2808727,
+          "name": "Ben Hancox",
+          "character": "Musician",
+          "order": 22
+        },
+        {
+          "id": 2808728,
+          "name": "James Boyd",
+          "character": "Musician",
+          "order": 23
+        }
+      ]
+    },
+    "Attachment": {
+      "tmdbId": 938600,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 2660596,
+          "name": "Hana Shuan",
+          "character": "Butcher",
+          "order": 6
+        },
+        {
+          "id": 5032221,
+          "name": "Filippa Marcella Olesen Olsson",
+          "character": "Rochel",
+          "order": 8
+        },
+        {
+          "id": 5032222,
+          "name": "Elinor Znaider",
+          "character": "Young Leah",
+          "order": 9
+        }
+      ]
+    }
+  }
+}
