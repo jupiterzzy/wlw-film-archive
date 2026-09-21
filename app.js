@@ -35,9 +35,10 @@ const currentLetter=alphabet.includes(requestedLetter)?requestedLetter:"A";
 function sortableTitle(title){return title.replace(/^the\s+/i,"").trim();}
 function letterFor(title){return sortableTitle(title).charAt(0).toUpperCase();}
 function compareTitles(a,b){return sortableTitle(a.title).localeCompare(sortableTitle(b.title),"en",{sensitivity:"base",numeric:true});}
-function hasDetailPage(movie){return letterFor(movie.title)==="A";}
-function navigationHref(movie){return hasDetailPage(movie)?`./movie.html?title=${encodeURIComponent(movie.title)}`:`./index.html?letter=${letterFor(movie.title)}`;}
-
+function hasDetailPage(){return true;}
+function navigationHref(movie){
+  return `./movie.html?title=${encodeURIComponent(movie.title)}`;
+}
 const movies=allMovies.filter(movie=>letterFor(movie.title)===currentLetter).sort(compareTitles);
 const hero=document.querySelector("#hero");
 const slideCount=document.querySelector("#slide-count");
@@ -57,7 +58,10 @@ function renderMovies(){
   const fragment=document.createDocumentFragment();
   if(!movies.length){const empty=document.createElement("p");empty.className="empty-letter";empty.textContent="该字母下暂无影片";movieGrid.appendChild(empty);return;}
   movies.forEach(movie=>{const card=cardTemplate.content.cloneNode(true);const poster=card.querySelector(".poster");const titleLink=card.querySelector("h3 a");
-    card.querySelectorAll("a").forEach(link=>{link.href=hasDetailPage(movie)?navigationHref(movie):"#";link.setAttribute("aria-label",hasDetailPage(movie)?`查看 ${movie.title} 详情`:`${movie.title}（详情页暂未制作）`);});
+    card.querySelectorAll("a").forEach(link=>{
+  link.href=navigationHref(movie);
+  link.setAttribute("aria-label",`查看 ${movie.title} 详情`);
+});
     poster.src=window.getWLWPoster(movie);poster.alt=`${movie.title} 电影海报`;poster.addEventListener("error",()=>{poster.src=placeholderPoster(movie.title);},{once:true});
     titleLink.textContent=movie.title;titleLink.title=movie.title;card.querySelector(".movie-meta").textContent=[movie.year,...movie.genres.slice(0,2)].join(" • ");fragment.appendChild(card);
   });
