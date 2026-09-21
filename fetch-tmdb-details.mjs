@@ -16,11 +16,20 @@ vm.runInContext(read("movie-metadata.js"), context);
 const catalog = context.window.WLW_CATALOG || {};
 const metadata = context.window.WLW_MOVIE_METADATA || {};
 const sortableTitle = title => title.replace(/^the\s+/i, "").trim();
-const movies = Object.values(catalog)
-  .flatMap(group => group.movies)
-  .filter(movie => sortableTitle(movie.title).charAt(0).toUpperCase() === "A")
-  .sort((a, b) => sortableTitle(a.title).localeCompare(sortableTitle(b.title), "en"));
+const movieMap = new Map();
 
+Object.values(catalog)
+  .flatMap(group => group.movies)
+  .forEach(movie => {
+    if (!movieMap.has(movie.title)) {
+      movieMap.set(movie.title, movie);
+    }
+  });
+
+const movies = [...movieMap.values()]
+  .sort((a, b) =>
+    sortableTitle(a.title).localeCompare(sortableTitle(b.title), "en")
+  );
 const delay = milliseconds => new Promise(resolve => setTimeout(resolve, milliseconds));
 
 async function tmdb(path, parameters = {}, allowNotFound = false) {
@@ -114,7 +123,8 @@ function compactCast(person) {
     id: person.id,
     name: person.name,
     character: person.character || person.roles?.map(role => role.character).filter(Boolean).join(" / ") || "",
-    order: Number.isFinite(person.order) ? person.order : 9999
+    order: Number.isFinite(person.order) ? person.order : 9999,
+profilePath: person.profile_path || ""
   };
 }
 
