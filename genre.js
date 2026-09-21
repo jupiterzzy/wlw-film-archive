@@ -8,5 +8,26 @@ else{
   const totalPages=Math.max(1,Math.ceil(movies.length/pageSize));const page=Math.min(requestedPage,totalPages);
   movies.slice((page-1)*pageSize,page*pageSize).forEach(movie=>{const node=template.content.cloneNode(true);node.querySelector("h3 a").textContent=movie.title;node.querySelector(".movie-meta").textContent=[movie.year,...window.getFullWLWGenres(movie.title).slice(0,2)].join(" • ");window.applyWLWPoster(node,movie);grid.appendChild(node);});
   if(!movies.length)grid.innerHTML='<p class="empty-listing">当前清单中暂无该体裁影片。</p>';
-  window.makePagination(pagination,totalPages,page,value=>`./genre.html?genre=${encodeURIComponent(definition.slug)}&page=${value}`);
+  window.makePagination(pagination,totalPages,page,value=>`./genre.html?genre=${encodeURIComponent(definition.slug)}&page=${function resetGenreButtons() {
+  document.querySelectorAll(".region-crystal").forEach(button => {
+    button.classList.remove(
+      "is-shattering",
+      "is-dragging",
+      "is-returning",
+      "is-displaced",
+      "is-settling"
+    );
+
+    button.style.removeProperty("--drag-x");
+    button.style.removeProperty("--drag-y");
+    button.style.removeProperty("--push-x");
+    button.style.removeProperty("--push-y");
+
+    button
+      .querySelectorAll(".crystal-shard")
+      .forEach(shard => shard.remove());
+  });
 }
+
+window.addEventListener("pageshow", resetGenreButtons);
+window.addEventListener("pagehide", resetGenreButtons);
