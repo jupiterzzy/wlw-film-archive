@@ -7,3 +7,37 @@ const [backButton,forwardButton]=historyNav.querySelectorAll("button");
 backButton.addEventListener("click",()=>history.back());
 forwardButton.addEventListener("click",()=>history.forward());
 document.body.appendChild(historyNav);
+function resetAnimatedNavigationButtons() {
+  document
+    .querySelectorAll(
+      ".country-orb, .region-crystal, .is-shattering"
+    )
+    .forEach(button => {
+      button.classList.remove(
+        "is-shattering",
+        "is-dragging",
+        "is-returning",
+        "is-displaced",
+        "is-settling"
+      );
+
+      button.style.removeProperty("--drag-x");
+      button.style.removeProperty("--drag-y");
+      button.style.removeProperty("--push-x");
+      button.style.removeProperty("--push-y");
+
+      button
+        .querySelectorAll(".crystal-shard")
+        .forEach(shard => shard.remove());
+    });
+}
+
+window.addEventListener(
+  "pageshow",
+  resetAnimatedNavigationButtons
+);
+
+window.addEventListener(
+  "pagehide",
+  resetAnimatedNavigationButtons
+);
