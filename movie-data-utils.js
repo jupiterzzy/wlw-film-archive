@@ -3,7 +3,29 @@
   window.getWLWMetadata=title=>metadata[title]||{};
   window.getWLWAliases=title=>metadata[title]?.aliases||[];
   window.getWLWPoster=movie=>metadata[movie.title]?.poster||`./assets/posters/${movie.poster}`;
-  window.applyWLWPoster=(root,movie)=>{const link=root.querySelector(".poster-link");if(!link)return;let image=link.querySelector(".poster");if(!image){image=document.createElement("img");image.className="poster";link.prepend(image);}image.src=window.getWLWPoster(movie);image.alt=`${movie.title} 电影海报`;image.addEventListener("error",()=>image.remove(),{once:true});};
+  window.applyWLWPoster=(root,movie)=>{
+  const detailHref=`./movie.html?title=${encodeURIComponent(movie.title)}`;
+
+  root.querySelectorAll(".poster-link,h3 a").forEach(anchor=>{
+    anchor.href=detailHref;
+    anchor.setAttribute("aria-label",`查看 ${movie.title} 详情`);
+  });
+
+  const link=root.querySelector(".poster-link");
+  if(!link)return;
+
+  let image=link.querySelector(".poster");
+
+  if(!image){
+    image=document.createElement("img");
+    image.className="poster";
+    link.prepend(image);
+  }
+
+  image.src=window.getWLWPoster(movie);
+  image.alt=`${movie.title} 电影海报`;
+  image.addEventListener("error",()=>image.remove(),{once:true});
+};
   const overrides={
     "50cm":["drama","romance"],"Accused":["drama","thriller"],"A Bit of Scarlet":["documentary","history"],"A Date for Mad Mary":["comedy","drama"],"A Great Ride":["documentary","short"],"A Secret Love":["documentary","biography"],"Aimée & Jaguar":["drama","romance"],"Am I OK?":["comedy","drama"],"Anaïs in Love":["comedy","romance"],"Attachment":["horror","romance"],"Atomic Blonde":["action","thriller"],
     "Badhaai Do":["comedy","drama"],"Benedetta":["biography","drama"],"Bit":["comedy","horror"],"Black Widow":["crime","thriller"],"Blue Jean":["drama","history"],"Booksmart":["comedy","drama"],"Bottoms":["comedy","sport"],"Bulletproof: A Lesbian's Guide to Surviving the Plot":["documentary","comedy"],"But I'm a Cheerleader":["comedy","romance"],
