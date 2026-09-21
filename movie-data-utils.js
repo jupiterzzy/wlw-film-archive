@@ -34,6 +34,7 @@
     "Mulholland Drive":["drama","mystery"],"Nelly & Nadine":["documentary","history"],"On the Edge":["action","drama"],"Official Competition":["comedy","drama"],"Para:dies":["drama","documentary"],"Puccini for Beginners":["comedy","romance"],"Rebel Dykes":["documentary","history"],"Sally":["documentary","biography"],"The Serpent's Skin":["horror","romance"],"The Sign of the Cross":["drama","history"],"So Damn Easy Going":["comedy","drama"],"Thelma":["drama","thriller"],"Tove":["biography","drama"],"Town Bloody Hall":["documentary"],"Whistle":["horror","thriller"],"Chely Wright: Wish Me Away":["documentary","music"],"Word Is Out: Stories of Some of Our Lives":["documentary","history"]
   };
   window.getWLWGenres=title=>overrides[title]||["drama","romance"];
+  window.getFullWLWGenres=title=>window.getWLWGenres(title);
   window.makePagination=function(container,total,current,makeHref){container.replaceChildren();if(total<=1)return;
     const pages=total<=7?Array.from({length:total},(_,i)=>i+1):[1,2,3,4,"…",total-1,total];
     [...new Set(pages)].forEach(value=>{if(value==="…"){const span=document.createElement("span");span.className="pagination-gap";span.textContent="…";container.appendChild(span);return;}const link=document.createElement("a");link.className=`letter-button${value===current?" active":""}`;link.href=makeHref(value);link.textContent=value;if(value===current)link.setAttribute("aria-current","page");container.appendChild(link);});
