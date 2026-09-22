@@ -2299,7 +2299,7 @@ window.WLW_TMDB_DETAILS = {
       "Romance",
       "Comedy"
     ],
-    "overview": "A young woman struggling to stay on top of everything in her life meets a married publisher and begins an affair with him.",
+    "overview": "Anaïs is a 30-year-old woman who is broke and unsure whether she still loves her boyfriend. She meets Daniel, an older man who quickly falls for her. After a brief affair with him, Anaïs becomes captivated by Daniel’s longtime partner, Émilie, a successful writer, and begins pursuing her instead.",
     "originalLanguage": "fr",
     "productionCountries": [
       {
