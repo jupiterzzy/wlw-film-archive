@@ -1,6 +1,0 @@
-const params=new URLSearchParams(location.search);const sort=params.get("sort")==="desc"?"desc":"asc";const requestedPage=Math.max(1,Number.parseInt(params.get("page")||"1",10)||1);const pageSize=20;
-document.querySelector(sort==="asc"?"#ascending":"#descending").classList.add("active");
-const movies=Object.values(window.WLW_CATALOG).flatMap(group=>group.movies.map(movie=>({...movie,group:group.code}))).sort((a,b)=>{const yearDifference=a.year-b.year;const titleDifference=a.title.localeCompare(b.title,"en",{sensitivity:"base"});return sort==="asc"?(yearDifference||titleDifference):(-yearDifference||titleDifference);});
-const totalPages=Math.max(1,Math.ceil(movies.length/pageSize));const page=Math.min(requestedPage,totalPages);const grid=document.querySelector("#listing-grid"),template=document.querySelector("#listing-card-template");
-movies.slice((page-1)*pageSize,page*pageSize).forEach(movie=>{const node=template.content.cloneNode(true);node.querySelector("h3 a").textContent=movie.title;node.querySelector(".movie-meta").textContent=[movie.year,...window.getWLWGenres(movie.title).slice(0,2)].join(" • ");window.applyWLWPoster(node,movie);grid.appendChild(node);});
-window.makePagination(document.querySelector("#listing-pagination"),totalPages,page,value=>`./year.html?sort=${sort}&page=${value}`);
