@@ -6,7 +6,7 @@
 .country-main { width:min(var(--content-max,82rem),100%); margin:0 auto; padding:clamp(2.5rem,7vw,6rem) clamp(1rem,4vw,4rem) 6rem; }
 .country-heading { display:flex; align-items:end; gap:1rem; margin-bottom:clamp(2.4rem,6vw,5rem); }
 .country-kicker { margin:0 0 .65rem; color:var(--accent-dark); font-size:.74rem; font-weight:850; letter-spacing:.16em; writing-mode:vertical-rl; transform:rotate(180deg); }
-.country-heading h1 { margin:0; font-family:Georgia,"Times New Roman",serif; font-size:clamp(2.8rem,7vw,5.2rem); font-weight:500; line-height:.9; }
+.country-heading h1 { margin:0; font-family:Georgia,"Times New Roman",serif; font-size:clamp(2.2rem,5vw,4rem); font-weight:500; line-height:.95; }
 .place-section h2 { margin:0 0 .7rem; padding-bottom:.55rem; border-bottom:1px solid var(--line); font-size:1rem; letter-spacing:.12em; }
 .country-field { display:flex; flex-wrap:wrap; align-items:center; justify-content:center; gap:.08rem; }
 
@@ -71,7 +71,7 @@
 @keyframes shard-fly { from{transform:translate(-50%,-50%) rotate(0) scale(1);opacity:.95} to{transform:translate(var(--shard-x),var(--shard-y)) rotate(var(--shard-rotation)) scale(.28);opacity:0} }
 
 @media(max-width:38rem){
-  .country-header{padding-block:1rem}.archive-mark{letter-spacing:.08em}.country-main{padding-top:3.5rem}.country-heading h1{font-size:2.65rem}.country-field{gap:.04rem}
+  .country-header{padding-block:1rem}.archive-mark{letter-spacing:.08em}.country-main{padding-top:3.5rem}.country-heading h1{font-size:2.2rem}.country-field{gap:.04rem}
   .country-orb.size-small{--orb-size:4.85rem}.country-orb.size-medium{--orb-size:5.8rem}.country-orb.size-large{--orb-size:7.1rem}
   .size-small .country-code{font-size:.98rem}.size-medium .country-code{font-size:1.13rem}.size-large .country-code{font-size:1.32rem}
   .region-field{grid-template-columns:1fr;gap:.8rem}.region-crystal{min-height:6.5rem;border-radius:1.1rem}.region-crystal .country-code{font-size:1.3rem}
