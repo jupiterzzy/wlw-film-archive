@@ -82,6 +82,34 @@
   filter: brightness(1.035);
 }
 
+.collection-field .region-crystal {
+  border-color: rgba(167,104,145,.18);
+  background:
+    linear-gradient(145deg,rgba(167,104,145,.10),rgba(31,65,87,.10)),
+    #100f13;
+  box-shadow:
+    inset .65rem .65rem 1.35rem rgba(255,255,255,.035),
+    inset -.75rem -.75rem 1.35rem rgba(0,0,0,.22);
+
+  /* 只改变文字位置，不改变文字本身 */
+  place-items: center start;
+}
+
+.collection-field .region-crystal:nth-child(6n+2),
+.collection-field .region-crystal:nth-child(6n+3),
+.collection-field .region-crystal:nth-child(6n+4),
+.collection-field .region-crystal:nth-child(6n+5),
+.collection-field .region-crystal:nth-child(6n) {
+  background:
+    linear-gradient(145deg,rgba(167,104,145,.10),rgba(31,65,87,.10)),
+    #100f13;
+}
+
+.collection-field .region-crystal:hover,
+.collection-field .region-crystal:focus-visible {
+  filter: brightness(1.035);
+}
+
 /* Mobile: category buttons are more compact, but their original text
    weight, letter-spacing and font sizing are preserved. */
 @media (max-width:38rem) {
