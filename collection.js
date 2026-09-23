@@ -1,5 +1,6 @@
 const params=new URLSearchParams(location.search);const requested=params.get("collection")||"";const definition=window.WLW_COLLECTIONS.find(item=>item.slug===requested);const desktopLayout=matchMedia("(min-width: 1024px) and (hover: hover) and (pointer: fine)");const pageSize=desktopLayout.matches?36:20;desktopLayout.addEventListener?.("change",()=>location.reload());const requestedPage=Math.max(1,Number.parseInt(params.get("page")||"1",10)||1);
 const title=document.querySelector("#listing-title"),grid=document.querySelector("#listing-grid"),template=document.querySelector("#listing-card-template"),pagination=document.querySelector("#listing-pagination");grid.classList.add("desktop-six-by-six");
+title.classList.add("compact-category-title");
 if(!definition){title.textContent="未找到";grid.innerHTML='<p class="empty-listing">没有找到这个 collection。</p>';}
 else{
   title.textContent=definition.label;document.title=`${definition.label} · WLW Film Archive`;
