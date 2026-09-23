@@ -361,19 +361,37 @@ main { position: relative; z-index: 1; width: min(var(--content-max), 100%); mar
 }
 
 .movie-year {
-  display:block;
-  color:#cfc6ce;
-  font-size:.78rem;
+  display: block;
+  color: #cfc6ce;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Arial,
+    sans-serif;
+  font-size: .8rem;
+  font-weight: 600;
+  letter-spacing: .01em;
 }
 
 .movie-genres {
-  display:block;
-  margin-top:.12rem;
-  overflow:hidden;
-  color:#77707a;
-  font-size:.7rem;
-  text-overflow:ellipsis;
-  white-space:nowrap;
+  display: block;
+  margin-top: .12rem;
+  overflow: hidden;
+  color: #88808b;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Arial,
+    sans-serif;
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .01em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .alphabet-pagination {
