@@ -9,7 +9,7 @@
 window.WLW_COLLECTIONS = [
   {
     "slug": "age-gap",
-    "label": "age gap",
+    "label": "Age Gap",
     "movies": [
       "Anaïs in Love",
       "Bloomington",
@@ -18,12 +18,12 @@ window.WLW_COLLECTIONS = [
   },
   {
     "slug": "bisexual-women",
-    "label": "bisexual women",
+    "label": "Bisexual Women",
     "movies": []
   },
   {
     "slug": "coming-of-age",
-    "label": "coming of age",
+    "label": "Coming of Age",
     "movies": [
       "Water Lilies",
       "Girls Like Girls",
@@ -35,7 +35,7 @@ window.WLW_COLLECTIONS = [
   },
   {
     "slug": "gay-but-not-quite",
-    "label": "gay, but not quite",
+    "label": "Gay, but Not Quite",
     "movies": [
       "Fried Green Tomatoes",
       "Jennifer's Body",
@@ -74,7 +74,7 @@ window.WLW_COLLECTIONS = [
   },
   {
     "slug": "toxic-yuri",
-    "label": "toxic yuri",
+    "label": "Toxic Yuri",
     "movies": []
   }
 ];
