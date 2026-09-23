@@ -67,16 +67,55 @@ const backLetter = movie.title
   .charAt(0)
   .toUpperCase() || "A";
 
-detailBack.href =
-  backLetter === "A"
-    ? "./alphabet.html"
-    : `./alphabet.html?letter=${encodeURIComponent(backLetter)}`;
+let referrer = null;
 
-detailBack.textContent = `← ${backLetter}`;
-detailBack.setAttribute(
-  "aria-label",
-  `返回 ${backLetter} 字母电影列表`
-);
+try {
+  referrer = document.referrer
+    ? new URL(document.referrer)
+    : null;
+} catch {
+  referrer = null;
+}
+
+const sameSiteReferrer =
+  referrer &&
+  referrer.origin === location.origin;
+
+const cameFromAlphabet =
+  sameSiteReferrer &&
+  referrer.pathname.endsWith("/alphabet.html");
+
+if (cameFromAlphabet) {
+  detailBack.href =
+    backLetter === "A"
+      ? "./alphabet.html"
+      : `./alphabet.html?letter=${encodeURIComponent(backLetter)}`;
+
+  detailBack.textContent = `← ${backLetter}`;
+  detailBack.setAttribute(
+    "aria-label",
+    `返回 ${backLetter} 字母电影列表`
+  );
+} else if (sameSiteReferrer) {
+  detailBack.href = referrer.href;
+  detailBack.textContent = "←";
+  detailBack.setAttribute(
+    "aria-label",
+    "返回上一页"
+  );
+
+  detailBack.addEventListener("click", event => {
+    event.preventDefault();
+    history.back();
+  });
+} else {
+  detailBack.href = "./index.html";
+  detailBack.textContent = "←";
+  detailBack.setAttribute(
+    "aria-label",
+    "返回首页"
+  );
+}
 
   const year = details.year || metadata.year || movie.year;
   const genres = (details.genres || []).map(item => typeof item === "string" ? item : item.name).filter(Boolean);
