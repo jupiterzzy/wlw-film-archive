@@ -36,6 +36,22 @@
   }
 
   const poster = document.querySelector("#detail-poster");
+  const movieTitle = document.querySelector("#movie-title");
+const posterSection = document.querySelector(".detail-poster-section");
+const movieInformation = document.querySelector(".movie-information");
+  function placeMovieTitle() {
+  const desktop = window.matchMedia("(min-width: 64rem)").matches;
+
+  if (desktop) {
+    movieInformation.prepend(movieTitle);
+  } else {
+    const poster = posterSection.querySelector(".detail-poster");
+    poster.insertAdjacentElement("afterend", movieTitle);
+  }
+}
+
+placeMovieTitle();
+window.addEventListener("resize", placeMovieTitle);
   poster.src = window.getWLWPoster(movie);
   poster.alt = `${movie.title} 电影海报`;
   poster.addEventListener("error", () => { poster.src = window.getWLWPlaceholderPoster?.(movie.title) || poster.src; }, { once: true });
