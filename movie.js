@@ -146,43 +146,38 @@ if (cameFromAlphabet) {
     .filter(person => !excludedIds.has(String(person.id)))
     .filter((person, index, items) => items.findIndex(item => String(item.id) === String(person.id)) === index)
     .sort((a, b) => (a.order ?? 9999) - (b.order ?? 9999));
-  if (!femaleCast.length) {
-    const empty = document.createElement("p");
-    empty.className = "cast-empty";
-    empty.textContent = "TMDB 暂未提供可确认的女性演员资料。";
-    castList.appendChild(empty);
-  } else {
+   if (femaleCast.length) {
     femaleCast.forEach(person => {
-  const member = document.createElement("div");
-  member.className = "cast-member";
+      const member = document.createElement("div");
+      member.className = "cast-member";
 
-  if (person.profilePath) {
-    const photo = document.createElement("img");
-    photo.className = "cast-photo";
-    photo.src = `https://image.tmdb.org/t/p/w342${person.profilePath}`;
-    photo.alt = person.name;
-    photo.loading = "lazy";
-    photo.addEventListener("error", () => photo.remove(), { once: true });
-    member.appendChild(photo);
-  } else {
-    const placeholder = document.createElement("div");
-    placeholder.className = "cast-photo cast-photo-placeholder";
-    placeholder.setAttribute("aria-hidden", "true");
-    member.appendChild(placeholder);
-  }
+      if (person.profilePath) {
+        const photo = document.createElement("img");
+        photo.className = "cast-photo";
+        photo.src = `https://image.tmdb.org/t/p/w342${person.profilePath}`;
+        photo.alt = person.name;
+        photo.loading = "lazy";
+        photo.addEventListener("error", () => photo.remove(), { once: true });
+        member.appendChild(photo);
+      } else {
+        const placeholder = document.createElement("div");
+        placeholder.className = "cast-photo cast-photo-placeholder";
+        placeholder.setAttribute("aria-hidden", "true");
+        member.appendChild(placeholder);
+      }
 
-  const name = document.createElement("span");
-  name.className = "cast-name";
-  name.textContent = person.name;
-  member.appendChild(name);
+      const name = document.createElement("span");
+      name.className = "cast-name";
+      name.textContent = person.name;
+      member.appendChild(name);
 
-  const role = document.createElement("span");
-  role.className = "cast-role";
-  role.textContent = person.character || "—";
-  member.appendChild(role);
+      const role = document.createElement("span");
+      role.className = "cast-role";
+      role.textContent = person.character || "—";
+      member.appendChild(role);
 
-  castList.appendChild(member);
-});
+      castList.appendChild(member);
+    });
   }
 
   loading.hidden = true;
