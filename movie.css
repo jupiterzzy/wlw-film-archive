@@ -202,15 +202,16 @@
 /* Desktop editorial layout: poster left, information right, cast below. */
 @media (min-width:64rem) {
   .detail-main {
-    width:min(100%,82rem);
-    padding-inline:clamp(2rem,4vw,4rem);
+    width: min(100%, var(--content-max, 70rem));
+    margin-inline: auto;
+    padding-inline: 0;
   }
 
   .detail-article {
-    grid-template-columns:minmax(18rem,.78fr) minmax(0,1.35fr);
-    column-gap:clamp(3rem,6vw,6rem);
-    align-items:start;
-    justify-items:stretch;
+    grid-template-columns: minmax(14rem, .68fr) minmax(0, 1.4fr);
+    column-gap: clamp(2.5rem, 5vw, 4.5rem);
+    align-items: start;
+    justify-items: stretch;
   }
 
   .detail-poster-section {
@@ -220,15 +221,17 @@
   }
 
   .detail-poster {
-    width:min(100%,24rem);
+    width:min(100%,18rem);
   }
+}
 
-  .detail-poster-section h1 {
-    max-width:24rem;
-    margin-top:1.25rem;
-    text-align:left;
-    font-size:clamp(1.8rem,2.6vw,3rem);
-  }
+  #movie-title {
+  max-width: 100%;
+  margin: 0 0 1.2rem;
+  text-align: left;
+  font-size: clamp(1.8rem, 2.6vw, 3rem);
+  line-height: 1.08;
+}
 
   .poster-divider {
     width:min(70%,14rem);
