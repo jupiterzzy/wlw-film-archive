@@ -71,7 +71,7 @@
 @keyframes shard-fly { from{transform:translate(-50%,-50%) rotate(0) scale(1);opacity:.95} to{transform:translate(var(--shard-x),var(--shard-y)) rotate(var(--shard-rotation)) scale(.28);opacity:0} }
 
 @media(max-width:38rem){
-  .country-header{padding-block:1rem}.archive-mark{letter-spacing:.08em}.country-main{padding-top:3.5rem}.country-heading h1{font-size:3.25rem}.country-field{gap:.04rem}
+  .country-header{padding-block:1rem}.archive-mark{letter-spacing:.08em}.country-main{padding-top:3.5rem}.country-heading h1{font-size:2.65rem}.country-field{gap:.04rem}
   .country-orb.size-small{--orb-size:4.85rem}.country-orb.size-medium{--orb-size:5.8rem}.country-orb.size-large{--orb-size:7.1rem}
   .size-small .country-code{font-size:.98rem}.size-medium .country-code{font-size:1.13rem}.size-large .country-code{font-size:1.32rem}
   .region-field{grid-template-columns:1fr;gap:.8rem}.region-crystal{min-height:6.5rem;border-radius:1.1rem}.region-crystal .country-code{font-size:1.3rem}
