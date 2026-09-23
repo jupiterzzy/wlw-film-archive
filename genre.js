@@ -20,6 +20,7 @@ const requestedPage = Math.max(
 );
 
 const title = document.querySelector("#listing-title");
+title.classList.add("compact-category-title");
 const grid = document.querySelector("#listing-grid");
 const template = document.querySelector("#listing-card-template");
 const pagination = document.querySelector("#listing-pagination");
