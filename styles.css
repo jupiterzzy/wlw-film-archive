@@ -76,7 +76,10 @@ button, input { font: inherit; }
     linear-gradient(90deg, rgba(19, 17, 24, 0.35), transparent 55%);
 }
 
-.hero-content { width:min(100%,72rem); margin:0 auto; }
+.hero-content {
+  width: min(100%, var(--content-max, 68rem));
+  margin: 0 auto;
+}
 
 .eyebrow {
   margin: 0 0 1.1rem;
@@ -494,6 +497,7 @@ main { position: relative; z-index: 1; width: min(var(--content-max), 100%); mar
   .search {
     grid-template-columns:auto minmax(0,1fr) auto;
     min-height:3.35rem;
+    width:100%;
   }
 
   .search input {
@@ -515,13 +519,4 @@ main { position: relative; z-index: 1; width: min(var(--content-max), 100%); mar
     padding-inline:.12rem;
   }
 }
-
-@media (min-width: 64rem) {
-  .hero-content {
-    width:min(100%,72rem);
-  }
-
-  .search {
-    width:min(100%,64rem);
-  }
 }
