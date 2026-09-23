@@ -149,3 +149,7 @@
 .listing-title-row h1.compact-category-title {
   font-size: clamp(1.6rem, 4vw, 3.25rem);
 }
+
+#listing-subtitle {
+  display: none;
+}
