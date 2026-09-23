@@ -36,27 +36,29 @@
   }
 
   const poster = document.querySelector("#detail-poster");
-  const movieTitle = document.querySelector("#movie-title");
+const detailTitle = document.querySelector("#detail-title");
+const detailMeta = document.querySelector("#detail-meta");
 const posterSection = document.querySelector(".detail-poster-section");
 const movieInformation = document.querySelector(".movie-information");
-  function placeMovieTitle() {
+
+function placeMovieTitle() {
   const desktop = window.matchMedia("(min-width: 64rem)").matches;
 
   if (desktop) {
-    movieInformation.prepend(movieTitle);
+    movieInformation.insertBefore(detailTitle, detailMeta);
   } else {
-    const poster = posterSection.querySelector(".detail-poster");
-    poster.insertAdjacentElement("afterend", movieTitle);
+    poster.insertAdjacentElement("afterend", detailTitle);
   }
 }
+
+  document.querySelector("#detail-title").textContent = movie.title;
 
 placeMovieTitle();
 window.addEventListener("resize", placeMovieTitle);
   poster.src = window.getWLWPoster(movie);
   poster.alt = `${movie.title} 电影海报`;
   poster.addEventListener("error", () => { poster.src = window.getWLWPlaceholderPoster?.(movie.title) || poster.src; }, { once: true });
-
-  document.querySelector("#detail-title").textContent = movie.title;
+  
   document.title = `${movie.title} · WLW Film Archive`;
 
   const detailBack = document.querySelector(".detail-back");
