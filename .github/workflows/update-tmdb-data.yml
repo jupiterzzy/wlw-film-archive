@@ -19,6 +19,11 @@ jobs:
         with:
           node-version: "22"
 
+      - name: Update TMDB IDs and posters
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node fetch-tmdb-posters.mjs
+
       - name: Fetch TMDB detail data
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
@@ -29,11 +34,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add tmdb-details.generated.js tmdb-cast-review.json
+          git add \
+            movie-metadata.js \
+            tmdb-poster-review.json \
+            tmdb-details.generated.js \
+            tmdb-cast-review.json
 
           if git diff --cached --quiet; then
             echo "No TMDB data changes to commit."
           else
-            git commit -m "Update TMDB detail data"
+            git commit -m "Update TMDB data"
             git push
           fi
