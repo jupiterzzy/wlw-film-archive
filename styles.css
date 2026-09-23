@@ -241,7 +241,7 @@ main { position: relative; z-index: 1; width: min(var(--content-max), 100%); mar
   flex: 0 0 auto;
   width: fit-content;
   padding: 0.72rem 1rem;
-  border: 1px solid var(--ink);
+  border: 2px solid var(--ink);
   border-radius: 0.32rem;
   text-decoration: none;
   font-weight: 720;
