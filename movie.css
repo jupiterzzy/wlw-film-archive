@@ -264,3 +264,59 @@
     gap:1.2rem;
   }
 }
+
+/* Cast：更小的卡片 + 单行横向滑动 */
+.cast-list {
+  display: flex;
+  grid-template-columns: none;
+  gap: 1rem;
+  width: 100%;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0 0 .8rem;
+  scroll-snap-type: x proximity;
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+
+.cast-member {
+  flex: 0 0 clamp(8rem, 11vw, 10rem);
+  width: clamp(8rem, 11vw, 10rem);
+  min-width: 0;
+  padding-bottom: .65rem;
+  border: 1px solid rgba(241,236,231,.08);
+  border-radius: .55rem;
+  background: #0d0c10;
+  scroll-snap-align: start;
+}
+
+.cast-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  background: #171319;
+}
+
+.cast-name {
+  margin-top: .55rem;
+  padding-inline: .55rem;
+  font-size: .82rem;
+  font-weight: 650;
+  line-height: 1.25;
+}
+
+.cast-role {
+  margin-top: .18rem;
+  padding-inline: .55rem;
+  color: #817985;
+  font-size: .72rem;
+  line-height: 1.3;
+}
+
+@media (max-width: 38rem) {
+  .cast-member {
+    flex-basis: 7.5rem;
+    width: 7.5rem;
+  }
+}
