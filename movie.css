@@ -416,3 +416,21 @@
     line-height: 1.15;
   }
 }
+
+.detail-main .cast-name,
+.detail-main .cast-role {
+  display: block;
+  width: 100%;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.detail-main .cast-name {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.detail-main .cast-role {
+  margin-left: 0;
+  margin-right: 0;
+}
