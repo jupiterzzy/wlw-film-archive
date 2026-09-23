@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T05:51:35.367Z",
+  "generatedAt": "2026-09-23T06:53:40.930Z",
   "titles": {
     "100 Nights of Hero": {
       "tmdbId": 1354518,
@@ -233,6 +233,47 @@
           "name": "Darren Creaven",
           "character": "Taxi Driver",
           "order": 44,
+          "profilePath": ""
+        }
+      ]
+    },
+    "A Girl Thing": {
+      "tmdbId": 70472,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 5905701,
+          "name": "Shawn Raboutou",
+          "character": "Self",
+          "order": 6,
+          "profilePath": ""
+        },
+        {
+          "id": 1306506,
+          "name": "Berta Martin",
+          "character": "Self",
+          "order": 8,
+          "profilePath": ""
+        },
+        {
+          "id": 1306505,
+          "name": "Pati Blasco",
+          "character": "Self",
+          "order": 11,
+          "profilePath": ""
+        },
+        {
+          "id": 5905714,
+          "name": "Bruna Triay",
+          "character": "Self",
+          "order": 13,
+          "profilePath": ""
+        },
+        {
+          "id": 1306502,
+          "name": "Martina Cufar",
+          "character": "Self",
+          "order": 14,
           "profilePath": ""
         }
       ]
@@ -8696,6 +8737,40 @@
           "name": "James Thorne",
           "character": "Michael 1",
           "order": 23,
+          "profilePath": ""
+        }
+      ]
+    },
+    "Intermission": {
+      "tmdbId": 993495,
+      "mediaType": "movie",
+      "candidates": [
+        {
+          "id": 1555060,
+          "name": "Dakore Egbuson-Akande",
+          "character": "Mrs. Coker",
+          "order": 0,
+          "profilePath": "/yphrRDHmJldCdEvhYyb8sqFYkbN.jpg"
+        },
+        {
+          "id": 3605396,
+          "name": "Christian Paul",
+          "character": "Nduka Coker",
+          "order": 1,
+          "profilePath": ""
+        },
+        {
+          "id": 2789269,
+          "name": "Ruby Akubueze",
+          "character": "Ebube Coker",
+          "order": 2,
+          "profilePath": "/qVVW6wgfwgE0Ltbn1ptciJgXEg0.jpg"
+        },
+        {
+          "id": 3605397,
+          "name": "Ibejii",
+          "character": "Club Manager",
+          "order": 3,
           "profilePath": ""
         }
       ]
