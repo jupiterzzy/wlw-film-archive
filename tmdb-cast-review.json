@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T06:53:40.930Z",
+  "generatedAt": "2026-09-24T17:04:51.014Z",
   "titles": {
     "100 Nights of Hero": {
       "tmdbId": 1354518,
@@ -7072,14 +7072,14 @@
           "id": 4602444,
           "name": "Zack Thompson",
           "character": "Fries Boy",
-          "order": 4,
+          "order": 9,
           "profilePath": ""
         },
         {
           "id": 6102815,
           "name": "Aidan Almanza",
           "character": "Daine's Employee",
-          "order": 12,
+          "order": 13,
           "profilePath": ""
         },
         {
@@ -11425,7 +11425,7 @@
           "name": "Jaime Schneider",
           "character": "Tom",
           "order": 16,
-          "profilePath": ""
+          "profilePath": "/8p6qWotRaeTfuWLUGREjgFRPQve.jpg"
         }
       ]
     },

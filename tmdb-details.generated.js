@@ -119,8 +119,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3687314,
+        "name": "Julia Jackman",
+        "profilePath": "/xP8ajvuDQXzRr6NJf1IrVx4zxnL.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1354518",
-    "fetchedAt": "2026-09-23T06:52:42.287Z"
+    "fetchedAt": "2026-09-24T17:03:54.510Z"
   },
   "50cm": {
     "tmdbId": 1104622,
@@ -151,8 +159,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 3979220,
+        "name": "Kim So-jeong",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1104622",
-    "fetchedAt": "2026-09-23T06:52:42.489Z"
+    "fetchedAt": "2026-09-24T17:03:54.709Z"
   },
   "A Bit of Scarlet": {
     "tmdbId": 239495,
@@ -176,8 +192,22 @@ window.WLW_TMDB_DETAILS = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1274415,
+        "name": "Andrea Weiss",
+        "profilePath": "/xMiqJgXXolomP7yD53Z2JzTQGVv.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1274416,
+        "name": "Stuart Marshall",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/239495",
-    "fetchedAt": "2026-09-23T06:52:42.687Z"
+    "fetchedAt": "2026-09-24T17:03:54.906Z"
   },
   "A Date for Mad Mary": {
     "tmdbId": 405473,
@@ -478,8 +508,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1647425,
+        "name": "Darren Thornton",
+        "profilePath": "/4QYhe8FFs5xXu3uFIdUR4NKJG56.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1747164,
+        "name": "Colin Thornton",
+        "profilePath": "/o50fqxiAaanwoivwkGFHox1J9VY.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/405473",
-    "fetchedAt": "2026-09-23T06:52:42.894Z"
+    "fetchedAt": "2026-09-24T17:03:55.105Z"
   },
   "A Girl Thing": {
     "tmdbId": 70472,
@@ -595,8 +639,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1145470,
+        "name": "Laurent Triay",
+        "profilePath": "/cPB1fXW984jXEJdg3P2QdclUJO9.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/70472",
-    "fetchedAt": "2026-09-23T06:52:43.110Z"
+    "fetchedAt": "2026-09-24T17:03:55.303Z"
   },
   "A Great Ride": {
     "tmdbId": 628890,
@@ -630,8 +682,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1990162,
+        "name": "Veronica Duport Deliz",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1990160,
+        "name": "Deborah Craig",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2037424,
+        "name": "Ondine Rarey",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/628890",
-    "fetchedAt": "2026-09-23T06:52:43.312Z"
+    "fetchedAt": "2026-09-24T17:03:55.509Z"
   },
   "A Marine Story": {
     "tmdbId": 46564,
@@ -705,8 +777,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 136903,
+        "name": "Ned Farr",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/46564",
-    "fetchedAt": "2026-09-23T06:52:43.510Z"
+    "fetchedAt": "2026-09-24T17:03:55.708Z"
   },
   "A Perfect Ending": {
     "tmdbId": 107257,
@@ -844,8 +924,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 224875,
+        "name": "Nicole Conn",
+        "profilePath": "/2mhHcdpbPGi7mvB08aIAXwioQik.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/107257",
-    "fetchedAt": "2026-09-23T06:52:43.706Z"
+    "fetchedAt": "2026-09-24T17:03:55.901Z"
   },
   "A Secret Love": {
     "tmdbId": 687156,
@@ -947,8 +1035,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1941751,
+        "name": "Chris Bolan",
+        "profilePath": "/3i5laSEORydsngbSHwEmk53I8Kt.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1526934,
+        "name": "Brendan Mason",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 53360,
+        "name": "Alexa L. Fogel",
+        "profilePath": "/ctcsQwIEB10RFqZiCnMQ70WiTJc.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/687156",
-    "fetchedAt": "2026-09-23T06:52:43.905Z"
+    "fetchedAt": "2026-09-24T17:03:56.094Z"
   },
   "A Winter to Remember": {
     "tmdbId": 459918,
@@ -987,8 +1095,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2434734,
+        "name": "Cecilia Valenzuela Gioia",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/459918",
-    "fetchedAt": "2026-09-23T06:52:44.105Z"
+    "fetchedAt": "2026-09-24T17:03:56.294Z"
   },
   "A Woman Like Eve": {
     "tmdbId": 96597,
@@ -1098,8 +1214,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 995595,
+        "name": "Nouchka van Brakel",
+        "profilePath": "/yAICPMyMSqsZw7BIh8iNdTkZOHE.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1452409,
+        "name": "Judith Herzberg",
+        "profilePath": "/cfgpkcD7sKM8LhL3m6XJ2fI4U85.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/96597",
-    "fetchedAt": "2026-09-23T06:52:44.305Z"
+    "fetchedAt": "2026-09-24T17:03:56.499Z"
   },
   "Accused": {
     "tmdbId": 1389149,
@@ -1238,8 +1368,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2680846,
+        "name": "Anubhuti Kashyap",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2800020,
+        "name": "Sima Agarwal",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 5064375,
+        "name": "Yash Keshwani",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1389149",
-    "fetchedAt": "2026-09-23T06:52:44.506Z"
+    "fetchedAt": "2026-09-24T17:03:56.708Z"
   },
   "Affäre zu dritt": {
     "tmdbId": 345273,
@@ -1284,8 +1434,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 49477,
+        "name": "Josh Broecker",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 49404,
+        "name": "Kerstin Cantz",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/345273",
-    "fetchedAt": "2026-09-23T06:52:44.706Z"
+    "fetchedAt": "2026-09-24T17:03:56.903Z"
   },
   "Afternoon Breezes": {
     "tmdbId": 338371,
@@ -1332,8 +1496,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 589921,
+        "name": "Hitoshi Yazaki",
+        "profilePath": "/mp5vxqXnmWmOGyUtzAqAiDaUZ6r.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 77873,
+        "name": "Shunichi Nagasaki",
+        "profilePath": "/b5Jr8mpWCM9h0kX3eYHCjqwxTr8.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/338371",
-    "fetchedAt": "2026-09-23T06:52:44.907Z"
+    "fetchedAt": "2026-09-24T17:03:57.096Z"
   },
   "Aimée & Jaguar": {
     "tmdbId": 2211,
@@ -1591,8 +1769,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 22677,
+        "name": "Max Färberböck",
+        "profilePath": "/eCsB6N7GhDEYxng59hr3HFgqEXI.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 22679,
+        "name": "Rona Munro",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/2211",
-    "fetchedAt": "2026-09-23T06:52:45.129Z"
+    "fetchedAt": "2026-09-24T17:03:57.293Z"
   },
   "Ajeeb Daastaans": {
     "tmdbId": 802403,
@@ -1730,8 +1922,46 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1455337,
+        "name": "Neeraj Ghaywan",
+        "profilePath": "/ra3sCwqVrPPRf7vUGojoyEhpH3m.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2461704,
+        "name": "Raj Mehta",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1339972,
+        "name": "Shashank Khaitan",
+        "profilePath": "/paYuyxL7uiPm3UTQLS7E4y7zVcO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1516214,
+        "name": "Kayoze Irani",
+        "profilePath": "/5tWpkdgRUSPYCq2VQJIGbhq1qRp.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3034464,
+        "name": "Uzma Khan",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 2066813,
+        "name": "Sumit Saxena",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/802403",
-    "fetchedAt": "2026-09-23T06:52:45.330Z"
+    "fetchedAt": "2026-09-24T17:03:57.480Z"
   },
   "All the Silence": {
     "tmdbId": 1131443,
@@ -1875,8 +2105,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3604093,
+        "name": "Diego Del Río",
+        "profilePath": "/vLe33n196PpRGgfhjGeVdTAhKPX.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 937675,
+        "name": "Lucía Carreras",
+        "profilePath": "/rlCQUYjjSwNOS4YIi9n7TMHGFEc.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1131443",
-    "fetchedAt": "2026-09-23T06:52:45.539Z"
+    "fetchedAt": "2026-09-24T17:03:57.701Z"
   },
   "Am I OK?": {
     "tmdbId": 641934,
@@ -1958,8 +2202,28 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 220088,
+        "name": "Tig Notaro",
+        "profilePath": "/tdZ6XLzIaK0HWWPSM2B5OrOqUC0.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1003843,
+        "name": "Stephanie Allynne",
+        "profilePath": "/orxxs8G1QdKt1tECyJu3qiWCV8M.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1218679,
+        "name": "Lauren Pomerantz",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/641934",
-    "fetchedAt": "2026-09-23T06:52:45.735Z"
+    "fetchedAt": "2026-09-24T17:03:57.893Z"
   },
   "Amantes": {
     "tmdbId": 1535419,
@@ -2068,8 +2332,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3156419,
+        "name": "Caroline Fournier",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1535419",
-    "fetchedAt": "2026-09-23T06:52:45.930Z"
+    "fetchedAt": "2026-09-24T17:03:58.096Z"
   },
   "Ammonite": {
     "tmdbId": 568467,
@@ -2186,8 +2458,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/tcIxJsC0f0vNmC91AtMEEDWJWEy.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 192852,
+        "name": "Francis Lee",
+        "profilePath": "/41pUchu4uLpJF9rsDJYRtMsQdHQ.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/568467",
-    "fetchedAt": "2026-09-23T06:52:46.135Z"
+    "fetchedAt": "2026-09-24T17:03:58.290Z"
   },
   "An Unexpected Love": {
     "tmdbId": 125233,
@@ -2279,8 +2559,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 202122,
+        "name": "Lee Rose",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/125233",
-    "fetchedAt": "2026-09-23T06:52:46.345Z"
+    "fetchedAt": "2026-09-24T17:03:58.488Z"
   },
   "Anaïs in Love": {
     "tmdbId": 781453,
@@ -2362,8 +2650,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1784936,
+        "name": "Charline Bourgeois-Tacquet",
+        "profilePath": "/qimB6IHfhAZdI1cGGODyWPIjIck.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/781453",
-    "fetchedAt": "2026-09-23T06:52:46.558Z"
+    "fetchedAt": "2026-09-24T17:03:58.677Z"
   },
   "And Then There Was Eve": {
     "tmdbId": 460089,
@@ -2417,8 +2713,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1827183,
+        "name": "Savannah Bloch",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1486969,
+        "name": "Colette Freedman",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/460089",
-    "fetchedAt": "2026-09-23T06:52:46.758Z"
+    "fetchedAt": "2026-09-24T17:03:58.867Z"
   },
   "Aniara": {
     "tmdbId": 496743,
@@ -2497,8 +2807,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1188566,
+        "name": "Hugo Lilja",
+        "profilePath": "/1QAf6Xl7u4mM1WcpIqlhoXWaXc5.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1179069,
+        "name": "Pella Kågerman",
+        "profilePath": "/6XyzM4nkrQiBkNwB0HjFCRMXESg.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/496743",
-    "fetchedAt": "2026-09-23T06:52:46.954Z"
+    "fetchedAt": "2026-09-24T17:03:59.077Z"
   },
   "Ashley": {
     "tmdbId": 212967,
@@ -2592,8 +2916,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1197416,
+        "name": "Dean Matthew Ronalds",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1197417,
+        "name": "Domenic Migliore",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/212967",
-    "fetchedAt": "2026-09-23T06:52:47.152Z"
+    "fetchedAt": "2026-09-24T17:03:59.266Z"
   },
   "Atomic Blonde": {
     "tmdbId": 341013,
@@ -2665,8 +3003,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 40684,
+        "name": "David Leitch",
+        "profilePath": "/aWDxGlWkFVhs80DQMEE5A7c7YBr.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 17285,
+        "name": "Kurt Johnstad",
+        "profilePath": "/tY7geoJ3T4kBnehGe4i26YQx4yL.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/341013",
-    "fetchedAt": "2026-09-23T06:52:47.350Z"
+    "fetchedAt": "2026-09-24T17:03:59.462Z"
   },
   "Attachment": {
     "tmdbId": 938600,
@@ -2741,8 +3093,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3426568,
+        "name": "Gabriel Bier Gislason",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/938600",
-    "fetchedAt": "2026-09-23T06:52:47.561Z"
+    "fetchedAt": "2026-09-24T17:03:59.654Z"
   },
   "Babylon": {
     "tmdbId": 615777,
@@ -3923,8 +4283,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 136495,
+        "name": "Damien Chazelle",
+        "profilePath": "/14kRZ3XxNMyBv717YQSXr3wCucy.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/615777",
-    "fetchedAt": "2026-09-23T06:52:47.759Z"
+    "fetchedAt": "2026-09-24T17:03:59.846Z"
   },
   "Bad Girl": {
     "tmdbId": 405050,
@@ -4104,8 +4472,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1414901,
+        "name": "Fin Edquist",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 174898,
+        "name": "Stephen Kearney",
+        "profilePath": "/f3a85T59e9PSMyQAT3UQpVAtpuo.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/405050",
-    "fetchedAt": "2026-09-23T06:52:47.959Z"
+    "fetchedAt": "2026-09-24T17:04:00.053Z"
   },
   "Badhaai Do": {
     "tmdbId": 754716,
@@ -4376,8 +4758,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1286997,
+        "name": "Harshavardhan Kulkarni",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2274278,
+        "name": "Suman Adhikary",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 2154635,
+        "name": "Akshat Ghildial",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/754716",
-    "fetchedAt": "2026-09-23T06:52:48.158Z"
+    "fetchedAt": "2026-09-24T17:04:00.242Z"
   },
   "Bare": {
     "tmdbId": 333091,
@@ -4549,8 +4951,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1446636,
+        "name": "Natalia Leite",
+        "profilePath": "/cX2HnQNk6wLnguSEhEBxSTLdBsg.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/333091",
-    "fetchedAt": "2026-09-23T06:52:48.356Z"
+    "fetchedAt": "2026-09-24T17:04:00.438Z"
   },
   "Be with Me": {
     "tmdbId": 29965,
@@ -4745,8 +5155,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 56212,
+        "name": "Eric Khoo",
+        "profilePath": "/apvdm3PKZAcBtPTa6KGKhhsRWl3.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2128726,
+        "name": "Wong Kim Hoh",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1760176,
+        "name": "Theresa Poh Lin Chan",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/29965",
-    "fetchedAt": "2026-09-23T06:52:48.561Z"
+    "fetchedAt": "2026-09-24T17:04:00.635Z"
   },
   "Beauty": {
     "tmdbId": 667642,
@@ -4822,8 +5252,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1038659,
+        "name": "Andrew Dosunmu",
+        "profilePath": "/qNnfY9Ruk7H8EERHAYyeSifEo8t.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1059572,
+        "name": "Lena Waithe",
+        "profilePath": "/yidK25mjpxTTYCICmZnxgks6utx.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/667642",
-    "fetchedAt": "2026-09-23T06:52:48.771Z"
+    "fetchedAt": "2026-09-24T17:04:00.823Z"
   },
   "The Beguines": {
     "tmdbId": 442285,
@@ -4904,8 +5348,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 19629,
+        "name": "Guy Casaril",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1760047,
+        "name": "Françoise Mallet-Joris",
+        "profilePath": "/bFseCTXjdFEoAjzZ7qEyKwV2bMR.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/442285",
-    "fetchedAt": "2026-09-23T06:52:48.975Z"
+    "fetchedAt": "2026-09-24T17:04:01.020Z"
   },
   "Benedetta": {
     "tmdbId": 454527,
@@ -5115,8 +5573,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/u30RE05YoFqEqIR1ZjngoMkJlee.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 10491,
+        "name": "Paul Verhoeven",
+        "profilePath": "/r8k5pnuKZN3PUIizakuiTzEdjJJ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 150183,
+        "name": "David Birke",
+        "profilePath": "/JuJjJLLZLPRBQVuJqJtltJTxS4.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/454527",
-    "fetchedAt": "2026-09-23T06:52:49.177Z"
+    "fetchedAt": "2026-09-24T17:04:01.210Z"
   },
   "The Berlin Affair": {
     "tmdbId": 94754,
@@ -5237,8 +5709,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 67750,
+        "name": "Liliana Cavani",
+        "profilePath": "/840kv5t9eE9lW8jnf7o18unPsxd.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 586075,
+        "name": "Roberta Mazzoni",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/94754",
-    "fetchedAt": "2026-09-23T06:52:49.381Z"
+    "fetchedAt": "2026-09-24T17:04:01.408Z"
   },
   "The Betrayal": {
     "tmdbId": 85617,
@@ -5312,8 +5798,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/4eEGEzG5DWw63nH84xmJgQi5n9k.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 146793,
+        "name": "Alberto Lattuada",
+        "profilePath": "/em6n73dLZnUTjalijM5g3eDlEws.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 138762,
+        "name": "H.A.L. Craig",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 56743,
+        "name": "Vittoriano Petrilli",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/85617",
-    "fetchedAt": "2026-09-23T06:52:49.583Z"
+    "fetchedAt": "2026-09-24T17:04:01.598Z"
   },
   "Better Than Chocolate": {
     "tmdbId": 18212,
@@ -5402,8 +5908,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 97773,
+        "name": "Anne Wheeler",
+        "profilePath": "/gQIi0Y2tNIRLbaJMEUGe0FvXwFK.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 980687,
+        "name": "Peggy Thompson",
+        "profilePath": "/6EfezQfIa4EwZ4VJ8iR1BUIcN81.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/18212",
-    "fetchedAt": "2026-09-23T06:52:49.781Z"
+    "fetchedAt": "2026-09-24T17:04:01.797Z"
   },
   "Between Summer and Fall": {
     "tmdbId": 528776,
@@ -5442,8 +5962,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2059269,
+        "name": "Daniel Manns",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/528776",
-    "fetchedAt": "2026-09-23T06:52:49.980Z"
+    "fetchedAt": "2026-09-24T17:04:01.990Z"
   },
   "Bilitis": {
     "tmdbId": 50435,
@@ -5553,8 +6081,40 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 188517,
+        "name": "David Hamilton",
+        "profilePath": "/1YZ2YR4Gz25kKNmZ8jRJt5RXdH0.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 6295,
+        "name": "Catherine Breillat",
+        "profilePath": "/wIJr8XJc7QjTCydM810YCWEK2oD.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1192828,
+        "name": "Jean-Louis Roncoroni",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1328172,
+        "name": "Roger Boussinot",
+        "profilePath": "",
+        "job": "Adaptation"
+      },
+      {
+        "id": 36944,
+        "name": "Jacques Nahum",
+        "profilePath": "/hH78aYOnwnkui1cVUOWEeDYbxQ1.jpg",
+        "job": "Adaptation"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/50435",
-    "fetchedAt": "2026-09-23T06:52:50.188Z"
+    "fetchedAt": "2026-09-24T17:04:02.183Z"
   },
   "Bit": {
     "tmdbId": 533985,
@@ -5692,8 +6252,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/pkLMdsyH5HXR7NX8vl0sVG3MsIx.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2044656,
+        "name": "Brad Michael Elmore",
+        "profilePath": "/9OoAe21V5yPfOSBhhzbtfsF0K8c.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/533985",
-    "fetchedAt": "2026-09-23T06:52:50.388Z"
+    "fetchedAt": "2026-09-24T17:04:02.409Z"
   },
   "The Bitter Tears of Petra von Kant": {
     "tmdbId": 10310,
@@ -5760,8 +6328,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2725,
+        "name": "Rainer Werner Fassbinder",
+        "profilePath": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/10310",
-    "fetchedAt": "2026-09-23T06:52:50.593Z"
+    "fetchedAt": "2026-09-24T17:04:02.607Z"
   },
   "Black Swan": {
     "tmdbId": 44214,
@@ -6089,8 +6665,34 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 6431,
+        "name": "Darren Aronofsky",
+        "profilePath": "/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1054633,
+        "name": "John J. McLaughlin",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 143258,
+        "name": "Mark Heyman",
+        "profilePath": "/4tpNoTMWjV2WAIYMpvmI8KryNY2.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 143259,
+        "name": "Andres Heinz",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/44214",
-    "fetchedAt": "2026-09-23T06:52:50.798Z"
+    "fetchedAt": "2026-09-24T17:04:02.797Z"
   },
   "Black Widow": {
     "tmdbId": 19345,
@@ -6191,8 +6793,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 19450,
+        "name": "Bob Rafelson",
+        "profilePath": "/tRTlLdcgGdV0R3EgrZig9zQw0Tk.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 5144,
+        "name": "Ronald Bass",
+        "profilePath": "/8AaBNM90RPTgAVecgIWQc5uXl6X.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/19345",
-    "fetchedAt": "2026-09-23T06:52:50.997Z"
+    "fetchedAt": "2026-09-24T17:04:02.987Z"
   },
   "Blind Love": {
     "tmdbId": 1127656,
@@ -6303,8 +6919,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3549568,
+        "name": "Julian Chou",
+        "profilePath": "/enOP0wXoO4rqXEx9VtqelhwlF34.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 581875,
+        "name": "Wu Mei-chih",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1127656",
-    "fetchedAt": "2026-09-23T06:52:51.204Z"
+    "fetchedAt": "2026-09-24T17:04:03.186Z"
   },
   "Bloomington": {
     "tmdbId": 51736,
@@ -6533,8 +7163,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 550096,
+        "name": "Fernanda Cardoso",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/51736",
-    "fetchedAt": "2026-09-23T06:52:51.408Z"
+    "fetchedAt": "2026-09-24T17:04:03.388Z"
   },
   "Blue Jean": {
     "tmdbId": 971699,
@@ -6762,8 +7400,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1674275,
+        "name": "Georgia Oakley",
+        "profilePath": "/x9cx7YFnfAjdcvnhvJ99ixIGYHC.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/971699",
-    "fetchedAt": "2026-09-23T06:52:51.632Z"
+    "fetchedAt": "2026-09-24T17:04:03.579Z"
   },
   "Booksmart": {
     "tmdbId": 505600,
@@ -6878,8 +7524,40 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 59315,
+        "name": "Olivia Wilde",
+        "profilePath": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1181319,
+        "name": "Emily Halpern",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1181324,
+        "name": "Sarah Haskins",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1302549,
+        "name": "Susanna Fogel",
+        "profilePath": "/sAbg3vh5GzQGXnlFpQlAyFAVmcs.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 1491121,
+        "name": "Katie Silberman",
+        "profilePath": "/koHekHYbHLGiWgR0l9AkwarVAxg.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/505600",
-    "fetchedAt": "2026-09-23T06:52:51.834Z"
+    "fetchedAt": "2026-09-24T17:04:03.769Z"
   },
   "Bottoms": {
     "tmdbId": 814776,
@@ -7086,8 +7764,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1976040,
+        "name": "Emma Seligman",
+        "profilePath": "/nwvBiynYedQfU5XNNl1w2GzQC6U.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1976054,
+        "name": "Rachel Sennott",
+        "profilePath": "/zvx8lP4p3gvijQLg235e3xjxrFG.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/814776",
-    "fetchedAt": "2026-09-23T06:52:52.031Z"
+    "fetchedAt": "2026-09-24T17:04:03.959Z"
   },
   "Bound": {
     "tmdbId": 9303,
@@ -7148,8 +7840,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 9340,
+        "name": "Lana Wachowski",
+        "profilePath": "/4nE4ttPQBuw1virOz0LYT08c1Vm.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 9339,
+        "name": "Lilly Wachowski",
+        "profilePath": "/rCScAjSpeKA19BLNR07MqNNeeTT.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/9303",
-    "fetchedAt": "2026-09-23T06:52:52.232Z"
+    "fetchedAt": "2026-09-24T17:04:04.153Z"
   },
   "Boys Don't Cry": {
     "tmdbId": 226,
@@ -7329,8 +8035,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2836,
+        "name": "Kimberly Peirce",
+        "profilePath": "/lRnwxog6xUZV26mxCVuMFM006CV.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2837,
+        "name": "Andy Bienen",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/226",
-    "fetchedAt": "2026-09-23T06:52:52.431Z"
+    "fetchedAt": "2026-09-24T17:04:04.343Z"
   },
   "Bulletproof: A Lesbian's Guide to Surviving the Plot": {
     "tmdbId": 1284739,
@@ -7361,8 +8081,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4693011,
+        "name": "Regan Latimer",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1284739",
-    "fetchedAt": "2026-09-23T06:52:52.634Z"
+    "fetchedAt": "2026-09-24T17:04:04.539Z"
   },
   "But I'm a Cheerleader": {
     "tmdbId": 20770,
@@ -7837,8 +8565,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 59466,
+        "name": "Jamie Babbit",
+        "profilePath": "/zySwCaK5XLylqpiJ4l2VhdO6Dw5.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1237421,
+        "name": "Brian Peterson",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/20770",
-    "fetchedAt": "2026-09-23T06:52:52.829Z"
+    "fetchedAt": "2026-09-24T17:04:04.735Z"
   },
   "Butterfly Kiss": {
     "tmdbId": 48260,
@@ -7937,8 +8679,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 172,
+        "name": "Michael Winterbottom",
+        "profilePath": "/r4cpuukDMG3xLS8tEaTV7X2IxnO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 26190,
+        "name": "Frank Cottrell Boyce",
+        "profilePath": "/o1tnT5MMGHuZZNwjUyExT3nly84.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/48260",
-    "fetchedAt": "2026-09-23T06:52:53.030Z"
+    "fetchedAt": "2026-09-24T17:04:04.929Z"
   },
   "Bye Bye Blondie": {
     "tmdbId": 134781,
@@ -8302,8 +9058,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 30716,
+        "name": "Virginie Despentes",
+        "profilePath": "/8UmcLWG1xoSOX542ShVXqnuPHrD.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/134781",
-    "fetchedAt": "2026-09-23T06:52:53.227Z"
+    "fetchedAt": "2026-09-24T17:04:05.123Z"
   },
   "Carmen & Lola": {
     "tmdbId": 519091,
@@ -8490,8 +9254,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1302077,
+        "name": "Arantxa Echevarría",
+        "profilePath": "/sKLh1OQ72igoZH4e8RjjF1YAYP8.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/519091",
-    "fetchedAt": "2026-09-23T06:52:53.422Z"
+    "fetchedAt": "2026-09-24T17:04:05.311Z"
   },
   "Carmilla": {
     "tmdbId": 475908,
@@ -8545,8 +9317,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1483483,
+        "name": "Emily Harris",
+        "profilePath": "/tv0T0vnQf8irvODIX9gFYEVW71P.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 11573,
+        "name": "Sheridan Le Fanu",
+        "profilePath": "/bjvU12t8Qlk60OU82Lw1TbKlBW8.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/475908",
-    "fetchedAt": "2026-09-23T06:52:53.628Z"
+    "fetchedAt": "2026-09-24T17:04:05.504Z"
   },
   "The Carmilla Movie": {
     "tmdbId": 421131,
@@ -8629,8 +9415,28 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 112636,
+        "name": "Spencer Maybee",
+        "profilePath": "/8Zrb7Jf36yeFjgXzOta5go7H4hD.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1846454,
+        "name": "Alejandro Alcoba",
+        "profilePath": "/mcRplT2vwoLlC7ow1mgryi8RKzq.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1565850,
+        "name": "Jordan Hall",
+        "profilePath": "/wjdWINX3uZP14AoeD43WvtpB1k8.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/421131",
-    "fetchedAt": "2026-09-23T06:52:53.831Z"
+    "fetchedAt": "2026-09-24T17:04:05.700Z"
   },
   "Carol": {
     "tmdbId": 258480,
@@ -8884,8 +9690,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 16863,
+        "name": "Todd Haynes",
+        "profilePath": "/wBDazO2j49uoquoHTEDxcniyGGC.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1034086,
+        "name": "Phyllis Nagy",
+        "profilePath": "/rv0vvtXxjePYb751FOJbqJus9py.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/258480",
-    "fetchedAt": "2026-09-23T06:52:54.042Z"
+    "fetchedAt": "2026-09-24T17:04:05.890Z"
   },
   "The Celluloid Closet": {
     "tmdbId": 32562,
@@ -8993,8 +9813,34 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 109402,
+        "name": "Rob Epstein",
+        "profilePath": "/2Dt2pa7G45FOedK281eCplnLNOS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 109403,
+        "name": "Jeffrey Friedman",
+        "profilePath": "/qv9iaUggDYIEZqDigUw2H2gWkdj.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 59208,
+        "name": "Armistead Maupin",
+        "profilePath": "/yxMuZevK7a0ggVNQHI6kvHFjm5I.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 125820,
+        "name": "Sharon Wood",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/32562",
-    "fetchedAt": "2026-09-23T06:52:54.241Z"
+    "fetchedAt": "2026-09-24T17:04:06.088Z"
   },
   "Certain Women": {
     "tmdbId": 340487,
@@ -9096,8 +9942,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/sNV4sueIdOA64aDCKWKTOcgtQZS.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 56383,
+        "name": "Kelly Reichardt",
+        "profilePath": "/j97hMhlRhcaHWgn9MQ78E0ft57U.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1538811,
+        "name": "Maile Meloy",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/340487",
-    "fetchedAt": "2026-09-23T06:52:54.439Z"
+    "fetchedAt": "2026-09-24T17:04:06.279Z"
   },
   "The Chambermaid Lynn": {
     "tmdbId": 293069,
@@ -9178,8 +10038,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 40364,
+        "name": "Ingo Haeb",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/293069",
-    "fetchedAt": "2026-09-23T06:52:54.648Z"
+    "fetchedAt": "2026-09-24T17:04:06.474Z"
   },
   "Chely Wright: Wish Me Away": {
     "tmdbId": 100825,
@@ -9247,8 +10115,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1045994,
+        "name": "Bobbie Birleffi",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1044951,
+        "name": "Beverly Kopf",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/100825",
-    "fetchedAt": "2026-09-23T06:52:54.846Z"
+    "fetchedAt": "2026-09-24T17:04:06.673Z"
   },
   "Chestnut": {
     "tmdbId": 881517,
@@ -9308,8 +10190,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 3268814,
+        "name": "Jac Cron",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/881517",
-    "fetchedAt": "2026-09-23T06:52:55.042Z"
+    "fetchedAt": "2026-09-24T17:04:06.866Z"
   },
   "The Children's Hour": {
     "tmdbId": 20139,
@@ -9418,8 +10308,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 10001,
+        "name": "William Wyler",
+        "profilePath": "/lcuY8HJaw9FAq1osItPsiTQXLzh.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 5181,
+        "name": "John Michael Hayes",
+        "profilePath": "/gl4MJpNB1I30GKYgWPjklHufLEV.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 85692,
+        "name": "Lillian Hellman",
+        "profilePath": "/g2ZjGILVpkQ0XH8ym6TNjgkwFpy.jpg",
+        "job": "Adaptation"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/20139",
-    "fetchedAt": "2026-09-23T06:52:55.237Z"
+    "fetchedAt": "2026-09-24T17:04:07.063Z"
   },
   "Chloe": {
     "tmdbId": 28211,
@@ -9583,8 +10493,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 56205,
+        "name": "Atom Egoyan",
+        "profilePath": "/tcC1xvYTnoVPwzVVpPkHJ2oPLb4.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 67796,
+        "name": "Erin Cressida Wilson",
+        "profilePath": "/wR8K6Cb6Xqc41SXDjUaWSS5BqN3.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/28211",
-    "fetchedAt": "2026-09-23T06:52:55.441Z"
+    "fetchedAt": "2026-09-24T17:04:07.262Z"
   },
   "Christmas at the Ranch": {
     "tmdbId": 805973,
@@ -9652,8 +10576,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2301180,
+        "name": "Christin Baker",
+        "profilePath": "/3QZ1YmOYhcxpQVA5peao9GdwK7l.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3011174,
+        "name": "Julie Anton",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/805973",
-    "fetchedAt": "2026-09-23T06:52:55.642Z"
+    "fetchedAt": "2026-09-24T17:04:07.454Z"
   },
   "Chuck Chuck Baby": {
     "tmdbId": 1066124,
@@ -9785,8 +10723,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3846158,
+        "name": "Janis Pugh",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1066124",
-    "fetchedAt": "2026-09-23T06:52:55.846Z"
+    "fetchedAt": "2026-09-24T17:04:07.648Z"
   },
   "Circumstance": {
     "tmdbId": 60421,
@@ -9941,8 +10887,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 549971,
+        "name": "Maryam Keshavarz",
+        "profilePath": "/zk5AklX2hFEQP5fofH41cGKt2dn.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/60421",
-    "fetchedAt": "2026-09-23T06:52:56.050Z"
+    "fetchedAt": "2026-09-24T17:04:07.851Z"
   },
   "City of Trees": {
     "tmdbId": 663300,
@@ -10003,8 +10957,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/kJCFP3gVLa2VJ7FvpkHqN8Q9eZc.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2327300,
+        "name": "Alexandra Swarens",
+        "profilePath": "/239aGV2lc1ef7ME4JPTda8eXDP2.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/663300",
-    "fetchedAt": "2026-09-23T06:52:56.252Z"
+    "fetchedAt": "2026-09-24T17:04:08.043Z"
   },
   "Cloudburst": {
     "tmdbId": 117098,
@@ -10141,8 +11103,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 229519,
+        "name": "Thom Fitzgerald",
+        "profilePath": "/sIFIDPir6Ts406wjrnyVmEKgOpx.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/117098",
-    "fetchedAt": "2026-09-23T06:52:56.450Z"
+    "fetchedAt": "2026-09-24T17:04:08.240Z"
   },
   "Cocoon": {
     "tmdbId": 648811,
@@ -10194,8 +11164,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2460403,
+        "name": "Rafael Aguiar",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/648811",
-    "fetchedAt": "2026-09-23T06:52:56.656Z"
+    "fetchedAt": "2026-09-24T17:04:08.440Z"
   },
   "Codependent Lesbian Space Alien Seeks Same": {
     "tmdbId": 105538,
@@ -10278,8 +11256,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1037989,
+        "name": "Madeleine Olnek",
+        "profilePath": "/dzavUU50fk31rgvsu5g1JBKAPDm.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/105538",
-    "fetchedAt": "2026-09-23T06:52:56.866Z"
+    "fetchedAt": "2026-09-24T17:04:08.635Z"
   },
   "Colette": {
     "tmdbId": 454652,
@@ -10500,8 +11486,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 82337,
+        "name": "Wash Westmoreland",
+        "profilePath": "/dCM1FQaA5TfZEbuaG4LCEtVFaZ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 515221,
+        "name": "Rebecca Lenkiewicz",
+        "profilePath": "/G8R8oMtv0ecJkHTS5ywz4ywwFL.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 82335,
+        "name": "Richard Glatzer",
+        "profilePath": "/mNmbyjSPyeV1KFqCzFFVof1VZTH.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/454652",
-    "fetchedAt": "2026-09-23T06:52:57.069Z"
+    "fetchedAt": "2026-09-24T17:04:08.833Z"
   },
   "Come Closer": {
     "tmdbId": 1476702,
@@ -10540,8 +11546,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 5132394,
+        "name": "Abigail Metcalf",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 5421206,
+        "name": "Olivia Charis",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1476702",
-    "fetchedAt": "2026-09-23T06:52:57.271Z"
+    "fetchedAt": "2026-09-24T17:04:09.038Z"
   },
   "Concussion": {
     "tmdbId": 156965,
@@ -10811,8 +11831,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/qMiEy5S4pM09S2D3CA4SizxOYwy.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1138163,
+        "name": "Stacie Passon",
+        "profilePath": "/kJflrA798OWrIezpjqPbeKtUZZR.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/156965",
-    "fetchedAt": "2026-09-23T06:52:57.470Z"
+    "fetchedAt": "2026-09-24T17:04:09.231Z"
   },
   "D.E.B.S.": {
     "tmdbId": 540,
@@ -10972,8 +12000,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 7312,
+        "name": "Angela Robinson",
+        "profilePath": "/j6ymx8zGC9OGQ8CUeIoJ3D0RpMU.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/540",
-    "fetchedAt": "2026-09-23T06:52:57.680Z"
+    "fetchedAt": "2026-09-24T17:04:09.426Z"
   },
   "The Dancer": {
     "tmdbId": 392794,
@@ -11260,8 +12296,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1605612,
+        "name": "Stéphanie Di Giusto",
+        "profilePath": "/ps4fM9qek9CwwrRaHj8fFIV1oIa.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1616908,
+        "name": "Sarah Thibau",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 89628,
+        "name": "Thomas Bidegain",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/392794",
-    "fetchedAt": "2026-09-23T06:52:57.880Z"
+    "fetchedAt": "2026-09-24T17:04:09.624Z"
   },
   "Daphne": {
     "tmdbId": 204477,
@@ -11373,8 +12429,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1014558,
+        "name": "Clare Beavan",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1186906,
+        "name": "Margaret Forster",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1186907,
+        "name": "Amy Jenkins",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/204477",
-    "fetchedAt": "2026-09-23T06:52:58.076Z"
+    "fetchedAt": "2026-09-24T17:04:09.818Z"
   },
   "Das Floß!": {
     "tmdbId": 322465,
@@ -11429,8 +12505,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1420612,
+        "name": "Julia C. Kaiser",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1326233,
+        "name": "Julia Becker",
+        "profilePath": "/h8GLBTiQ98nPrypseNwtKiPTSsG.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/322465",
-    "fetchedAt": "2026-09-23T06:52:58.270Z"
+    "fetchedAt": "2026-09-24T17:04:10.011Z"
   },
   "Days of Happiness": {
     "tmdbId": 848987,
@@ -11638,8 +12728,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1169091,
+        "name": "Chloé Robichaud",
+        "profilePath": "/xSliQQjGU4793m54Hyr8JBPXt4p.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/848987",
-    "fetchedAt": "2026-09-23T06:52:58.464Z"
+    "fetchedAt": "2026-09-24T17:04:10.221Z"
   },
   "Desert Hearts": {
     "tmdbId": 294,
@@ -11748,8 +12846,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 4163,
+        "name": "Donna Deitch",
+        "profilePath": "/nibQcnP4GESAa5MYRqcPyyiWdS8.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1664454,
+        "name": "Natalie Cooper",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/294",
-    "fetchedAt": "2026-09-23T06:52:58.661Z"
+    "fetchedAt": "2026-09-24T17:04:10.416Z"
   },
   "Die Konkurrentin": {
     "tmdbId": 125227,
@@ -11802,8 +12914,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 64069,
+        "name": "Dagmar Hirtz",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 13734,
+        "name": "Laila Stieler",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/125227",
-    "fetchedAt": "2026-09-23T06:52:58.864Z"
+    "fetchedAt": "2026-09-24T17:04:10.611Z"
   },
   "Disobedience": {
     "tmdbId": 419743,
@@ -11991,8 +13117,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1142171,
+        "name": "Sebastián Lelio",
+        "profilePath": "/uzYhbqxO8BGkzBl4g5xHUZbaD7V.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 515221,
+        "name": "Rebecca Lenkiewicz",
+        "profilePath": "/G8R8oMtv0ecJkHTS5ywz4ywwFL.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/419743",
-    "fetchedAt": "2026-09-23T06:52:59.065Z"
+    "fetchedAt": "2026-09-24T17:04:10.808Z"
   },
   "Drea & Cloe": {
     "tmdbId": 1552407,
@@ -12090,8 +13230,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 5711705,
+        "name": "Álvaro Ortega Sanahuja",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1552407",
-    "fetchedAt": "2026-09-23T06:52:59.264Z"
+    "fetchedAt": "2026-09-24T17:04:11.001Z"
   },
   "Dreams": {
     "tmdbId": 1228682,
@@ -12222,8 +13370,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1097147,
+        "name": "Dag Johan Haugerud",
+        "profilePath": "/zOX6yQF2VLyeXZCPh6rhvpMdDPx.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1228682",
-    "fetchedAt": "2026-09-23T06:52:59.463Z"
+    "fetchedAt": "2026-09-24T17:04:11.196Z"
   },
   "Drive-Away Dolls": {
     "tmdbId": 957304,
@@ -12498,8 +13654,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1224,
+        "name": "Ethan Coen",
+        "profilePath": "/lbL8LEcvuxNrzda37g3mysOS2qS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1228,
+        "name": "Tricia Cooke",
+        "profilePath": "/o0KmTlRJk9aha9gLyKiF5fg0GUk.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/957304",
-    "fetchedAt": "2026-09-23T06:52:59.659Z"
+    "fetchedAt": "2026-09-24T17:04:11.387Z"
   },
   "Drone": {
     "tmdbId": 1001044,
@@ -12554,8 +13724,28 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1359890,
+        "name": "Simon Bouisson",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1681515,
+        "name": "Fanny Burdino",
+        "profilePath": "/4bFJKbHhx5KmBiLvjSLGASc2UuG.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 559668,
+        "name": "Samuel Doux",
+        "profilePath": "/gbBPnKPVnLAu1bxttteW1ZWS2bj.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1001044",
-    "fetchedAt": "2026-09-23T06:52:59.871Z"
+    "fetchedAt": "2026-09-24T17:04:11.581Z"
   },
   "Duck Butter": {
     "tmdbId": 499319,
@@ -12778,8 +13968,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 61069,
+        "name": "Miguel Arteta",
+        "profilePath": "/8i30SMAGvi8Bc0qyLeazdX71BvU.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 61178,
+        "name": "Alia Shawkat",
+        "profilePath": "/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/499319",
-    "fetchedAt": "2026-09-23T06:53:00.075Z"
+    "fetchedAt": "2026-09-24T17:04:11.774Z"
   },
   "The Duke of Burgundy": {
     "tmdbId": 250225,
@@ -12872,8 +14076,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 583857,
+        "name": "Peter Strickland",
+        "profilePath": "/ptkIln1n0p7A987W3q2hxtzxdfp.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/250225",
-    "fetchedAt": "2026-09-23T06:53:00.295Z"
+    "fetchedAt": "2026-09-24T17:04:11.973Z"
   },
   "Duse": {
     "tmdbId": 1291202,
@@ -12980,8 +14192,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 149265,
+        "name": "Pietro Marcello",
+        "profilePath": "/6NqTGxc6vFmmhZavnd7XXM3w253.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 4717336,
+        "name": "Letizia Russo",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 4717337,
+        "name": "Guido Silei",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1291202",
-    "fetchedAt": "2026-09-23T06:53:00.498Z"
+    "fetchedAt": "2026-09-24T17:04:12.168Z"
   },
   "Edie & Thea: A Very Long Engagement": {
     "tmdbId": 105778,
@@ -13022,8 +14254,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1038645,
+        "name": "Susan Muska",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1038646,
+        "name": "Gréta Olafsdóttir",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/105778",
-    "fetchedAt": "2026-09-23T06:53:00.692Z"
+    "fetchedAt": "2026-09-24T17:04:12.364Z"
   },
   "Eileen": {
     "tmdbId": 664341,
@@ -13151,8 +14397,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1661862,
+        "name": "William Oldroyd",
+        "profilePath": "/e3cJeIVKozF9tCPfGoJVi066VTO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3607621,
+        "name": "Luke Goebel",
+        "profilePath": "/4m289zwIaYBO7LqbvlvemtNmdNE.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 2510779,
+        "name": "Ottessa Moshfegh",
+        "profilePath": "/fn2baUVHguGXtCMz6DepR8iS4Uj.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/664341",
-    "fetchedAt": "2026-09-23T06:53:00.898Z"
+    "fetchedAt": "2026-09-24T17:04:12.555Z"
   },
   "Elena Undone": {
     "tmdbId": 56743,
@@ -13542,8 +14808,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 224875,
+        "name": "Nicole Conn",
+        "profilePath": "/2mhHcdpbPGi7mvB08aIAXwioQik.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/56743",
-    "fetchedAt": "2026-09-23T06:53:01.096Z"
+    "fetchedAt": "2026-09-24T17:04:12.745Z"
   },
   "Elisa & Marcela": {
     "tmdbId": 535356,
@@ -13793,8 +15067,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/gDmspvyUbf5m4nlbi6nKMX5OzeK.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 90,
+        "name": "Isabel Coixet",
+        "profilePath": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/535356",
-    "fetchedAt": "2026-09-23T06:53:01.300Z"
+    "fetchedAt": "2026-09-24T17:04:12.939Z"
   },
   "Ellie & Abbie (& Ellie's Dead Aunt)": {
     "tmdbId": 662541,
@@ -13902,8 +15184,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1583064,
+        "name": "Monica Zanetti",
+        "profilePath": "/7dTVkPGXSiDkpNcfOiUUMkq9G5D.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/662541",
-    "fetchedAt": "2026-09-23T06:53:01.506Z"
+    "fetchedAt": "2026-09-24T17:04:13.131Z"
   },
   "Eloïse": {
     "tmdbId": 44620,
@@ -14027,8 +15317,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 131084,
+        "name": "Jesús Garay",
+        "profilePath": "/e3SmBVwMJJe3tmxs0mcmfbCJqcy.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1414863,
+        "name": "Cristina Moncunill",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/44620",
-    "fetchedAt": "2026-09-23T06:53:01.705Z"
+    "fetchedAt": "2026-09-24T17:04:13.326Z"
   },
   "Fall Risk": {
     "tmdbId": 1214713,
@@ -14110,8 +15414,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2176448,
+        "name": "Alex Martini",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1214713",
-    "fetchedAt": "2026-09-23T06:53:01.911Z"
+    "fetchedAt": "2026-09-24T17:04:13.523Z"
   },
   "The Fallout": {
     "tmdbId": 795514,
@@ -14493,8 +15805,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 55615,
+        "name": "Megan Park",
+        "profilePath": "/AvHWNbf9VoSXQGacpwNCVHlZAQW.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/795514",
-    "fetchedAt": "2026-09-23T06:53:02.106Z"
+    "fetchedAt": "2026-09-24T17:04:13.717Z"
   },
   "Farewell, My Queen": {
     "tmdbId": 99579,
@@ -14636,8 +15956,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 229263,
+        "name": "Benoît Jacquot",
+        "profilePath": "/n1qaZFqxYxm4nPzfpSYH93QH0eo.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 50538,
+        "name": "Gilles Taurand",
+        "profilePath": "/7GD8id2sYNej5lWMLPnweiiYici.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/99579",
-    "fetchedAt": "2026-09-23T06:53:02.315Z"
+    "fetchedAt": "2026-09-24T17:04:13.916Z"
   },
   "The Favourite": {
     "tmdbId": 375262,
@@ -14973,8 +16307,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 122423,
+        "name": "Yorgos Lanthimos",
+        "profilePath": "/dvtv8eV1O8Fl385ctOu3sqO2PbD.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 77723,
+        "name": "Tony McNamara",
+        "profilePath": "/rlp4SPxehpOeLZV9E6xQdMnzLw8.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 1556401,
+        "name": "Deborah Davis",
+        "profilePath": "/wONFPcBtHbhmEh6eFziRbV4dqNA.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/375262",
-    "fetchedAt": "2026-09-23T06:53:02.516Z"
+    "fetchedAt": "2026-09-24T17:04:14.108Z"
   },
   "Fear Street: 1666": {
     "tmdbId": 591275,
@@ -15105,8 +16459,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/bm6ULveG6B3zD4QClsceSPC94kh.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1290265,
+        "name": "Leigh Janiak",
+        "profilePath": "/doGqNQAcXGMaci879xFvNWl6fUQ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1916848,
+        "name": "Kate Trefry",
+        "profilePath": "/3jom2ZqqSJ93G3DAbJGtItAsRS8.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 1290267,
+        "name": "Phil Graziadei",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/591275",
-    "fetchedAt": "2026-09-23T06:53:02.716Z"
+    "fetchedAt": "2026-09-24T17:04:14.300Z"
   },
   "Fear Street: 1978": {
     "tmdbId": 591274,
@@ -15245,8 +16619,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1290265,
+        "name": "Leigh Janiak",
+        "profilePath": "/doGqNQAcXGMaci879xFvNWl6fUQ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2601912,
+        "name": "Zak Olkewicz",
+        "profilePath": "/gUkCmTHsuDM5r9WDUKMoNmiUMB0.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1290267,
+        "name": "Phil Graziadei",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/591274",
-    "fetchedAt": "2026-09-23T06:53:02.913Z"
+    "fetchedAt": "2026-09-24T17:04:14.493Z"
   },
   "Fear Street: 1994": {
     "tmdbId": 591273,
@@ -15392,8 +16786,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/bm6ULveG6B3zD4QClsceSPC94kh.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1290265,
+        "name": "Leigh Janiak",
+        "profilePath": "/doGqNQAcXGMaci879xFvNWl6fUQ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1290267,
+        "name": "Phil Graziadei",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 566273,
+        "name": "Kyle Killen",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/591273",
-    "fetchedAt": "2026-09-23T06:53:03.108Z"
+    "fetchedAt": "2026-09-24T17:04:14.683Z"
   },
   "Féminin plurielles": {
     "tmdbId": 578721,
@@ -15467,8 +16881,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/qu3PiYuTTfVyzoVWQ9h1Ywd2rFi.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1147572,
+        "name": "Sébastien Bailly",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/578721",
-    "fetchedAt": "2026-09-23T06:53:03.304Z"
+    "fetchedAt": "2026-09-24T17:04:14.870Z"
   },
   "The Fine Art of Love: Mine Ha-Ha": {
     "tmdbId": 61950,
@@ -15587,8 +17009,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 17784,
+        "name": "John Irvin",
+        "profilePath": "/gF3FWhmbiwD96E1DP68F07LkX1m.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 53659,
+        "name": "Ottavio Jemma",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 146793,
+        "name": "Alberto Lattuada",
+        "profilePath": "/em6n73dLZnUTjalijM5g3eDlEws.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/61950",
-    "fetchedAt": "2026-09-23T06:53:03.505Z"
+    "fetchedAt": "2026-09-24T17:04:15.077Z"
   },
   "The First Death of Joana": {
     "tmdbId": 786375,
@@ -15697,8 +17139,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1223313,
+        "name": "Cristiane Oliveira",
+        "profilePath": "/81AfeTwnVPpvmxHYDXLavY1Vicm.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/786375",
-    "fetchedAt": "2026-09-23T06:53:03.705Z"
+    "fetchedAt": "2026-09-24T17:04:15.284Z"
   },
   "The Five Devils": {
     "tmdbId": 820697,
@@ -15865,8 +17315,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1702466,
+        "name": "Léa Mysius",
+        "profilePath": "/yu1cK6Kpx0FKK4oEANETWCyCWOH.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1665518,
+        "name": "Paul Guilhaume",
+        "profilePath": "/AlyIqGbwZ2i5ONc4Vz9XGurLtuD.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/820697",
-    "fetchedAt": "2026-09-23T06:53:03.915Z"
+    "fetchedAt": "2026-09-24T17:04:15.477Z"
   },
   "Forbidden Fruits": {
     "tmdbId": 1450527,
@@ -15902,6 +17366,13 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/sJcuQAJdIv3mnh9M9p5sQWhWSRN.jpg"
       },
       {
+        "id": 1253199,
+        "name": "Alexandra Shipp",
+        "character": "Fig",
+        "order": 1,
+        "profilePath": "/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+      },
+      {
         "id": 2117434,
         "name": "Victoria Pedretti",
         "character": "Cherry",
@@ -15909,45 +17380,38 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/lzGbKFIBdecraIkofCB6YAOg1VR.jpg"
       },
       {
-        "id": 1253199,
-        "name": "Alexandra Shipp",
-        "character": "Fig",
-        "order": 3,
-        "profilePath": "/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
-      },
-      {
         "id": 3499255,
         "name": "Lola Tung",
         "character": "Pumpkin",
-        "order": 5,
+        "order": 3,
         "profilePath": "/gnkrdZniagAbZQcYSoYcADKOQMg.jpg"
-      },
-      {
-        "id": 1400939,
-        "name": "Jacqueline Byers",
-        "character": "Momfluencer",
-        "order": 7,
-        "profilePath": "/vgj4zlU5sqJ1EzRgUP3ikRwK4lW.jpg"
       },
       {
         "id": 2741137,
         "name": "Emma Chamberlain",
         "character": "Pickle",
-        "order": 9,
+        "order": 4,
         "profilePath": "/qNvP5UNkidWuQwLZijX7En1NJwe.jpg"
       },
       {
         "id": 17773,
         "name": "Gabrielle Union",
         "character": "Sharon",
-        "order": 10,
+        "order": 6,
         "profilePath": "/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+      },
+      {
+        "id": 1400939,
+        "name": "Jacqueline Byers",
+        "character": "Momfluencer",
+        "order": 8,
+        "profilePath": "/vgj4zlU5sqJ1EzRgUP3ikRwK4lW.jpg"
       },
       {
         "id": 6061271,
         "name": "Caroline Vartanian",
         "character": "Susan Alexandra Employee",
-        "order": 11,
+        "order": 12,
         "profilePath": ""
       },
       {
@@ -15963,14 +17427,14 @@ window.WLW_TMDB_DETAILS = {
         "id": 4602444,
         "name": "Zack Thompson",
         "character": "Fries Boy",
-        "order": 4,
+        "order": 9,
         "profilePath": ""
       },
       {
         "id": 6102815,
         "name": "Aidan Almanza",
         "character": "Daine's Employee",
-        "order": 12,
+        "order": 13,
         "profilePath": ""
       },
       {
@@ -16009,8 +17473,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2347139,
+        "name": "Meredith Alloway",
+        "profilePath": "/5nCeIKQGRnFNQnNueZ4VYcsVf4A.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3625013,
+        "name": "Lily Houghton",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1450527",
-    "fetchedAt": "2026-09-23T06:53:04.108Z"
+    "fetchedAt": "2026-09-24T17:04:15.666Z"
   },
   "Forbidden Love: The Unashamed Stories of Lesbian Lives": {
     "tmdbId": 194926,
@@ -16155,8 +17633,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1211648,
+        "name": "Lynne Fernie",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1052379,
+        "name": "Aerlyn Weissman",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/194926",
-    "fetchedAt": "2026-09-23T06:53:04.312Z"
+    "fetchedAt": "2026-09-24T17:04:15.856Z"
   },
   "Foreign Language": {
     "tmdbId": 803690,
@@ -16239,8 +17731,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1312057,
+        "name": "Claire Burger",
+        "profilePath": "/3SAPV6kcEydAoPPtGWYqSA9JCHW.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/803690",
-    "fetchedAt": "2026-09-23T06:53:04.535Z"
+    "fetchedAt": "2026-09-24T17:04:16.052Z"
   },
   "Forever Not Maybe": {
     "tmdbId": 663862,
@@ -16280,8 +17780,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/v6jPmLHp1atIZq71zeV853crq28.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1756318,
+        "name": "Christie Conochalla",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/663862",
-    "fetchedAt": "2026-09-23T06:53:04.733Z"
+    "fetchedAt": "2026-09-24T17:04:16.247Z"
   },
   "Forgotten Roads": {
     "tmdbId": 735210,
@@ -16377,8 +17885,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2750173,
+        "name": "Nicol Ruiz",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/735210",
-    "fetchedAt": "2026-09-23T06:53:04.935Z"
+    "fetchedAt": "2026-09-24T17:04:16.444Z"
   },
   "Four Minutes": {
     "tmdbId": 1294,
@@ -16495,8 +18011,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 16780,
+        "name": "Chris Kraus",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1294",
-    "fetchedAt": "2026-09-23T06:53:05.129Z"
+    "fetchedAt": "2026-09-24T17:04:16.654Z"
   },
   "Fragments of a Life Loved": {
     "tmdbId": 1157128,
@@ -16605,8 +18129,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4183725,
+        "name": "Chloé Barreau",
+        "profilePath": "/6gj7xYOLgwGSnA6LWqf62ksONWE.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1157128",
-    "fetchedAt": "2026-09-23T06:53:05.324Z"
+    "fetchedAt": "2026-09-24T17:04:16.845Z"
   },
   "Freeheld": {
     "tmdbId": 306745,
@@ -16715,8 +18247,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 71548,
+        "name": "Peter Sollett",
+        "profilePath": "/kl4ZBGmT6bEuD009nvZZbKZEIDv.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 59330,
+        "name": "Ron Nyswaner",
+        "profilePath": "/i4TCrmzMEQv2eJVsYXlGOoQoirl.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/306745",
-    "fetchedAt": "2026-09-23T06:53:05.522Z"
+    "fetchedAt": "2026-09-24T17:04:17.057Z"
   },
   "Fried Green Tomatoes": {
     "tmdbId": 1633,
@@ -16935,8 +18481,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 18250,
+        "name": "Jon Avnet",
+        "profilePath": "/c8iDOTe30SgubSZK9hF4rS5tQDZ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 18251,
+        "name": "Fannie Flagg",
+        "profilePath": "/pMxuqJ0gR2Jx3WYEw6sJhP5iDjs.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 18253,
+        "name": "Carol Sobieski",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1633",
-    "fetchedAt": "2026-09-23T06:53:05.717Z"
+    "fetchedAt": "2026-09-24T17:04:17.248Z"
   },
   "Friends & Family Christmas": {
     "tmdbId": 1180706,
@@ -17011,8 +18577,28 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 97773,
+        "name": "Anne Wheeler",
+        "profilePath": "/gQIi0Y2tNIRLbaJMEUGe0FvXwFK.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 204018,
+        "name": "Gary Goldstein",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1512119,
+        "name": "Tracy Andreen",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1180706",
-    "fetchedAt": "2026-09-23T06:53:05.915Z"
+    "fetchedAt": "2026-09-24T17:04:17.442Z"
   },
   "Fun": {
     "tmdbId": 33135,
@@ -17074,8 +18660,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 130424,
+        "name": "Rafal Zielinski",
+        "profilePath": "/5jl2PKKd1fdrrx64nd5WoAqxrcO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1304262,
+        "name": "James Bosley",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/33135",
-    "fetchedAt": "2026-09-23T06:53:06.108Z"
+    "fetchedAt": "2026-09-24T17:04:17.635Z"
   },
   "Gaysians": {
     "tmdbId": 646450,
@@ -17122,8 +18722,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2453026,
+        "name": "Vicky Du",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/646450",
-    "fetchedAt": "2026-09-23T06:53:06.304Z"
+    "fetchedAt": "2026-09-24T17:04:17.828Z"
   },
   "Gia": {
     "tmdbId": 14533,
@@ -17401,8 +19009,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 21136,
+        "name": "Michael Cristofer",
+        "profilePath": "/yWZr1U6A4UAatvgqvX1zmOgB92S.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1047730,
+        "name": "Jay McInerney",
+        "profilePath": "/aiMokLv3oydoHrlOaWh63rchJXu.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/14533",
-    "fetchedAt": "2026-09-23T06:53:06.500Z"
+    "fetchedAt": "2026-09-24T17:04:18.032Z"
   },
   "Girasoli": {
     "tmdbId": 1064119,
@@ -17455,8 +19077,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1139199,
+        "name": "Catrinel Marlon",
+        "profilePath": "/74Do4qWHMVtC7kI6VMuEzMkJzFn.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 67168,
+        "name": "Heidrun Schleef",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 3076978,
+        "name": "Francesca Nozzolillo",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1064119",
-    "fetchedAt": "2026-09-23T06:53:06.706Z"
+    "fetchedAt": "2026-09-24T17:04:18.226Z"
   },
   "The Girl King": {
     "tmdbId": 329829,
@@ -17710,8 +19352,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54767,
+        "name": "Mika Kaurismäki",
+        "profilePath": "/braCGIvRB2I8VIKh9ZZM4H555Mo.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1068493,
+        "name": "Michel Marc Bouchard",
+        "profilePath": "/iHgCLbmEraq7pMAeWuGEEBUHEQ9.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/329829",
-    "fetchedAt": "2026-09-23T06:53:06.916Z"
+    "fetchedAt": "2026-09-24T17:04:18.419Z"
   },
   "Girl Picture": {
     "tmdbId": 683363,
@@ -17820,8 +19476,28 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1064049,
+        "name": "Alli Haapasalo",
+        "profilePath": "/dwmIHBaEVWeUXJmEMcWZmS1f3qm.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2566931,
+        "name": "Ilona Ahti",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1900930,
+        "name": "Daniela Hakulinen",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/683363",
-    "fetchedAt": "2026-09-23T06:53:07.110Z"
+    "fetchedAt": "2026-09-24T17:04:18.613Z"
   },
   "Girlfriends": {
     "tmdbId": 1388338,
@@ -17892,7 +19568,7 @@ window.WLW_TMDB_DETAILS = {
         "name": "Natalie Hsu",
         "character": "",
         "order": 4,
-        "profilePath": ""
+        "profilePath": "/7O5SHCtysNYN9AYUZa4UJ9xgCwQ.jpg"
       },
       {
         "id": 1769702,
@@ -17910,8 +19586,28 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 3599163,
+        "name": "Tracy Choi Ian-Sin",
+        "profilePath": "/gl2sJ4sr229xEU6TujacuyZBAuB.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 224615,
+        "name": "Lou Shiu-wa",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1789110,
+        "name": "Sebrina Zheng",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1388338",
-    "fetchedAt": "2026-09-23T06:53:07.325Z"
+    "fetchedAt": "2026-09-24T17:04:18.802Z"
   },
   "Girls Like Girls": {
     "tmdbId": 1397485,
@@ -18011,8 +19707,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 89109,
+        "name": "Hayley Kiyoko",
+        "profilePath": "/1Ce8otFMEGn8uTEF5ZpaTxPDcag.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 106490,
+        "name": "Stefanie Scott",
+        "profilePath": "/mBRaixP8IVGGo3pPXXDHErZP6wt.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1451203,
+        "name": "Chloe Okuno",
+        "profilePath": "/l3D6xfgjyuSHwnJ9FLmyes6FycX.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1397485",
-    "fetchedAt": "2026-09-23T06:53:07.521Z"
+    "fetchedAt": "2026-09-24T17:04:19.000Z"
   },
   "Go Fish": {
     "tmdbId": 18620,
@@ -18249,8 +19965,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 172993,
+        "name": "Rose Troche",
+        "profilePath": "/fjTmUMKogdAqpMoQvGmL76a44pu.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 32030,
+        "name": "Guinevere Turner",
+        "profilePath": "/1j0RtYIayM7LOsT8bispVHsKBia.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/18620",
-    "fetchedAt": "2026-09-23T06:53:07.727Z"
+    "fetchedAt": "2026-09-24T17:04:19.196Z"
   },
   "Gondola": {
     "tmdbId": 1186679,
@@ -18344,8 +20074,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 52542,
+        "name": "Veit Helmer",
+        "profilePath": "/yZkNQsYJesJQjdMGUWQNQmBbc4Z.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1186679",
-    "fetchedAt": "2026-09-23T06:53:07.922Z"
+    "fetchedAt": "2026-09-24T17:04:19.394Z"
   },
   "The Gymnast": {
     "tmdbId": 31421,
@@ -18405,8 +20143,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 136903,
+        "name": "Ned Farr",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/31421",
-    "fetchedAt": "2026-09-23T06:53:08.121Z"
+    "fetchedAt": "2026-09-24T17:04:19.605Z"
   },
   "The Half of It": {
     "tmdbId": 597219,
@@ -18517,8 +20263,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/9XnSu8STtFZBwfjoHsULiQYkZ3e.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 84461,
+        "name": "Alice Wu",
+        "profilePath": "/4nOKxXZwwczb6icdmPc1L3UiUG.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/597219",
-    "fetchedAt": "2026-09-23T06:53:08.316Z"
+    "fetchedAt": "2026-09-24T17:04:19.795Z"
   },
   "Happiest Season": {
     "tmdbId": 520172,
@@ -18719,8 +20473,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 20387,
+        "name": "Clea DuVall",
+        "profilePath": "/yueygn1Lmmni7EaMQD9LslexDlu.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1488952,
+        "name": "Mary Holland",
+        "profilePath": "/iwEK2fIrU1q7aijjD8FI9hCUMEL.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/520172",
-    "fetchedAt": "2026-09-23T06:53:08.516Z"
+    "fetchedAt": "2026-09-24T17:04:19.987Z"
   },
   "Heart Shot": {
     "tmdbId": 929477,
@@ -18787,8 +20555,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2414297,
+        "name": "Marielle Woods",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 3391793,
+        "name": "Lauren Ludwig",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/929477",
-    "fetchedAt": "2026-09-23T06:53:08.712Z"
+    "fetchedAt": "2026-09-24T17:04:20.176Z"
   },
   "Hearts Beat Loud": {
     "tmdbId": 470333,
@@ -18886,8 +20668,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 932759,
+        "name": "Brett Haley",
+        "profilePath": "/1Up8rsW38U8Q4DfQjKLYFtio4zf.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1397707,
+        "name": "Marc Basch",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/470333",
-    "fetchedAt": "2026-09-23T06:53:08.919Z"
+    "fetchedAt": "2026-09-24T17:04:20.366Z"
   },
   "Heavenly Creatures": {
     "tmdbId": 1024,
@@ -19090,8 +20886,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 108,
+        "name": "Peter Jackson",
+        "profilePath": "/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 126,
+        "name": "Fran Walsh",
+        "profilePath": "/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1024",
-    "fetchedAt": "2026-09-23T06:53:09.118Z"
+    "fetchedAt": "2026-09-24T17:04:20.563Z"
   },
   "Hedda": {
     "tmdbId": 997113,
@@ -19230,8 +21040,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1795072,
+        "name": "Nia DaCosta",
+        "profilePath": "/zRyaLNXLT2gKgPvLreyg3GeEIdD.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/997113",
-    "fetchedAt": "2026-09-23T06:53:09.317Z"
+    "fetchedAt": "2026-09-24T17:04:20.754Z"
   },
   "The Heiresses": {
     "tmdbId": 499152,
@@ -19378,8 +21196,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1623016,
+        "name": "Marcelo Martinessi",
+        "profilePath": "/ejf8m5Y2HJ8WJ8uriqCt9OwkLxy.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/499152",
-    "fetchedAt": "2026-09-23T06:53:09.520Z"
+    "fetchedAt": "2026-09-24T17:04:20.951Z"
   },
   "Henry & June": {
     "tmdbId": 17993,
@@ -19467,8 +21293,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 648,
+        "name": "Philip Kaufman",
+        "profilePath": "/dv62g0D5lkNAS0Db1jJ2Z81Aubz.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2990,
+        "name": "Rose Kaufman",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/17993",
-    "fetchedAt": "2026-09-23T06:53:09.711Z"
+    "fetchedAt": "2026-09-24T17:04:21.140Z"
   },
   "High Art": {
     "tmdbId": 37636,
@@ -19575,8 +21415,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/xGXShlOUpkuM6vrwyzNwLViwaq9.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 75699,
+        "name": "Lisa Cholodenko",
+        "profilePath": "/2VUG5YijOlblFET7c5dtsTJSmm6.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/37636",
-    "fetchedAt": "2026-09-23T06:53:09.908Z"
+    "fetchedAt": "2026-09-24T17:04:21.331Z"
   },
   "Hot Milk": {
     "tmdbId": 933490,
@@ -19707,8 +21555,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 515221,
+        "name": "Rebecca Lenkiewicz",
+        "profilePath": "/G8R8oMtv0ecJkHTS5ywz4ywwFL.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/933490",
-    "fetchedAt": "2026-09-23T06:53:10.104Z"
+    "fetchedAt": "2026-09-24T17:04:21.519Z"
   },
   "I Can't Think Straight": {
     "tmdbId": 31216,
@@ -19825,8 +21681,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 107753,
+        "name": "Shamim Sarif",
+        "profilePath": "/lg2xNYLyfMzYuZGXFnCR7SGRbrC.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 224611,
+        "name": "Kelly Moss ",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/31216",
-    "fetchedAt": "2026-09-23T06:53:10.344Z"
+    "fetchedAt": "2026-09-24T17:04:21.708Z"
   },
   "I Care a Lot": {
     "tmdbId": 601666,
@@ -19977,8 +21847,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 111588,
+        "name": "J Blakeson",
+        "profilePath": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/601666",
-    "fetchedAt": "2026-09-23T06:53:10.539Z"
+    "fetchedAt": "2026-09-24T17:04:21.900Z"
   },
   "I Fell, It's Fine": {
     "tmdbId": 1391450,
@@ -20045,8 +21923,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1204303,
+        "name": "Sigrid Andrea P. Bernardo",
+        "profilePath": "/87kCPD3zqRS7VDuJ579GI46iPQx.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1391450",
-    "fetchedAt": "2026-09-23T06:53:10.734Z"
+    "fetchedAt": "2026-09-24T17:04:22.098Z"
   },
   "I've Heard the Mermaids Singing": {
     "tmdbId": 117233,
@@ -20106,8 +21992,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 55439,
+        "name": "Patricia Rozema",
+        "profilePath": "/sAZRPReEcKhnOva7xXLLFbhd6je.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/117233",
-    "fetchedAt": "2026-09-23T06:53:10.965Z"
+    "fetchedAt": "2026-09-24T17:04:22.293Z"
   },
   "If These Walls Could Talk": {
     "tmdbId": 35203,
@@ -20406,8 +22300,46 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 38225,
+        "name": "Cher",
+        "profilePath": "/yDglV70XMu2cBWZigp5Jxd4etfv.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 93025,
+        "name": "Nancy Savoca",
+        "profilePath": "/7BkuX3MtvbX5jmKbYl3HZrHRxCp.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1033239,
+        "name": "Susan Nanus",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 57062,
+        "name": "I. Marlene King",
+        "profilePath": "/1VDsa1wDDxd9imAsm6qi28avkne.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 107441,
+        "name": "Pamela Wallace",
+        "profilePath": "",
+        "job": "Story"
+      },
+      {
+        "id": 57123,
+        "name": "Earl W. Wallace",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/35203",
-    "fetchedAt": "2026-09-23T06:53:11.162Z"
+    "fetchedAt": "2026-09-24T17:04:22.483Z"
   },
   "If These Walls Could Talk 2": {
     "tmdbId": 28031,
@@ -20594,8 +22526,40 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 63713,
+        "name": "Martha Coolidge",
+        "profilePath": "/tJyj0LOfbsmKJRdHTJXW6kYX9nn.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 59670,
+        "name": "Jane Anderson",
+        "profilePath": "/du9Lg9sE2m2W0NNC3WvI915l9EF.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 8256,
+        "name": "Anne Heche",
+        "profilePath": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 73628,
+        "name": "Sylvia Sichel",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 73622,
+        "name": "Alex Sichel",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/28031",
-    "fetchedAt": "2026-09-23T06:53:11.363Z"
+    "fetchedAt": "2026-09-24T17:04:22.673Z"
   },
   "Imagine Me & You": {
     "tmdbId": 1544,
@@ -20749,8 +22713,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 17510,
+        "name": "Ol Parker",
+        "profilePath": "/emW4AxRaKnKPkhR5wXttIA5qr24.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1544",
-    "fetchedAt": "2026-09-23T06:53:11.560Z"
+    "fetchedAt": "2026-09-24T17:04:22.865Z"
   },
   "The Incredibly True Adventure of Two Girls in Love": {
     "tmdbId": 29371,
@@ -20874,8 +22846,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 86035,
+        "name": "Maria Maggenti",
+        "profilePath": "/3xTFdlQ4a7iblxtl8fAls0elnCM.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/29371",
-    "fetchedAt": "2026-09-23T06:53:11.760Z"
+    "fetchedAt": "2026-09-24T17:04:23.063Z"
   },
   "Intermission": {
     "tmdbId": 993495,
@@ -20922,8 +22902,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3605399,
+        "name": "Chidozie C. Ahaiwe",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 3605398,
+        "name": "Famous Odion Iraoya",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 3605400,
+        "name": "Remi Okunlola",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/993495",
-    "fetchedAt": "2026-09-23T06:53:11.965Z"
+    "fetchedAt": "2026-09-24T17:04:23.258Z"
   },
   "The Investigator": {
     "tmdbId": 51783,
@@ -20983,8 +22983,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1245946,
+        "name": "Chris Oxley",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1747222,
+        "name": "Barbara Machin",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/51783",
-    "fetchedAt": "2026-09-23T06:53:12.178Z"
+    "fetchedAt": "2026-09-24T17:04:23.449Z"
   },
   "Jagged Mind": {
     "tmdbId": 1115939,
@@ -21086,8 +23100,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2717262,
+        "name": "Kelley Kalí",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1472881,
+        "name": "Allyson Morgan",
+        "profilePath": "/8gal3Ow4CDj0qW5c7F57Y4bW9Ji.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1115939",
-    "fetchedAt": "2026-09-23T06:53:12.392Z"
+    "fetchedAt": "2026-09-24T17:04:23.642Z"
   },
   "Je Tu Il Elle": {
     "tmdbId": 93934,
@@ -21130,8 +23158,28 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 130030,
+        "name": "Chantal Akerman",
+        "profilePath": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 999862,
+        "name": "Paul Paquay",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1311778,
+        "name": "Eric de Kuyper",
+        "profilePath": "/vn1BClDlNkUrXTRMHI5gaG6TZ52.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/93934",
-    "fetchedAt": "2026-09-23T06:53:12.587Z"
+    "fetchedAt": "2026-09-24T17:04:23.834Z"
   },
   "Jennifer's Body": {
     "tmdbId": 19994,
@@ -21367,8 +23415,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54025,
+        "name": "Karyn Kusama",
+        "profilePath": "/pfVHh9OEfgYPouqO3aSOxwmqoFS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 52444,
+        "name": "Diablo Cody",
+        "profilePath": "/941SrZwRQ0W4JShomOid0sgjtpU.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/19994",
-    "fetchedAt": "2026-09-23T06:53:12.782Z"
+    "fetchedAt": "2026-09-24T17:04:24.030Z"
   },
   "The Killing of Sister George": {
     "tmdbId": 54575,
@@ -21465,8 +23527,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 18392,
+        "name": "Robert Aldrich",
+        "profilePath": "/AvuC16e9Yw9sFBkj6aaXFy5vSno.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 21600,
+        "name": "Lukas Heller",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/54575",
-    "fetchedAt": "2026-09-23T06:53:12.986Z"
+    "fetchedAt": "2026-09-24T17:04:24.226Z"
   },
   "Kiss Me": {
     "tmdbId": 71325,
@@ -21527,8 +23603,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 562589,
+        "name": "Alexandra-Therese Keining",
+        "profilePath": "/vPTWCXWtPocpghyHqiHoi5bjzdR.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/71325",
-    "fetchedAt": "2026-09-23T06:53:13.185Z"
+    "fetchedAt": "2026-09-24T17:04:24.421Z"
   },
   "Kiss Me Kosher": {
     "tmdbId": 730585,
@@ -21643,8 +23727,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2733740,
+        "name": "Shirel Peleg",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/730585",
-    "fetchedAt": "2026-09-23T06:53:13.384Z"
+    "fetchedAt": "2026-09-24T17:04:24.655Z"
   },
   "Kokomo City": {
     "tmdbId": 1058678,
@@ -21774,8 +23866,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3820342,
+        "name": "D. Smith",
+        "profilePath": "/psSnqYcrzEZIov9ZcFPBudWEfGR.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1058678",
-    "fetchedAt": "2026-09-23T06:53:13.582Z"
+    "fetchedAt": "2026-09-24T17:04:24.853Z"
   },
   "Kommt Mausi raus?": {
     "tmdbId": 292602,
@@ -21879,8 +23979,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1363751,
+        "name": "Alexander Scherer",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 40016,
+        "name": "Angelina Maccarone",
+        "profilePath": "/yxkHcEK5CqXYLILQIqA2vf1COMV.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/292602",
-    "fetchedAt": "2026-09-23T06:53:13.783Z"
+    "fetchedAt": "2026-09-24T17:04:25.043Z"
   },
   "La Cigale et la Fourmi": {
     "tmdbId": 480256,
@@ -21941,8 +24055,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1902860,
+        "name": "Julia Ritschel",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/480256",
-    "fetchedAt": "2026-09-23T06:53:13.987Z"
+    "fetchedAt": "2026-09-24T17:04:25.235Z"
   },
   "Lee": {
     "tmdbId": 832964,
@@ -22135,8 +24257,40 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 313,
+        "name": "Ellen Kuras",
+        "profilePath": "/karbKVM0CPdRXbmLp4XX9oLQXSb.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3919256,
+        "name": "Marion Hume",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 55474,
+        "name": "John Collee",
+        "profilePath": "/521HIZiZfAVcgfudbvefZXAyBxN.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1774411,
+        "name": "Liz Hannah",
+        "profilePath": "/6EqNcBYbbbGkEU5xIP0aegpWTKL.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 23649,
+        "name": "Lem Dobbs",
+        "profilePath": "/2pMUZcTsKP04whP6YYPsVU1usg1.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/832964",
-    "fetchedAt": "2026-09-23T06:53:14.182Z"
+    "fetchedAt": "2026-09-24T17:04:25.426Z"
   },
   "Lesbian Avengers Eat Fire Too": {
     "tmdbId": 377364,
@@ -22159,8 +24313,22 @@ window.WLW_TMDB_DETAILS = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1307869,
+        "name": "Janet Baus",
+        "profilePath": "/tyBAzJ5rlkBiZqzGmCxM9ejjz8b.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1012174,
+        "name": "Su Friedrich",
+        "profilePath": "/nof0cZDTxovGwd1gnoK1r3dJQO4.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/377364",
-    "fetchedAt": "2026-09-23T06:53:14.377Z"
+    "fetchedAt": "2026-09-24T17:04:25.623Z"
   },
   "Lesbian Space Princess": {
     "tmdbId": 1333141,
@@ -22377,8 +24545,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1923073,
+        "name": "Emma Hough Hobbs",
+        "profilePath": "/pSKSmE9BIr4c9FELUxwLToWt1te.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2812436,
+        "name": "Leela Varghese",
+        "profilePath": "/fNYoh3Btlg6kMi7mLAKDj9Irvrr.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1333141",
-    "fetchedAt": "2026-09-23T06:53:14.572Z"
+    "fetchedAt": "2026-09-24T17:04:25.814Z"
   },
   "Lesvia": {
     "tmdbId": 1240099,
@@ -22416,8 +24598,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2743153,
+        "name": "Tzeli Hadjidimitriou",
+        "profilePath": "/x083HvPa5q6c20XegiiLPlyjuOa.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1240099",
-    "fetchedAt": "2026-09-23T06:53:14.769Z"
+    "fetchedAt": "2026-09-24T17:04:26.005Z"
   },
   "Lianna": {
     "tmdbId": 78177,
@@ -22583,8 +24773,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 102445,
+        "name": "John Sayles",
+        "profilePath": "/xJL2xLTDXGFe5t54xLx1hr0raaM.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/78177",
-    "fetchedAt": "2026-09-23T06:53:14.973Z"
+    "fetchedAt": "2026-09-24T17:04:26.207Z"
   },
   "Light Light Light": {
     "tmdbId": 727414,
@@ -22729,8 +24927,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1396219,
+        "name": "Inari Niemi",
+        "profilePath": "/wzka8cIFoJgKpAHWJf8yDDF5gVY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 593082,
+        "name": "Juuli Niemi",
+        "profilePath": "/46g24vAaKqCW5eDSSH7A2xjzInr.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/727414",
-    "fetchedAt": "2026-09-23T06:53:15.183Z"
+    "fetchedAt": "2026-09-24T17:04:26.402Z"
   },
   "The Little Sister": {
     "tmdbId": 961077,
@@ -22914,8 +25126,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54338,
+        "name": "Hafsia Herzi",
+        "profilePath": "/byx2NjdptzQtmt5kWZc7hf6Kqj9.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/961077",
-    "fetchedAt": "2026-09-23T06:53:15.385Z"
+    "fetchedAt": "2026-09-24T17:04:26.598Z"
   },
   "Little Trouble Girls": {
     "tmdbId": 1019871,
@@ -23029,8 +25249,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1686374,
+        "name": "Urška Djukić",
+        "profilePath": "/8FBsah8v2xia39DWzOaae7DhsI0.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1019871",
-    "fetchedAt": "2026-09-23T06:53:15.589Z"
+    "fetchedAt": "2026-09-24T17:04:26.791Z"
   },
   "Lizzie": {
     "tmdbId": 460071,
@@ -23127,8 +25355,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1033123,
+        "name": "Craig William Macneill",
+        "profilePath": "/4kC0EglmBaSSywymqjyVLQa5Jr1.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1335373,
+        "name": "Bryce Kass",
+        "profilePath": "/pjZKUOni6LooOchQtLuMuZ1IVAe.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/460071",
-    "fetchedAt": "2026-09-23T06:53:15.792Z"
+    "fetchedAt": "2026-09-24T17:04:26.982Z"
   },
   "Looking for Her": {
     "tmdbId": 1038157,
@@ -23239,8 +25481,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2327300,
+        "name": "Alexandra Swarens",
+        "profilePath": "/239aGV2lc1ef7ME4JPTda8eXDP2.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1038157",
-    "fetchedAt": "2026-09-23T06:53:15.990Z"
+    "fetchedAt": "2026-09-24T17:04:27.172Z"
   },
   "Losing Chase": {
     "tmdbId": 109614,
@@ -23329,8 +25579,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4724,
+        "name": "Kevin Bacon",
+        "profilePath": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 936106,
+        "name": "Anne Meredith",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/109614",
-    "fetchedAt": "2026-09-23T06:53:16.225Z"
+    "fetchedAt": "2026-09-24T17:04:27.365Z"
   },
   "Lost and Delirious": {
     "tmdbId": 17612,
@@ -23504,8 +25768,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 135534,
+        "name": "Léa Pool",
+        "profilePath": "/fMXEBvLgQRSVaJCCi56RDytvHWf.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 186755,
+        "name": "Judith Thompson",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/17612",
-    "fetchedAt": "2026-09-23T06:53:16.423Z"
+    "fetchedAt": "2026-09-24T17:04:27.556Z"
   },
   "Love and Desire": {
     "tmdbId": 308765,
@@ -23557,8 +25835,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 221552,
+        "name": "Judith Kennel",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 38532,
+        "name": "Günter Schütter",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/308765",
-    "fetchedAt": "2026-09-23T06:53:16.658Z"
+    "fetchedAt": "2026-09-24T17:04:27.751Z"
   },
   "Love Letters": {
     "tmdbId": 1119537,
@@ -23801,8 +26093,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1434424,
+        "name": "Alice Douard",
+        "profilePath": "/7Hr45YpLyUD7AXKPNyMfNKTvSBi.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1119537",
-    "fetchedAt": "2026-09-23T06:53:16.870Z"
+    "fetchedAt": "2026-09-24T17:04:27.947Z"
   },
   "Love Lies Bleeding": {
     "tmdbId": 948549,
@@ -23903,8 +26203,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/pAeQ4SL8ZY5UvEHakFLccO8gAaL.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2219327,
+        "name": "Rose Glass",
+        "profilePath": "/7cKh7iWFMD77CMz9rP0pdyXMPCK.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2515064,
+        "name": "Weronika Tofilska",
+        "profilePath": "/1HUl2aTDM7eVwInb51K1lSossPr.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/948549",
-    "fetchedAt": "2026-09-23T06:53:17.076Z"
+    "fetchedAt": "2026-09-24T17:04:28.140Z"
   },
   "Love Me Tender": {
     "tmdbId": 1290450,
@@ -24060,8 +26374,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1984372,
+        "name": "Anna Cazenave Cambet",
+        "profilePath": "/rGNHXilSSwGbzLFzqCB8ZX5Pk96.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1290450",
-    "fetchedAt": "2026-09-23T06:53:17.311Z"
+    "fetchedAt": "2026-09-24T17:04:28.341Z"
   },
   "Lovesong": {
     "tmdbId": 371447,
@@ -24160,8 +26482,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 131397,
+        "name": "So Yong Kim",
+        "profilePath": "/yqtYtkkcHq3v3Ji3465FbSr2MgU.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 131388,
+        "name": "Bradley Rust Gray",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/371447",
-    "fetchedAt": "2026-09-23T06:53:17.512Z"
+    "fetchedAt": "2026-09-24T17:04:28.535Z"
   },
   "Loving Annabelle": {
     "tmdbId": 19344,
@@ -24320,8 +26656,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 84515,
+        "name": "Katherine Brooks",
+        "profilePath": "/u7O5XpqmO52916ryBbMuYxfeW3h.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/19344",
-    "fetchedAt": "2026-09-23T06:53:17.715Z"
+    "fetchedAt": "2026-09-24T17:04:28.723Z"
   },
   "Loving Highsmith": {
     "tmdbId": 915939,
@@ -24428,8 +26772,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1619897,
+        "name": "Eva Vitija",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/915939",
-    "fetchedAt": "2026-09-23T06:53:17.915Z"
+    "fetchedAt": "2026-09-24T17:04:28.914Z"
   },
   "Ma Belle, My Beauty": {
     "tmdbId": 776586,
@@ -24532,8 +26884,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1948963,
+        "name": "Marion Hill",
+        "profilePath": "/dIU2xcCJcO9iNwnh3g2SK7CSUIU.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/776586",
-    "fetchedAt": "2026-09-23T06:53:18.112Z"
+    "fetchedAt": "2026-09-24T17:04:29.108Z"
   },
   "Mädchen in Uniform": {
     "tmdbId": 4955,
@@ -24730,8 +27090,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 40983,
+        "name": "Géza von Radványi",
+        "profilePath": "/zPjmNOhDyUyfOPDQGQMIikXcAVX.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 40985,
+        "name": "Franz Höllering",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 40986,
+        "name": "Friedrich Dammann",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/4955",
-    "fetchedAt": "2026-09-23T06:53:18.316Z"
+    "fetchedAt": "2026-09-24T17:04:29.296Z"
   },
   "May December": {
     "tmdbId": 839369,
@@ -24889,8 +27269,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 16863,
+        "name": "Todd Haynes",
+        "profilePath": "/wBDazO2j49uoquoHTEDxcniyGGC.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1887252,
+        "name": "Samy Burch",
+        "profilePath": "/vtIeOc09F5I6JjvLfW5HhmzXx8S.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1335496,
+        "name": "Alex Mechanik",
+        "profilePath": "/tuWNhucg9GqLEyZvtH1Dod30hr5.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/839369",
-    "fetchedAt": "2026-09-23T06:53:18.527Z"
+    "fetchedAt": "2026-09-24T17:04:29.487Z"
   },
   "Maya & Samar": {
     "tmdbId": 1513996,
@@ -24952,8 +27352,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 980284,
+        "name": "Anita Doron",
+        "profilePath": "/sUdqs0YvQk77RJaeH0gVlHhvPpR.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1304383,
+        "name": "Tamara Berger",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1513996",
-    "fetchedAt": "2026-09-23T06:53:18.725Z"
+    "fetchedAt": "2026-09-24T17:04:29.677Z"
   },
   "Maybe Tomorrow": {
     "tmdbId": 398694,
@@ -24993,8 +27407,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/wPY2Unyj1AADqib2nDVY7w2EBCS.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1624253,
+        "name": "Alex K. Lee",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/398694",
-    "fetchedAt": "2026-09-23T06:53:18.928Z"
+    "fetchedAt": "2026-09-24T17:04:29.871Z"
   },
   "Mean Girls": {
     "tmdbId": 673593,
@@ -25831,8 +28253,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1438991,
+        "name": "Arturo Perez Jr.",
+        "profilePath": "/mqiln7mLClus5a3OOBYjHopXiFc.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1438990,
+        "name": "Samantha Jayne",
+        "profilePath": "/uqsuY2H0rfteUD0dvZuFpSJ50wO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 56323,
+        "name": "Tina Fey",
+        "profilePath": "/yPTAi1iucXf85UpiFPtyiTSM6do.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/673593",
-    "fetchedAt": "2026-09-23T06:53:19.131Z"
+    "fetchedAt": "2026-09-24T17:04:30.063Z"
   },
   "Mercy's Girl": {
     "tmdbId": 581790,
@@ -25976,8 +28418,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1020780,
+        "name": "Emily Lape",
+        "profilePath": "/5xA6XvVkiUikYxuuRtNJB4qy7vt.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/581790",
-    "fetchedAt": "2026-09-23T06:53:19.354Z"
+    "fetchedAt": "2026-09-24T17:04:30.259Z"
   },
   "Montreal, My Beautiful": {
     "tmdbId": 1178620,
@@ -26276,8 +28726,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2068635,
+        "name": "Xiaodan He",
+        "profilePath": "/51tpchYuUSFfZ8S9EboJSugZOp4.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1178620",
-    "fetchedAt": "2026-09-23T06:53:19.553Z"
+    "fetchedAt": "2026-09-24T17:04:30.460Z"
   },
   "Mulholland Drive": {
     "tmdbId": 1018,
@@ -26574,8 +29032,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 5602,
+        "name": "David Lynch",
+        "profilePath": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1018",
-    "fetchedAt": "2026-09-23T06:53:19.747Z"
+    "fetchedAt": "2026-09-24T17:04:30.655Z"
   },
   "Murmur": {
     "tmdbId": 813848,
@@ -26629,8 +29095,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 41886,
+        "name": "Mark Polish",
+        "profilePath": "/5HmEhRjyZa1xIiXQeZALsOmm01E.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/813848",
-    "fetchedAt": "2026-09-23T06:53:19.959Z"
+    "fetchedAt": "2026-09-24T17:04:30.877Z"
   },
   "My Animal": {
     "tmdbId": 1058689,
@@ -26731,8 +29205,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/vjWRNHm6vyceNozGInMv55FJ1sJ.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1572827,
+        "name": "Jacqueline Castel",
+        "profilePath": "/kEDHAJdFG6fsihhNKYvnb5XNG1I.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2205885,
+        "name": "Jae Matthews",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1058689",
-    "fetchedAt": "2026-09-23T06:53:20.155Z"
+    "fetchedAt": "2026-09-24T17:04:31.068Z"
   },
   "My Days of Mercy": {
     "tmdbId": 434714,
@@ -26826,8 +29314,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/xpcGiihwyH17Qv5HWKrgTkN6R1R.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1394326,
+        "name": "Tali Shalom-Ezer",
+        "profilePath": "/pVuESpaF2kKRYipiDDIkAI9my0t.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 226587,
+        "name": "Joe Barton",
+        "profilePath": "/tWeZkL0zVWeAI5moTAlDJSUVCOA.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/434714",
-    "fetchedAt": "2026-09-23T06:53:20.357Z"
+    "fetchedAt": "2026-09-24T17:04:31.259Z"
   },
   "My First Summer": {
     "tmdbId": 741011,
@@ -26880,8 +29382,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2770898,
+        "name": "Katie Found",
+        "profilePath": "/mzvIwyLzmKO7LdroUGy7ZahH3nZ.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/741011",
-    "fetchedAt": "2026-09-23T06:53:20.558Z"
+    "fetchedAt": "2026-09-24T17:04:31.458Z"
   },
   "My Mother's Wedding": {
     "tmdbId": 985602,
@@ -26971,11 +29481,25 @@ window.WLW_TMDB_DETAILS = {
         "name": "Jaime Schneider",
         "character": "Tom",
         "order": 16,
-        "profilePath": ""
+        "profilePath": "/8p6qWotRaeTfuWLUGREjgFRPQve.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "id": 5470,
+        "name": "Kristin Scott Thomas",
+        "profilePath": "/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3581355,
+        "name": "John Micklethwait",
+        "profilePath": "",
+        "job": "Writer"
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/movie/985602",
-    "fetchedAt": "2026-09-23T06:53:20.756Z"
+    "fetchedAt": "2026-09-24T17:04:31.648Z"
   },
   "My Normal": {
     "tmdbId": 62543,
@@ -27107,8 +29631,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1059322,
+        "name": "Irving Schwartz",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 235509,
+        "name": "Renee Garzon",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/62543",
-    "fetchedAt": "2026-09-23T06:53:20.960Z"
+    "fetchedAt": "2026-09-24T17:04:31.839Z"
   },
   "My Sole Desire": {
     "tmdbId": 960292,
@@ -27302,8 +29840,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 213451,
+        "name": "Lucie Borleteau",
+        "profilePath": "/341oz0pZaiG2GFJHwvJa0YVjHJ0.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1494083,
+        "name": "Clara Bourreau",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1863160,
+        "name": "Laure Giappiconi",
+        "profilePath": "/xYvWYLB3qDHmDvqWLv6N9AS44IQ.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/960292",
-    "fetchedAt": "2026-09-23T06:53:21.165Z"
+    "fetchedAt": "2026-09-24T17:04:32.033Z"
   },
   "My Summer of Love": {
     "tmdbId": 9709,
@@ -27363,8 +29921,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 64194,
+        "name": "Paweł Pawlikowski",
+        "profilePath": "/qCrYlDLL12q8zhjK1HqYPT5gsWI.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 58699,
+        "name": "Michael Wynne",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/9709",
-    "fetchedAt": "2026-09-23T06:53:21.365Z"
+    "fetchedAt": "2026-09-24T17:04:32.226Z"
   },
   "Nachbarinnen": {
     "tmdbId": 230680,
@@ -27423,8 +29995,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 51193,
+        "name": "Franziska Meletzky",
+        "profilePath": "/fhaxvrUWgFPS4aZ5PJbMwaQZK1w.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 51194,
+        "name": "Elke Rössler",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/230680",
-    "fetchedAt": "2026-09-23T06:53:21.567Z"
+    "fetchedAt": "2026-09-24T17:04:32.421Z"
   },
   "Nelly & Nadine": {
     "tmdbId": 916437,
@@ -27716,8 +30302,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1066990,
+        "name": "Magnus Gertten",
+        "profilePath": "/iRQk9IrWWYXBzqjL34bhm3eFzU1.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1096493,
+        "name": "Jesper Osmund",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/916437",
-    "fetchedAt": "2026-09-23T06:53:21.802Z"
+    "fetchedAt": "2026-09-24T17:04:32.610Z"
   },
   "The New Girlfriend": {
     "tmdbId": 283726,
@@ -27959,8 +30559,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4387,
+        "name": "François Ozon",
+        "profilePath": "/gjXDLWWMlypNp2R4ALMhR9JMf18.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/283726",
-    "fetchedAt": "2026-09-23T06:53:22.010Z"
+    "fetchedAt": "2026-09-24T17:04:32.799Z"
   },
   "The Night Watch": {
     "tmdbId": 70214,
@@ -28038,7 +30646,7 @@ window.WLW_TMDB_DETAILS = {
         "name": "Phoebe Waller-Bridge",
         "character": "Lauren",
         "order": 23,
-        "profilePath": "/iqUzSjfy6YA6CKLfOvws4RyA58E.jpg"
+        "profilePath": "/5VbadQsYCKdiJysP01LJFPmYB8A.jpg"
       }
     ],
     "unclassifiedCast": [
@@ -28064,8 +30672,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 122590,
+        "name": "Richard Laxton",
+        "profilePath": "/j61anPcjfv1hwiGzwwAi152fStf.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 139158,
+        "name": "Paula Milne",
+        "profilePath": "/aknjxZpijYORAq5uci8K6nSQZZT.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/70214",
-    "fetchedAt": "2026-09-23T06:53:22.205Z"
+    "fetchedAt": "2026-09-24T17:04:32.992Z"
   },
   "The Non-Actor": {
     "tmdbId": 1396608,
@@ -28125,8 +30747,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3530278,
+        "name": "Eliza Barry Callahan",
+        "profilePath": "/tNiTY6R9SAIVglzF5cLBPJevPJh.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1396608",
-    "fetchedAt": "2026-09-23T06:53:22.407Z"
+    "fetchedAt": "2026-09-24T17:04:33.193Z"
   },
   "Notes on a Scandal": {
     "tmdbId": 1259,
@@ -28281,8 +30911,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 36693,
+        "name": "Richard Eyre",
+        "profilePath": "/bWcMJmEkdx0ZrLI2oogA9iF3FXJ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 23606,
+        "name": "Patrick Marber",
+        "profilePath": "/gKQHT10lVXPvAyD062svcAGdkjo.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1259",
-    "fetchedAt": "2026-09-23T06:53:22.603Z"
+    "fetchedAt": "2026-09-24T17:04:33.391Z"
   },
   "The Novice": {
     "tmdbId": 821427,
@@ -28405,8 +31049,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1437193,
+        "name": "Lauren Hadaway",
+        "profilePath": "/n8yvg8bs1wNBSu3DXvWDcC68hUr.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/821427",
-    "fetchedAt": "2026-09-23T06:53:22.806Z"
+    "fetchedAt": "2026-09-24T17:04:33.582Z"
   },
   "Novitiate": {
     "tmdbId": 411976,
@@ -28928,8 +31580,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1667819,
+        "name": "Margaret Betts",
+        "profilePath": "/tDxTMkRY1JEuJCxpq8BGlkzAxit.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/411976",
-    "fetchedAt": "2026-09-23T06:53:23.007Z"
+    "fetchedAt": "2026-09-24T17:04:33.771Z"
   },
   "Official Competition": {
     "tmdbId": 668640,
@@ -29085,8 +31745,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 584193,
+        "name": "Mariano Cohn",
+        "profilePath": "/ojioeKl18KByUrAoZlu2DHA9102.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 584191,
+        "name": "Gastón Duprat",
+        "profilePath": "/g3jWX7zVIh3u3m53Ow2W3kf7Y8X.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 584195,
+        "name": "Andrés Duprat",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/668640",
-    "fetchedAt": "2026-09-23T06:53:23.207Z"
+    "fetchedAt": "2026-09-24T17:04:33.961Z"
   },
   "Olivia": {
     "tmdbId": 257862,
@@ -29364,8 +32044,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 239378,
+        "name": "Jacqueline Audry",
+        "profilePath": "/rbqrkdksZnl1AEfrJOoEF0bamkY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1548999,
+        "name": "Colette Audry",
+        "profilePath": "/g6PxT8aLy9S5Pkrd88HYRsawffD.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 1063185,
+        "name": "Pierre Laroche",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/257862",
-    "fetchedAt": "2026-09-23T06:53:23.404Z"
+    "fetchedAt": "2026-09-24T17:04:34.157Z"
   },
   "On the Edge": {
     "tmdbId": 579875,
@@ -29467,8 +32167,34 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/lr43kBhNXdebbT3QNzqia1O8nZb.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1614176,
+        "name": "Eduard Bordukov",
+        "profilePath": "/5RXVZ3yfiwQ9lMfZNk3CTTog1kI.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2669962,
+        "name": "Mikhail Kakuberi",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 2669963,
+        "name": "Alexander Egorov",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 3052408,
+        "name": "Anna Sobolevskaya",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/579875",
-    "fetchedAt": "2026-09-23T06:53:23.606Z"
+    "fetchedAt": "2026-09-24T17:04:34.348Z"
   },
   "One in a Thousand": {
     "tmdbId": 656276,
@@ -29687,8 +32413,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1803578,
+        "name": "Clarisa Navas",
+        "profilePath": "/pNArV8PbMb7mFYCVa8quBQivSfd.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/656276",
-    "fetchedAt": "2026-09-23T06:53:23.808Z"
+    "fetchedAt": "2026-09-24T17:04:34.543Z"
   },
   "Only the Animals": {
     "tmdbId": 574321,
@@ -29759,8 +32493,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 18175,
+        "name": "Dominik Moll",
+        "profilePath": "/9xHD0HQEhW9obWiplB8QDGgXdbr.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 18176,
+        "name": "Gilles Marchand",
+        "profilePath": "/gVaFmtnX00rxMRgPhav0rI2OSsw.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/574321",
-    "fetchedAt": "2026-09-23T06:53:24.031Z"
+    "fetchedAt": "2026-09-24T17:04:34.734Z"
   },
   "Open Endings": {
     "tmdbId": 1422089,
@@ -29842,8 +32590,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/24PQZdplFZqwZzXWXqV5FeOnJ6m.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2390863,
+        "name": "Nigel Santos",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2097849,
+        "name": "Keavy Eunice Vicente",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1422089",
-    "fetchedAt": "2026-09-23T06:53:24.234Z"
+    "fetchedAt": "2026-09-24T17:04:34.927Z"
   },
   "Open My Heart": {
     "tmdbId": 80291,
@@ -29896,8 +32658,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 589134,
+        "name": "Giada Colagrande",
+        "profilePath": "/lwMe4adaBetNyNeucYb6w0xmthQ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 4935543,
+        "name": "Francesco Di Pace",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/80291",
-    "fetchedAt": "2026-09-23T06:53:24.434Z"
+    "fetchedAt": "2026-09-24T17:04:35.131Z"
   },
   "Ordinary Girl in a Tiara": {
     "tmdbId": 1503322,
@@ -29999,8 +32775,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1098663,
+        "name": "Meeshelle Neal",
+        "profilePath": "/9taLq0G8hAVRA3cT4PeFt1UwqI2.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1197099,
+        "name": "Lisa Rose Snow",
+        "profilePath": "/b7gmbs8dIgdRfTW3632yhxxhd1A.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1503322",
-    "fetchedAt": "2026-09-23T06:53:24.650Z"
+    "fetchedAt": "2026-09-24T17:04:35.325Z"
   },
   "Out at the Wedding": {
     "tmdbId": 85330,
@@ -30097,8 +32887,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 994163,
+        "name": "Lee Friedlander",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 987025,
+        "name": "Paula Goldberg",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/85330",
-    "fetchedAt": "2026-09-23T06:53:24.848Z"
+    "fetchedAt": "2026-09-24T17:04:35.523Z"
   },
   "Para:dies": {
     "tmdbId": 917172,
@@ -30151,8 +32955,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/9Kic27CTyn4L6QItw45N0sCoJHb.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 3350399,
+        "name": "Elena Wolff",
+        "profilePath": "/lDcVnknYzDbQxojMtoSL8WWHqcY.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/917172",
-    "fetchedAt": "2026-09-23T06:53:25.047Z"
+    "fetchedAt": "2026-09-24T17:04:35.712Z"
   },
   "Pariah": {
     "tmdbId": 73939,
@@ -30366,8 +33178,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 472630,
+        "name": "Dee Rees",
+        "profilePath": "/rtfooBEfbkubWgNZYDSFzruRAF9.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/73939",
-    "fetchedAt": "2026-09-23T06:53:25.247Z"
+    "fetchedAt": "2026-09-24T17:04:35.907Z"
   },
   "Personal Best": {
     "tmdbId": 27609,
@@ -30700,8 +33520,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 11057,
+        "name": "Robert Towne",
+        "profilePath": "/zyvIWuId4ayFSV8dCNlCndjdFLd.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/27609",
-    "fetchedAt": "2026-09-23T06:53:25.446Z"
+    "fetchedAt": "2026-09-24T17:04:36.155Z"
   },
   "Pitch Perfect": {
     "tmdbId": 114150,
@@ -31379,8 +34207,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/p3xL2hLlIvdX8FFUwC3XFKQaISm.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 168667,
+        "name": "Jason Moore",
+        "profilePath": "/iM4Dwtt8JSOYyZSgPOuBn89MWeu.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 208664,
+        "name": "Kay Cannon",
+        "profilePath": "/3d61uWFZjkIt3Xzgsb649DgXQHR.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/114150",
-    "fetchedAt": "2026-09-23T06:53:25.643Z"
+    "fetchedAt": "2026-09-24T17:04:36.346Z"
   },
   "Pitch Perfect 2": {
     "tmdbId": 254470,
@@ -31980,8 +34822,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 9281,
+        "name": "Elizabeth Banks",
+        "profilePath": "/szqEXmC0oAqRnN7zt1XAsbHpJfW.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 208664,
+        "name": "Kay Cannon",
+        "profilePath": "/3d61uWFZjkIt3Xzgsb649DgXQHR.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/254470",
-    "fetchedAt": "2026-09-23T06:53:25.842Z"
+    "fetchedAt": "2026-09-24T17:04:36.553Z"
   },
   "Pitch Perfect 3": {
     "tmdbId": 353616,
@@ -32196,8 +35052,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1278722,
+        "name": "Trish Sie",
+        "profilePath": "/wB8cnaVXGikYjoWhcyvcNf8wWi9.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 208664,
+        "name": "Kay Cannon",
+        "profilePath": "/3d61uWFZjkIt3Xzgsb649DgXQHR.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 17735,
+        "name": "Mike White",
+        "profilePath": "/eJpW9GKmWh0W7enmjjZQ8MIEzoI.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/353616",
-    "fetchedAt": "2026-09-23T06:53:26.053Z"
+    "fetchedAt": "2026-09-24T17:04:36.741Z"
   },
   "Polarized": {
     "tmdbId": 987427,
@@ -32333,8 +35209,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 107753,
+        "name": "Shamim Sarif",
+        "profilePath": "/lg2xNYLyfMzYuZGXFnCR7SGRbrC.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/987427",
-    "fetchedAt": "2026-09-23T06:53:26.253Z"
+    "fetchedAt": "2026-09-24T17:04:36.930Z"
   },
   "Portrait of a Lady on Fire": {
     "tmdbId": 531428,
@@ -32401,8 +35285,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 68813,
+        "name": "Céline Sciamma",
+        "profilePath": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/531428",
-    "fetchedAt": "2026-09-23T06:53:26.452Z"
+    "fetchedAt": "2026-09-24T17:04:37.119Z"
   },
   "Practical Magic": {
     "tmdbId": 6435,
@@ -32459,7 +35351,7 @@ window.WLW_TMDB_DETAILS = {
         "name": "Evan Rachel Wood",
         "character": "Kylie Owens",
         "order": 6,
-        "profilePath": "/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg"
+        "profilePath": "/oVp8ctWKjskREG5bPoMGL1NOGdt.jpg"
       },
       {
         "id": 51681,
@@ -32625,8 +35517,34 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2171,
+        "name": "Griffin Dunne",
+        "profilePath": "/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 19852,
+        "name": "Robin Swicord",
+        "profilePath": "/nTNwIS7WIKG0gUBIeEJPR9PoPaq.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 5575,
+        "name": "Akiva Goldsman",
+        "profilePath": "/7dWsuEUrC7AmAzZAeNstZ2zg1M8.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 16328,
+        "name": "Adam Brooks",
+        "profilePath": "/d9evoYfFnjsFY3sV1FOtgaUxbj3.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/6435",
-    "fetchedAt": "2026-09-23T06:53:26.671Z"
+    "fetchedAt": "2026-09-24T17:04:37.321Z"
   },
   "Princess Cyd": {
     "tmdbId": 454889,
@@ -32868,8 +35786,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 592318,
+        "name": "Stephen Cone",
+        "profilePath": "/yp5hzePC2uGWakcAbrwzggRpxgb.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/454889",
-    "fetchedAt": "2026-09-23T06:53:26.869Z"
+    "fetchedAt": "2026-09-24T17:04:37.512Z"
   },
   "Puccini for Beginners": {
     "tmdbId": 20405,
@@ -32945,8 +35871,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/Ys7zUJlpwAS178kWyI6UNyJui0.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 86035,
+        "name": "Maria Maggenti",
+        "profilePath": "/3xTFdlQ4a7iblxtl8fAls0elnCM.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/20405",
-    "fetchedAt": "2026-09-23T06:53:27.063Z"
+    "fetchedAt": "2026-09-24T17:04:37.707Z"
   },
   "Queens of Drama": {
     "tmdbId": 1001376,
@@ -33057,8 +35991,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1591624,
+        "name": "Alexis Langlois",
+        "profilePath": "/k8YxVmCUZg2ZYFZ3L2cvFmxUHrD.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3628572,
+        "name": "Thomas Colineau",
+        "profilePath": "/pYA788V16nGQ6hVJUTUOogDgwuw.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 2155340,
+        "name": "Carlotta Coco",
+        "profilePath": "/3QkboBhkgKnoFH3OgSIV3bwlpJY.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1001376",
-    "fetchedAt": "2026-09-23T06:53:27.274Z"
+    "fetchedAt": "2026-09-24T17:04:37.920Z"
   },
   "Radical Hearts": {
     "tmdbId": 1204663,
@@ -33076,8 +36030,16 @@ window.WLW_TMDB_DETAILS = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 3877985,
+        "name": "Ciara Hyland",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1204663",
-    "fetchedAt": "2026-09-23T06:53:27.483Z"
+    "fetchedAt": "2026-09-24T17:04:38.113Z"
   },
   "Rafiki": {
     "tmdbId": 517987,
@@ -33296,8 +36258,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 132360,
+        "name": "Wanuri Kahiu",
+        "profilePath": "/szyDl9GeiEKUarUjEvB71x51Rzd.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1406229,
+        "name": "Jenna Cato Bass",
+        "profilePath": "/wA4k94JfXMB1yuQlBLaDClbufNj.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/517987",
-    "fetchedAt": "2026-09-23T06:53:27.683Z"
+    "fetchedAt": "2026-09-24T17:04:38.302Z"
   },
   "Reaching for the Moon": {
     "tmdbId": 167683,
@@ -33372,8 +36348,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 69719,
+        "name": "Bruno Barreto",
+        "profilePath": "/rfoIOJvo7jcRuPY17u3BwUOTNbn.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 21808,
+        "name": "Matthew Chapman",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/167683",
-    "fetchedAt": "2026-09-23T06:53:27.877Z"
+    "fetchedAt": "2026-09-24T17:04:38.494Z"
   },
   "Rebel Dykes": {
     "tmdbId": 797874,
@@ -33398,8 +36388,22 @@ window.WLW_TMDB_DETAILS = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2035048,
+        "name": "Harri Shanahan",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2035051,
+        "name": "Sian Williams",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/797874",
-    "fetchedAt": "2026-09-23T06:53:28.074Z"
+    "fetchedAt": "2026-09-24T17:04:38.691Z"
   },
   "Replay": {
     "tmdbId": 47254,
@@ -33521,8 +36525,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 73654,
+        "name": "Catherine Corsini",
+        "profilePath": "/lqqRBss3Zs8lkfLZstsV7slEInY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1385636,
+        "name": "Pascale Breton",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1362350,
+        "name": "Pierre Erwan Guillaume",
+        "profilePath": "/yTaCEwd9PgaNDjOWFYSup1W8bd6.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/47254",
-    "fetchedAt": "2026-09-23T06:53:28.300Z"
+    "fetchedAt": "2026-09-24T17:04:38.887Z"
   },
   "Sally": {
     "tmdbId": 1242382,
@@ -33659,8 +36683,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1942785,
+        "name": "Cristina Costantini",
+        "profilePath": "/gbykAgttByNMWmlcj5kiCxO08Pl.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2543620,
+        "name": "Tom Maroney",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1242382",
-    "fetchedAt": "2026-09-23T06:53:28.504Z"
+    "fetchedAt": "2026-09-24T17:04:39.078Z"
   },
   "Saving Face": {
     "tmdbId": 19316,
@@ -33890,8 +36928,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 84461,
+        "name": "Alice Wu",
+        "profilePath": "/4nOKxXZwwczb6icdmPc1L3UiUG.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/19316",
-    "fetchedAt": "2026-09-23T06:53:28.698Z"
+    "fetchedAt": "2026-09-24T17:04:39.276Z"
   },
   "Scrubbers": {
     "tmdbId": 74329,
@@ -34140,8 +37186,34 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 55156,
+        "name": "Mai Zetterling",
+        "profilePath": "/9F7epVzmm38e3rgLXFM6G6sOZmP.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 958845,
+        "name": "Susannah Buxton",
+        "profilePath": "/9MNN0jgxn8qZc6BrtBPBkYpwXtp.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 217642,
+        "name": "Roy Minton",
+        "profilePath": "/1LJusvuDx0G8yLAcyOX0i17i4F3.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 933550,
+        "name": "Jeremy Watt",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/74329",
-    "fetchedAt": "2026-09-23T06:53:28.901Z"
+    "fetchedAt": "2026-09-24T17:04:39.472Z"
   },
   "Season of Love": {
     "tmdbId": 606243,
@@ -34370,8 +37442,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2301180,
+        "name": "Christin Baker",
+        "profilePath": "/3QZ1YmOYhcxpQVA5peao9GdwK7l.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2327158,
+        "name": "Kathryn Trammell",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/606243",
-    "fetchedAt": "2026-09-23T06:53:29.100Z"
+    "fetchedAt": "2026-09-24T17:04:39.669Z"
   },
   "The Secret Diaries of Miss Anne Lister": {
     "tmdbId": 42548,
@@ -34475,8 +37561,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 211659,
+        "name": "James Kent",
+        "profilePath": "/wVriFTqzZDHDgFaricNulLg13a4.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 139157,
+        "name": "Jane English",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/42548",
-    "fetchedAt": "2026-09-23T06:53:29.316Z"
+    "fetchedAt": "2026-09-24T17:04:39.861Z"
   },
   "See You Soon": {
     "tmdbId": 1440931,
@@ -34515,8 +37615,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/yUxdVLIaF0cCnhOi4d17A8qthft.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2327300,
+        "name": "Alexandra Swarens",
+        "profilePath": "/239aGV2lc1ef7ME4JPTda8eXDP2.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1440931",
-    "fetchedAt": "2026-09-23T06:53:29.509Z"
+    "fetchedAt": "2026-09-24T17:04:40.056Z"
   },
   "Senza Fine": {
     "tmdbId": 856367,
@@ -34564,8 +37672,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1140122,
+        "name": "Elisa Fuksas",
+        "profilePath": "/vs0oeu8w2fEz91nec355rsoFGtP.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 35121,
+        "name": "Monica Rametta",
+        "profilePath": "/4PB1gs5WO82bGR4UPZsFHGmtXd4.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/856367",
-    "fetchedAt": "2026-09-23T06:53:29.712Z"
+    "fetchedAt": "2026-09-24T17:04:40.251Z"
   },
   "The Serpent's Skin": {
     "tmdbId": 1407278,
@@ -34707,8 +37829,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3060007,
+        "name": "Alice Maio Mackay",
+        "profilePath": "/9zFFPqprXNW3HcD1NXywbTkPQdY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3060008,
+        "name": "Ben Pahl Robinson",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1407278",
-    "fetchedAt": "2026-09-23T06:53:29.915Z"
+    "fetchedAt": "2026-09-24T17:04:40.439Z"
   },
   "Show Me Love": {
     "tmdbId": 11634,
@@ -34865,8 +38001,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 11037,
+        "name": "Lukas Moodysson",
+        "profilePath": "/9h6dyFQpzf7wTEpVMn9celf2iOI.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/11634",
-    "fetchedAt": "2026-09-23T06:53:30.122Z"
+    "fetchedAt": "2026-09-24T17:04:40.628Z"
   },
   "Siebzehn": {
     "tmdbId": 434504,
@@ -34953,8 +38097,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1286460,
+        "name": "Monja Art",
+        "profilePath": "/5eAdnl1I0UYuLuYouYK8XdZEgda.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/434504",
-    "fetchedAt": "2026-09-23T06:53:30.346Z"
+    "fetchedAt": "2026-09-24T17:04:40.815Z"
   },
   "The Sign of the Cross": {
     "tmdbId": 50070,
@@ -35029,8 +38181,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 8636,
+        "name": "Cecil B. DeMille",
+        "profilePath": "/lxY61cx23rcCenlTvcwn8Cmpnrp.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 29756,
+        "name": "Waldemar Young",
+        "profilePath": "/w3KoXLzUdpeoDYZw58wBOcF0ziw.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 30208,
+        "name": "Sidney Buchman",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/50070",
-    "fetchedAt": "2026-09-23T06:53:30.545Z"
+    "fetchedAt": "2026-09-24T17:04:41.009Z"
   },
   "Silver Haze": {
     "tmdbId": 936385,
@@ -35179,8 +38351,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1060223,
+        "name": "Sacha Polak",
+        "profilePath": "/ia7Aw9uDgu4sS8LdmXBRSoWnBhl.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/936385",
-    "fetchedAt": "2026-09-23T06:53:30.748Z"
+    "fetchedAt": "2026-09-24T17:04:41.197Z"
   },
   "Sister My Sister": {
     "tmdbId": 44925,
@@ -35269,8 +38449,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1112916,
+        "name": "Nancy Meckler",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1150087,
+        "name": "Wendy Kesselman",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/44925",
-    "fetchedAt": "2026-09-23T06:53:30.947Z"
+    "fetchedAt": "2026-09-24T17:04:41.393Z"
   },
   "Sisterhood": {
     "tmdbId": 444973,
@@ -35382,8 +38576,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/fzZFvz3BLcofcz3Ufr6PfDeS8mM.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 3599163,
+        "name": "Tracy Choi Ian-Sin",
+        "profilePath": "/gl2sJ4sr229xEU6TujacuyZBAuB.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 135830,
+        "name": "Au Kin-Yee",
+        "profilePath": "/aT09fkIAKVe18p6SKwsjOC35QLe.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/444973",
-    "fetchedAt": "2026-09-23T06:53:31.149Z"
+    "fetchedAt": "2026-09-24T17:04:41.588Z"
   },
   "Skin Deep": {
     "tmdbId": 320642,
@@ -35471,8 +38679,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1812036,
+        "name": "Jonnie Leahy",
+        "profilePath": "/oY9hklhZgwtlC9ZUSyAmwAyhJdT.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1583064,
+        "name": "Monica Zanetti",
+        "profilePath": "/7dTVkPGXSiDkpNcfOiUUMkq9G5D.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/320642",
-    "fetchedAt": "2026-09-23T06:53:31.352Z"
+    "fetchedAt": "2026-09-24T17:04:41.780Z"
   },
   "Snapshots": {
     "tmdbId": 507697,
@@ -35553,8 +38775,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 83313,
+        "name": "Melanie Mayron",
+        "profilePath": "/sI38VFYahukXe2NPVSCTMjP6nK6.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1841604,
+        "name": "Jan Miller Corran",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 169293,
+        "name": "Katherine Cortez",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/507697",
-    "fetchedAt": "2026-09-23T06:53:31.551Z"
+    "fetchedAt": "2026-09-24T17:04:41.971Z"
   },
   "So Damn Easy Going": {
     "tmdbId": 860709,
@@ -35682,8 +38924,34 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2591493,
+        "name": "Christoffer Sandler",
+        "profilePath": "/uTsVP93oR94MDAiZT9ep23iuKxO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1422968,
+        "name": "Linda-Maria Birbeck",
+        "profilePath": "/bhGKCraIPxk4oI6FXH2AVa5cDGR.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 3005139,
+        "name": "Lina Åström",
+        "profilePath": "",
+        "job": "Story"
+      },
+      {
+        "id": 2943398,
+        "name": "Jessika Jankert",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/860709",
-    "fetchedAt": "2026-09-23T06:53:31.762Z"
+    "fetchedAt": "2026-09-24T17:04:42.198Z"
   },
   "Sœur Sourire": {
     "tmdbId": 17486,
@@ -35782,8 +39050,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/fSuNEOXc3ePcQCFKgbIwScMNKye.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 81964,
+        "name": "Stijn Coninx",
+        "profilePath": "/rw9sdCRhj0tnjtzLA07WfXONpZK.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 81966,
+        "name": "Chris Vander Stappen",
+        "profilePath": "/v1znNm0w2NhmHAb1sgP9jSS1HpZ.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 81967,
+        "name": "Ariane Fert",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/17486",
-    "fetchedAt": "2026-09-23T06:53:31.966Z"
+    "fetchedAt": "2026-09-24T17:04:42.392Z"
   },
   "Steal Her Breath": {
     "tmdbId": 1336672,
@@ -35845,8 +39133,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/eC4w8yKPwmx3QGwCHkkE8d8E6gQ.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 3840254,
+        "name": "Andreas Kröneck",
+        "profilePath": "/cqerllIzGuj0SuQBliwfPWDQON6.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1336672",
-    "fetchedAt": "2026-09-23T06:53:32.168Z"
+    "fetchedAt": "2026-09-24T17:04:42.586Z"
   },
   "Straight on Till Morning": {
     "tmdbId": 1352992,
@@ -35910,8 +39206,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2544121,
+        "name": "Craig Ouellette",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1702737,
+        "name": "Neal McLaughlin",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1352992",
-    "fetchedAt": "2026-09-23T06:53:32.366Z"
+    "fetchedAt": "2026-09-24T17:04:42.783Z"
   },
   "Sugar Baby": {
     "tmdbId": 1267217,
@@ -36007,8 +39317,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4625596,
+        "name": "Aleksandr Prost",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1267217",
-    "fetchedAt": "2026-09-23T06:53:32.571Z"
+    "fetchedAt": "2026-09-24T17:04:42.986Z"
   },
   "Summer of Mesa": {
     "tmdbId": 974746,
@@ -36083,8 +39401,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3549077,
+        "name": "Josh Cox",
+        "profilePath": "/uxUN8MPNOLgOEzzLwcLufdIvW02.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/974746",
-    "fetchedAt": "2026-09-23T06:53:32.780Z"
+    "fetchedAt": "2026-09-24T17:04:43.178Z"
   },
   "Summertime": {
     "tmdbId": 273153,
@@ -36282,8 +39608,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 73654,
+        "name": "Catherine Corsini",
+        "profilePath": "/lqqRBss3Zs8lkfLZstsV7slEInY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1438572,
+        "name": "Laurette Polmanss",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/273153",
-    "fetchedAt": "2026-09-23T06:53:32.984Z"
+    "fetchedAt": "2026-09-24T17:04:43.373Z"
   },
   "Sweet Angel Baby": {
     "tmdbId": 1326055,
@@ -36364,8 +39704,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1500499,
+        "name": "Melanie Oates",
+        "profilePath": "/zCyV8Xe203VLHQ3hxKcslFRfV9Q.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1326055",
-    "fetchedAt": "2026-09-23T06:53:33.187Z"
+    "fetchedAt": "2026-09-24T17:04:43.565Z"
   },
   "Sweetheart": {
     "tmdbId": 786015,
@@ -36441,8 +39789,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/vFHbTvMvomOZsido7nmHY6oG7s7.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2086147,
+        "name": "Marley Morrison",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/786015",
-    "fetchedAt": "2026-09-23T06:53:33.385Z"
+    "fetchedAt": "2026-09-24T17:04:43.759Z"
   },
   "Take Me Home": {
     "tmdbId": 705990,
@@ -36552,8 +39908,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2644404,
+        "name": "Han Jay",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/705990",
-    "fetchedAt": "2026-09-23T06:53:33.585Z"
+    "fetchedAt": "2026-09-24T17:04:43.963Z"
   },
   "Tell It to the Bees": {
     "tmdbId": 475888,
@@ -36740,8 +40104,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 58164,
+        "name": "Annabel Jankel",
+        "profilePath": "/ugOy8P88dTClGt2AeIRg36c5eZk.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 29238,
+        "name": "Jessica Ashworth",
+        "profilePath": "/AjAXVH6mYfEHTIcYO7ixWaTE3eQ.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1888280,
+        "name": "Henrietta Ashworth",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/475888",
-    "fetchedAt": "2026-09-23T06:53:33.791Z"
+    "fetchedAt": "2026-09-24T17:04:44.153Z"
   },
   "That's Not Us": {
     "tmdbId": 343809,
@@ -36801,8 +40185,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1475136,
+        "name": "William Sullivan",
+        "profilePath": "/9jlm0FOo8sKkuPsNekJfwiOhZfw.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/343809",
-    "fetchedAt": "2026-09-23T06:53:34.064Z"
+    "fetchedAt": "2026-09-24T17:04:44.352Z"
   },
   "Thelma": {
     "tmdbId": 401898,
@@ -36968,8 +40360,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 71609,
+        "name": "Joachim Trier",
+        "profilePath": "/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 444892,
+        "name": "Eskil Vogt",
+        "profilePath": "/y5Rg3vdQleveYe7VfyGve4ljDtV.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/401898",
-    "fetchedAt": "2026-09-23T06:53:34.263Z"
+    "fetchedAt": "2026-09-24T17:04:44.544Z"
   },
   "Thoroughbreds": {
     "tmdbId": 397722,
@@ -37086,8 +40492,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1620987,
+        "name": "Cory Finley",
+        "profilePath": "/sNHUuZMG3r3zrWsd9oD9IXgkPQi.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/397722",
-    "fetchedAt": "2026-09-23T06:53:34.478Z"
+    "fetchedAt": "2026-09-24T17:04:44.733Z"
   },
   "Tomboy": {
     "tmdbId": 65229,
@@ -37168,8 +40582,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 68813,
+        "name": "Céline Sciamma",
+        "profilePath": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/65229",
-    "fetchedAt": "2026-09-23T06:53:34.675Z"
+    "fetchedAt": "2026-09-24T17:04:44.938Z"
   },
   "Tove": {
     "tmdbId": 608232,
@@ -37316,8 +40738,28 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 124856,
+        "name": "Zaida Bergroth",
+        "profilePath": "/fx4OCpCElnPdACapY2uwPnsP7Ra.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1811490,
+        "name": "Eeva Putro",
+        "profilePath": "/jy1kjrGc6wZglry875Xv3qHjMkJ.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 2050638,
+        "name": "Jarno Elonen",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/608232",
-    "fetchedAt": "2026-09-23T06:53:34.874Z"
+    "fetchedAt": "2026-09-24T17:04:45.134Z"
   },
   "Town Bloody Hall": {
     "tmdbId": 274381,
@@ -37405,8 +40847,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 115891,
+        "name": "Chris Hegedus",
+        "profilePath": "/qaI1Q9uD49zH2b0If3VYqvuLkyh.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 21113,
+        "name": "D. A. Pennebaker",
+        "profilePath": "/bLonM1nzO87XvyrPYyS6L2q9yV.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/274381",
-    "fetchedAt": "2026-09-23T06:53:35.081Z"
+    "fetchedAt": "2026-09-24T17:04:45.332Z"
   },
   "The Truth About Jane": {
     "tmdbId": 52805,
@@ -37545,8 +41001,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 202122,
+        "name": "Lee Rose",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/52805",
-    "fetchedAt": "2026-09-23T06:53:35.291Z"
+    "fetchedAt": "2026-09-24T17:04:45.531Z"
   },
   "Tully": {
     "tmdbId": 400579,
@@ -37724,8 +41188,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 52443,
+        "name": "Jason Reitman",
+        "profilePath": "/eNNN1dwfB6b6p2hoEG1xyoa7H2p.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 52444,
+        "name": "Diablo Cody",
+        "profilePath": "/941SrZwRQ0W4JShomOid0sgjtpU.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/400579",
-    "fetchedAt": "2026-09-23T06:53:35.494Z"
+    "fetchedAt": "2026-09-24T17:04:45.722Z"
   },
   "Twice a Woman": {
     "tmdbId": 89366,
@@ -37835,8 +41313,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 18335,
+        "name": "George Sluizer",
+        "profilePath": "/1HlwIkG0HgzEdM0DZywCPW2ChFy.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 937083,
+        "name": "Jurriën Rood",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/89366",
-    "fetchedAt": "2026-09-23T06:53:35.693Z"
+    "fetchedAt": "2026-09-24T17:04:45.916Z"
   },
   "Two People Exchanging Saliva": {
     "tmdbId": 1340625,
@@ -37940,8 +41432,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2471212,
+        "name": "Alexandre Singh",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 4911731,
+        "name": "Natalie Musteata",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1340625",
-    "fetchedAt": "2026-09-23T06:53:35.896Z"
+    "fetchedAt": "2026-09-24T17:04:46.105Z"
   },
   "Un couteau dans le cœur": {
     "tmdbId": 475930,
@@ -38194,8 +41700,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1172229,
+        "name": "Yann Gonzalez",
+        "profilePath": "/7lw5t6d4TgGVbHzjAtLt1gtulfg.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1888440,
+        "name": "Cristiano Mangione",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/475930",
-    "fetchedAt": "2026-09-23T06:53:36.121Z"
+    "fetchedAt": "2026-09-24T17:04:46.306Z"
   },
   "Unexpected": {
     "tmdbId": 325496,
@@ -38271,8 +41791,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/svwzw42M9uHB3finYGb7zH7HVsp.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 49625,
+        "name": "Rainer Kaufmann",
+        "profilePath": "/naczI4zEvxrEzBy9k9772tgoWEo.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 49627,
+        "name": "Kathrin Richter",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1278809,
+        "name": "Jürgen Schlagenhof",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/325496",
-    "fetchedAt": "2026-09-23T06:53:36.323Z"
+    "fetchedAt": "2026-09-24T17:04:46.517Z"
   },
   "Unveiled": {
     "tmdbId": 56823,
@@ -38351,8 +41891,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 40016,
+        "name": "Angelina Maccarone",
+        "profilePath": "/yxkHcEK5CqXYLILQIqA2vf1COMV.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 24076,
+        "name": "Judith Kaufmann",
+        "profilePath": "/lRkLDLQA3DYyuuh2Vn7cjtZZVQl.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/56823",
-    "fetchedAt": "2026-09-23T06:53:36.522Z"
+    "fetchedAt": "2026-09-24T17:04:46.708Z"
   },
   "Violette": {
     "tmdbId": 209282,
@@ -38486,8 +42040,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/qWztWNB7xeIlsw3hpMhhr4EQA4F.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 76832,
+        "name": "Martin Provost",
+        "profilePath": "/nHfXJWrAiCAFfytXumu1v5RFv5l.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 4188648,
+        "name": "René de Ceccatty",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 225960,
+        "name": "Marc Abdelnour",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/209282",
-    "fetchedAt": "2026-09-23T06:53:36.732Z"
+    "fetchedAt": "2026-09-24T17:04:46.901Z"
   },
   "Vita & Virginia": {
     "tmdbId": 447034,
@@ -38559,8 +42133,22 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1522546,
+        "name": "Chanya Button",
+        "profilePath": "/gCUvjHFC2FsTxDcaWHT8FpmE2wV.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 20300,
+        "name": "Eileen Atkins",
+        "profilePath": "/8gac03PfTFz2vByZi1aun0NiTqM.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/447034",
-    "fetchedAt": "2026-09-23T06:53:36.933Z"
+    "fetchedAt": "2026-09-24T17:04:47.092Z"
   },
   "Vivere": {
     "tmdbId": 4921,
@@ -38620,8 +42208,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 40016,
+        "name": "Angelina Maccarone",
+        "profilePath": "/yxkHcEK5CqXYLILQIqA2vf1COMV.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/4921",
-    "fetchedAt": "2026-09-23T06:53:37.132Z"
+    "fetchedAt": "2026-09-24T17:04:47.288Z"
   },
   "Walk with Me": {
     "tmdbId": 809647,
@@ -38751,8 +42347,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3034251,
+        "name": "Isabel del Rosal",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/809647",
-    "fetchedAt": "2026-09-23T06:53:37.331Z"
+    "fetchedAt": "2026-09-24T17:04:47.480Z"
   },
   "Water Lilies": {
     "tmdbId": 10818,
@@ -38869,8 +42473,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 68813,
+        "name": "Céline Sciamma",
+        "profilePath": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/10818",
-    "fetchedAt": "2026-09-23T06:53:37.541Z"
+    "fetchedAt": "2026-09-24T17:04:47.674Z"
   },
   "The Watermelon Woman": {
     "tmdbId": 44479,
@@ -39429,8 +43041,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 232937,
+        "name": "Cheryl Dunye",
+        "profilePath": "/cvWpqZsUJhjgaF6miieSN2sA30A.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/44479",
-    "fetchedAt": "2026-09-23T06:53:37.737Z"
+    "fetchedAt": "2026-09-24T17:04:47.881Z"
   },
   "What a Feeling": {
     "tmdbId": 1240422,
@@ -39519,8 +43139,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2136587,
+        "name": "Kat Rohrer",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1240422",
-    "fetchedAt": "2026-09-23T06:53:37.938Z"
+    "fetchedAt": "2026-09-24T17:04:48.075Z"
   },
   "What Keeps You Alive": {
     "tmdbId": 503752,
@@ -39573,8 +43201,16 @@ window.WLW_TMDB_DETAILS = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1310518,
+        "name": "Colin Minihan",
+        "profilePath": "/exXYnzNugYo0laAgzS2WzkzQtl5.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/503752",
-    "fetchedAt": "2026-09-23T06:53:38.140Z"
+    "fetchedAt": "2026-09-24T17:04:48.266Z"
   },
   "When Night Is Falling": {
     "tmdbId": 8391,
@@ -39684,8 +43320,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 55439,
+        "name": "Patricia Rozema",
+        "profilePath": "/sAZRPReEcKhnOva7xXLLFbhd6je.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/8391",
-    "fetchedAt": "2026-09-23T06:53:38.334Z"
+    "fetchedAt": "2026-09-24T17:04:48.455Z"
   },
   "Whistle": {
     "tmdbId": 1526225,
@@ -39709,8 +43353,22 @@ window.WLW_TMDB_DETAILS = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1086485,
+        "name": "Christopher Nelius",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2193198,
+        "name": "Alan Hicks",
+        "profilePath": "/ed5dl0ANJmSs7n8nV6UNAsbTSS1.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1526225",
-    "fetchedAt": "2026-09-23T06:53:38.574Z"
+    "fetchedAt": "2026-09-24T17:04:48.667Z"
   },
   "Why Not Me?": {
     "tmdbId": 61663,
@@ -39836,8 +43494,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 85013,
+        "name": "Stéphane Giusti",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/61663",
-    "fetchedAt": "2026-09-23T06:53:38.778Z"
+    "fetchedAt": "2026-09-24T17:04:48.863Z"
   },
   "Wicked": {
     "tmdbId": 402431,
@@ -42146,8 +45812,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54507,
+        "name": "Jon M. Chu",
+        "profilePath": "/85kOxm7w4nGRwyhquj9wtUM8KUW.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1222194,
+        "name": "Winnie Holzman",
+        "profilePath": "/kkGdnFvRTkK3F2TjwWFek9t6uNz.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 56718,
+        "name": "Dana Fox",
+        "profilePath": "/fFj1mwG74uPzakVonrn18UQEL5c.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/402431",
-    "fetchedAt": "2026-09-23T06:53:38.988Z"
+    "fetchedAt": "2026-09-24T17:04:49.055Z"
   },
   "Wicked: For Good": {
     "tmdbId": 967941,
@@ -43508,8 +47194,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54507,
+        "name": "Jon M. Chu",
+        "profilePath": "/85kOxm7w4nGRwyhquj9wtUM8KUW.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1222194,
+        "name": "Winnie Holzman",
+        "profilePath": "/kkGdnFvRTkK3F2TjwWFek9t6uNz.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 56718,
+        "name": "Dana Fox",
+        "profilePath": "/fFj1mwG74uPzakVonrn18UQEL5c.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/967941",
-    "fetchedAt": "2026-09-23T06:53:39.183Z"
+    "fetchedAt": "2026-09-24T17:04:49.304Z"
   },
   "Wild Nights with Emily": {
     "tmdbId": 502147,
@@ -43969,8 +47675,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1037989,
+        "name": "Madeleine Olnek",
+        "profilePath": "/dzavUU50fk31rgvsu5g1JBKAPDm.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/502147",
-    "fetchedAt": "2026-09-23T06:53:39.387Z"
+    "fetchedAt": "2026-09-24T17:04:49.495Z"
   },
   "Wild Side": {
     "tmdbId": 26674,
@@ -44054,8 +47768,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 95462,
+        "name": "Donald Cammell",
+        "profilePath": "/xIaAVsujonfsstCsYMXu9KCgbRg.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 110974,
+        "name": "China Kong",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/26674",
-    "fetchedAt": "2026-09-23T06:53:39.584Z"
+    "fetchedAt": "2026-09-24T17:04:49.685Z"
   },
   "Witchy Ways": {
     "tmdbId": 1053987,
@@ -44111,8 +47839,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 168328,
+        "name": "Jane Clark",
+        "profilePath": "/3Y9lMuZdBZY4u6acafyg7Wl93nl.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1053987",
-    "fetchedAt": "2026-09-23T06:53:39.786Z"
+    "fetchedAt": "2026-09-24T17:04:49.903Z"
   },
   "Word Is Out: Stories of Some of Our Lives": {
     "tmdbId": 143322,
@@ -44298,8 +48034,46 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 109402,
+        "name": "Rob Epstein",
+        "profilePath": "/2Dt2pa7G45FOedK281eCplnLNOS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1118869,
+        "name": "Nancy Adair",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 113432,
+        "name": "Lucy Massie Phenix",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1118823,
+        "name": "Veronica Selver",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 114557,
+        "name": "Peter Adair",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 3925429,
+        "name": "Andrew Brown",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/143322",
-    "fetchedAt": "2026-09-23T06:53:39.989Z"
+    "fetchedAt": "2026-09-24T17:04:50.107Z"
   },
   "The World to Come": {
     "tmdbId": 506281,
@@ -44366,8 +48140,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/mEnDAztpBTAzG5rEGEMaixebVJx.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1280031,
+        "name": "Mona Fastvold",
+        "profilePath": "/vvOWJDo21Hp0dNe2cYEptUYYW0C.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 39514,
+        "name": "Ron Hansen",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1826669,
+        "name": "Jim Shepard",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/506281",
-    "fetchedAt": "2026-09-23T06:53:40.188Z"
+    "fetchedAt": "2026-09-24T17:04:50.297Z"
   },
   "The World Unseen": {
     "tmdbId": 31031,
@@ -44601,8 +48395,16 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 107753,
+        "name": "Shamim Sarif",
+        "profilePath": "/lg2xNYLyfMzYuZGXFnCR7SGRbrC.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/31031",
-    "fetchedAt": "2026-09-23T06:53:40.390Z"
+    "fetchedAt": "2026-09-24T17:04:50.487Z"
   },
   "You Can Live Forever": {
     "tmdbId": 887580,
@@ -44709,8 +48511,22 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": "/mblt7xfojCVEuv7o8fOTmJWL3ZO.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 3509617,
+        "name": "Sarah Watts",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1087745,
+        "name": "Mark Slutsky",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/887580",
-    "fetchedAt": "2026-09-23T06:53:40.593Z"
+    "fetchedAt": "2026-09-24T17:04:50.677Z"
   },
   "You Will Be Mine": {
     "tmdbId": 54865,
@@ -44806,8 +48622,28 @@ window.WLW_TMDB_DETAILS = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1045706,
+        "name": "Sophie Laloy",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1045681,
+        "name": "Jean-Luc Gaget",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 55815,
+        "name": "Éric Veniard",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/54865",
-    "fetchedAt": "2026-09-23T06:53:40.794Z"
+    "fetchedAt": "2026-09-24T17:04:50.876Z"
   }
 };
 window.WLW_TMDB_DETAILS_BY_ID = {
@@ -44989,8 +48825,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2836,
+        "name": "Kimberly Peirce",
+        "profilePath": "/lRnwxog6xUZV26mxCVuMFM006CV.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2837,
+        "name": "Andy Bienen",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/226",
-    "fetchedAt": "2026-09-23T06:52:52.431Z"
+    "fetchedAt": "2026-09-24T17:04:04.343Z"
   },
   "294": {
     "tmdbId": 294,
@@ -45099,8 +48949,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 4163,
+        "name": "Donna Deitch",
+        "profilePath": "/nibQcnP4GESAa5MYRqcPyyiWdS8.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1664454,
+        "name": "Natalie Cooper",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/294",
-    "fetchedAt": "2026-09-23T06:52:58.661Z"
+    "fetchedAt": "2026-09-24T17:04:10.416Z"
   },
   "540": {
     "tmdbId": 540,
@@ -45260,8 +49124,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 7312,
+        "name": "Angela Robinson",
+        "profilePath": "/j6ymx8zGC9OGQ8CUeIoJ3D0RpMU.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/540",
-    "fetchedAt": "2026-09-23T06:52:57.680Z"
+    "fetchedAt": "2026-09-24T17:04:09.426Z"
   },
   "1018": {
     "tmdbId": 1018,
@@ -45558,8 +49430,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 5602,
+        "name": "David Lynch",
+        "profilePath": "/wwBzRDoIW6Ld64h6OkQ6ImCZKsR.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1018",
-    "fetchedAt": "2026-09-23T06:53:19.747Z"
+    "fetchedAt": "2026-09-24T17:04:30.655Z"
   },
   "1024": {
     "tmdbId": 1024,
@@ -45762,8 +49642,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 108,
+        "name": "Peter Jackson",
+        "profilePath": "/bNc908d59Ba8VDNr4eCcm4G1cR.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 126,
+        "name": "Fran Walsh",
+        "profilePath": "/roXPta5fAmGzqdOIvUQbDavZy8Y.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1024",
-    "fetchedAt": "2026-09-23T06:53:09.118Z"
+    "fetchedAt": "2026-09-24T17:04:20.563Z"
   },
   "1259": {
     "tmdbId": 1259,
@@ -45918,8 +49812,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 36693,
+        "name": "Richard Eyre",
+        "profilePath": "/bWcMJmEkdx0ZrLI2oogA9iF3FXJ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 23606,
+        "name": "Patrick Marber",
+        "profilePath": "/gKQHT10lVXPvAyD062svcAGdkjo.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1259",
-    "fetchedAt": "2026-09-23T06:53:22.603Z"
+    "fetchedAt": "2026-09-24T17:04:33.391Z"
   },
   "1294": {
     "tmdbId": 1294,
@@ -46036,8 +49944,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 16780,
+        "name": "Chris Kraus",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1294",
-    "fetchedAt": "2026-09-23T06:53:05.129Z"
+    "fetchedAt": "2026-09-24T17:04:16.654Z"
   },
   "1544": {
     "tmdbId": 1544,
@@ -46191,8 +50107,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 17510,
+        "name": "Ol Parker",
+        "profilePath": "/emW4AxRaKnKPkhR5wXttIA5qr24.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1544",
-    "fetchedAt": "2026-09-23T06:53:11.560Z"
+    "fetchedAt": "2026-09-24T17:04:22.865Z"
   },
   "1633": {
     "tmdbId": 1633,
@@ -46411,8 +50335,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 18250,
+        "name": "Jon Avnet",
+        "profilePath": "/c8iDOTe30SgubSZK9hF4rS5tQDZ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 18251,
+        "name": "Fannie Flagg",
+        "profilePath": "/pMxuqJ0gR2Jx3WYEw6sJhP5iDjs.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 18253,
+        "name": "Carol Sobieski",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1633",
-    "fetchedAt": "2026-09-23T06:53:05.717Z"
+    "fetchedAt": "2026-09-24T17:04:17.248Z"
   },
   "2211": {
     "tmdbId": 2211,
@@ -46670,8 +50614,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 22677,
+        "name": "Max Färberböck",
+        "profilePath": "/eCsB6N7GhDEYxng59hr3HFgqEXI.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 22679,
+        "name": "Rona Munro",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/2211",
-    "fetchedAt": "2026-09-23T06:52:45.129Z"
+    "fetchedAt": "2026-09-24T17:03:57.293Z"
   },
   "4921": {
     "tmdbId": 4921,
@@ -46731,8 +50689,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 40016,
+        "name": "Angelina Maccarone",
+        "profilePath": "/yxkHcEK5CqXYLILQIqA2vf1COMV.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/4921",
-    "fetchedAt": "2026-09-23T06:53:37.132Z"
+    "fetchedAt": "2026-09-24T17:04:47.288Z"
   },
   "4955": {
     "tmdbId": 4955,
@@ -46929,8 +50895,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 40983,
+        "name": "Géza von Radványi",
+        "profilePath": "/zPjmNOhDyUyfOPDQGQMIikXcAVX.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 40985,
+        "name": "Franz Höllering",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 40986,
+        "name": "Friedrich Dammann",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/4955",
-    "fetchedAt": "2026-09-23T06:53:18.316Z"
+    "fetchedAt": "2026-09-24T17:04:29.296Z"
   },
   "6435": {
     "tmdbId": 6435,
@@ -46987,7 +50973,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "name": "Evan Rachel Wood",
         "character": "Kylie Owens",
         "order": 6,
-        "profilePath": "/ksXTb2bvqt60bCGRwBlWrNbZHnr.jpg"
+        "profilePath": "/oVp8ctWKjskREG5bPoMGL1NOGdt.jpg"
       },
       {
         "id": 51681,
@@ -47153,8 +51139,34 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2171,
+        "name": "Griffin Dunne",
+        "profilePath": "/oZeAznfOHgK1Kvy9TknkQhag1Um.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 19852,
+        "name": "Robin Swicord",
+        "profilePath": "/nTNwIS7WIKG0gUBIeEJPR9PoPaq.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 5575,
+        "name": "Akiva Goldsman",
+        "profilePath": "/7dWsuEUrC7AmAzZAeNstZ2zg1M8.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 16328,
+        "name": "Adam Brooks",
+        "profilePath": "/d9evoYfFnjsFY3sV1FOtgaUxbj3.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/6435",
-    "fetchedAt": "2026-09-23T06:53:26.671Z"
+    "fetchedAt": "2026-09-24T17:04:37.321Z"
   },
   "8391": {
     "tmdbId": 8391,
@@ -47264,8 +51276,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 55439,
+        "name": "Patricia Rozema",
+        "profilePath": "/sAZRPReEcKhnOva7xXLLFbhd6je.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/8391",
-    "fetchedAt": "2026-09-23T06:53:38.334Z"
+    "fetchedAt": "2026-09-24T17:04:48.455Z"
   },
   "9303": {
     "tmdbId": 9303,
@@ -47326,8 +51346,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 9340,
+        "name": "Lana Wachowski",
+        "profilePath": "/4nE4ttPQBuw1virOz0LYT08c1Vm.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 9339,
+        "name": "Lilly Wachowski",
+        "profilePath": "/rCScAjSpeKA19BLNR07MqNNeeTT.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/9303",
-    "fetchedAt": "2026-09-23T06:52:52.232Z"
+    "fetchedAt": "2026-09-24T17:04:04.153Z"
   },
   "9709": {
     "tmdbId": 9709,
@@ -47387,8 +51421,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 64194,
+        "name": "Paweł Pawlikowski",
+        "profilePath": "/qCrYlDLL12q8zhjK1HqYPT5gsWI.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 58699,
+        "name": "Michael Wynne",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/9709",
-    "fetchedAt": "2026-09-23T06:53:21.365Z"
+    "fetchedAt": "2026-09-24T17:04:32.226Z"
   },
   "10310": {
     "tmdbId": 10310,
@@ -47455,8 +51503,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2725,
+        "name": "Rainer Werner Fassbinder",
+        "profilePath": "/uZFSBv6Q4ZSwZr8wfLobBCiiC14.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/10310",
-    "fetchedAt": "2026-09-23T06:52:50.593Z"
+    "fetchedAt": "2026-09-24T17:04:02.607Z"
   },
   "10818": {
     "tmdbId": 10818,
@@ -47573,8 +51629,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 68813,
+        "name": "Céline Sciamma",
+        "profilePath": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/10818",
-    "fetchedAt": "2026-09-23T06:53:37.541Z"
+    "fetchedAt": "2026-09-24T17:04:47.674Z"
   },
   "11634": {
     "tmdbId": 11634,
@@ -47731,8 +51795,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 11037,
+        "name": "Lukas Moodysson",
+        "profilePath": "/9h6dyFQpzf7wTEpVMn9celf2iOI.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/11634",
-    "fetchedAt": "2026-09-23T06:53:30.122Z"
+    "fetchedAt": "2026-09-24T17:04:40.628Z"
   },
   "14533": {
     "tmdbId": 14533,
@@ -48010,8 +52082,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 21136,
+        "name": "Michael Cristofer",
+        "profilePath": "/yWZr1U6A4UAatvgqvX1zmOgB92S.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1047730,
+        "name": "Jay McInerney",
+        "profilePath": "/aiMokLv3oydoHrlOaWh63rchJXu.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/14533",
-    "fetchedAt": "2026-09-23T06:53:06.500Z"
+    "fetchedAt": "2026-09-24T17:04:18.032Z"
   },
   "17486": {
     "tmdbId": 17486,
@@ -48110,8 +52196,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/fSuNEOXc3ePcQCFKgbIwScMNKye.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 81964,
+        "name": "Stijn Coninx",
+        "profilePath": "/rw9sdCRhj0tnjtzLA07WfXONpZK.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 81966,
+        "name": "Chris Vander Stappen",
+        "profilePath": "/v1znNm0w2NhmHAb1sgP9jSS1HpZ.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 81967,
+        "name": "Ariane Fert",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/17486",
-    "fetchedAt": "2026-09-23T06:53:31.966Z"
+    "fetchedAt": "2026-09-24T17:04:42.392Z"
   },
   "17612": {
     "tmdbId": 17612,
@@ -48285,8 +52391,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 135534,
+        "name": "Léa Pool",
+        "profilePath": "/fMXEBvLgQRSVaJCCi56RDytvHWf.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 186755,
+        "name": "Judith Thompson",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/17612",
-    "fetchedAt": "2026-09-23T06:53:16.423Z"
+    "fetchedAt": "2026-09-24T17:04:27.556Z"
   },
   "17993": {
     "tmdbId": 17993,
@@ -48374,8 +52494,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 648,
+        "name": "Philip Kaufman",
+        "profilePath": "/dv62g0D5lkNAS0Db1jJ2Z81Aubz.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2990,
+        "name": "Rose Kaufman",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/17993",
-    "fetchedAt": "2026-09-23T06:53:09.711Z"
+    "fetchedAt": "2026-09-24T17:04:21.140Z"
   },
   "18212": {
     "tmdbId": 18212,
@@ -48464,8 +52598,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 97773,
+        "name": "Anne Wheeler",
+        "profilePath": "/gQIi0Y2tNIRLbaJMEUGe0FvXwFK.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 980687,
+        "name": "Peggy Thompson",
+        "profilePath": "/6EfezQfIa4EwZ4VJ8iR1BUIcN81.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/18212",
-    "fetchedAt": "2026-09-23T06:52:49.781Z"
+    "fetchedAt": "2026-09-24T17:04:01.797Z"
   },
   "18620": {
     "tmdbId": 18620,
@@ -48702,8 +52850,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 172993,
+        "name": "Rose Troche",
+        "profilePath": "/fjTmUMKogdAqpMoQvGmL76a44pu.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 32030,
+        "name": "Guinevere Turner",
+        "profilePath": "/1j0RtYIayM7LOsT8bispVHsKBia.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/18620",
-    "fetchedAt": "2026-09-23T06:53:07.727Z"
+    "fetchedAt": "2026-09-24T17:04:19.196Z"
   },
   "19316": {
     "tmdbId": 19316,
@@ -48933,8 +53095,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 84461,
+        "name": "Alice Wu",
+        "profilePath": "/4nOKxXZwwczb6icdmPc1L3UiUG.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/19316",
-    "fetchedAt": "2026-09-23T06:53:28.698Z"
+    "fetchedAt": "2026-09-24T17:04:39.276Z"
   },
   "19344": {
     "tmdbId": 19344,
@@ -49093,8 +53263,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 84515,
+        "name": "Katherine Brooks",
+        "profilePath": "/u7O5XpqmO52916ryBbMuYxfeW3h.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/19344",
-    "fetchedAt": "2026-09-23T06:53:17.715Z"
+    "fetchedAt": "2026-09-24T17:04:28.723Z"
   },
   "19345": {
     "tmdbId": 19345,
@@ -49195,8 +53373,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 19450,
+        "name": "Bob Rafelson",
+        "profilePath": "/tRTlLdcgGdV0R3EgrZig9zQw0Tk.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 5144,
+        "name": "Ronald Bass",
+        "profilePath": "/8AaBNM90RPTgAVecgIWQc5uXl6X.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/19345",
-    "fetchedAt": "2026-09-23T06:52:50.997Z"
+    "fetchedAt": "2026-09-24T17:04:02.987Z"
   },
   "19994": {
     "tmdbId": 19994,
@@ -49432,8 +53624,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54025,
+        "name": "Karyn Kusama",
+        "profilePath": "/pfVHh9OEfgYPouqO3aSOxwmqoFS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 52444,
+        "name": "Diablo Cody",
+        "profilePath": "/941SrZwRQ0W4JShomOid0sgjtpU.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/19994",
-    "fetchedAt": "2026-09-23T06:53:12.782Z"
+    "fetchedAt": "2026-09-24T17:04:24.030Z"
   },
   "20139": {
     "tmdbId": 20139,
@@ -49542,8 +53748,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 10001,
+        "name": "William Wyler",
+        "profilePath": "/lcuY8HJaw9FAq1osItPsiTQXLzh.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 5181,
+        "name": "John Michael Hayes",
+        "profilePath": "/gl4MJpNB1I30GKYgWPjklHufLEV.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 85692,
+        "name": "Lillian Hellman",
+        "profilePath": "/g2ZjGILVpkQ0XH8ym6TNjgkwFpy.jpg",
+        "job": "Adaptation"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/20139",
-    "fetchedAt": "2026-09-23T06:52:55.237Z"
+    "fetchedAt": "2026-09-24T17:04:07.063Z"
   },
   "20405": {
     "tmdbId": 20405,
@@ -49619,8 +53845,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/Ys7zUJlpwAS178kWyI6UNyJui0.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 86035,
+        "name": "Maria Maggenti",
+        "profilePath": "/3xTFdlQ4a7iblxtl8fAls0elnCM.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/20405",
-    "fetchedAt": "2026-09-23T06:53:27.063Z"
+    "fetchedAt": "2026-09-24T17:04:37.707Z"
   },
   "20770": {
     "tmdbId": 20770,
@@ -50095,8 +54329,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 59466,
+        "name": "Jamie Babbit",
+        "profilePath": "/zySwCaK5XLylqpiJ4l2VhdO6Dw5.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1237421,
+        "name": "Brian Peterson",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/20770",
-    "fetchedAt": "2026-09-23T06:52:52.829Z"
+    "fetchedAt": "2026-09-24T17:04:04.735Z"
   },
   "26674": {
     "tmdbId": 26674,
@@ -50180,8 +54428,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 95462,
+        "name": "Donald Cammell",
+        "profilePath": "/xIaAVsujonfsstCsYMXu9KCgbRg.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 110974,
+        "name": "China Kong",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/26674",
-    "fetchedAt": "2026-09-23T06:53:39.584Z"
+    "fetchedAt": "2026-09-24T17:04:49.685Z"
   },
   "27609": {
     "tmdbId": 27609,
@@ -50514,8 +54776,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 11057,
+        "name": "Robert Towne",
+        "profilePath": "/zyvIWuId4ayFSV8dCNlCndjdFLd.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/27609",
-    "fetchedAt": "2026-09-23T06:53:25.446Z"
+    "fetchedAt": "2026-09-24T17:04:36.155Z"
   },
   "28031": {
     "tmdbId": 28031,
@@ -50702,8 +54972,40 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 63713,
+        "name": "Martha Coolidge",
+        "profilePath": "/tJyj0LOfbsmKJRdHTJXW6kYX9nn.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 59670,
+        "name": "Jane Anderson",
+        "profilePath": "/du9Lg9sE2m2W0NNC3WvI915l9EF.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 8256,
+        "name": "Anne Heche",
+        "profilePath": "/65LVuA01bmKCmr8yqY2Ae3IgeC4.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 73628,
+        "name": "Sylvia Sichel",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 73622,
+        "name": "Alex Sichel",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/28031",
-    "fetchedAt": "2026-09-23T06:53:11.363Z"
+    "fetchedAt": "2026-09-24T17:04:22.673Z"
   },
   "28211": {
     "tmdbId": 28211,
@@ -50867,8 +55169,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 56205,
+        "name": "Atom Egoyan",
+        "profilePath": "/tcC1xvYTnoVPwzVVpPkHJ2oPLb4.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 67796,
+        "name": "Erin Cressida Wilson",
+        "profilePath": "/wR8K6Cb6Xqc41SXDjUaWSS5BqN3.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/28211",
-    "fetchedAt": "2026-09-23T06:52:55.441Z"
+    "fetchedAt": "2026-09-24T17:04:07.262Z"
   },
   "29371": {
     "tmdbId": 29371,
@@ -50992,8 +55308,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 86035,
+        "name": "Maria Maggenti",
+        "profilePath": "/3xTFdlQ4a7iblxtl8fAls0elnCM.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/29371",
-    "fetchedAt": "2026-09-23T06:53:11.760Z"
+    "fetchedAt": "2026-09-24T17:04:23.063Z"
   },
   "29965": {
     "tmdbId": 29965,
@@ -51188,8 +55512,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 56212,
+        "name": "Eric Khoo",
+        "profilePath": "/apvdm3PKZAcBtPTa6KGKhhsRWl3.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2128726,
+        "name": "Wong Kim Hoh",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1760176,
+        "name": "Theresa Poh Lin Chan",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/29965",
-    "fetchedAt": "2026-09-23T06:52:48.561Z"
+    "fetchedAt": "2026-09-24T17:04:00.635Z"
   },
   "31031": {
     "tmdbId": 31031,
@@ -51423,8 +55767,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 107753,
+        "name": "Shamim Sarif",
+        "profilePath": "/lg2xNYLyfMzYuZGXFnCR7SGRbrC.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/31031",
-    "fetchedAt": "2026-09-23T06:53:40.390Z"
+    "fetchedAt": "2026-09-24T17:04:50.487Z"
   },
   "31216": {
     "tmdbId": 31216,
@@ -51541,8 +55893,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 107753,
+        "name": "Shamim Sarif",
+        "profilePath": "/lg2xNYLyfMzYuZGXFnCR7SGRbrC.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 224611,
+        "name": "Kelly Moss ",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/31216",
-    "fetchedAt": "2026-09-23T06:53:10.344Z"
+    "fetchedAt": "2026-09-24T17:04:21.708Z"
   },
   "31421": {
     "tmdbId": 31421,
@@ -51602,8 +55968,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 136903,
+        "name": "Ned Farr",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/31421",
-    "fetchedAt": "2026-09-23T06:53:08.121Z"
+    "fetchedAt": "2026-09-24T17:04:19.605Z"
   },
   "32562": {
     "tmdbId": 32562,
@@ -51711,8 +56085,34 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 109402,
+        "name": "Rob Epstein",
+        "profilePath": "/2Dt2pa7G45FOedK281eCplnLNOS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 109403,
+        "name": "Jeffrey Friedman",
+        "profilePath": "/qv9iaUggDYIEZqDigUw2H2gWkdj.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 59208,
+        "name": "Armistead Maupin",
+        "profilePath": "/yxMuZevK7a0ggVNQHI6kvHFjm5I.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 125820,
+        "name": "Sharon Wood",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/32562",
-    "fetchedAt": "2026-09-23T06:52:54.241Z"
+    "fetchedAt": "2026-09-24T17:04:06.088Z"
   },
   "33135": {
     "tmdbId": 33135,
@@ -51774,8 +56174,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 130424,
+        "name": "Rafal Zielinski",
+        "profilePath": "/5jl2PKKd1fdrrx64nd5WoAqxrcO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1304262,
+        "name": "James Bosley",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/33135",
-    "fetchedAt": "2026-09-23T06:53:06.108Z"
+    "fetchedAt": "2026-09-24T17:04:17.635Z"
   },
   "35203": {
     "tmdbId": 35203,
@@ -52074,8 +56488,46 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 38225,
+        "name": "Cher",
+        "profilePath": "/yDglV70XMu2cBWZigp5Jxd4etfv.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 93025,
+        "name": "Nancy Savoca",
+        "profilePath": "/7BkuX3MtvbX5jmKbYl3HZrHRxCp.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1033239,
+        "name": "Susan Nanus",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 57062,
+        "name": "I. Marlene King",
+        "profilePath": "/1VDsa1wDDxd9imAsm6qi28avkne.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 107441,
+        "name": "Pamela Wallace",
+        "profilePath": "",
+        "job": "Story"
+      },
+      {
+        "id": 57123,
+        "name": "Earl W. Wallace",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/35203",
-    "fetchedAt": "2026-09-23T06:53:11.162Z"
+    "fetchedAt": "2026-09-24T17:04:22.483Z"
   },
   "37636": {
     "tmdbId": 37636,
@@ -52182,8 +56634,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/xGXShlOUpkuM6vrwyzNwLViwaq9.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 75699,
+        "name": "Lisa Cholodenko",
+        "profilePath": "/2VUG5YijOlblFET7c5dtsTJSmm6.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/37636",
-    "fetchedAt": "2026-09-23T06:53:09.908Z"
+    "fetchedAt": "2026-09-24T17:04:21.331Z"
   },
   "42548": {
     "tmdbId": 42548,
@@ -52287,8 +56747,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 211659,
+        "name": "James Kent",
+        "profilePath": "/wVriFTqzZDHDgFaricNulLg13a4.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 139157,
+        "name": "Jane English",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/42548",
-    "fetchedAt": "2026-09-23T06:53:29.316Z"
+    "fetchedAt": "2026-09-24T17:04:39.861Z"
   },
   "44214": {
     "tmdbId": 44214,
@@ -52616,8 +57090,34 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 6431,
+        "name": "Darren Aronofsky",
+        "profilePath": "/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1054633,
+        "name": "John J. McLaughlin",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 143258,
+        "name": "Mark Heyman",
+        "profilePath": "/4tpNoTMWjV2WAIYMpvmI8KryNY2.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 143259,
+        "name": "Andres Heinz",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/44214",
-    "fetchedAt": "2026-09-23T06:52:50.798Z"
+    "fetchedAt": "2026-09-24T17:04:02.797Z"
   },
   "44479": {
     "tmdbId": 44479,
@@ -53176,8 +57676,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 232937,
+        "name": "Cheryl Dunye",
+        "profilePath": "/cvWpqZsUJhjgaF6miieSN2sA30A.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/44479",
-    "fetchedAt": "2026-09-23T06:53:37.737Z"
+    "fetchedAt": "2026-09-24T17:04:47.881Z"
   },
   "44620": {
     "tmdbId": 44620,
@@ -53301,8 +57809,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 131084,
+        "name": "Jesús Garay",
+        "profilePath": "/e3SmBVwMJJe3tmxs0mcmfbCJqcy.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1414863,
+        "name": "Cristina Moncunill",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/44620",
-    "fetchedAt": "2026-09-23T06:53:01.705Z"
+    "fetchedAt": "2026-09-24T17:04:13.326Z"
   },
   "44925": {
     "tmdbId": 44925,
@@ -53391,8 +57913,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1112916,
+        "name": "Nancy Meckler",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1150087,
+        "name": "Wendy Kesselman",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/44925",
-    "fetchedAt": "2026-09-23T06:53:30.947Z"
+    "fetchedAt": "2026-09-24T17:04:41.393Z"
   },
   "46564": {
     "tmdbId": 46564,
@@ -53466,8 +58002,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 136903,
+        "name": "Ned Farr",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/46564",
-    "fetchedAt": "2026-09-23T06:52:43.510Z"
+    "fetchedAt": "2026-09-24T17:03:55.708Z"
   },
   "47254": {
     "tmdbId": 47254,
@@ -53589,8 +58133,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 73654,
+        "name": "Catherine Corsini",
+        "profilePath": "/lqqRBss3Zs8lkfLZstsV7slEInY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1385636,
+        "name": "Pascale Breton",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1362350,
+        "name": "Pierre Erwan Guillaume",
+        "profilePath": "/yTaCEwd9PgaNDjOWFYSup1W8bd6.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/47254",
-    "fetchedAt": "2026-09-23T06:53:28.300Z"
+    "fetchedAt": "2026-09-24T17:04:38.887Z"
   },
   "48260": {
     "tmdbId": 48260,
@@ -53689,8 +58253,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 172,
+        "name": "Michael Winterbottom",
+        "profilePath": "/r4cpuukDMG3xLS8tEaTV7X2IxnO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 26190,
+        "name": "Frank Cottrell Boyce",
+        "profilePath": "/o1tnT5MMGHuZZNwjUyExT3nly84.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/48260",
-    "fetchedAt": "2026-09-23T06:52:53.030Z"
+    "fetchedAt": "2026-09-24T17:04:04.929Z"
   },
   "50070": {
     "tmdbId": 50070,
@@ -53765,8 +58343,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 8636,
+        "name": "Cecil B. DeMille",
+        "profilePath": "/lxY61cx23rcCenlTvcwn8Cmpnrp.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 29756,
+        "name": "Waldemar Young",
+        "profilePath": "/w3KoXLzUdpeoDYZw58wBOcF0ziw.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 30208,
+        "name": "Sidney Buchman",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/50070",
-    "fetchedAt": "2026-09-23T06:53:30.545Z"
+    "fetchedAt": "2026-09-24T17:04:41.009Z"
   },
   "50435": {
     "tmdbId": 50435,
@@ -53876,8 +58474,40 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 188517,
+        "name": "David Hamilton",
+        "profilePath": "/1YZ2YR4Gz25kKNmZ8jRJt5RXdH0.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 6295,
+        "name": "Catherine Breillat",
+        "profilePath": "/wIJr8XJc7QjTCydM810YCWEK2oD.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1192828,
+        "name": "Jean-Louis Roncoroni",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1328172,
+        "name": "Roger Boussinot",
+        "profilePath": "",
+        "job": "Adaptation"
+      },
+      {
+        "id": 36944,
+        "name": "Jacques Nahum",
+        "profilePath": "/hH78aYOnwnkui1cVUOWEeDYbxQ1.jpg",
+        "job": "Adaptation"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/50435",
-    "fetchedAt": "2026-09-23T06:52:50.188Z"
+    "fetchedAt": "2026-09-24T17:04:02.183Z"
   },
   "51736": {
     "tmdbId": 51736,
@@ -54106,8 +58736,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 550096,
+        "name": "Fernanda Cardoso",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/51736",
-    "fetchedAt": "2026-09-23T06:52:51.408Z"
+    "fetchedAt": "2026-09-24T17:04:03.388Z"
   },
   "51783": {
     "tmdbId": 51783,
@@ -54167,8 +58805,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1245946,
+        "name": "Chris Oxley",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1747222,
+        "name": "Barbara Machin",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/51783",
-    "fetchedAt": "2026-09-23T06:53:12.178Z"
+    "fetchedAt": "2026-09-24T17:04:23.449Z"
   },
   "52805": {
     "tmdbId": 52805,
@@ -54307,8 +58959,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 202122,
+        "name": "Lee Rose",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/52805",
-    "fetchedAt": "2026-09-23T06:53:35.291Z"
+    "fetchedAt": "2026-09-24T17:04:45.531Z"
   },
   "54575": {
     "tmdbId": 54575,
@@ -54405,8 +59065,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 18392,
+        "name": "Robert Aldrich",
+        "profilePath": "/AvuC16e9Yw9sFBkj6aaXFy5vSno.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 21600,
+        "name": "Lukas Heller",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/54575",
-    "fetchedAt": "2026-09-23T06:53:12.986Z"
+    "fetchedAt": "2026-09-24T17:04:24.226Z"
   },
   "54865": {
     "tmdbId": 54865,
@@ -54502,8 +59176,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1045706,
+        "name": "Sophie Laloy",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1045681,
+        "name": "Jean-Luc Gaget",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 55815,
+        "name": "Éric Veniard",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/54865",
-    "fetchedAt": "2026-09-23T06:53:40.794Z"
+    "fetchedAt": "2026-09-24T17:04:50.876Z"
   },
   "56743": {
     "tmdbId": 56743,
@@ -54893,8 +59587,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 224875,
+        "name": "Nicole Conn",
+        "profilePath": "/2mhHcdpbPGi7mvB08aIAXwioQik.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/56743",
-    "fetchedAt": "2026-09-23T06:53:01.096Z"
+    "fetchedAt": "2026-09-24T17:04:12.745Z"
   },
   "56823": {
     "tmdbId": 56823,
@@ -54973,8 +59675,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 40016,
+        "name": "Angelina Maccarone",
+        "profilePath": "/yxkHcEK5CqXYLILQIqA2vf1COMV.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 24076,
+        "name": "Judith Kaufmann",
+        "profilePath": "/lRkLDLQA3DYyuuh2Vn7cjtZZVQl.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/56823",
-    "fetchedAt": "2026-09-23T06:53:36.522Z"
+    "fetchedAt": "2026-09-24T17:04:46.708Z"
   },
   "60421": {
     "tmdbId": 60421,
@@ -55129,8 +59845,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 549971,
+        "name": "Maryam Keshavarz",
+        "profilePath": "/zk5AklX2hFEQP5fofH41cGKt2dn.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/60421",
-    "fetchedAt": "2026-09-23T06:52:56.050Z"
+    "fetchedAt": "2026-09-24T17:04:07.851Z"
   },
   "61663": {
     "tmdbId": 61663,
@@ -55256,8 +59980,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 85013,
+        "name": "Stéphane Giusti",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/61663",
-    "fetchedAt": "2026-09-23T06:53:38.778Z"
+    "fetchedAt": "2026-09-24T17:04:48.863Z"
   },
   "61950": {
     "tmdbId": 61950,
@@ -55376,8 +60108,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 17784,
+        "name": "John Irvin",
+        "profilePath": "/gF3FWhmbiwD96E1DP68F07LkX1m.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 53659,
+        "name": "Ottavio Jemma",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 146793,
+        "name": "Alberto Lattuada",
+        "profilePath": "/em6n73dLZnUTjalijM5g3eDlEws.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/61950",
-    "fetchedAt": "2026-09-23T06:53:03.505Z"
+    "fetchedAt": "2026-09-24T17:04:15.077Z"
   },
   "62543": {
     "tmdbId": 62543,
@@ -55509,8 +60261,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1059322,
+        "name": "Irving Schwartz",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 235509,
+        "name": "Renee Garzon",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/62543",
-    "fetchedAt": "2026-09-23T06:53:20.960Z"
+    "fetchedAt": "2026-09-24T17:04:31.839Z"
   },
   "65229": {
     "tmdbId": 65229,
@@ -55591,8 +60357,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 68813,
+        "name": "Céline Sciamma",
+        "profilePath": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/65229",
-    "fetchedAt": "2026-09-23T06:53:34.675Z"
+    "fetchedAt": "2026-09-24T17:04:44.938Z"
   },
   "70214": {
     "tmdbId": 70214,
@@ -55670,7 +60444,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "name": "Phoebe Waller-Bridge",
         "character": "Lauren",
         "order": 23,
-        "profilePath": "/iqUzSjfy6YA6CKLfOvws4RyA58E.jpg"
+        "profilePath": "/5VbadQsYCKdiJysP01LJFPmYB8A.jpg"
       }
     ],
     "unclassifiedCast": [
@@ -55696,8 +60470,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 122590,
+        "name": "Richard Laxton",
+        "profilePath": "/j61anPcjfv1hwiGzwwAi152fStf.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 139158,
+        "name": "Paula Milne",
+        "profilePath": "/aknjxZpijYORAq5uci8K6nSQZZT.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/70214",
-    "fetchedAt": "2026-09-23T06:53:22.205Z"
+    "fetchedAt": "2026-09-24T17:04:32.992Z"
   },
   "70472": {
     "tmdbId": 70472,
@@ -55813,8 +60601,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1145470,
+        "name": "Laurent Triay",
+        "profilePath": "/cPB1fXW984jXEJdg3P2QdclUJO9.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/70472",
-    "fetchedAt": "2026-09-23T06:52:43.110Z"
+    "fetchedAt": "2026-09-24T17:03:55.303Z"
   },
   "71325": {
     "tmdbId": 71325,
@@ -55875,8 +60671,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 562589,
+        "name": "Alexandra-Therese Keining",
+        "profilePath": "/vPTWCXWtPocpghyHqiHoi5bjzdR.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/71325",
-    "fetchedAt": "2026-09-23T06:53:13.185Z"
+    "fetchedAt": "2026-09-24T17:04:24.421Z"
   },
   "73939": {
     "tmdbId": 73939,
@@ -56090,8 +60894,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 472630,
+        "name": "Dee Rees",
+        "profilePath": "/rtfooBEfbkubWgNZYDSFzruRAF9.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/73939",
-    "fetchedAt": "2026-09-23T06:53:25.247Z"
+    "fetchedAt": "2026-09-24T17:04:35.907Z"
   },
   "74329": {
     "tmdbId": 74329,
@@ -56340,8 +61152,34 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 55156,
+        "name": "Mai Zetterling",
+        "profilePath": "/9F7epVzmm38e3rgLXFM6G6sOZmP.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 958845,
+        "name": "Susannah Buxton",
+        "profilePath": "/9MNN0jgxn8qZc6BrtBPBkYpwXtp.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 217642,
+        "name": "Roy Minton",
+        "profilePath": "/1LJusvuDx0G8yLAcyOX0i17i4F3.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 933550,
+        "name": "Jeremy Watt",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/74329",
-    "fetchedAt": "2026-09-23T06:53:28.901Z"
+    "fetchedAt": "2026-09-24T17:04:39.472Z"
   },
   "78177": {
     "tmdbId": 78177,
@@ -56507,8 +61345,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 102445,
+        "name": "John Sayles",
+        "profilePath": "/xJL2xLTDXGFe5t54xLx1hr0raaM.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/78177",
-    "fetchedAt": "2026-09-23T06:53:14.973Z"
+    "fetchedAt": "2026-09-24T17:04:26.207Z"
   },
   "80291": {
     "tmdbId": 80291,
@@ -56561,8 +61407,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 589134,
+        "name": "Giada Colagrande",
+        "profilePath": "/lwMe4adaBetNyNeucYb6w0xmthQ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 4935543,
+        "name": "Francesco Di Pace",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/80291",
-    "fetchedAt": "2026-09-23T06:53:24.434Z"
+    "fetchedAt": "2026-09-24T17:04:35.131Z"
   },
   "85330": {
     "tmdbId": 85330,
@@ -56659,8 +61519,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 994163,
+        "name": "Lee Friedlander",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 987025,
+        "name": "Paula Goldberg",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/85330",
-    "fetchedAt": "2026-09-23T06:53:24.848Z"
+    "fetchedAt": "2026-09-24T17:04:35.523Z"
   },
   "85617": {
     "tmdbId": 85617,
@@ -56734,8 +61608,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/4eEGEzG5DWw63nH84xmJgQi5n9k.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 146793,
+        "name": "Alberto Lattuada",
+        "profilePath": "/em6n73dLZnUTjalijM5g3eDlEws.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 138762,
+        "name": "H.A.L. Craig",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 56743,
+        "name": "Vittoriano Petrilli",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/85617",
-    "fetchedAt": "2026-09-23T06:52:49.583Z"
+    "fetchedAt": "2026-09-24T17:04:01.598Z"
   },
   "89366": {
     "tmdbId": 89366,
@@ -56845,8 +61739,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 18335,
+        "name": "George Sluizer",
+        "profilePath": "/1HlwIkG0HgzEdM0DZywCPW2ChFy.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 937083,
+        "name": "Jurriën Rood",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/89366",
-    "fetchedAt": "2026-09-23T06:53:35.693Z"
+    "fetchedAt": "2026-09-24T17:04:45.916Z"
   },
   "93934": {
     "tmdbId": 93934,
@@ -56889,8 +61797,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 130030,
+        "name": "Chantal Akerman",
+        "profilePath": "/6Q59Air1EjLHfq8NvvBpbTTgnWZ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 999862,
+        "name": "Paul Paquay",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1311778,
+        "name": "Eric de Kuyper",
+        "profilePath": "/vn1BClDlNkUrXTRMHI5gaG6TZ52.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/93934",
-    "fetchedAt": "2026-09-23T06:53:12.587Z"
+    "fetchedAt": "2026-09-24T17:04:23.834Z"
   },
   "94754": {
     "tmdbId": 94754,
@@ -57011,8 +61939,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 67750,
+        "name": "Liliana Cavani",
+        "profilePath": "/840kv5t9eE9lW8jnf7o18unPsxd.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 586075,
+        "name": "Roberta Mazzoni",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/94754",
-    "fetchedAt": "2026-09-23T06:52:49.381Z"
+    "fetchedAt": "2026-09-24T17:04:01.408Z"
   },
   "96597": {
     "tmdbId": 96597,
@@ -57122,8 +62064,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 995595,
+        "name": "Nouchka van Brakel",
+        "profilePath": "/yAICPMyMSqsZw7BIh8iNdTkZOHE.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1452409,
+        "name": "Judith Herzberg",
+        "profilePath": "/cfgpkcD7sKM8LhL3m6XJ2fI4U85.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/96597",
-    "fetchedAt": "2026-09-23T06:52:44.305Z"
+    "fetchedAt": "2026-09-24T17:03:56.499Z"
   },
   "99579": {
     "tmdbId": 99579,
@@ -57265,8 +62221,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 229263,
+        "name": "Benoît Jacquot",
+        "profilePath": "/n1qaZFqxYxm4nPzfpSYH93QH0eo.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 50538,
+        "name": "Gilles Taurand",
+        "profilePath": "/7GD8id2sYNej5lWMLPnweiiYici.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/99579",
-    "fetchedAt": "2026-09-23T06:53:02.315Z"
+    "fetchedAt": "2026-09-24T17:04:13.916Z"
   },
   "100825": {
     "tmdbId": 100825,
@@ -57334,8 +62304,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1045994,
+        "name": "Bobbie Birleffi",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1044951,
+        "name": "Beverly Kopf",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/100825",
-    "fetchedAt": "2026-09-23T06:52:54.846Z"
+    "fetchedAt": "2026-09-24T17:04:06.673Z"
   },
   "105538": {
     "tmdbId": 105538,
@@ -57418,8 +62402,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1037989,
+        "name": "Madeleine Olnek",
+        "profilePath": "/dzavUU50fk31rgvsu5g1JBKAPDm.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/105538",
-    "fetchedAt": "2026-09-23T06:52:56.866Z"
+    "fetchedAt": "2026-09-24T17:04:08.635Z"
   },
   "105778": {
     "tmdbId": 105778,
@@ -57460,8 +62452,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1038645,
+        "name": "Susan Muska",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1038646,
+        "name": "Gréta Olafsdóttir",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/105778",
-    "fetchedAt": "2026-09-23T06:53:00.692Z"
+    "fetchedAt": "2026-09-24T17:04:12.364Z"
   },
   "107257": {
     "tmdbId": 107257,
@@ -57599,8 +62605,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 224875,
+        "name": "Nicole Conn",
+        "profilePath": "/2mhHcdpbPGi7mvB08aIAXwioQik.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/107257",
-    "fetchedAt": "2026-09-23T06:52:43.706Z"
+    "fetchedAt": "2026-09-24T17:03:55.901Z"
   },
   "109614": {
     "tmdbId": 109614,
@@ -57689,8 +62703,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4724,
+        "name": "Kevin Bacon",
+        "profilePath": "/rjX2Oz3tCZMfSwOoIAyEhdtXnTE.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 936106,
+        "name": "Anne Meredith",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/109614",
-    "fetchedAt": "2026-09-23T06:53:16.225Z"
+    "fetchedAt": "2026-09-24T17:04:27.365Z"
   },
   "114150": {
     "tmdbId": 114150,
@@ -58368,8 +63396,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/p3xL2hLlIvdX8FFUwC3XFKQaISm.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 168667,
+        "name": "Jason Moore",
+        "profilePath": "/iM4Dwtt8JSOYyZSgPOuBn89MWeu.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 208664,
+        "name": "Kay Cannon",
+        "profilePath": "/3d61uWFZjkIt3Xzgsb649DgXQHR.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/114150",
-    "fetchedAt": "2026-09-23T06:53:25.643Z"
+    "fetchedAt": "2026-09-24T17:04:36.346Z"
   },
   "117098": {
     "tmdbId": 117098,
@@ -58506,8 +63548,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 229519,
+        "name": "Thom Fitzgerald",
+        "profilePath": "/sIFIDPir6Ts406wjrnyVmEKgOpx.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/117098",
-    "fetchedAt": "2026-09-23T06:52:56.450Z"
+    "fetchedAt": "2026-09-24T17:04:08.240Z"
   },
   "117233": {
     "tmdbId": 117233,
@@ -58567,8 +63617,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 55439,
+        "name": "Patricia Rozema",
+        "profilePath": "/sAZRPReEcKhnOva7xXLLFbhd6je.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/117233",
-    "fetchedAt": "2026-09-23T06:53:10.965Z"
+    "fetchedAt": "2026-09-24T17:04:22.293Z"
   },
   "125227": {
     "tmdbId": 125227,
@@ -58621,8 +63679,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 64069,
+        "name": "Dagmar Hirtz",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 13734,
+        "name": "Laila Stieler",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/125227",
-    "fetchedAt": "2026-09-23T06:52:58.864Z"
+    "fetchedAt": "2026-09-24T17:04:10.611Z"
   },
   "125233": {
     "tmdbId": 125233,
@@ -58714,8 +63786,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 202122,
+        "name": "Lee Rose",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/125233",
-    "fetchedAt": "2026-09-23T06:52:46.345Z"
+    "fetchedAt": "2026-09-24T17:03:58.488Z"
   },
   "134781": {
     "tmdbId": 134781,
@@ -59079,8 +64159,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 30716,
+        "name": "Virginie Despentes",
+        "profilePath": "/8UmcLWG1xoSOX542ShVXqnuPHrD.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/134781",
-    "fetchedAt": "2026-09-23T06:52:53.227Z"
+    "fetchedAt": "2026-09-24T17:04:05.123Z"
   },
   "143322": {
     "tmdbId": 143322,
@@ -59266,8 +64354,46 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 109402,
+        "name": "Rob Epstein",
+        "profilePath": "/2Dt2pa7G45FOedK281eCplnLNOS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1118869,
+        "name": "Nancy Adair",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 113432,
+        "name": "Lucy Massie Phenix",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1118823,
+        "name": "Veronica Selver",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 114557,
+        "name": "Peter Adair",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 3925429,
+        "name": "Andrew Brown",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/143322",
-    "fetchedAt": "2026-09-23T06:53:39.989Z"
+    "fetchedAt": "2026-09-24T17:04:50.107Z"
   },
   "156965": {
     "tmdbId": 156965,
@@ -59537,8 +64663,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/qMiEy5S4pM09S2D3CA4SizxOYwy.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1138163,
+        "name": "Stacie Passon",
+        "profilePath": "/kJflrA798OWrIezpjqPbeKtUZZR.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/156965",
-    "fetchedAt": "2026-09-23T06:52:57.470Z"
+    "fetchedAt": "2026-09-24T17:04:09.231Z"
   },
   "167683": {
     "tmdbId": 167683,
@@ -59613,8 +64747,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 69719,
+        "name": "Bruno Barreto",
+        "profilePath": "/rfoIOJvo7jcRuPY17u3BwUOTNbn.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 21808,
+        "name": "Matthew Chapman",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/167683",
-    "fetchedAt": "2026-09-23T06:53:27.877Z"
+    "fetchedAt": "2026-09-24T17:04:38.494Z"
   },
   "194926": {
     "tmdbId": 194926,
@@ -59759,8 +64907,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1211648,
+        "name": "Lynne Fernie",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1052379,
+        "name": "Aerlyn Weissman",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/194926",
-    "fetchedAt": "2026-09-23T06:53:04.312Z"
+    "fetchedAt": "2026-09-24T17:04:15.856Z"
   },
   "204477": {
     "tmdbId": 204477,
@@ -59872,8 +65034,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1014558,
+        "name": "Clare Beavan",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1186906,
+        "name": "Margaret Forster",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1186907,
+        "name": "Amy Jenkins",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/204477",
-    "fetchedAt": "2026-09-23T06:52:58.076Z"
+    "fetchedAt": "2026-09-24T17:04:09.818Z"
   },
   "209282": {
     "tmdbId": 209282,
@@ -60007,8 +65189,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/qWztWNB7xeIlsw3hpMhhr4EQA4F.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 76832,
+        "name": "Martin Provost",
+        "profilePath": "/nHfXJWrAiCAFfytXumu1v5RFv5l.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 4188648,
+        "name": "René de Ceccatty",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 225960,
+        "name": "Marc Abdelnour",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/209282",
-    "fetchedAt": "2026-09-23T06:53:36.732Z"
+    "fetchedAt": "2026-09-24T17:04:46.901Z"
   },
   "212967": {
     "tmdbId": 212967,
@@ -60102,8 +65304,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1197416,
+        "name": "Dean Matthew Ronalds",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1197417,
+        "name": "Domenic Migliore",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/212967",
-    "fetchedAt": "2026-09-23T06:52:47.152Z"
+    "fetchedAt": "2026-09-24T17:03:59.266Z"
   },
   "230680": {
     "tmdbId": 230680,
@@ -60162,8 +65378,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 51193,
+        "name": "Franziska Meletzky",
+        "profilePath": "/fhaxvrUWgFPS4aZ5PJbMwaQZK1w.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 51194,
+        "name": "Elke Rössler",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/230680",
-    "fetchedAt": "2026-09-23T06:53:21.567Z"
+    "fetchedAt": "2026-09-24T17:04:32.421Z"
   },
   "239495": {
     "tmdbId": 239495,
@@ -60187,8 +65417,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1274415,
+        "name": "Andrea Weiss",
+        "profilePath": "/xMiqJgXXolomP7yD53Z2JzTQGVv.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1274416,
+        "name": "Stuart Marshall",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/239495",
-    "fetchedAt": "2026-09-23T06:52:42.687Z"
+    "fetchedAt": "2026-09-24T17:03:54.906Z"
   },
   "250225": {
     "tmdbId": 250225,
@@ -60281,8 +65525,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 583857,
+        "name": "Peter Strickland",
+        "profilePath": "/ptkIln1n0p7A987W3q2hxtzxdfp.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/250225",
-    "fetchedAt": "2026-09-23T06:53:00.295Z"
+    "fetchedAt": "2026-09-24T17:04:11.973Z"
   },
   "254470": {
     "tmdbId": 254470,
@@ -60882,8 +66134,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 9281,
+        "name": "Elizabeth Banks",
+        "profilePath": "/szqEXmC0oAqRnN7zt1XAsbHpJfW.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 208664,
+        "name": "Kay Cannon",
+        "profilePath": "/3d61uWFZjkIt3Xzgsb649DgXQHR.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/254470",
-    "fetchedAt": "2026-09-23T06:53:25.842Z"
+    "fetchedAt": "2026-09-24T17:04:36.553Z"
   },
   "257862": {
     "tmdbId": 257862,
@@ -61161,8 +66427,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 239378,
+        "name": "Jacqueline Audry",
+        "profilePath": "/rbqrkdksZnl1AEfrJOoEF0bamkY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1548999,
+        "name": "Colette Audry",
+        "profilePath": "/g6PxT8aLy9S5Pkrd88HYRsawffD.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 1063185,
+        "name": "Pierre Laroche",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/257862",
-    "fetchedAt": "2026-09-23T06:53:23.404Z"
+    "fetchedAt": "2026-09-24T17:04:34.157Z"
   },
   "258480": {
     "tmdbId": 258480,
@@ -61416,8 +66702,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 16863,
+        "name": "Todd Haynes",
+        "profilePath": "/wBDazO2j49uoquoHTEDxcniyGGC.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1034086,
+        "name": "Phyllis Nagy",
+        "profilePath": "/rv0vvtXxjePYb751FOJbqJus9py.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/258480",
-    "fetchedAt": "2026-09-23T06:52:54.042Z"
+    "fetchedAt": "2026-09-24T17:04:05.890Z"
   },
   "273153": {
     "tmdbId": 273153,
@@ -61615,8 +66915,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 73654,
+        "name": "Catherine Corsini",
+        "profilePath": "/lqqRBss3Zs8lkfLZstsV7slEInY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1438572,
+        "name": "Laurette Polmanss",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/273153",
-    "fetchedAt": "2026-09-23T06:53:32.984Z"
+    "fetchedAt": "2026-09-24T17:04:43.373Z"
   },
   "274381": {
     "tmdbId": 274381,
@@ -61704,8 +67018,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 115891,
+        "name": "Chris Hegedus",
+        "profilePath": "/qaI1Q9uD49zH2b0If3VYqvuLkyh.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 21113,
+        "name": "D. A. Pennebaker",
+        "profilePath": "/bLonM1nzO87XvyrPYyS6L2q9yV.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/274381",
-    "fetchedAt": "2026-09-23T06:53:35.081Z"
+    "fetchedAt": "2026-09-24T17:04:45.332Z"
   },
   "283726": {
     "tmdbId": 283726,
@@ -61947,8 +67275,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4387,
+        "name": "François Ozon",
+        "profilePath": "/gjXDLWWMlypNp2R4ALMhR9JMf18.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/283726",
-    "fetchedAt": "2026-09-23T06:53:22.010Z"
+    "fetchedAt": "2026-09-24T17:04:32.799Z"
   },
   "292602": {
     "tmdbId": 292602,
@@ -62052,8 +67388,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1363751,
+        "name": "Alexander Scherer",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 40016,
+        "name": "Angelina Maccarone",
+        "profilePath": "/yxkHcEK5CqXYLILQIqA2vf1COMV.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/292602",
-    "fetchedAt": "2026-09-23T06:53:13.783Z"
+    "fetchedAt": "2026-09-24T17:04:25.043Z"
   },
   "293069": {
     "tmdbId": 293069,
@@ -62134,8 +67484,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 40364,
+        "name": "Ingo Haeb",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/293069",
-    "fetchedAt": "2026-09-23T06:52:54.648Z"
+    "fetchedAt": "2026-09-24T17:04:06.474Z"
   },
   "306745": {
     "tmdbId": 306745,
@@ -62244,8 +67602,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 71548,
+        "name": "Peter Sollett",
+        "profilePath": "/kl4ZBGmT6bEuD009nvZZbKZEIDv.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 59330,
+        "name": "Ron Nyswaner",
+        "profilePath": "/i4TCrmzMEQv2eJVsYXlGOoQoirl.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/306745",
-    "fetchedAt": "2026-09-23T06:53:05.522Z"
+    "fetchedAt": "2026-09-24T17:04:17.057Z"
   },
   "308765": {
     "tmdbId": 308765,
@@ -62297,8 +67669,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 221552,
+        "name": "Judith Kennel",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 38532,
+        "name": "Günter Schütter",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/308765",
-    "fetchedAt": "2026-09-23T06:53:16.658Z"
+    "fetchedAt": "2026-09-24T17:04:27.751Z"
   },
   "320642": {
     "tmdbId": 320642,
@@ -62386,8 +67772,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1812036,
+        "name": "Jonnie Leahy",
+        "profilePath": "/oY9hklhZgwtlC9ZUSyAmwAyhJdT.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1583064,
+        "name": "Monica Zanetti",
+        "profilePath": "/7dTVkPGXSiDkpNcfOiUUMkq9G5D.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/320642",
-    "fetchedAt": "2026-09-23T06:53:31.352Z"
+    "fetchedAt": "2026-09-24T17:04:41.780Z"
   },
   "322465": {
     "tmdbId": 322465,
@@ -62442,8 +67842,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1420612,
+        "name": "Julia C. Kaiser",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1326233,
+        "name": "Julia Becker",
+        "profilePath": "/h8GLBTiQ98nPrypseNwtKiPTSsG.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/322465",
-    "fetchedAt": "2026-09-23T06:52:58.270Z"
+    "fetchedAt": "2026-09-24T17:04:10.011Z"
   },
   "325496": {
     "tmdbId": 325496,
@@ -62519,8 +67933,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/svwzw42M9uHB3finYGb7zH7HVsp.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 49625,
+        "name": "Rainer Kaufmann",
+        "profilePath": "/naczI4zEvxrEzBy9k9772tgoWEo.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 49627,
+        "name": "Kathrin Richter",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1278809,
+        "name": "Jürgen Schlagenhof",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/325496",
-    "fetchedAt": "2026-09-23T06:53:36.323Z"
+    "fetchedAt": "2026-09-24T17:04:46.517Z"
   },
   "329829": {
     "tmdbId": 329829,
@@ -62774,8 +68208,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54767,
+        "name": "Mika Kaurismäki",
+        "profilePath": "/braCGIvRB2I8VIKh9ZZM4H555Mo.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1068493,
+        "name": "Michel Marc Bouchard",
+        "profilePath": "/iHgCLbmEraq7pMAeWuGEEBUHEQ9.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/329829",
-    "fetchedAt": "2026-09-23T06:53:06.916Z"
+    "fetchedAt": "2026-09-24T17:04:18.419Z"
   },
   "333091": {
     "tmdbId": 333091,
@@ -62947,8 +68395,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1446636,
+        "name": "Natalia Leite",
+        "profilePath": "/cX2HnQNk6wLnguSEhEBxSTLdBsg.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/333091",
-    "fetchedAt": "2026-09-23T06:52:48.356Z"
+    "fetchedAt": "2026-09-24T17:04:00.438Z"
   },
   "338371": {
     "tmdbId": 338371,
@@ -62995,8 +68451,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 589921,
+        "name": "Hitoshi Yazaki",
+        "profilePath": "/mp5vxqXnmWmOGyUtzAqAiDaUZ6r.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 77873,
+        "name": "Shunichi Nagasaki",
+        "profilePath": "/b5Jr8mpWCM9h0kX3eYHCjqwxTr8.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/338371",
-    "fetchedAt": "2026-09-23T06:52:44.907Z"
+    "fetchedAt": "2026-09-24T17:03:57.096Z"
   },
   "340487": {
     "tmdbId": 340487,
@@ -63098,8 +68568,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/sNV4sueIdOA64aDCKWKTOcgtQZS.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 56383,
+        "name": "Kelly Reichardt",
+        "profilePath": "/j97hMhlRhcaHWgn9MQ78E0ft57U.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1538811,
+        "name": "Maile Meloy",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/340487",
-    "fetchedAt": "2026-09-23T06:52:54.439Z"
+    "fetchedAt": "2026-09-24T17:04:06.279Z"
   },
   "341013": {
     "tmdbId": 341013,
@@ -63171,8 +68655,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 40684,
+        "name": "David Leitch",
+        "profilePath": "/aWDxGlWkFVhs80DQMEE5A7c7YBr.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 17285,
+        "name": "Kurt Johnstad",
+        "profilePath": "/tY7geoJ3T4kBnehGe4i26YQx4yL.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/341013",
-    "fetchedAt": "2026-09-23T06:52:47.350Z"
+    "fetchedAt": "2026-09-24T17:03:59.462Z"
   },
   "343809": {
     "tmdbId": 343809,
@@ -63232,8 +68730,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1475136,
+        "name": "William Sullivan",
+        "profilePath": "/9jlm0FOo8sKkuPsNekJfwiOhZfw.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/343809",
-    "fetchedAt": "2026-09-23T06:53:34.064Z"
+    "fetchedAt": "2026-09-24T17:04:44.352Z"
   },
   "345273": {
     "tmdbId": 345273,
@@ -63278,8 +68784,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 49477,
+        "name": "Josh Broecker",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 49404,
+        "name": "Kerstin Cantz",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/345273",
-    "fetchedAt": "2026-09-23T06:52:44.706Z"
+    "fetchedAt": "2026-09-24T17:03:56.903Z"
   },
   "353616": {
     "tmdbId": 353616,
@@ -63494,8 +69014,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1278722,
+        "name": "Trish Sie",
+        "profilePath": "/wB8cnaVXGikYjoWhcyvcNf8wWi9.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 208664,
+        "name": "Kay Cannon",
+        "profilePath": "/3d61uWFZjkIt3Xzgsb649DgXQHR.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 17735,
+        "name": "Mike White",
+        "profilePath": "/eJpW9GKmWh0W7enmjjZQ8MIEzoI.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/353616",
-    "fetchedAt": "2026-09-23T06:53:26.053Z"
+    "fetchedAt": "2026-09-24T17:04:36.741Z"
   },
   "371447": {
     "tmdbId": 371447,
@@ -63594,8 +69134,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 131397,
+        "name": "So Yong Kim",
+        "profilePath": "/yqtYtkkcHq3v3Ji3465FbSr2MgU.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 131388,
+        "name": "Bradley Rust Gray",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/371447",
-    "fetchedAt": "2026-09-23T06:53:17.512Z"
+    "fetchedAt": "2026-09-24T17:04:28.535Z"
   },
   "375262": {
     "tmdbId": 375262,
@@ -63931,8 +69485,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 122423,
+        "name": "Yorgos Lanthimos",
+        "profilePath": "/dvtv8eV1O8Fl385ctOu3sqO2PbD.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 77723,
+        "name": "Tony McNamara",
+        "profilePath": "/rlp4SPxehpOeLZV9E6xQdMnzLw8.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 1556401,
+        "name": "Deborah Davis",
+        "profilePath": "/wONFPcBtHbhmEh6eFziRbV4dqNA.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/375262",
-    "fetchedAt": "2026-09-23T06:53:02.516Z"
+    "fetchedAt": "2026-09-24T17:04:14.108Z"
   },
   "377364": {
     "tmdbId": 377364,
@@ -63955,8 +69529,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1307869,
+        "name": "Janet Baus",
+        "profilePath": "/tyBAzJ5rlkBiZqzGmCxM9ejjz8b.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1012174,
+        "name": "Su Friedrich",
+        "profilePath": "/nof0cZDTxovGwd1gnoK1r3dJQO4.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/377364",
-    "fetchedAt": "2026-09-23T06:53:14.377Z"
+    "fetchedAt": "2026-09-24T17:04:25.623Z"
   },
   "392794": {
     "tmdbId": 392794,
@@ -64243,8 +69831,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1605612,
+        "name": "Stéphanie Di Giusto",
+        "profilePath": "/ps4fM9qek9CwwrRaHj8fFIV1oIa.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1616908,
+        "name": "Sarah Thibau",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 89628,
+        "name": "Thomas Bidegain",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/392794",
-    "fetchedAt": "2026-09-23T06:52:57.880Z"
+    "fetchedAt": "2026-09-24T17:04:09.624Z"
   },
   "397722": {
     "tmdbId": 397722,
@@ -64361,8 +69969,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1620987,
+        "name": "Cory Finley",
+        "profilePath": "/sNHUuZMG3r3zrWsd9oD9IXgkPQi.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/397722",
-    "fetchedAt": "2026-09-23T06:53:34.478Z"
+    "fetchedAt": "2026-09-24T17:04:44.733Z"
   },
   "398694": {
     "tmdbId": 398694,
@@ -64402,8 +70018,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/wPY2Unyj1AADqib2nDVY7w2EBCS.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1624253,
+        "name": "Alex K. Lee",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/398694",
-    "fetchedAt": "2026-09-23T06:53:18.928Z"
+    "fetchedAt": "2026-09-24T17:04:29.871Z"
   },
   "400579": {
     "tmdbId": 400579,
@@ -64581,8 +70205,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 52443,
+        "name": "Jason Reitman",
+        "profilePath": "/eNNN1dwfB6b6p2hoEG1xyoa7H2p.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 52444,
+        "name": "Diablo Cody",
+        "profilePath": "/941SrZwRQ0W4JShomOid0sgjtpU.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/400579",
-    "fetchedAt": "2026-09-23T06:53:35.494Z"
+    "fetchedAt": "2026-09-24T17:04:45.722Z"
   },
   "401898": {
     "tmdbId": 401898,
@@ -64748,8 +70386,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 71609,
+        "name": "Joachim Trier",
+        "profilePath": "/o5KXJRWbzyGYSxDhXsBqbCiZnqU.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 444892,
+        "name": "Eskil Vogt",
+        "profilePath": "/y5Rg3vdQleveYe7VfyGve4ljDtV.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/401898",
-    "fetchedAt": "2026-09-23T06:53:34.263Z"
+    "fetchedAt": "2026-09-24T17:04:44.544Z"
   },
   "402431": {
     "tmdbId": 402431,
@@ -67058,8 +72710,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54507,
+        "name": "Jon M. Chu",
+        "profilePath": "/85kOxm7w4nGRwyhquj9wtUM8KUW.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1222194,
+        "name": "Winnie Holzman",
+        "profilePath": "/kkGdnFvRTkK3F2TjwWFek9t6uNz.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 56718,
+        "name": "Dana Fox",
+        "profilePath": "/fFj1mwG74uPzakVonrn18UQEL5c.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/402431",
-    "fetchedAt": "2026-09-23T06:53:38.988Z"
+    "fetchedAt": "2026-09-24T17:04:49.055Z"
   },
   "405050": {
     "tmdbId": 405050,
@@ -67239,8 +72911,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1414901,
+        "name": "Fin Edquist",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 174898,
+        "name": "Stephen Kearney",
+        "profilePath": "/f3a85T59e9PSMyQAT3UQpVAtpuo.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/405050",
-    "fetchedAt": "2026-09-23T06:52:47.959Z"
+    "fetchedAt": "2026-09-24T17:04:00.053Z"
   },
   "405473": {
     "tmdbId": 405473,
@@ -67541,8 +73227,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1647425,
+        "name": "Darren Thornton",
+        "profilePath": "/4QYhe8FFs5xXu3uFIdUR4NKJG56.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1747164,
+        "name": "Colin Thornton",
+        "profilePath": "/o50fqxiAaanwoivwkGFHox1J9VY.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/405473",
-    "fetchedAt": "2026-09-23T06:52:42.894Z"
+    "fetchedAt": "2026-09-24T17:03:55.105Z"
   },
   "411976": {
     "tmdbId": 411976,
@@ -68064,8 +73764,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1667819,
+        "name": "Margaret Betts",
+        "profilePath": "/tDxTMkRY1JEuJCxpq8BGlkzAxit.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/411976",
-    "fetchedAt": "2026-09-23T06:53:23.007Z"
+    "fetchedAt": "2026-09-24T17:04:33.771Z"
   },
   "419743": {
     "tmdbId": 419743,
@@ -68253,8 +73961,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1142171,
+        "name": "Sebastián Lelio",
+        "profilePath": "/uzYhbqxO8BGkzBl4g5xHUZbaD7V.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 515221,
+        "name": "Rebecca Lenkiewicz",
+        "profilePath": "/G8R8oMtv0ecJkHTS5ywz4ywwFL.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/419743",
-    "fetchedAt": "2026-09-23T06:52:59.065Z"
+    "fetchedAt": "2026-09-24T17:04:10.808Z"
   },
   "421131": {
     "tmdbId": 421131,
@@ -68337,8 +74059,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 112636,
+        "name": "Spencer Maybee",
+        "profilePath": "/8Zrb7Jf36yeFjgXzOta5go7H4hD.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1846454,
+        "name": "Alejandro Alcoba",
+        "profilePath": "/mcRplT2vwoLlC7ow1mgryi8RKzq.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1565850,
+        "name": "Jordan Hall",
+        "profilePath": "/wjdWINX3uZP14AoeD43WvtpB1k8.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/421131",
-    "fetchedAt": "2026-09-23T06:52:53.831Z"
+    "fetchedAt": "2026-09-24T17:04:05.700Z"
   },
   "434504": {
     "tmdbId": 434504,
@@ -68425,8 +74167,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1286460,
+        "name": "Monja Art",
+        "profilePath": "/5eAdnl1I0UYuLuYouYK8XdZEgda.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/434504",
-    "fetchedAt": "2026-09-23T06:53:30.346Z"
+    "fetchedAt": "2026-09-24T17:04:40.815Z"
   },
   "434714": {
     "tmdbId": 434714,
@@ -68520,8 +74270,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/xpcGiihwyH17Qv5HWKrgTkN6R1R.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1394326,
+        "name": "Tali Shalom-Ezer",
+        "profilePath": "/pVuESpaF2kKRYipiDDIkAI9my0t.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 226587,
+        "name": "Joe Barton",
+        "profilePath": "/tWeZkL0zVWeAI5moTAlDJSUVCOA.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/434714",
-    "fetchedAt": "2026-09-23T06:53:20.357Z"
+    "fetchedAt": "2026-09-24T17:04:31.259Z"
   },
   "442285": {
     "tmdbId": 442285,
@@ -68602,8 +74366,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 19629,
+        "name": "Guy Casaril",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1760047,
+        "name": "Françoise Mallet-Joris",
+        "profilePath": "/bFseCTXjdFEoAjzZ7qEyKwV2bMR.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/442285",
-    "fetchedAt": "2026-09-23T06:52:48.975Z"
+    "fetchedAt": "2026-09-24T17:04:01.020Z"
   },
   "444973": {
     "tmdbId": 444973,
@@ -68715,8 +74493,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/fzZFvz3BLcofcz3Ufr6PfDeS8mM.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 3599163,
+        "name": "Tracy Choi Ian-Sin",
+        "profilePath": "/gl2sJ4sr229xEU6TujacuyZBAuB.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 135830,
+        "name": "Au Kin-Yee",
+        "profilePath": "/aT09fkIAKVe18p6SKwsjOC35QLe.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/444973",
-    "fetchedAt": "2026-09-23T06:53:31.149Z"
+    "fetchedAt": "2026-09-24T17:04:41.588Z"
   },
   "447034": {
     "tmdbId": 447034,
@@ -68788,8 +74580,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1522546,
+        "name": "Chanya Button",
+        "profilePath": "/gCUvjHFC2FsTxDcaWHT8FpmE2wV.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 20300,
+        "name": "Eileen Atkins",
+        "profilePath": "/8gac03PfTFz2vByZi1aun0NiTqM.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/447034",
-    "fetchedAt": "2026-09-23T06:53:36.933Z"
+    "fetchedAt": "2026-09-24T17:04:47.092Z"
   },
   "454527": {
     "tmdbId": 454527,
@@ -68999,8 +74805,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/u30RE05YoFqEqIR1ZjngoMkJlee.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 10491,
+        "name": "Paul Verhoeven",
+        "profilePath": "/r8k5pnuKZN3PUIizakuiTzEdjJJ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 150183,
+        "name": "David Birke",
+        "profilePath": "/JuJjJLLZLPRBQVuJqJtltJTxS4.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/454527",
-    "fetchedAt": "2026-09-23T06:52:49.177Z"
+    "fetchedAt": "2026-09-24T17:04:01.210Z"
   },
   "454652": {
     "tmdbId": 454652,
@@ -69221,8 +75041,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 82337,
+        "name": "Wash Westmoreland",
+        "profilePath": "/dCM1FQaA5TfZEbuaG4LCEtVFaZ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 515221,
+        "name": "Rebecca Lenkiewicz",
+        "profilePath": "/G8R8oMtv0ecJkHTS5ywz4ywwFL.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 82335,
+        "name": "Richard Glatzer",
+        "profilePath": "/mNmbyjSPyeV1KFqCzFFVof1VZTH.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/454652",
-    "fetchedAt": "2026-09-23T06:52:57.069Z"
+    "fetchedAt": "2026-09-24T17:04:08.833Z"
   },
   "454889": {
     "tmdbId": 454889,
@@ -69464,8 +75304,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 592318,
+        "name": "Stephen Cone",
+        "profilePath": "/yp5hzePC2uGWakcAbrwzggRpxgb.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/454889",
-    "fetchedAt": "2026-09-23T06:53:26.869Z"
+    "fetchedAt": "2026-09-24T17:04:37.512Z"
   },
   "459918": {
     "tmdbId": 459918,
@@ -69504,8 +75352,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2434734,
+        "name": "Cecilia Valenzuela Gioia",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/459918",
-    "fetchedAt": "2026-09-23T06:52:44.105Z"
+    "fetchedAt": "2026-09-24T17:03:56.294Z"
   },
   "460071": {
     "tmdbId": 460071,
@@ -69602,8 +75458,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1033123,
+        "name": "Craig William Macneill",
+        "profilePath": "/4kC0EglmBaSSywymqjyVLQa5Jr1.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1335373,
+        "name": "Bryce Kass",
+        "profilePath": "/pjZKUOni6LooOchQtLuMuZ1IVAe.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/460071",
-    "fetchedAt": "2026-09-23T06:53:15.792Z"
+    "fetchedAt": "2026-09-24T17:04:26.982Z"
   },
   "460089": {
     "tmdbId": 460089,
@@ -69657,8 +75527,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1827183,
+        "name": "Savannah Bloch",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1486969,
+        "name": "Colette Freedman",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/460089",
-    "fetchedAt": "2026-09-23T06:52:46.758Z"
+    "fetchedAt": "2026-09-24T17:03:58.867Z"
   },
   "470333": {
     "tmdbId": 470333,
@@ -69756,8 +75640,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 932759,
+        "name": "Brett Haley",
+        "profilePath": "/1Up8rsW38U8Q4DfQjKLYFtio4zf.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1397707,
+        "name": "Marc Basch",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/470333",
-    "fetchedAt": "2026-09-23T06:53:08.919Z"
+    "fetchedAt": "2026-09-24T17:04:20.366Z"
   },
   "475888": {
     "tmdbId": 475888,
@@ -69944,8 +75842,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 58164,
+        "name": "Annabel Jankel",
+        "profilePath": "/ugOy8P88dTClGt2AeIRg36c5eZk.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 29238,
+        "name": "Jessica Ashworth",
+        "profilePath": "/AjAXVH6mYfEHTIcYO7ixWaTE3eQ.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1888280,
+        "name": "Henrietta Ashworth",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/475888",
-    "fetchedAt": "2026-09-23T06:53:33.791Z"
+    "fetchedAt": "2026-09-24T17:04:44.153Z"
   },
   "475908": {
     "tmdbId": 475908,
@@ -69999,8 +75917,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1483483,
+        "name": "Emily Harris",
+        "profilePath": "/tv0T0vnQf8irvODIX9gFYEVW71P.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 11573,
+        "name": "Sheridan Le Fanu",
+        "profilePath": "/bjvU12t8Qlk60OU82Lw1TbKlBW8.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/475908",
-    "fetchedAt": "2026-09-23T06:52:53.628Z"
+    "fetchedAt": "2026-09-24T17:04:05.504Z"
   },
   "475930": {
     "tmdbId": 475930,
@@ -70253,8 +76185,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1172229,
+        "name": "Yann Gonzalez",
+        "profilePath": "/7lw5t6d4TgGVbHzjAtLt1gtulfg.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1888440,
+        "name": "Cristiano Mangione",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/475930",
-    "fetchedAt": "2026-09-23T06:53:36.121Z"
+    "fetchedAt": "2026-09-24T17:04:46.306Z"
   },
   "480256": {
     "tmdbId": 480256,
@@ -70315,8 +76261,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1902860,
+        "name": "Julia Ritschel",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/480256",
-    "fetchedAt": "2026-09-23T06:53:13.987Z"
+    "fetchedAt": "2026-09-24T17:04:25.235Z"
   },
   "496743": {
     "tmdbId": 496743,
@@ -70395,8 +76349,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1188566,
+        "name": "Hugo Lilja",
+        "profilePath": "/1QAf6Xl7u4mM1WcpIqlhoXWaXc5.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1179069,
+        "name": "Pella Kågerman",
+        "profilePath": "/6XyzM4nkrQiBkNwB0HjFCRMXESg.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/496743",
-    "fetchedAt": "2026-09-23T06:52:46.954Z"
+    "fetchedAt": "2026-09-24T17:03:59.077Z"
   },
   "499152": {
     "tmdbId": 499152,
@@ -70543,8 +76511,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1623016,
+        "name": "Marcelo Martinessi",
+        "profilePath": "/ejf8m5Y2HJ8WJ8uriqCt9OwkLxy.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/499152",
-    "fetchedAt": "2026-09-23T06:53:09.520Z"
+    "fetchedAt": "2026-09-24T17:04:20.951Z"
   },
   "499319": {
     "tmdbId": 499319,
@@ -70767,8 +76743,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 61069,
+        "name": "Miguel Arteta",
+        "profilePath": "/8i30SMAGvi8Bc0qyLeazdX71BvU.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 61178,
+        "name": "Alia Shawkat",
+        "profilePath": "/kcTFBrPSQkenbPK76Iwj49c3Dku.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/499319",
-    "fetchedAt": "2026-09-23T06:53:00.075Z"
+    "fetchedAt": "2026-09-24T17:04:11.774Z"
   },
   "502147": {
     "tmdbId": 502147,
@@ -71228,8 +77218,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1037989,
+        "name": "Madeleine Olnek",
+        "profilePath": "/dzavUU50fk31rgvsu5g1JBKAPDm.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/502147",
-    "fetchedAt": "2026-09-23T06:53:39.387Z"
+    "fetchedAt": "2026-09-24T17:04:49.495Z"
   },
   "503752": {
     "tmdbId": 503752,
@@ -71282,8 +77280,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1310518,
+        "name": "Colin Minihan",
+        "profilePath": "/exXYnzNugYo0laAgzS2WzkzQtl5.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/503752",
-    "fetchedAt": "2026-09-23T06:53:38.140Z"
+    "fetchedAt": "2026-09-24T17:04:48.266Z"
   },
   "505600": {
     "tmdbId": 505600,
@@ -71398,8 +77404,40 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 59315,
+        "name": "Olivia Wilde",
+        "profilePath": "/eODi1QKamyVa41eSK2SjU20VAZS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1181319,
+        "name": "Emily Halpern",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1181324,
+        "name": "Sarah Haskins",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1302549,
+        "name": "Susanna Fogel",
+        "profilePath": "/sAbg3vh5GzQGXnlFpQlAyFAVmcs.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 1491121,
+        "name": "Katie Silberman",
+        "profilePath": "/koHekHYbHLGiWgR0l9AkwarVAxg.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/505600",
-    "fetchedAt": "2026-09-23T06:52:51.834Z"
+    "fetchedAt": "2026-09-24T17:04:03.769Z"
   },
   "506281": {
     "tmdbId": 506281,
@@ -71466,8 +77504,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/mEnDAztpBTAzG5rEGEMaixebVJx.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1280031,
+        "name": "Mona Fastvold",
+        "profilePath": "/vvOWJDo21Hp0dNe2cYEptUYYW0C.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 39514,
+        "name": "Ron Hansen",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1826669,
+        "name": "Jim Shepard",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/506281",
-    "fetchedAt": "2026-09-23T06:53:40.188Z"
+    "fetchedAt": "2026-09-24T17:04:50.297Z"
   },
   "507697": {
     "tmdbId": 507697,
@@ -71548,8 +77606,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 83313,
+        "name": "Melanie Mayron",
+        "profilePath": "/sI38VFYahukXe2NPVSCTMjP6nK6.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1841604,
+        "name": "Jan Miller Corran",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 169293,
+        "name": "Katherine Cortez",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/507697",
-    "fetchedAt": "2026-09-23T06:53:31.551Z"
+    "fetchedAt": "2026-09-24T17:04:41.971Z"
   },
   "517987": {
     "tmdbId": 517987,
@@ -71768,8 +77846,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 132360,
+        "name": "Wanuri Kahiu",
+        "profilePath": "/szyDl9GeiEKUarUjEvB71x51Rzd.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1406229,
+        "name": "Jenna Cato Bass",
+        "profilePath": "/wA4k94JfXMB1yuQlBLaDClbufNj.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/517987",
-    "fetchedAt": "2026-09-23T06:53:27.683Z"
+    "fetchedAt": "2026-09-24T17:04:38.302Z"
   },
   "519091": {
     "tmdbId": 519091,
@@ -71956,8 +78048,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1302077,
+        "name": "Arantxa Echevarría",
+        "profilePath": "/sKLh1OQ72igoZH4e8RjjF1YAYP8.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/519091",
-    "fetchedAt": "2026-09-23T06:52:53.422Z"
+    "fetchedAt": "2026-09-24T17:04:05.311Z"
   },
   "520172": {
     "tmdbId": 520172,
@@ -72158,8 +78258,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 20387,
+        "name": "Clea DuVall",
+        "profilePath": "/yueygn1Lmmni7EaMQD9LslexDlu.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1488952,
+        "name": "Mary Holland",
+        "profilePath": "/iwEK2fIrU1q7aijjD8FI9hCUMEL.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/520172",
-    "fetchedAt": "2026-09-23T06:53:08.516Z"
+    "fetchedAt": "2026-09-24T17:04:19.987Z"
   },
   "528776": {
     "tmdbId": 528776,
@@ -72198,8 +78312,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2059269,
+        "name": "Daniel Manns",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/528776",
-    "fetchedAt": "2026-09-23T06:52:49.980Z"
+    "fetchedAt": "2026-09-24T17:04:01.990Z"
   },
   "531428": {
     "tmdbId": 531428,
@@ -72266,8 +78388,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 68813,
+        "name": "Céline Sciamma",
+        "profilePath": "/4B5Bt47HYTObsde1einBDha03ka.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/531428",
-    "fetchedAt": "2026-09-23T06:53:26.452Z"
+    "fetchedAt": "2026-09-24T17:04:37.119Z"
   },
   "533985": {
     "tmdbId": 533985,
@@ -72405,8 +78535,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/pkLMdsyH5HXR7NX8vl0sVG3MsIx.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2044656,
+        "name": "Brad Michael Elmore",
+        "profilePath": "/9OoAe21V5yPfOSBhhzbtfsF0K8c.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/533985",
-    "fetchedAt": "2026-09-23T06:52:50.388Z"
+    "fetchedAt": "2026-09-24T17:04:02.409Z"
   },
   "535356": {
     "tmdbId": 535356,
@@ -72656,8 +78794,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/gDmspvyUbf5m4nlbi6nKMX5OzeK.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 90,
+        "name": "Isabel Coixet",
+        "profilePath": "/s2Hspn17nOf6LIuVrULvV3OOiX0.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/535356",
-    "fetchedAt": "2026-09-23T06:53:01.300Z"
+    "fetchedAt": "2026-09-24T17:04:12.939Z"
   },
   "568467": {
     "tmdbId": 568467,
@@ -72774,8 +78920,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/tcIxJsC0f0vNmC91AtMEEDWJWEy.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 192852,
+        "name": "Francis Lee",
+        "profilePath": "/41pUchu4uLpJF9rsDJYRtMsQdHQ.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/568467",
-    "fetchedAt": "2026-09-23T06:52:46.135Z"
+    "fetchedAt": "2026-09-24T17:03:58.290Z"
   },
   "574321": {
     "tmdbId": 574321,
@@ -72846,8 +79000,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 18175,
+        "name": "Dominik Moll",
+        "profilePath": "/9xHD0HQEhW9obWiplB8QDGgXdbr.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 18176,
+        "name": "Gilles Marchand",
+        "profilePath": "/gVaFmtnX00rxMRgPhav0rI2OSsw.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/574321",
-    "fetchedAt": "2026-09-23T06:53:24.031Z"
+    "fetchedAt": "2026-09-24T17:04:34.734Z"
   },
   "578721": {
     "tmdbId": 578721,
@@ -72921,8 +79089,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/qu3PiYuTTfVyzoVWQ9h1Ywd2rFi.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1147572,
+        "name": "Sébastien Bailly",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/578721",
-    "fetchedAt": "2026-09-23T06:53:03.304Z"
+    "fetchedAt": "2026-09-24T17:04:14.870Z"
   },
   "579875": {
     "tmdbId": 579875,
@@ -73024,8 +79200,34 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/lr43kBhNXdebbT3QNzqia1O8nZb.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1614176,
+        "name": "Eduard Bordukov",
+        "profilePath": "/5RXVZ3yfiwQ9lMfZNk3CTTog1kI.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2669962,
+        "name": "Mikhail Kakuberi",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 2669963,
+        "name": "Alexander Egorov",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 3052408,
+        "name": "Anna Sobolevskaya",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/579875",
-    "fetchedAt": "2026-09-23T06:53:23.606Z"
+    "fetchedAt": "2026-09-24T17:04:34.348Z"
   },
   "581790": {
     "tmdbId": 581790,
@@ -73169,8 +79371,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1020780,
+        "name": "Emily Lape",
+        "profilePath": "/5xA6XvVkiUikYxuuRtNJB4qy7vt.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/581790",
-    "fetchedAt": "2026-09-23T06:53:19.354Z"
+    "fetchedAt": "2026-09-24T17:04:30.259Z"
   },
   "591273": {
     "tmdbId": 591273,
@@ -73316,8 +79526,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/bm6ULveG6B3zD4QClsceSPC94kh.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1290265,
+        "name": "Leigh Janiak",
+        "profilePath": "/doGqNQAcXGMaci879xFvNWl6fUQ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1290267,
+        "name": "Phil Graziadei",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 566273,
+        "name": "Kyle Killen",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/591273",
-    "fetchedAt": "2026-09-23T06:53:03.108Z"
+    "fetchedAt": "2026-09-24T17:04:14.683Z"
   },
   "591274": {
     "tmdbId": 591274,
@@ -73456,8 +79686,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1290265,
+        "name": "Leigh Janiak",
+        "profilePath": "/doGqNQAcXGMaci879xFvNWl6fUQ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2601912,
+        "name": "Zak Olkewicz",
+        "profilePath": "/gUkCmTHsuDM5r9WDUKMoNmiUMB0.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1290267,
+        "name": "Phil Graziadei",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/591274",
-    "fetchedAt": "2026-09-23T06:53:02.913Z"
+    "fetchedAt": "2026-09-24T17:04:14.493Z"
   },
   "591275": {
     "tmdbId": 591275,
@@ -73588,8 +79838,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/bm6ULveG6B3zD4QClsceSPC94kh.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1290265,
+        "name": "Leigh Janiak",
+        "profilePath": "/doGqNQAcXGMaci879xFvNWl6fUQ.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1916848,
+        "name": "Kate Trefry",
+        "profilePath": "/3jom2ZqqSJ93G3DAbJGtItAsRS8.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 1290267,
+        "name": "Phil Graziadei",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/591275",
-    "fetchedAt": "2026-09-23T06:53:02.716Z"
+    "fetchedAt": "2026-09-24T17:04:14.300Z"
   },
   "597219": {
     "tmdbId": 597219,
@@ -73700,8 +79970,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/9XnSu8STtFZBwfjoHsULiQYkZ3e.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 84461,
+        "name": "Alice Wu",
+        "profilePath": "/4nOKxXZwwczb6icdmPc1L3UiUG.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/597219",
-    "fetchedAt": "2026-09-23T06:53:08.316Z"
+    "fetchedAt": "2026-09-24T17:04:19.795Z"
   },
   "601666": {
     "tmdbId": 601666,
@@ -73852,8 +80130,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 111588,
+        "name": "J Blakeson",
+        "profilePath": "/8nLc4y8f9qnMSCirfGVmZj1paJF.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/601666",
-    "fetchedAt": "2026-09-23T06:53:10.539Z"
+    "fetchedAt": "2026-09-24T17:04:21.900Z"
   },
   "606243": {
     "tmdbId": 606243,
@@ -74082,8 +80368,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2301180,
+        "name": "Christin Baker",
+        "profilePath": "/3QZ1YmOYhcxpQVA5peao9GdwK7l.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2327158,
+        "name": "Kathryn Trammell",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/606243",
-    "fetchedAt": "2026-09-23T06:53:29.100Z"
+    "fetchedAt": "2026-09-24T17:04:39.669Z"
   },
   "608232": {
     "tmdbId": 608232,
@@ -74230,8 +80530,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 124856,
+        "name": "Zaida Bergroth",
+        "profilePath": "/fx4OCpCElnPdACapY2uwPnsP7Ra.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1811490,
+        "name": "Eeva Putro",
+        "profilePath": "/jy1kjrGc6wZglry875Xv3qHjMkJ.jpg",
+        "job": "Writer"
+      },
+      {
+        "id": 2050638,
+        "name": "Jarno Elonen",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/608232",
-    "fetchedAt": "2026-09-23T06:53:34.874Z"
+    "fetchedAt": "2026-09-24T17:04:45.134Z"
   },
   "615777": {
     "tmdbId": 615777,
@@ -75412,8 +81732,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 136495,
+        "name": "Damien Chazelle",
+        "profilePath": "/14kRZ3XxNMyBv717YQSXr3wCucy.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/615777",
-    "fetchedAt": "2026-09-23T06:52:47.759Z"
+    "fetchedAt": "2026-09-24T17:03:59.846Z"
   },
   "628890": {
     "tmdbId": 628890,
@@ -75447,8 +81775,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1990162,
+        "name": "Veronica Duport Deliz",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1990160,
+        "name": "Deborah Craig",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2037424,
+        "name": "Ondine Rarey",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/628890",
-    "fetchedAt": "2026-09-23T06:52:43.312Z"
+    "fetchedAt": "2026-09-24T17:03:55.509Z"
   },
   "641934": {
     "tmdbId": 641934,
@@ -75530,8 +81878,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 220088,
+        "name": "Tig Notaro",
+        "profilePath": "/tdZ6XLzIaK0HWWPSM2B5OrOqUC0.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1003843,
+        "name": "Stephanie Allynne",
+        "profilePath": "/orxxs8G1QdKt1tECyJu3qiWCV8M.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1218679,
+        "name": "Lauren Pomerantz",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/641934",
-    "fetchedAt": "2026-09-23T06:52:45.735Z"
+    "fetchedAt": "2026-09-24T17:03:57.893Z"
   },
   "646450": {
     "tmdbId": 646450,
@@ -75578,8 +81946,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2453026,
+        "name": "Vicky Du",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/646450",
-    "fetchedAt": "2026-09-23T06:53:06.304Z"
+    "fetchedAt": "2026-09-24T17:04:17.828Z"
   },
   "648811": {
     "tmdbId": 648811,
@@ -75631,8 +82007,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2460403,
+        "name": "Rafael Aguiar",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/648811",
-    "fetchedAt": "2026-09-23T06:52:56.656Z"
+    "fetchedAt": "2026-09-24T17:04:08.440Z"
   },
   "656276": {
     "tmdbId": 656276,
@@ -75851,8 +82235,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1803578,
+        "name": "Clarisa Navas",
+        "profilePath": "/pNArV8PbMb7mFYCVa8quBQivSfd.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/656276",
-    "fetchedAt": "2026-09-23T06:53:23.808Z"
+    "fetchedAt": "2026-09-24T17:04:34.543Z"
   },
   "662541": {
     "tmdbId": 662541,
@@ -75960,8 +82352,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1583064,
+        "name": "Monica Zanetti",
+        "profilePath": "/7dTVkPGXSiDkpNcfOiUUMkq9G5D.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/662541",
-    "fetchedAt": "2026-09-23T06:53:01.506Z"
+    "fetchedAt": "2026-09-24T17:04:13.131Z"
   },
   "663300": {
     "tmdbId": 663300,
@@ -76022,8 +82422,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/kJCFP3gVLa2VJ7FvpkHqN8Q9eZc.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2327300,
+        "name": "Alexandra Swarens",
+        "profilePath": "/239aGV2lc1ef7ME4JPTda8eXDP2.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/663300",
-    "fetchedAt": "2026-09-23T06:52:56.252Z"
+    "fetchedAt": "2026-09-24T17:04:08.043Z"
   },
   "663862": {
     "tmdbId": 663862,
@@ -76063,8 +82471,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/v6jPmLHp1atIZq71zeV853crq28.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1756318,
+        "name": "Christie Conochalla",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/663862",
-    "fetchedAt": "2026-09-23T06:53:04.733Z"
+    "fetchedAt": "2026-09-24T17:04:16.247Z"
   },
   "664341": {
     "tmdbId": 664341,
@@ -76192,8 +82608,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1661862,
+        "name": "William Oldroyd",
+        "profilePath": "/e3cJeIVKozF9tCPfGoJVi066VTO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3607621,
+        "name": "Luke Goebel",
+        "profilePath": "/4m289zwIaYBO7LqbvlvemtNmdNE.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 2510779,
+        "name": "Ottessa Moshfegh",
+        "profilePath": "/fn2baUVHguGXtCMz6DepR8iS4Uj.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/664341",
-    "fetchedAt": "2026-09-23T06:53:00.898Z"
+    "fetchedAt": "2026-09-24T17:04:12.555Z"
   },
   "667642": {
     "tmdbId": 667642,
@@ -76269,8 +82705,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1038659,
+        "name": "Andrew Dosunmu",
+        "profilePath": "/qNnfY9Ruk7H8EERHAYyeSifEo8t.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1059572,
+        "name": "Lena Waithe",
+        "profilePath": "/yidK25mjpxTTYCICmZnxgks6utx.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/667642",
-    "fetchedAt": "2026-09-23T06:52:48.771Z"
+    "fetchedAt": "2026-09-24T17:04:00.823Z"
   },
   "668640": {
     "tmdbId": 668640,
@@ -76426,8 +82876,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 584193,
+        "name": "Mariano Cohn",
+        "profilePath": "/ojioeKl18KByUrAoZlu2DHA9102.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 584191,
+        "name": "Gastón Duprat",
+        "profilePath": "/g3jWX7zVIh3u3m53Ow2W3kf7Y8X.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 584195,
+        "name": "Andrés Duprat",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/668640",
-    "fetchedAt": "2026-09-23T06:53:23.207Z"
+    "fetchedAt": "2026-09-24T17:04:33.961Z"
   },
   "673593": {
     "tmdbId": 673593,
@@ -77264,8 +83734,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1438991,
+        "name": "Arturo Perez Jr.",
+        "profilePath": "/mqiln7mLClus5a3OOBYjHopXiFc.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1438990,
+        "name": "Samantha Jayne",
+        "profilePath": "/uqsuY2H0rfteUD0dvZuFpSJ50wO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 56323,
+        "name": "Tina Fey",
+        "profilePath": "/yPTAi1iucXf85UpiFPtyiTSM6do.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/673593",
-    "fetchedAt": "2026-09-23T06:53:19.131Z"
+    "fetchedAt": "2026-09-24T17:04:30.063Z"
   },
   "683363": {
     "tmdbId": 683363,
@@ -77374,8 +83864,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1064049,
+        "name": "Alli Haapasalo",
+        "profilePath": "/dwmIHBaEVWeUXJmEMcWZmS1f3qm.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2566931,
+        "name": "Ilona Ahti",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1900930,
+        "name": "Daniela Hakulinen",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/683363",
-    "fetchedAt": "2026-09-23T06:53:07.110Z"
+    "fetchedAt": "2026-09-24T17:04:18.613Z"
   },
   "687156": {
     "tmdbId": 687156,
@@ -77477,8 +83987,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1941751,
+        "name": "Chris Bolan",
+        "profilePath": "/3i5laSEORydsngbSHwEmk53I8Kt.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1526934,
+        "name": "Brendan Mason",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 53360,
+        "name": "Alexa L. Fogel",
+        "profilePath": "/ctcsQwIEB10RFqZiCnMQ70WiTJc.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/687156",
-    "fetchedAt": "2026-09-23T06:52:43.905Z"
+    "fetchedAt": "2026-09-24T17:03:56.094Z"
   },
   "705990": {
     "tmdbId": 705990,
@@ -77588,8 +84118,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2644404,
+        "name": "Han Jay",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/705990",
-    "fetchedAt": "2026-09-23T06:53:33.585Z"
+    "fetchedAt": "2026-09-24T17:04:43.963Z"
   },
   "727414": {
     "tmdbId": 727414,
@@ -77734,8 +84272,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1396219,
+        "name": "Inari Niemi",
+        "profilePath": "/wzka8cIFoJgKpAHWJf8yDDF5gVY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 593082,
+        "name": "Juuli Niemi",
+        "profilePath": "/46g24vAaKqCW5eDSSH7A2xjzInr.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/727414",
-    "fetchedAt": "2026-09-23T06:53:15.183Z"
+    "fetchedAt": "2026-09-24T17:04:26.402Z"
   },
   "730585": {
     "tmdbId": 730585,
@@ -77850,8 +84402,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2733740,
+        "name": "Shirel Peleg",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/730585",
-    "fetchedAt": "2026-09-23T06:53:13.384Z"
+    "fetchedAt": "2026-09-24T17:04:24.655Z"
   },
   "735210": {
     "tmdbId": 735210,
@@ -77947,8 +84507,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2750173,
+        "name": "Nicol Ruiz",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/735210",
-    "fetchedAt": "2026-09-23T06:53:04.935Z"
+    "fetchedAt": "2026-09-24T17:04:16.444Z"
   },
   "741011": {
     "tmdbId": 741011,
@@ -78001,8 +84569,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2770898,
+        "name": "Katie Found",
+        "profilePath": "/mzvIwyLzmKO7LdroUGy7ZahH3nZ.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/741011",
-    "fetchedAt": "2026-09-23T06:53:20.558Z"
+    "fetchedAt": "2026-09-24T17:04:31.458Z"
   },
   "754716": {
     "tmdbId": 754716,
@@ -78273,8 +84849,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1286997,
+        "name": "Harshavardhan Kulkarni",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2274278,
+        "name": "Suman Adhikary",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 2154635,
+        "name": "Akshat Ghildial",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/754716",
-    "fetchedAt": "2026-09-23T06:52:48.158Z"
+    "fetchedAt": "2026-09-24T17:04:00.242Z"
   },
   "776586": {
     "tmdbId": 776586,
@@ -78377,8 +84973,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1948963,
+        "name": "Marion Hill",
+        "profilePath": "/dIU2xcCJcO9iNwnh3g2SK7CSUIU.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/776586",
-    "fetchedAt": "2026-09-23T06:53:18.112Z"
+    "fetchedAt": "2026-09-24T17:04:29.108Z"
   },
   "781453": {
     "tmdbId": 781453,
@@ -78460,8 +85064,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1784936,
+        "name": "Charline Bourgeois-Tacquet",
+        "profilePath": "/qimB6IHfhAZdI1cGGODyWPIjIck.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/781453",
-    "fetchedAt": "2026-09-23T06:52:46.558Z"
+    "fetchedAt": "2026-09-24T17:03:58.677Z"
   },
   "786015": {
     "tmdbId": 786015,
@@ -78537,8 +85149,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/vFHbTvMvomOZsido7nmHY6oG7s7.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2086147,
+        "name": "Marley Morrison",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/786015",
-    "fetchedAt": "2026-09-23T06:53:33.385Z"
+    "fetchedAt": "2026-09-24T17:04:43.759Z"
   },
   "786375": {
     "tmdbId": 786375,
@@ -78647,8 +85267,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1223313,
+        "name": "Cristiane Oliveira",
+        "profilePath": "/81AfeTwnVPpvmxHYDXLavY1Vicm.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/786375",
-    "fetchedAt": "2026-09-23T06:53:03.705Z"
+    "fetchedAt": "2026-09-24T17:04:15.284Z"
   },
   "795514": {
     "tmdbId": 795514,
@@ -79030,8 +85658,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 55615,
+        "name": "Megan Park",
+        "profilePath": "/AvHWNbf9VoSXQGacpwNCVHlZAQW.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/795514",
-    "fetchedAt": "2026-09-23T06:53:02.106Z"
+    "fetchedAt": "2026-09-24T17:04:13.717Z"
   },
   "797874": {
     "tmdbId": 797874,
@@ -79056,8 +85692,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2035048,
+        "name": "Harri Shanahan",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2035051,
+        "name": "Sian Williams",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/797874",
-    "fetchedAt": "2026-09-23T06:53:28.074Z"
+    "fetchedAt": "2026-09-24T17:04:38.691Z"
   },
   "802403": {
     "tmdbId": 802403,
@@ -79195,8 +85845,46 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1455337,
+        "name": "Neeraj Ghaywan",
+        "profilePath": "/ra3sCwqVrPPRf7vUGojoyEhpH3m.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2461704,
+        "name": "Raj Mehta",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1339972,
+        "name": "Shashank Khaitan",
+        "profilePath": "/paYuyxL7uiPm3UTQLS7E4y7zVcO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1516214,
+        "name": "Kayoze Irani",
+        "profilePath": "/5tWpkdgRUSPYCq2VQJIGbhq1qRp.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3034464,
+        "name": "Uzma Khan",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 2066813,
+        "name": "Sumit Saxena",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/802403",
-    "fetchedAt": "2026-09-23T06:52:45.330Z"
+    "fetchedAt": "2026-09-24T17:03:57.480Z"
   },
   "803690": {
     "tmdbId": 803690,
@@ -79279,8 +85967,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1312057,
+        "name": "Claire Burger",
+        "profilePath": "/3SAPV6kcEydAoPPtGWYqSA9JCHW.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/803690",
-    "fetchedAt": "2026-09-23T06:53:04.535Z"
+    "fetchedAt": "2026-09-24T17:04:16.052Z"
   },
   "805973": {
     "tmdbId": 805973,
@@ -79348,8 +86044,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2301180,
+        "name": "Christin Baker",
+        "profilePath": "/3QZ1YmOYhcxpQVA5peao9GdwK7l.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3011174,
+        "name": "Julie Anton",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/805973",
-    "fetchedAt": "2026-09-23T06:52:55.642Z"
+    "fetchedAt": "2026-09-24T17:04:07.454Z"
   },
   "809647": {
     "tmdbId": 809647,
@@ -79479,8 +86189,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3034251,
+        "name": "Isabel del Rosal",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/809647",
-    "fetchedAt": "2026-09-23T06:53:37.331Z"
+    "fetchedAt": "2026-09-24T17:04:47.480Z"
   },
   "813848": {
     "tmdbId": 813848,
@@ -79534,8 +86252,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 41886,
+        "name": "Mark Polish",
+        "profilePath": "/5HmEhRjyZa1xIiXQeZALsOmm01E.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/813848",
-    "fetchedAt": "2026-09-23T06:53:19.959Z"
+    "fetchedAt": "2026-09-24T17:04:30.877Z"
   },
   "814776": {
     "tmdbId": 814776,
@@ -79742,8 +86468,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1976040,
+        "name": "Emma Seligman",
+        "profilePath": "/nwvBiynYedQfU5XNNl1w2GzQC6U.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1976054,
+        "name": "Rachel Sennott",
+        "profilePath": "/zvx8lP4p3gvijQLg235e3xjxrFG.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/814776",
-    "fetchedAt": "2026-09-23T06:52:52.031Z"
+    "fetchedAt": "2026-09-24T17:04:03.959Z"
   },
   "820697": {
     "tmdbId": 820697,
@@ -79910,8 +86650,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1702466,
+        "name": "Léa Mysius",
+        "profilePath": "/yu1cK6Kpx0FKK4oEANETWCyCWOH.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1665518,
+        "name": "Paul Guilhaume",
+        "profilePath": "/AlyIqGbwZ2i5ONc4Vz9XGurLtuD.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/820697",
-    "fetchedAt": "2026-09-23T06:53:03.915Z"
+    "fetchedAt": "2026-09-24T17:04:15.477Z"
   },
   "821427": {
     "tmdbId": 821427,
@@ -80034,8 +86788,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1437193,
+        "name": "Lauren Hadaway",
+        "profilePath": "/n8yvg8bs1wNBSu3DXvWDcC68hUr.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/821427",
-    "fetchedAt": "2026-09-23T06:53:22.806Z"
+    "fetchedAt": "2026-09-24T17:04:33.582Z"
   },
   "832964": {
     "tmdbId": 832964,
@@ -80228,8 +86990,40 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 313,
+        "name": "Ellen Kuras",
+        "profilePath": "/karbKVM0CPdRXbmLp4XX9oLQXSb.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3919256,
+        "name": "Marion Hume",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 55474,
+        "name": "John Collee",
+        "profilePath": "/521HIZiZfAVcgfudbvefZXAyBxN.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1774411,
+        "name": "Liz Hannah",
+        "profilePath": "/6EqNcBYbbbGkEU5xIP0aegpWTKL.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 23649,
+        "name": "Lem Dobbs",
+        "profilePath": "/2pMUZcTsKP04whP6YYPsVU1usg1.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/832964",
-    "fetchedAt": "2026-09-23T06:53:14.182Z"
+    "fetchedAt": "2026-09-24T17:04:25.426Z"
   },
   "839369": {
     "tmdbId": 839369,
@@ -80387,8 +87181,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 16863,
+        "name": "Todd Haynes",
+        "profilePath": "/wBDazO2j49uoquoHTEDxcniyGGC.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1887252,
+        "name": "Samy Burch",
+        "profilePath": "/vtIeOc09F5I6JjvLfW5HhmzXx8S.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1335496,
+        "name": "Alex Mechanik",
+        "profilePath": "/tuWNhucg9GqLEyZvtH1Dod30hr5.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/839369",
-    "fetchedAt": "2026-09-23T06:53:18.527Z"
+    "fetchedAt": "2026-09-24T17:04:29.487Z"
   },
   "848987": {
     "tmdbId": 848987,
@@ -80596,8 +87410,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1169091,
+        "name": "Chloé Robichaud",
+        "profilePath": "/xSliQQjGU4793m54Hyr8JBPXt4p.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/848987",
-    "fetchedAt": "2026-09-23T06:52:58.464Z"
+    "fetchedAt": "2026-09-24T17:04:10.221Z"
   },
   "856367": {
     "tmdbId": 856367,
@@ -80645,8 +87467,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1140122,
+        "name": "Elisa Fuksas",
+        "profilePath": "/vs0oeu8w2fEz91nec355rsoFGtP.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 35121,
+        "name": "Monica Rametta",
+        "profilePath": "/4PB1gs5WO82bGR4UPZsFHGmtXd4.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/856367",
-    "fetchedAt": "2026-09-23T06:53:29.712Z"
+    "fetchedAt": "2026-09-24T17:04:40.251Z"
   },
   "860709": {
     "tmdbId": 860709,
@@ -80774,8 +87610,34 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2591493,
+        "name": "Christoffer Sandler",
+        "profilePath": "/uTsVP93oR94MDAiZT9ep23iuKxO.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1422968,
+        "name": "Linda-Maria Birbeck",
+        "profilePath": "/bhGKCraIPxk4oI6FXH2AVa5cDGR.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 3005139,
+        "name": "Lina Åström",
+        "profilePath": "",
+        "job": "Story"
+      },
+      {
+        "id": 2943398,
+        "name": "Jessika Jankert",
+        "profilePath": "",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/860709",
-    "fetchedAt": "2026-09-23T06:53:31.762Z"
+    "fetchedAt": "2026-09-24T17:04:42.198Z"
   },
   "881517": {
     "tmdbId": 881517,
@@ -80835,8 +87697,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 3268814,
+        "name": "Jac Cron",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/881517",
-    "fetchedAt": "2026-09-23T06:52:55.042Z"
+    "fetchedAt": "2026-09-24T17:04:06.866Z"
   },
   "887580": {
     "tmdbId": 887580,
@@ -80943,8 +87813,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/mblt7xfojCVEuv7o8fOTmJWL3ZO.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 3509617,
+        "name": "Sarah Watts",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1087745,
+        "name": "Mark Slutsky",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/887580",
-    "fetchedAt": "2026-09-23T06:53:40.593Z"
+    "fetchedAt": "2026-09-24T17:04:50.677Z"
   },
   "915939": {
     "tmdbId": 915939,
@@ -81051,8 +87935,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1619897,
+        "name": "Eva Vitija",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/915939",
-    "fetchedAt": "2026-09-23T06:53:17.915Z"
+    "fetchedAt": "2026-09-24T17:04:28.914Z"
   },
   "916437": {
     "tmdbId": 916437,
@@ -81344,8 +88236,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1066990,
+        "name": "Magnus Gertten",
+        "profilePath": "/iRQk9IrWWYXBzqjL34bhm3eFzU1.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1096493,
+        "name": "Jesper Osmund",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/916437",
-    "fetchedAt": "2026-09-23T06:53:21.802Z"
+    "fetchedAt": "2026-09-24T17:04:32.610Z"
   },
   "917172": {
     "tmdbId": 917172,
@@ -81398,8 +88304,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/9Kic27CTyn4L6QItw45N0sCoJHb.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 3350399,
+        "name": "Elena Wolff",
+        "profilePath": "/lDcVnknYzDbQxojMtoSL8WWHqcY.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/917172",
-    "fetchedAt": "2026-09-23T06:53:25.047Z"
+    "fetchedAt": "2026-09-24T17:04:35.712Z"
   },
   "929477": {
     "tmdbId": 929477,
@@ -81466,8 +88380,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2414297,
+        "name": "Marielle Woods",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 3391793,
+        "name": "Lauren Ludwig",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/929477",
-    "fetchedAt": "2026-09-23T06:53:08.712Z"
+    "fetchedAt": "2026-09-24T17:04:20.176Z"
   },
   "933490": {
     "tmdbId": 933490,
@@ -81598,8 +88526,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 515221,
+        "name": "Rebecca Lenkiewicz",
+        "profilePath": "/G8R8oMtv0ecJkHTS5ywz4ywwFL.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/933490",
-    "fetchedAt": "2026-09-23T06:53:10.104Z"
+    "fetchedAt": "2026-09-24T17:04:21.519Z"
   },
   "936385": {
     "tmdbId": 936385,
@@ -81748,8 +88684,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1060223,
+        "name": "Sacha Polak",
+        "profilePath": "/ia7Aw9uDgu4sS8LdmXBRSoWnBhl.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/936385",
-    "fetchedAt": "2026-09-23T06:53:30.748Z"
+    "fetchedAt": "2026-09-24T17:04:41.197Z"
   },
   "938600": {
     "tmdbId": 938600,
@@ -81824,8 +88768,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3426568,
+        "name": "Gabriel Bier Gislason",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/938600",
-    "fetchedAt": "2026-09-23T06:52:47.561Z"
+    "fetchedAt": "2026-09-24T17:03:59.654Z"
   },
   "948549": {
     "tmdbId": 948549,
@@ -81926,8 +88878,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/pAeQ4SL8ZY5UvEHakFLccO8gAaL.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2219327,
+        "name": "Rose Glass",
+        "profilePath": "/7cKh7iWFMD77CMz9rP0pdyXMPCK.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2515064,
+        "name": "Weronika Tofilska",
+        "profilePath": "/1HUl2aTDM7eVwInb51K1lSossPr.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/948549",
-    "fetchedAt": "2026-09-23T06:53:17.076Z"
+    "fetchedAt": "2026-09-24T17:04:28.140Z"
   },
   "957304": {
     "tmdbId": 957304,
@@ -82202,8 +89168,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1224,
+        "name": "Ethan Coen",
+        "profilePath": "/lbL8LEcvuxNrzda37g3mysOS2qS.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1228,
+        "name": "Tricia Cooke",
+        "profilePath": "/o0KmTlRJk9aha9gLyKiF5fg0GUk.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/957304",
-    "fetchedAt": "2026-09-23T06:52:59.659Z"
+    "fetchedAt": "2026-09-24T17:04:11.387Z"
   },
   "960292": {
     "tmdbId": 960292,
@@ -82397,8 +89377,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 213451,
+        "name": "Lucie Borleteau",
+        "profilePath": "/341oz0pZaiG2GFJHwvJa0YVjHJ0.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1494083,
+        "name": "Clara Bourreau",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1863160,
+        "name": "Laure Giappiconi",
+        "profilePath": "/xYvWYLB3qDHmDvqWLv6N9AS44IQ.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/960292",
-    "fetchedAt": "2026-09-23T06:53:21.165Z"
+    "fetchedAt": "2026-09-24T17:04:32.033Z"
   },
   "961077": {
     "tmdbId": 961077,
@@ -82582,8 +89582,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54338,
+        "name": "Hafsia Herzi",
+        "profilePath": "/byx2NjdptzQtmt5kWZc7hf6Kqj9.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/961077",
-    "fetchedAt": "2026-09-23T06:53:15.385Z"
+    "fetchedAt": "2026-09-24T17:04:26.598Z"
   },
   "967941": {
     "tmdbId": 967941,
@@ -83944,8 +90952,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 54507,
+        "name": "Jon M. Chu",
+        "profilePath": "/85kOxm7w4nGRwyhquj9wtUM8KUW.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1222194,
+        "name": "Winnie Holzman",
+        "profilePath": "/kkGdnFvRTkK3F2TjwWFek9t6uNz.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 56718,
+        "name": "Dana Fox",
+        "profilePath": "/fFj1mwG74uPzakVonrn18UQEL5c.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/967941",
-    "fetchedAt": "2026-09-23T06:53:39.183Z"
+    "fetchedAt": "2026-09-24T17:04:49.304Z"
   },
   "971699": {
     "tmdbId": 971699,
@@ -84173,8 +91201,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1674275,
+        "name": "Georgia Oakley",
+        "profilePath": "/x9cx7YFnfAjdcvnhvJ99ixIGYHC.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/971699",
-    "fetchedAt": "2026-09-23T06:52:51.632Z"
+    "fetchedAt": "2026-09-24T17:04:03.579Z"
   },
   "974746": {
     "tmdbId": 974746,
@@ -84249,8 +91285,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3549077,
+        "name": "Josh Cox",
+        "profilePath": "/uxUN8MPNOLgOEzzLwcLufdIvW02.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/974746",
-    "fetchedAt": "2026-09-23T06:53:32.780Z"
+    "fetchedAt": "2026-09-24T17:04:43.178Z"
   },
   "985602": {
     "tmdbId": 985602,
@@ -84340,11 +91384,25 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "name": "Jaime Schneider",
         "character": "Tom",
         "order": 16,
-        "profilePath": ""
+        "profilePath": "/8p6qWotRaeTfuWLUGREjgFRPQve.jpg"
+      }
+    ],
+    "crew": [
+      {
+        "id": 5470,
+        "name": "Kristin Scott Thomas",
+        "profilePath": "/axksw0vAjBPSW02ZqpcC0V8rPD7.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3581355,
+        "name": "John Micklethwait",
+        "profilePath": "",
+        "job": "Writer"
       }
     ],
     "tmdbUrl": "https://www.themoviedb.org/movie/985602",
-    "fetchedAt": "2026-09-23T06:53:20.756Z"
+    "fetchedAt": "2026-09-24T17:04:31.648Z"
   },
   "987427": {
     "tmdbId": 987427,
@@ -84480,8 +91538,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 107753,
+        "name": "Shamim Sarif",
+        "profilePath": "/lg2xNYLyfMzYuZGXFnCR7SGRbrC.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/987427",
-    "fetchedAt": "2026-09-23T06:53:26.253Z"
+    "fetchedAt": "2026-09-24T17:04:36.930Z"
   },
   "993495": {
     "tmdbId": 993495,
@@ -84528,8 +91594,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3605399,
+        "name": "Chidozie C. Ahaiwe",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 3605398,
+        "name": "Famous Odion Iraoya",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 3605400,
+        "name": "Remi Okunlola",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/993495",
-    "fetchedAt": "2026-09-23T06:53:11.965Z"
+    "fetchedAt": "2026-09-24T17:04:23.258Z"
   },
   "997113": {
     "tmdbId": 997113,
@@ -84668,8 +91754,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1795072,
+        "name": "Nia DaCosta",
+        "profilePath": "/zRyaLNXLT2gKgPvLreyg3GeEIdD.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/997113",
-    "fetchedAt": "2026-09-23T06:53:09.317Z"
+    "fetchedAt": "2026-09-24T17:04:20.754Z"
   },
   "1001044": {
     "tmdbId": 1001044,
@@ -84724,8 +91818,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1359890,
+        "name": "Simon Bouisson",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1681515,
+        "name": "Fanny Burdino",
+        "profilePath": "/4bFJKbHhx5KmBiLvjSLGASc2UuG.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 559668,
+        "name": "Samuel Doux",
+        "profilePath": "/gbBPnKPVnLAu1bxttteW1ZWS2bj.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1001044",
-    "fetchedAt": "2026-09-23T06:52:59.871Z"
+    "fetchedAt": "2026-09-24T17:04:11.581Z"
   },
   "1001376": {
     "tmdbId": 1001376,
@@ -84836,8 +91950,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1591624,
+        "name": "Alexis Langlois",
+        "profilePath": "/k8YxVmCUZg2ZYFZ3L2cvFmxUHrD.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3628572,
+        "name": "Thomas Colineau",
+        "profilePath": "/pYA788V16nGQ6hVJUTUOogDgwuw.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 2155340,
+        "name": "Carlotta Coco",
+        "profilePath": "/3QkboBhkgKnoFH3OgSIV3bwlpJY.jpg",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1001376",
-    "fetchedAt": "2026-09-23T06:53:27.274Z"
+    "fetchedAt": "2026-09-24T17:04:37.920Z"
   },
   "1019871": {
     "tmdbId": 1019871,
@@ -84951,8 +92085,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1686374,
+        "name": "Urška Djukić",
+        "profilePath": "/8FBsah8v2xia39DWzOaae7DhsI0.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1019871",
-    "fetchedAt": "2026-09-23T06:53:15.589Z"
+    "fetchedAt": "2026-09-24T17:04:26.791Z"
   },
   "1038157": {
     "tmdbId": 1038157,
@@ -85063,8 +92205,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2327300,
+        "name": "Alexandra Swarens",
+        "profilePath": "/239aGV2lc1ef7ME4JPTda8eXDP2.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1038157",
-    "fetchedAt": "2026-09-23T06:53:15.990Z"
+    "fetchedAt": "2026-09-24T17:04:27.172Z"
   },
   "1053987": {
     "tmdbId": 1053987,
@@ -85120,8 +92270,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 168328,
+        "name": "Jane Clark",
+        "profilePath": "/3Y9lMuZdBZY4u6acafyg7Wl93nl.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1053987",
-    "fetchedAt": "2026-09-23T06:53:39.786Z"
+    "fetchedAt": "2026-09-24T17:04:49.903Z"
   },
   "1058678": {
     "tmdbId": 1058678,
@@ -85251,8 +92409,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3820342,
+        "name": "D. Smith",
+        "profilePath": "/psSnqYcrzEZIov9ZcFPBudWEfGR.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1058678",
-    "fetchedAt": "2026-09-23T06:53:13.582Z"
+    "fetchedAt": "2026-09-24T17:04:24.853Z"
   },
   "1058689": {
     "tmdbId": 1058689,
@@ -85353,8 +92519,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/vjWRNHm6vyceNozGInMv55FJ1sJ.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 1572827,
+        "name": "Jacqueline Castel",
+        "profilePath": "/kEDHAJdFG6fsihhNKYvnb5XNG1I.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2205885,
+        "name": "Jae Matthews",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1058689",
-    "fetchedAt": "2026-09-23T06:53:20.155Z"
+    "fetchedAt": "2026-09-24T17:04:31.068Z"
   },
   "1064119": {
     "tmdbId": 1064119,
@@ -85407,8 +92587,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1139199,
+        "name": "Catrinel Marlon",
+        "profilePath": "/74Do4qWHMVtC7kI6VMuEzMkJzFn.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 67168,
+        "name": "Heidrun Schleef",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 3076978,
+        "name": "Francesca Nozzolillo",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1064119",
-    "fetchedAt": "2026-09-23T06:53:06.706Z"
+    "fetchedAt": "2026-09-24T17:04:18.226Z"
   },
   "1066124": {
     "tmdbId": 1066124,
@@ -85540,8 +92740,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3846158,
+        "name": "Janis Pugh",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1066124",
-    "fetchedAt": "2026-09-23T06:52:55.846Z"
+    "fetchedAt": "2026-09-24T17:04:07.648Z"
   },
   "1104622": {
     "tmdbId": 1104622,
@@ -85572,8 +92780,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 3979220,
+        "name": "Kim So-jeong",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1104622",
-    "fetchedAt": "2026-09-23T06:52:42.489Z"
+    "fetchedAt": "2026-09-24T17:03:54.709Z"
   },
   "1115939": {
     "tmdbId": 1115939,
@@ -85675,8 +92891,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2717262,
+        "name": "Kelley Kalí",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1472881,
+        "name": "Allyson Morgan",
+        "profilePath": "/8gal3Ow4CDj0qW5c7F57Y4bW9Ji.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1115939",
-    "fetchedAt": "2026-09-23T06:53:12.392Z"
+    "fetchedAt": "2026-09-24T17:04:23.642Z"
   },
   "1119537": {
     "tmdbId": 1119537,
@@ -85919,8 +93149,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1434424,
+        "name": "Alice Douard",
+        "profilePath": "/7Hr45YpLyUD7AXKPNyMfNKTvSBi.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1119537",
-    "fetchedAt": "2026-09-23T06:53:16.870Z"
+    "fetchedAt": "2026-09-24T17:04:27.947Z"
   },
   "1127656": {
     "tmdbId": 1127656,
@@ -86031,8 +93269,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3549568,
+        "name": "Julian Chou",
+        "profilePath": "/enOP0wXoO4rqXEx9VtqelhwlF34.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 581875,
+        "name": "Wu Mei-chih",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1127656",
-    "fetchedAt": "2026-09-23T06:52:51.204Z"
+    "fetchedAt": "2026-09-24T17:04:03.186Z"
   },
   "1131443": {
     "tmdbId": 1131443,
@@ -86176,8 +93428,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3604093,
+        "name": "Diego Del Río",
+        "profilePath": "/vLe33n196PpRGgfhjGeVdTAhKPX.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 937675,
+        "name": "Lucía Carreras",
+        "profilePath": "/rlCQUYjjSwNOS4YIi9n7TMHGFEc.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1131443",
-    "fetchedAt": "2026-09-23T06:52:45.539Z"
+    "fetchedAt": "2026-09-24T17:03:57.701Z"
   },
   "1157128": {
     "tmdbId": 1157128,
@@ -86286,8 +93552,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4183725,
+        "name": "Chloé Barreau",
+        "profilePath": "/6gj7xYOLgwGSnA6LWqf62ksONWE.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1157128",
-    "fetchedAt": "2026-09-23T06:53:05.324Z"
+    "fetchedAt": "2026-09-24T17:04:16.845Z"
   },
   "1178620": {
     "tmdbId": 1178620,
@@ -86586,8 +93860,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2068635,
+        "name": "Xiaodan He",
+        "profilePath": "/51tpchYuUSFfZ8S9EboJSugZOp4.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1178620",
-    "fetchedAt": "2026-09-23T06:53:19.553Z"
+    "fetchedAt": "2026-09-24T17:04:30.460Z"
   },
   "1180706": {
     "tmdbId": 1180706,
@@ -86662,8 +93944,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 97773,
+        "name": "Anne Wheeler",
+        "profilePath": "/gQIi0Y2tNIRLbaJMEUGe0FvXwFK.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 204018,
+        "name": "Gary Goldstein",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1512119,
+        "name": "Tracy Andreen",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1180706",
-    "fetchedAt": "2026-09-23T06:53:05.915Z"
+    "fetchedAt": "2026-09-24T17:04:17.442Z"
   },
   "1186679": {
     "tmdbId": 1186679,
@@ -86757,8 +94059,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 52542,
+        "name": "Veit Helmer",
+        "profilePath": "/yZkNQsYJesJQjdMGUWQNQmBbc4Z.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1186679",
-    "fetchedAt": "2026-09-23T06:53:07.922Z"
+    "fetchedAt": "2026-09-24T17:04:19.394Z"
   },
   "1204663": {
     "tmdbId": 1204663,
@@ -86776,8 +94086,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 3877985,
+        "name": "Ciara Hyland",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1204663",
-    "fetchedAt": "2026-09-23T06:53:27.483Z"
+    "fetchedAt": "2026-09-24T17:04:38.113Z"
   },
   "1214713": {
     "tmdbId": 1214713,
@@ -86859,8 +94177,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2176448,
+        "name": "Alex Martini",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1214713",
-    "fetchedAt": "2026-09-23T06:53:01.911Z"
+    "fetchedAt": "2026-09-24T17:04:13.523Z"
   },
   "1228682": {
     "tmdbId": 1228682,
@@ -86991,8 +94317,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1097147,
+        "name": "Dag Johan Haugerud",
+        "profilePath": "/zOX6yQF2VLyeXZCPh6rhvpMdDPx.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1228682",
-    "fetchedAt": "2026-09-23T06:52:59.463Z"
+    "fetchedAt": "2026-09-24T17:04:11.196Z"
   },
   "1240099": {
     "tmdbId": 1240099,
@@ -87030,8 +94364,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 2743153,
+        "name": "Tzeli Hadjidimitriou",
+        "profilePath": "/x083HvPa5q6c20XegiiLPlyjuOa.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1240099",
-    "fetchedAt": "2026-09-23T06:53:14.769Z"
+    "fetchedAt": "2026-09-24T17:04:26.005Z"
   },
   "1240422": {
     "tmdbId": 1240422,
@@ -87120,8 +94462,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2136587,
+        "name": "Kat Rohrer",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1240422",
-    "fetchedAt": "2026-09-23T06:53:37.938Z"
+    "fetchedAt": "2026-09-24T17:04:48.075Z"
   },
   "1242382": {
     "tmdbId": 1242382,
@@ -87258,8 +94608,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1942785,
+        "name": "Cristina Costantini",
+        "profilePath": "/gbykAgttByNMWmlcj5kiCxO08Pl.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2543620,
+        "name": "Tom Maroney",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1242382",
-    "fetchedAt": "2026-09-23T06:53:28.504Z"
+    "fetchedAt": "2026-09-24T17:04:39.078Z"
   },
   "1267217": {
     "tmdbId": 1267217,
@@ -87355,8 +94719,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4625596,
+        "name": "Aleksandr Prost",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1267217",
-    "fetchedAt": "2026-09-23T06:53:32.571Z"
+    "fetchedAt": "2026-09-24T17:04:42.986Z"
   },
   "1284739": {
     "tmdbId": 1284739,
@@ -87387,8 +94759,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 4693011,
+        "name": "Regan Latimer",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1284739",
-    "fetchedAt": "2026-09-23T06:52:52.634Z"
+    "fetchedAt": "2026-09-24T17:04:04.539Z"
   },
   "1290450": {
     "tmdbId": 1290450,
@@ -87544,8 +94924,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1984372,
+        "name": "Anna Cazenave Cambet",
+        "profilePath": "/rGNHXilSSwGbzLFzqCB8ZX5Pk96.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1290450",
-    "fetchedAt": "2026-09-23T06:53:17.311Z"
+    "fetchedAt": "2026-09-24T17:04:28.341Z"
   },
   "1291202": {
     "tmdbId": 1291202,
@@ -87652,8 +95040,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 149265,
+        "name": "Pietro Marcello",
+        "profilePath": "/6NqTGxc6vFmmhZavnd7XXM3w253.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 4717336,
+        "name": "Letizia Russo",
+        "profilePath": "",
+        "job": "Screenplay"
+      },
+      {
+        "id": 4717337,
+        "name": "Guido Silei",
+        "profilePath": "",
+        "job": "Screenplay"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1291202",
-    "fetchedAt": "2026-09-23T06:53:00.498Z"
+    "fetchedAt": "2026-09-24T17:04:12.168Z"
   },
   "1326055": {
     "tmdbId": 1326055,
@@ -87734,8 +95142,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1500499,
+        "name": "Melanie Oates",
+        "profilePath": "/zCyV8Xe203VLHQ3hxKcslFRfV9Q.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1326055",
-    "fetchedAt": "2026-09-23T06:53:33.187Z"
+    "fetchedAt": "2026-09-24T17:04:43.565Z"
   },
   "1333141": {
     "tmdbId": 1333141,
@@ -87952,8 +95368,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1923073,
+        "name": "Emma Hough Hobbs",
+        "profilePath": "/pSKSmE9BIr4c9FELUxwLToWt1te.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 2812436,
+        "name": "Leela Varghese",
+        "profilePath": "/fNYoh3Btlg6kMi7mLAKDj9Irvrr.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1333141",
-    "fetchedAt": "2026-09-23T06:53:14.572Z"
+    "fetchedAt": "2026-09-24T17:04:25.814Z"
   },
   "1336672": {
     "tmdbId": 1336672,
@@ -88015,8 +95445,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/eC4w8yKPwmx3QGwCHkkE8d8E6gQ.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 3840254,
+        "name": "Andreas Kröneck",
+        "profilePath": "/cqerllIzGuj0SuQBliwfPWDQON6.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1336672",
-    "fetchedAt": "2026-09-23T06:53:32.168Z"
+    "fetchedAt": "2026-09-24T17:04:42.586Z"
   },
   "1340625": {
     "tmdbId": 1340625,
@@ -88120,8 +95558,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2471212,
+        "name": "Alexandre Singh",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 4911731,
+        "name": "Natalie Musteata",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1340625",
-    "fetchedAt": "2026-09-23T06:53:35.896Z"
+    "fetchedAt": "2026-09-24T17:04:46.105Z"
   },
   "1352992": {
     "tmdbId": 1352992,
@@ -88185,8 +95637,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2544121,
+        "name": "Craig Ouellette",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 1702737,
+        "name": "Neal McLaughlin",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1352992",
-    "fetchedAt": "2026-09-23T06:53:32.366Z"
+    "fetchedAt": "2026-09-24T17:04:42.783Z"
   },
   "1354518": {
     "tmdbId": 1354518,
@@ -88307,8 +95773,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3687314,
+        "name": "Julia Jackman",
+        "profilePath": "/xP8ajvuDQXzRr6NJf1IrVx4zxnL.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1354518",
-    "fetchedAt": "2026-09-23T06:52:42.287Z"
+    "fetchedAt": "2026-09-24T17:03:54.510Z"
   },
   "1388338": {
     "tmdbId": 1388338,
@@ -88379,7 +95853,7 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "name": "Natalie Hsu",
         "character": "",
         "order": 4,
-        "profilePath": ""
+        "profilePath": "/7O5SHCtysNYN9AYUZa4UJ9xgCwQ.jpg"
       },
       {
         "id": 1769702,
@@ -88397,8 +95871,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 3599163,
+        "name": "Tracy Choi Ian-Sin",
+        "profilePath": "/gl2sJ4sr229xEU6TujacuyZBAuB.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 224615,
+        "name": "Lou Shiu-wa",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 1789110,
+        "name": "Sebrina Zheng",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1388338",
-    "fetchedAt": "2026-09-23T06:53:07.325Z"
+    "fetchedAt": "2026-09-24T17:04:18.802Z"
   },
   "1389149": {
     "tmdbId": 1389149,
@@ -88537,8 +96031,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2680846,
+        "name": "Anubhuti Kashyap",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2800020,
+        "name": "Sima Agarwal",
+        "profilePath": "",
+        "job": "Writer"
+      },
+      {
+        "id": 5064375,
+        "name": "Yash Keshwani",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1389149",
-    "fetchedAt": "2026-09-23T06:52:44.506Z"
+    "fetchedAt": "2026-09-24T17:03:56.708Z"
   },
   "1391450": {
     "tmdbId": 1391450,
@@ -88605,8 +96119,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1204303,
+        "name": "Sigrid Andrea P. Bernardo",
+        "profilePath": "/87kCPD3zqRS7VDuJ579GI46iPQx.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1391450",
-    "fetchedAt": "2026-09-23T06:53:10.734Z"
+    "fetchedAt": "2026-09-24T17:04:22.098Z"
   },
   "1396608": {
     "tmdbId": 1396608,
@@ -88666,8 +96188,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3530278,
+        "name": "Eliza Barry Callahan",
+        "profilePath": "/tNiTY6R9SAIVglzF5cLBPJevPJh.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1396608",
-    "fetchedAt": "2026-09-23T06:53:22.407Z"
+    "fetchedAt": "2026-09-24T17:04:33.193Z"
   },
   "1397485": {
     "tmdbId": 1397485,
@@ -88767,8 +96297,28 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 89109,
+        "name": "Hayley Kiyoko",
+        "profilePath": "/1Ce8otFMEGn8uTEF5ZpaTxPDcag.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 106490,
+        "name": "Stefanie Scott",
+        "profilePath": "/mBRaixP8IVGGo3pPXXDHErZP6wt.jpg",
+        "job": "Screenplay"
+      },
+      {
+        "id": 1451203,
+        "name": "Chloe Okuno",
+        "profilePath": "/l3D6xfgjyuSHwnJ9FLmyes6FycX.jpg",
+        "job": "Story"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1397485",
-    "fetchedAt": "2026-09-23T06:53:07.521Z"
+    "fetchedAt": "2026-09-24T17:04:19.000Z"
   },
   "1407278": {
     "tmdbId": 1407278,
@@ -88910,8 +96460,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3060007,
+        "name": "Alice Maio Mackay",
+        "profilePath": "/9zFFPqprXNW3HcD1NXywbTkPQdY.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3060008,
+        "name": "Ben Pahl Robinson",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1407278",
-    "fetchedAt": "2026-09-23T06:53:29.915Z"
+    "fetchedAt": "2026-09-24T17:04:40.439Z"
   },
   "1422089": {
     "tmdbId": 1422089,
@@ -88993,8 +96557,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/24PQZdplFZqwZzXWXqV5FeOnJ6m.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2390863,
+        "name": "Nigel Santos",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2097849,
+        "name": "Keavy Eunice Vicente",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1422089",
-    "fetchedAt": "2026-09-23T06:53:24.234Z"
+    "fetchedAt": "2026-09-24T17:04:34.927Z"
   },
   "1440931": {
     "tmdbId": 1440931,
@@ -89033,8 +96611,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/yUxdVLIaF0cCnhOi4d17A8qthft.jpg"
       }
     ],
+    "crew": [
+      {
+        "id": 2327300,
+        "name": "Alexandra Swarens",
+        "profilePath": "/239aGV2lc1ef7ME4JPTda8eXDP2.jpg",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1440931",
-    "fetchedAt": "2026-09-23T06:53:29.509Z"
+    "fetchedAt": "2026-09-24T17:04:40.056Z"
   },
   "1450527": {
     "tmdbId": 1450527,
@@ -89070,6 +96656,13 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/sJcuQAJdIv3mnh9M9p5sQWhWSRN.jpg"
       },
       {
+        "id": 1253199,
+        "name": "Alexandra Shipp",
+        "character": "Fig",
+        "order": 1,
+        "profilePath": "/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
+      },
+      {
         "id": 2117434,
         "name": "Victoria Pedretti",
         "character": "Cherry",
@@ -89077,45 +96670,38 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": "/lzGbKFIBdecraIkofCB6YAOg1VR.jpg"
       },
       {
-        "id": 1253199,
-        "name": "Alexandra Shipp",
-        "character": "Fig",
-        "order": 3,
-        "profilePath": "/98AfO5NSqWnlhIxjSg08gGYdxUG.jpg"
-      },
-      {
         "id": 3499255,
         "name": "Lola Tung",
         "character": "Pumpkin",
-        "order": 5,
+        "order": 3,
         "profilePath": "/gnkrdZniagAbZQcYSoYcADKOQMg.jpg"
-      },
-      {
-        "id": 1400939,
-        "name": "Jacqueline Byers",
-        "character": "Momfluencer",
-        "order": 7,
-        "profilePath": "/vgj4zlU5sqJ1EzRgUP3ikRwK4lW.jpg"
       },
       {
         "id": 2741137,
         "name": "Emma Chamberlain",
         "character": "Pickle",
-        "order": 9,
+        "order": 4,
         "profilePath": "/qNvP5UNkidWuQwLZijX7En1NJwe.jpg"
       },
       {
         "id": 17773,
         "name": "Gabrielle Union",
         "character": "Sharon",
-        "order": 10,
+        "order": 6,
         "profilePath": "/toeSCybsYufRKfgz77AKy4C8axD.jpg"
+      },
+      {
+        "id": 1400939,
+        "name": "Jacqueline Byers",
+        "character": "Momfluencer",
+        "order": 8,
+        "profilePath": "/vgj4zlU5sqJ1EzRgUP3ikRwK4lW.jpg"
       },
       {
         "id": 6061271,
         "name": "Caroline Vartanian",
         "character": "Susan Alexandra Employee",
-        "order": 11,
+        "order": 12,
         "profilePath": ""
       },
       {
@@ -89131,14 +96717,14 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "id": 4602444,
         "name": "Zack Thompson",
         "character": "Fries Boy",
-        "order": 4,
+        "order": 9,
         "profilePath": ""
       },
       {
         "id": 6102815,
         "name": "Aidan Almanza",
         "character": "Daine's Employee",
-        "order": 12,
+        "order": 13,
         "profilePath": ""
       },
       {
@@ -89177,8 +96763,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 2347139,
+        "name": "Meredith Alloway",
+        "profilePath": "/5nCeIKQGRnFNQnNueZ4VYcsVf4A.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 3625013,
+        "name": "Lily Houghton",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1450527",
-    "fetchedAt": "2026-09-23T06:53:04.108Z"
+    "fetchedAt": "2026-09-24T17:04:15.666Z"
   },
   "1476702": {
     "tmdbId": 1476702,
@@ -89217,8 +96817,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 5132394,
+        "name": "Abigail Metcalf",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 5421206,
+        "name": "Olivia Charis",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1476702",
-    "fetchedAt": "2026-09-23T06:52:57.271Z"
+    "fetchedAt": "2026-09-24T17:04:09.038Z"
   },
   "1503322": {
     "tmdbId": 1503322,
@@ -89320,8 +96934,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 1098663,
+        "name": "Meeshelle Neal",
+        "profilePath": "/9taLq0G8hAVRA3cT4PeFt1UwqI2.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1197099,
+        "name": "Lisa Rose Snow",
+        "profilePath": "/b7gmbs8dIgdRfTW3632yhxxhd1A.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1503322",
-    "fetchedAt": "2026-09-23T06:53:24.650Z"
+    "fetchedAt": "2026-09-24T17:04:35.325Z"
   },
   "1513996": {
     "tmdbId": 1513996,
@@ -89383,8 +97011,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
       }
     ],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 980284,
+        "name": "Anita Doron",
+        "profilePath": "/sUdqs0YvQk77RJaeH0gVlHhvPpR.jpg",
+        "job": "Director"
+      },
+      {
+        "id": 1304383,
+        "name": "Tamara Berger",
+        "profilePath": "",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1513996",
-    "fetchedAt": "2026-09-23T06:53:18.725Z"
+    "fetchedAt": "2026-09-24T17:04:29.677Z"
   },
   "1526225": {
     "tmdbId": 1526225,
@@ -89408,8 +97050,22 @@ window.WLW_TMDB_DETAILS_BY_ID = {
     ],
     "femaleCast": [],
     "unclassifiedCast": [],
+    "crew": [
+      {
+        "id": 1086485,
+        "name": "Christopher Nelius",
+        "profilePath": "",
+        "job": "Director"
+      },
+      {
+        "id": 2193198,
+        "name": "Alan Hicks",
+        "profilePath": "/ed5dl0ANJmSs7n8nV6UNAsbTSS1.jpg",
+        "job": "Writer"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1526225",
-    "fetchedAt": "2026-09-23T06:53:38.574Z"
+    "fetchedAt": "2026-09-24T17:04:48.667Z"
   },
   "1535419": {
     "tmdbId": 1535419,
@@ -89518,8 +97174,16 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 3156419,
+        "name": "Caroline Fournier",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1535419",
-    "fetchedAt": "2026-09-23T06:52:45.930Z"
+    "fetchedAt": "2026-09-24T17:03:58.096Z"
   },
   "1552407": {
     "tmdbId": 1552407,
@@ -89617,7 +97281,15 @@ window.WLW_TMDB_DETAILS_BY_ID = {
         "profilePath": ""
       }
     ],
+    "crew": [
+      {
+        "id": 5711705,
+        "name": "Álvaro Ortega Sanahuja",
+        "profilePath": "",
+        "job": "Director"
+      }
+    ],
     "tmdbUrl": "https://www.themoviedb.org/movie/1552407",
-    "fetchedAt": "2026-09-23T06:52:59.264Z"
+    "fetchedAt": "2026-09-24T17:04:11.001Z"
   }
 };
