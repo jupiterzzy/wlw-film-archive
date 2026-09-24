@@ -370,6 +370,11 @@
     grid-column: 1 / -1;
     grid-row: 3;
   }
+
+  .crew-information {
+    grid-column: 1 / -1;
+    grid-row: 4;
+  }
 }
 
 /* Cast must always remain one horizontal scroll row. */
@@ -559,6 +564,9 @@
    ================================================== */
 
 .crew-information {
+  width: 100%;
+  grid-column: 1 / -1;
+
   margin-top: clamp(3rem, 8vw, 5rem);
   padding-top: 2rem;
   border-top: 1px solid rgba(247, 243, 238, 0.18);
