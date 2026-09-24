@@ -178,6 +178,59 @@ if (cameFromAlphabet) {
 
       castList.appendChild(member);
     });
+
+     const crewList = document.querySelector("#crew-list");
+
+const crew = details.crew || [];
+
+crew.forEach(person => {
+  const member = document.createElement("div");
+  member.className = "crew-member";
+
+  if (person.profilePath) {
+    const photo = document.createElement("img");
+
+    photo.className = "crew-photo";
+
+    photo.src =
+      `https://image.tmdb.org/t/p/w342${person.profilePath}`;
+
+    photo.alt = person.name;
+    photo.loading = "lazy";
+
+    photo.addEventListener(
+      "error",
+      () => photo.remove(),
+      { once: true }
+    );
+
+    member.appendChild(photo);
+
+  } else {
+    const placeholder =
+      document.createElement("div");
+
+    placeholder.className =
+      "crew-photo crew-photo-placeholder";
+
+    placeholder.setAttribute(
+      "aria-hidden",
+      "true"
+    );
+
+    member.appendChild(placeholder);
+  }
+
+  const name =
+    document.createElement("span");
+
+  name.className = "crew-name";
+  name.textContent = person.name;
+
+  member.appendChild(name);
+
+  crewList.appendChild(member);
+});
   }
 
   loading.hidden = true;
