@@ -153,3 +153,55 @@
 #listing-subtitle {
   display: none;
 }
+
+@media (max-width: 38rem) {
+  .listing-page {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .listing-main {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 2.5rem 1rem 4rem;
+    overflow-x: hidden;
+  }
+
+  .listing-title-row {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .listing-grid {
+    display: grid;
+    width: 100%;
+    max-width: 100%;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem .75rem;
+    margin: 0;
+    transform: none;
+  }
+
+  .listing-grid .movie-card {
+    display: block;
+    min-width: 0;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .listing-grid .poster-link {
+    display: block;
+    width: 100%;
+    aspect-ratio: 2 / 3;
+  }
+
+  .listing-grid .poster {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
