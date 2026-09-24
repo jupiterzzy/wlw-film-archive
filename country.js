@@ -1,4 +1,20 @@
-const params=new URLSearchParams(location.search);const code=(params.get("code")||"").toUpperCase();const group=window.WLW_CATALOG[code];const requestedPage=Math.max(1,Number.parseInt(params.get("page")||"1",10)||1);const desktopLayout=matchMedia("(min-width: 1024px) and (hover: hover) and (pointer: fine)");const pageSize=desktopLayout.matches?36:20;desktopLayout.addEventListener?.("change",()=>location.reload());
+const params=new URLSearchParams(location.search);
+
+let code=(params.get("code")||"").toUpperCase();
+
+/* 只在手机端启用 fallback。
+   电脑和平板仍然完全使用原来的 URL query。 */
+if(
+  !code &&
+  matchMedia("(max-width: 38rem)").matches
+){
+  code=(
+    sessionStorage.getItem("wlw-mobile-country-code")||
+    ""
+  ).toUpperCase();
+}
+
+const group=window.WLW_CATALOG[code];const requestedPage=Math.max(1,Number.parseInt(params.get("page")||"1",10)||1);const desktopLayout=matchMedia("(min-width: 1024px) and (hover: hover) and (pointer: fine)");const pageSize=desktopLayout.matches?36:20;desktopLayout.addEventListener?.("change",()=>location.reload());
 
 const title=document.querySelector("#listing-title"),grid=document.querySelector("#listing-grid"),template=document.querySelector("#listing-card-template"),pagination=document.querySelector("#listing-pagination");
 title.classList.add("compact-category-title");
