@@ -553,3 +553,91 @@
     min-width: 7.5rem;
   }
 }
+
+/* ==================================================
+   CREW
+   ================================================== */
+
+.crew-information {
+  margin-top: clamp(3rem, 8vw, 5rem);
+  padding-top: 2rem;
+  border-top: 1px solid rgba(247, 243, 238, 0.18);
+}
+
+.crew-information h2 {
+  margin: 0 0 1.25rem;
+  font-size: clamp(1.4rem, 4vw, 2rem);
+}
+
+.crew-list {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 1rem;
+
+  width: 100%;
+
+  overflow-x: auto;
+  overflow-y: hidden;
+
+  padding: 0 0 .8rem;
+
+  scroll-snap-type: x proximity;
+  -webkit-overflow-scrolling: touch;
+}
+
+.crew-member {
+  flex: 0 0 8.5rem;
+
+  width: 8.5rem;
+  min-width: 8.5rem;
+
+  overflow: hidden;
+
+  scroll-snap-align: start;
+}
+
+.crew-photo {
+  display: block;
+
+  width: 100%;
+
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+
+  background: #171319;
+}
+
+.crew-photo-placeholder {
+  background:
+    radial-gradient(
+      circle at 50% 38%,
+      #3b343c 0 15%,
+      transparent 16%
+    ),
+    radial-gradient(
+      circle at 50% 80%,
+      #3b343c 0 31%,
+      transparent 32%
+    ),
+    #171319;
+}
+
+.crew-name {
+  display: block;
+
+  margin-top: .72rem;
+
+  overflow-wrap: anywhere;
+
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+@media (max-width: 38rem) {
+  .crew-member {
+    flex-basis: 7.5rem;
+
+    width: 7.5rem;
+    min-width: 7.5rem;
+  }
+}
