@@ -434,3 +434,122 @@
   margin-left: 0;
   margin-right: 0;
 }
+
+@media (max-width: 38rem) {
+  html,
+  body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  .detail-main {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    padding: 2rem 1rem 4rem;
+    overflow-x: hidden;
+  }
+
+  .detail-article {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+  }
+
+  /* 第一部分：电影海报 */
+  .detail-poster-section {
+    display: grid;
+    justify-items: center;
+    width: 100%;
+  }
+
+  .detail-poster {
+    display: block;
+    width: min(72vw, 18rem);
+    max-width: 100%;
+    aspect-ratio: 2 / 3;
+    object-fit: cover;
+  }
+
+  /* 移动端电影标题仍然在海报下方 */
+  .detail-poster-section #detail-title {
+    display: block;
+    width: min(72vw, 18rem);
+    max-width: 100%;
+    margin: 1.25rem auto 0;
+    text-align: center;
+  }
+
+  /* 海报与电影信息之间的细线：
+     对准海报，宽度为海报的 2/3 */
+  .poster-divider {
+    display: block;
+    width: min(48vw, 12rem);
+    height: 1px;
+    margin: 1.5rem auto;
+    background: rgba(247, 243, 238, 0.32);
+  }
+
+  /* 第二部分：电影信息 */
+  .movie-information {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+
+  .detail-meta {
+    width: 100%;
+    margin: 0 0 1.5rem;
+    text-align: center;
+    line-height: 1.6;
+  }
+
+  .synopsis {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+  }
+
+  .synopsis p {
+    width: 100%;
+    max-width: 100%;
+    margin: 0;
+    line-height: 1.75;
+    overflow-wrap: break-word;
+    word-break: normal;
+  }
+
+  .synopsis .synopsis-zh {
+    margin-top: 1.25rem;
+  }
+
+  /* 第三部分：Cast */
+  .cast-information {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 3rem;
+    padding-top: 2rem;
+  }
+
+  /* 保留你现在要求的单行横向滑动 */
+  .detail-main .cast-list {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%;
+    max-width: 100%;
+    gap: 1rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0 0 .8rem;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .detail-main .cast-member {
+    flex: 0 0 7.5rem;
+    width: 7.5rem;
+    min-width: 7.5rem;
+  }
+}
