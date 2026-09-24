@@ -26,7 +26,53 @@ function wireLongPressDrag(field){
 }
 wireLongPressDrag(countryField);
 
-document.addEventListener("click",event=>{const button=event.target.closest(".country-orb,.region-crystal");if(!button)return;if(Date.now()<suppressClickUntil||button.classList.contains("is-dragging")||button.classList.contains("is-returning")){event.preventDefault();return;}if(button.classList.contains("is-shattering"))return;event.preventDefault();const destination=button.href;if(matchMedia("(prefers-reduced-motion: reduce)").matches){location.href=destination;return;}addShards(button);button.classList.add("is-shattering");setTimeout(()=>{location.href=destination;},620);});
+document.addEventListener("click",event=>{
+  const button=event.target.closest(".country-orb,.region-crystal");
+  if(!button)return;
+
+  if(
+    Date.now()<suppressClickUntil||
+    button.classList.contains("is-dragging")||
+    button.classList.contains("is-returning")
+  ){
+    event.preventDefault();
+    return;
+  }
+
+  if(button.classList.contains("is-shattering"))return;
+
+  event.preventDefault();
+
+  const destination=button.href;
+
+  /* 只针对手机：
+     额外保存 country/region code，防止 Safari 跳转时 query 丢失。 */
+  if(matchMedia("(max-width: 38rem)").matches){
+    try{
+      const url=new URL(destination,location.href);
+      const mobileCode=url.searchParams.get("code");
+
+      if(mobileCode){
+        sessionStorage.setItem(
+          "wlw-mobile-country-code",
+          mobileCode
+        );
+      }
+    }catch{}
+  }
+
+  if(matchMedia("(prefers-reduced-motion: reduce)").matches){
+    location.href=destination;
+    return;
+  }
+
+  addShards(button);
+  button.classList.add("is-shattering");
+
+  setTimeout(()=>{
+    location.href=destination;
+  },620);
+});
 
 function resetCountryDirectoryState(){
   dragState=null;
