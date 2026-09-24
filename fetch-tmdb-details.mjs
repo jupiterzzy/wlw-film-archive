@@ -128,9 +128,54 @@ profilePath: person.profile_path || ""
   };
 }
 
+const WRITING_JOB_ORDER = new Map([
+  ["Screenplay", 0],
+  ["Writer", 1],
+  ["Story", 2],
+  ["Teleplay", 3],
+  ["Adaptation", 4]
+]);
+
+function compactCrew(person) {
+  return {
+    id: person.id,
+    name: person.name,
+    profilePath: person.profile_path || "",
+    job: person.job || ""
+  };
+}
+
 function serialize(movie, mediaType, details) {
-  const cast = [...(details.credits?.cast || [])].sort((a, b) => (a.order ?? 9999) - (b.order ?? 9999));
-  const releaseDate = details.release_date || details.first_air_date || "";
+  const cast = [...(details.credits?.cast || [])]
+  .sort((a, b) => (a.order ?? 9999) - (b.order ?? 9999));
+
+const crewCredits = [...(details.credits?.crew || [])];
+
+const directors = crewCredits
+  .filter(person => person.job === "Director")
+  .map(compactCrew);
+
+const writers = crewCredits
+  .filter(person => WRITING_JOB_ORDER.has(person.job))
+  .sort(
+    (a, b) =>
+      WRITING_JOB_ORDER.get(a.job) -
+      WRITING_JOB_ORDER.get(b.job)
+  )
+  .map(compactCrew);
+
+const crew = [...directors, ...writers]
+  .filter(
+    (person, index, people) =>
+      people.findIndex(
+        other => String(other.id) === String(person.id)
+      ) === index
+  );
+
+const releaseDate =
+  details.release_date ||
+  details.first_air_date ||
+  "";
   return {
     tmdbId: details.id,
     mediaType,
@@ -144,9 +189,17 @@ function serialize(movie, mediaType, details) {
       name: country.name
     })),
     originCountries: details.origin_country || [],
-    femaleCast: cast.filter(person => person.gender === 1).map(compactCast),
-    unclassifiedCast: cast.filter(person => person.gender === 0 || person.gender == null).map(compactCast),
-    tmdbUrl: `https://www.themoviedb.org/${mediaType}/${details.id}`,
+    femaleCast: cast
+  .filter(person => person.gender === 1)
+  .map(compactCast),
+
+unclassifiedCast: cast
+  .filter(person => person.gender === 0 || person.gender == null)
+  .map(compactCast),
+
+crew,
+
+tmdbUrl: `https://www.themoviedb.org/${mediaType}/${details.id}`,
     fetchedAt: new Date().toISOString()
   };
 }
