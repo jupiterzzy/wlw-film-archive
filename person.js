@@ -140,10 +140,12 @@
     `${displayName} · WLW Film Archive`;
 
   personSummary.textContent =
-  `More with ${displayName}`;
+  matches.length > 1
+    ? `More with ${displayName}`
+    : `目前没有 ${displayName} 的更多电影`;
 
-  personSummary.hidden =
-    false;
+personSummary.hidden =
+  false;
 
   const catalogMovieByTitle =
     new Map();
