@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T17:04:51.014Z",
+  "generatedAt": "2026-09-25T06:35:02.508Z",
   "titles": {
     "100 Nights of Hero": {
       "tmdbId": 1354518,
@@ -238,42 +238,21 @@
       ]
     },
     "A Girl Thing": {
-      "tmdbId": 70472,
+      "tmdbId": 1510350,
       "mediaType": "movie",
       "candidates": [
         {
-          "id": 5905701,
-          "name": "Shawn Raboutou",
-          "character": "Self",
-          "order": 6,
+          "id": 2243373,
+          "name": "Loran Mamo",
+          "character": "Charlie",
+          "order": 0,
           "profilePath": ""
         },
         {
-          "id": 1306506,
-          "name": "Berta Martin",
-          "character": "Self",
-          "order": 8,
-          "profilePath": ""
-        },
-        {
-          "id": 1306505,
-          "name": "Pati Blasco",
-          "character": "Self",
-          "order": 11,
-          "profilePath": ""
-        },
-        {
-          "id": 5905714,
-          "name": "Bruna Triay",
-          "character": "Self",
-          "order": 13,
-          "profilePath": ""
-        },
-        {
-          "id": 1306502,
-          "name": "Martina Cufar",
-          "character": "Self",
-          "order": 14,
+          "id": 4891545,
+          "name": "Grace Campbell",
+          "character": "Ingrid",
+          "order": 1,
           "profilePath": ""
         }
       ]
