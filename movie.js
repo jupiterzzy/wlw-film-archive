@@ -442,10 +442,6 @@
     details.crew || [];
 
   crew.forEach(person => {
-    const jobs =
-      Array.isArray(person.jobs)
-        ? person.jobs
-        : [person.job].filter(Boolean);
 
     const personRole =
       jobs.includes("Director")
