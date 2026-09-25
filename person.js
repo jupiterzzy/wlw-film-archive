@@ -140,7 +140,7 @@
     `${displayName} · WLW Film Archive`;
 
   personSummary.textContent =
-    `${displayName} 在本 Archive 中出演 ${matches.length} 部电影`;
+  `More with ${displayName}`;
 
   personSummary.hidden =
     false;
