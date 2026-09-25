@@ -443,13 +443,18 @@
 
   crew.forEach(person => {
 
-    const personRole =
-      jobs.includes("Director")
-        ? "director"
-        : "writer";
+  const jobs =
+    Array.isArray(person.jobs)
+      ? person.jobs
+      : [person.job].filter(Boolean);
 
-    const member =
-      document.createElement("a");
+  const personRole =
+    jobs.includes("Director")
+      ? "director"
+      : "writer";
+
+  const member =
+    document.createElement("a");
 
     member.className =
       "crew-member";
@@ -530,11 +535,6 @@ const role =
 
 role.className =
   "crew-role";
-
-const jobs =
-  Array.isArray(person.jobs)
-    ? person.jobs
-    : [person.job].filter(Boolean);
 
 const isDirector =
   jobs.includes("Director");
