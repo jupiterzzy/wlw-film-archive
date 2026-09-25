@@ -296,6 +296,93 @@
     );
   }
 
+  const resourceSection =
+  document.querySelector(
+    "#resource-information"
+  );
+
+const resourceList =
+  document.querySelector(
+    "#resource-list"
+  );
+
+const resources =
+  (
+    window.WLW_MOVIE_RESOURCES ||
+    {}
+  )[movie.title];
+
+if (
+  resources &&
+  resources.baidu &&
+  resources.baidu.url
+) {
+  const baidu =
+    resources.baidu;
+
+  const item =
+    document.createElement("div");
+
+  item.className =
+    "resource-item";
+
+  const info =
+    document.createElement("div");
+
+  info.className =
+    "resource-info";
+
+  const provider =
+    document.createElement("span");
+
+  provider.className =
+    "resource-provider";
+
+  provider.textContent =
+    "百度网盘";
+
+  info.appendChild(provider);
+
+  if (baidu.code) {
+    const code =
+      document.createElement("span");
+
+    code.className =
+      "resource-code";
+
+    code.textContent =
+      `提取码：${baidu.code}`;
+
+    info.appendChild(code);
+  }
+
+  const link =
+    document.createElement("a");
+
+  link.className =
+    "resource-link";
+
+  link.href =
+    baidu.url;
+
+  link.target =
+    "_blank";
+
+  link.rel =
+    "noopener noreferrer";
+
+  link.textContent =
+    "获取资源";
+
+  item.appendChild(info);
+  item.appendChild(link);
+
+  resourceList.appendChild(item);
+
+  resourceSection.hidden =
+    false;
+}
+
   const castList =
     document.querySelector(
       "#cast-list"
