@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="WLW Film Archive 电影详情页" />
+
+    <title>电影详情 · WLW Film Archive</title>
+
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%23131118'/%3E%3Cpath d='M14 20h36v27H14z' fill='%23f05278'/%3E%3Cpath d='M20 14l7 10m5-10 7 10m5-10 6 9' stroke='%23f7f3ee' stroke-width='5'/%3E%3C/svg%3E"
+    />
+
+    <link rel="stylesheet" href="./styles.css" />
+    <link rel="stylesheet" href="./movie.css" />
+  </head>
+
+  <body class="detail-body">
+
+    <header class="detail-header">
+      <a
+        class="detail-back"
+        href="./index.html"
+        aria-label="返回电影列表"
+      >
+        ←
+      </a>
+
+      <a
+        class="detail-brand"
+        href="./index.html"
+      >
+        WLW FILM ARCHIVE
+      </a>
+    </header>
+
+
+    <main
+      class="detail-main"
+      id="detail-main"
+      aria-live="polite"
+    >
+
+      <p
+        class="detail-loading"
+        id="detail-loading"
+      >
+        正在读取电影资料…
+      </p>
+
+
+      <article
+        class="detail-article"
+        id="detail-article"
+        hidden
+      >
+
+        <!-- Poster -->
+        <section
+          class="detail-poster-section"
+          aria-labelledby="detail-title"
+        >
+          <img
+            class="detail-poster"
+            id="detail-poster"
+            src=""
+            alt=""
+          />
+
+          <h1 id="detail-title"></h1>
+        </section>
+
+
+        <div
+          class="poster-divider"
+          aria-hidden="true"
+        ></div>
+
+
+        <!-- Movie Information -->
+        <section
+          class="movie-information"
+          aria-labelledby="movie-information-title"
+        >
+
+          <h2
+            class="sr-only"
+            id="movie-information-title"
+          >
+            电影信息
+          </h2>
+
+          <p
+            class="detail-meta"
+            id="detail-meta"
+          ></p>
+
+          <div
+            class="synopsis"
+            id="synopsis"
+          ></div>
+
+        </section>
+
+
+        <!-- Resources -->
+        <section
+          class="resource-information"
+          id="resource-information"
+          aria-labelledby="resource-title"
+          hidden
+        >
+
+          <h2 id="resource-title">
+            资源
+          </h2>
+
+          <div
+            class="resource-list"
+            id="resource-list"
+          ></div>
+
+        </section>
+
+
+        <!-- Cast -->
+        <section
+          class="cast-information"
+          aria-labelledby="cast-title"
+        >
+
+          <h2 id="cast-title">
+            Cast
+          </h2>
+
+          <div
+            class="cast-list"
+            id="cast-list"
+          ></div>
+
+        </section>
+
+
+        <!-- Crew -->
+        <section class="crew-information">
+
+          <h2>
+            Crew
+          </h2>
+
+          <div
+            class="crew-list"
+            id="crew-list"
+          ></div>
+
+        </section>
+
+      </article>
+
+
+      <!-- Error -->
+      <section
+        class="detail-error"
+        id="detail-error"
+        hidden
+      >
+
+        <h1>
+          暂时无法显示详情
+        </h1>
+
+        <p id="detail-error-message"></p>
+
+        <a
+          class="outline-button"
+          id="detail-error-back"
+          href="./index.html"
+        >
+          返回电影列表
+        </a>
+
+      </section>
+
+    </main>
+
+
+    <!-- Data -->
+    <script src="./catalog-data.js"></script>
+    <script src="./movie-metadata.js"></script>
+    <script src="./movie-data-utils.js"></script>
+    <script src="./tmdb-details.generated.js"></script>
+    <script src="./synopsis-translations.js"></script>
+    <script src="./cast-overrides.js"></script>
+
+    <!-- Movie Resources -->
+    <script src="./movie-resources.js"></script>
+
+    <!-- Detail Page Logic -->
+    <script src="./movie.js"></script>
+
+  </body>
+</html>
