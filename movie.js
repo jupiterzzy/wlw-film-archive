@@ -517,21 +517,57 @@
     }
 
     const name =
-      document.createElement("span");
+  document.createElement("span");
 
-    name.className =
-      "crew-name";
+name.className =
+  "crew-name";
 
-    name.textContent =
-      person.name;
+name.textContent =
+  person.name;
 
-    member.appendChild(
-      name
-    );
+member.appendChild(
+  name
+);
 
-    crewList.appendChild(
-      member
-    );
+const role =
+  document.createElement("span");
+
+role.className =
+  "crew-role";
+
+const jobs =
+  Array.isArray(person.jobs)
+    ? person.jobs
+    : [person.job].filter(Boolean);
+
+const isDirector =
+  jobs.includes("Director");
+
+const isWriter =
+  jobs.some(job =>
+    [
+      "Screenplay",
+      "Writer",
+      "Story",
+      "Teleplay",
+      "Adaptation"
+    ].includes(job)
+  );
+
+role.textContent =
+  isDirector && isWriter
+    ? "Director · Writer"
+    : isDirector
+      ? "Director"
+      : "Writer";
+
+member.appendChild(
+  role
+);
+
+crewList.appendChild(
+  member
+);
   });
 
   loading.hidden = true;
