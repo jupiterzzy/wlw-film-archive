@@ -520,3 +520,15 @@ main { position: relative; z-index: 1; width: min(var(--content-max), 100%); mar
   }
 }
 }
+
+/* Desktop + landscape tablet:
+   keep the hero away from both screen edges.
+   Mobile remains full width.
+*/
+@media (min-width: 48rem) and (orientation: landscape) {
+  .hero {
+    width: min(calc(100% - 4rem), 92rem);
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
