@@ -399,7 +399,7 @@
   .detail-article {
     display: grid;
     grid-template-columns: 18rem minmax(0, 1fr);
-    grid-template-rows: auto auto auto;
+    grid-template-rows: auto auto auto auto auto;
     column-gap: clamp(2.5rem, 5vw, 4rem);
     align-items: start;
     justify-items: stretch;
@@ -411,7 +411,7 @@
 
   .detail-poster {
     grid-column: 1;
-    grid-row: 1 / 3;
+    grid-row: 1 / 4;
     width: 18rem;
     max-width: 100%;
   }
@@ -432,14 +432,21 @@
     grid-row: 2;
   }
 
+  .resource-information {
+    grid-column: 2;
+    grid-row: 3;
+    width: 100%;
+    margin: 2rem 0 0;
+  }
+
   .cast-information {
     grid-column: 1 / -1;
-    grid-row: 3;
+    grid-row: 4;
   }
 
   .crew-information {
     grid-column: 1 / -1;
-    grid-row: 4;
+    grid-row: 5;
   }
 }
 
