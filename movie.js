@@ -102,23 +102,14 @@
     );
 
   function placeMovieTitle() {
-    const desktop =
-      window.matchMedia(
-        "(min-width: 64rem)"
-      ).matches;
+  const desktop = window.matchMedia("(min-width: 48rem)").matches;
 
-    if (desktop) {
-      movieInformation.insertBefore(
-        detailTitle,
-        detailMeta
-      );
-    } else {
-      poster.insertAdjacentElement(
-        "afterend",
-        detailTitle
-      );
-    }
+  if (desktop) {
+    movieInformation.insertBefore(detailTitle, detailMeta);
+  } else {
+    poster.insertAdjacentElement("afterend", detailTitle);
   }
+}
 
   detailTitle.textContent =
     movie.title;
