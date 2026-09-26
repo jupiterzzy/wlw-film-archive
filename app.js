@@ -76,32 +76,18 @@ if (/^[A-Z]$/.test(legacyLetter)) {
 
   // Desktop mouse hover indicator for Hero navigation.
   // It does not capture clicks, so the Hero itself still receives pointer events.
+    // Desktop mouse hover indicator for Hero navigation.
+  // Small arrow only, following the mouse.
   const heroArrow = document.createElement("div");
 
   heroArrow.setAttribute("aria-hidden", "true");
 
   heroArrow.style.position = "absolute";
-  heroArrow.style.top = "50%";
-  heroArrow.style.transform = "translateY(-50%)";
-
   heroArrow.style.zIndex = "20";
-
-  heroArrow.style.display = "grid";
-  heroArrow.style.placeItems = "center";
-
-  heroArrow.style.width = "3rem";
-  heroArrow.style.height = "3rem";
-
-  heroArrow.style.borderRadius = "999px";
-
-  heroArrow.style.background = "rgba(5, 5, 6, 0.42)";
-
-  heroArrow.style.border =
-    "1px solid rgba(247, 243, 238, 0.18)";
 
   heroArrow.style.color = "#f7f3ee";
 
-  heroArrow.style.fontSize = "1.8rem";
+  heroArrow.style.fontSize = "1.25rem";
   heroArrow.style.fontWeight = "500";
   heroArrow.style.lineHeight = "1";
 
@@ -110,10 +96,10 @@ if (/^[A-Z]$/.test(legacyLetter)) {
   heroArrow.style.opacity = "0";
 
   heroArrow.style.transition =
-    "opacity 140ms ease";
+    "opacity 120ms ease";
 
-  heroArrow.style.backdropFilter =
-    "blur(8px)";
+  heroArrow.style.transform =
+    "translate(-50%, -50%)";
 
   hero.appendChild(heroArrow);
 
