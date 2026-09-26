@@ -284,104 +284,7 @@ if (/^[A-Z]$/.test(legacyLetter)) {
 
   let pointerStart = null;
 
-  hero.addEventListener(
-    "pointerdown",
-    event => {
-      if (
-        event.target.closest(
-          ".search"
-        )
-      ) {
-        return;
-      }
-
-      pointerStart = {
-        x: event.clientX,
-        y: event.clientY
-      };
-
-      hero.setPointerCapture?.(
-        event.pointerId
-      );
-    }
-  );
-
-  hero.addEventListener(
-    "pointerup",
-    event => {
-      if (!pointerStart) {
-        return;
-      }
-
-      const deltaX =
-        event.clientX -
-        pointerStart.x;
-
-      const deltaY =
-        event.clientY -
-        pointerStart.y;
-
-      pointerStart = null;
-
-      const isSwipe =
-        Math.abs(deltaX) >= 45 &&
-        Math.abs(deltaX) >
-          Math.abs(deltaY);
-
-      // Touch / pen / mouse drag:
-      // preserve the original swipe behavior.
-      if (isSwipe) {
-        moveSlide(
-          deltaX < 0
-            ? "next"
-            : "previous"
-        );
-
-        return;
-      }
-
-      // Desktop mouse:
-      // click Hero left/right area to change slides.
-      if (
-        event.pointerType ===
-        "mouse"
-      ) {
-        const rect =
-          hero.getBoundingClientRect();
-
-        const positionX =
-          event.clientX -
-          rect.left;
-
-        const ratio =
-          positionX /
-          rect.width;
-
-        if (ratio <= 0.3) {
-          moveSlide(
-            "previous"
-          );
-        } else if (
-          ratio >= 0.7
-        ) {
-          moveSlide(
-            "next"
-          );
-        }
-      }
-    }
-  );
-
-  hero.addEventListener(
-    "pointercancel",
-    () => {
-      pointerStart = null;
-    }
-  );
-
-  // Desktop mouse hover:
-  // show ← on the left side and → on the right side.
-  hero.addEventListener(
+    hero.addEventListener(
     "pointermove",
     event => {
       if (
@@ -390,11 +293,10 @@ if (/^[A-Z]$/.test(legacyLetter)) {
       ) {
         heroArrow.style.opacity =
           "0";
-
         return;
       }
 
-      // Never show the arrow on top of the search UI.
+      // Do not show the arrow over the search UI.
       if (
         event.target.closest(
           ".search"
@@ -402,7 +304,6 @@ if (/^[A-Z]$/.test(legacyLetter)) {
       ) {
         heroArrow.style.opacity =
           "0";
-
         return;
       }
 
@@ -413,6 +314,10 @@ if (/^[A-Z]$/.test(legacyLetter)) {
         event.clientX -
         rect.left;
 
+      const positionY =
+        event.clientY -
+        rect.top;
+
       const ratio =
         positionX /
         rect.width;
@@ -422,10 +327,10 @@ if (/^[A-Z]$/.test(legacyLetter)) {
           "←";
 
         heroArrow.style.left =
-          "1.5rem";
+          `${positionX}px`;
 
-        heroArrow.style.right =
-          "auto";
+        heroArrow.style.top =
+          `${positionY}px`;
 
         heroArrow.style.opacity =
           "1";
@@ -435,11 +340,11 @@ if (/^[A-Z]$/.test(legacyLetter)) {
         heroArrow.textContent =
           "→";
 
-        heroArrow.style.right =
-          "1.5rem";
-
         heroArrow.style.left =
-          "auto";
+          `${positionX}px`;
+
+        heroArrow.style.top =
+          `${positionY}px`;
 
         heroArrow.style.opacity =
           "1";
@@ -449,7 +354,6 @@ if (/^[A-Z]$/.test(legacyLetter)) {
       }
     }
   );
-
   hero.addEventListener(
     "pointerleave",
     () => {
