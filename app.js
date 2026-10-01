@@ -486,14 +486,19 @@ hero.appendChild(
   );
 
   hero.addEventListener(
-    "pointerleave",
-    () => {
-      heroArrow.style.opacity =
-        "0";
+  "pointerleave",
+  () => {
 
-      pointerStart = null;
-    }
-  );
+    hero.style.cursor =
+      "";
+
+    heroArrow.style.opacity =
+      "0";
+
+    pointerStart =
+      null;
+  }
+);
 
   hero.addEventListener(
     "keydown",
