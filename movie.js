@@ -81,6 +81,268 @@
     return;
   }
 
+/*
+  ==================================================
+  LESMAS CHRISTMAS EFFECT
+  ==================================================
+
+  The effect belongs to the LesMas collection itself.
+
+  Nothing here contains individual movie titles.
+  Any movie added to the "lesmas" collection in
+  collection-data.js automatically receives it.
+*/
+
+function movieBelongsToCollection(
+  collectionSlug,
+  movieTitle
+) {
+  const collections =
+    window.WLW_COLLECTIONS ||
+    [];
+
+  const collection =
+    collections.find(
+      item =>
+        item.slug ===
+        collectionSlug
+    );
+
+  if (
+    !collection ||
+    !Array.isArray(
+      collection.movies
+    )
+  ) {
+    return false;
+  }
+
+  return collection.movies.includes(
+    movieTitle
+  );
+}
+
+
+function startLesMasChristmasEffect() {
+  /*
+    Avoid creating a second effect
+    if this function somehow runs twice.
+  */
+  if (
+    document.querySelector(
+      ".lesmas-effect-layer"
+    )
+  ) {
+    return;
+  }
+
+
+  /*
+    Respect the visitor's reduced-motion
+    accessibility preference.
+  */
+  if (
+    window.matchMedia(
+      "(prefers-reduced-motion: reduce)"
+    ).matches
+  ) {
+    return;
+  }
+
+
+  const layer =
+    document.createElement(
+      "div"
+    );
+
+  layer.className =
+    "lesmas-effect-layer";
+
+  layer.setAttribute(
+    "aria-hidden",
+    "true"
+  );
+
+  document.body.appendChild(
+    layer
+  );
+
+
+  /*
+    Snowflakes
+  */
+  for (
+    let index = 0;
+    index < 42;
+    index += 1
+  ) {
+    const snowflake =
+      document.createElement(
+        "span"
+      );
+
+    snowflake.className =
+      "lesmas-snowflake";
+
+    snowflake.textContent =
+      "❄";
+
+    snowflake.style.setProperty(
+      "--x",
+      `${Math.random() * 100}vw`
+    );
+
+    snowflake.style.setProperty(
+      "--drift",
+      `${Math.random() * 12 - 6}vw`
+    );
+
+    snowflake.style.setProperty(
+      "--duration",
+      `${4.8 + Math.random() * 4.5}s`
+    );
+
+    snowflake.style.setProperty(
+      "--delay",
+      `${Math.random() * -7}s`
+    );
+
+    snowflake.style.setProperty(
+      "--size",
+      `${0.55 + Math.random() * 1.05}rem`
+    );
+
+    snowflake.style.setProperty(
+      "--opacity",
+      `${0.35 + Math.random() * 0.55}`
+    );
+
+    layer.appendChild(
+      snowflake
+    );
+  }
+
+
+  /*
+    Santa hats
+  */
+  for (
+    let index = 0;
+    index < 10;
+    index += 1
+  ) {
+    const hat =
+      document.createElement(
+        "span"
+      );
+
+    hat.className =
+      "lesmas-hat";
+
+    hat.style.setProperty(
+      "--x",
+      `${Math.random() * 96}vw`
+    );
+
+    hat.style.setProperty(
+      "--drift",
+      `${Math.random() * 18 - 9}vw`
+    );
+
+    hat.style.setProperty(
+      "--duration",
+      `${5.5 + Math.random() * 4}s`
+    );
+
+    hat.style.setProperty(
+      "--delay",
+      `${Math.random() * -6}s`
+    );
+
+    hat.style.setProperty(
+      "--size",
+      `${1.6 + Math.random() * 1.3}rem`
+    );
+
+    hat.style.setProperty(
+      "--rotation",
+      `${Math.random() * 100 - 50}deg`
+    );
+
+
+    const crown =
+      document.createElement(
+        "span"
+      );
+
+    crown.className =
+      "lesmas-hat-crown";
+
+
+    const band =
+      document.createElement(
+        "span"
+      );
+
+    band.className =
+      "lesmas-hat-band";
+
+
+    const pom =
+      document.createElement(
+        "span"
+      );
+
+    pom.className =
+      "lesmas-hat-pom";
+
+
+    hat.append(
+      crown,
+      band,
+      pom
+    );
+
+    layer.appendChild(
+      hat
+    );
+  }
+
+
+  /*
+    Christmas shower appears immediately,
+    then disappears by itself.
+
+    The detail page remains clean afterwards.
+  */
+  window.setTimeout(
+    () => {
+      layer.classList.add(
+        "is-ending"
+      );
+    },
+    6500
+  );
+
+
+  window.setTimeout(
+    () => {
+      layer.remove();
+    },
+    7800
+  );
+}
+
+
+if (
+  movieBelongsToCollection(
+    "lesmas",
+    movie.title
+  )
+) {
+  startLesMasChristmasEffect();
+}
+  
   const poster =
     document.querySelector(
       "#detail-poster"
