@@ -414,76 +414,100 @@ hero.appendChild(
 
   // Arrow follows the mouse on desktop.
   hero.addEventListener(
-    "pointermove",
-    event => {
-      if (
-        event.pointerType !==
-        "mouse"
-      ) {
-        heroArrow.style.opacity =
-          "0";
+  "pointermove",
+  event => {
 
-        return;
-      }
+    if (
+      event.pointerType !==
+      "mouse"
+    ) {
+      hero.style.cursor =
+        "";
 
-      if (
-        event.target.closest(
-          ".search"
-        )
-      ) {
-        heroArrow.style.opacity =
-          "0";
+      heroArrow.style.opacity =
+        "0";
 
-        return;
-      }
-
-      const rect =
-        hero.getBoundingClientRect();
-
-      const positionX =
-        event.clientX -
-        rect.left;
-
-      const positionY =
-        event.clientY -
-        rect.top;
-
-      const ratio =
-        positionX /
-        rect.width;
-
-      if (ratio <= 0.3) {
-        heroArrow.textContent =
-          "←";
-
-        heroArrow.style.left =
-          `${positionX}px`;
-
-        heroArrow.style.top =
-          `${positionY}px`;
-
-        heroArrow.style.opacity =
-          "1";
-      } else if (
-        ratio >= 0.7
-      ) {
-        heroArrow.textContent =
-          "→";
-
-        heroArrow.style.left =
-          `${positionX}px`;
-
-        heroArrow.style.top =
-          `${positionY}px`;
-
-        heroArrow.style.opacity =
-          "1";
-      } else {
-        heroArrow.style.opacity =
-          "0";
-      }
+      return;
     }
-  );
+
+    if (
+      event.target.closest(
+        ".search"
+      )
+    ) {
+      hero.style.cursor =
+        "";
+
+      heroArrow.style.opacity =
+        "0";
+
+      return;
+    }
+
+    const rect =
+      hero.getBoundingClientRect();
+
+    const positionX =
+      event.clientX -
+      rect.left;
+
+    const positionY =
+      event.clientY -
+      rect.top;
+
+    const ratio =
+      positionX /
+      rect.width;
+
+    if (
+      ratio <= 0.3
+    ) {
+      hero.style.cursor =
+        "none";
+
+      heroArrow.textContent =
+        "←";
+
+      heroArrow.style.left =
+        `${positionX}px`;
+
+      heroArrow.style.top =
+        `${positionY}px`;
+
+      heroArrow.style.opacity =
+        "1";
+
+      return;
+    }
+
+    if (
+      ratio >= 0.7
+    ) {
+      hero.style.cursor =
+        "none";
+
+      heroArrow.textContent =
+        "→";
+
+      heroArrow.style.left =
+        `${positionX}px`;
+
+      heroArrow.style.top =
+        `${positionY}px`;
+
+      heroArrow.style.opacity =
+        "1";
+
+      return;
+    }
+
+    hero.style.cursor =
+      "";
+
+    heroArrow.style.opacity =
+      "0";
+  }
+);
 
   hero.addEventListener(
   "pointerleave",
