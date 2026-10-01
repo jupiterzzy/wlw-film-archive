@@ -13,7 +13,10 @@ window.WLW_COLLECTIONS = [
     "movies": [
       "Anaïs in Love",
       "Bloomington",
-      "Intermission"
+      "Intermission", 
+      "Montreal, My Beautiful",
+    "Carol"
+      
     ]
   },
   {
