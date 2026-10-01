@@ -86,11 +86,11 @@
   LESMAS CHRISTMAS EFFECT
   ==================================================
 
-  The effect belongs to the LesMas collection itself.
+  This effect belongs to the LesMas collection itself.
 
-  Nothing here contains individual movie titles.
+  No movie title is hard-coded here.
   Any movie added to the "lesmas" collection in
-  collection-data.js automatically receives it.
+  collection-data.js automatically receives the effect.
 */
 
 function movieBelongsToCollection(
@@ -123,10 +123,283 @@ function movieBelongsToCollection(
 }
 
 
+/*
+  Create one SVG Santa hat.
+
+  SVG is used instead of separate CSS shapes so the
+  red cap, white fur and pom-pom remain connected
+  correctly while the hat rotates and falls.
+*/
+function createLesMasSantaHat() {
+  const hat =
+    document.createElement(
+      "span"
+    );
+
+  hat.className =
+    "lesmas-hat";
+
+  hat.innerHTML = `
+    <svg
+      class="lesmas-hat-svg"
+      viewBox="0 0 140 105"
+      aria-hidden="true"
+      focusable="false"
+    >
+      <defs>
+
+        <linearGradient
+          id="lesmasHatRed"
+          x1="18"
+          y1="18"
+          x2="104"
+          y2="84"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop
+            offset="0%"
+            stop-color="#ff314f"
+          />
+
+          <stop
+            offset="38%"
+            stop-color="#dc1738"
+          />
+
+          <stop
+            offset="72%"
+            stop-color="#b5082a"
+          />
+
+          <stop
+            offset="100%"
+            stop-color="#790419"
+          />
+        </linearGradient>
+
+
+        <linearGradient
+          id="lesmasHatHighlight"
+          x1="45"
+          y1="24"
+          x2="76"
+          y2="70"
+          gradientUnits="userSpaceOnUse"
+        >
+          <stop
+            offset="0%"
+            stop-color="#ffffff"
+            stop-opacity=".42"
+          />
+
+          <stop
+            offset="100%"
+            stop-color="#ffffff"
+            stop-opacity="0"
+          />
+        </linearGradient>
+
+
+        <linearGradient
+          id="lesmasHatFur"
+          x1="0"
+          y1="0"
+          x2="0"
+          y2="1"
+        >
+          <stop
+            offset="0%"
+            stop-color="#ffffff"
+          />
+
+          <stop
+            offset="55%"
+            stop-color="#f7f4ef"
+          />
+
+          <stop
+            offset="100%"
+            stop-color="#d8d3cf"
+          />
+        </linearGradient>
+
+
+        <radialGradient
+          id="lesmasHatPom"
+          cx="35%"
+          cy="28%"
+          r="70%"
+        >
+          <stop
+            offset="0%"
+            stop-color="#ffffff"
+          />
+
+          <stop
+            offset="60%"
+            stop-color="#f4f1ed"
+          />
+
+          <stop
+            offset="100%"
+            stop-color="#cec9c6"
+          />
+        </radialGradient>
+
+
+        <filter
+          id="lesmasHatShadow"
+          x="-40%"
+          y="-40%"
+          width="180%"
+          height="190%"
+        >
+          <feDropShadow
+            dx="0"
+            dy="4"
+            stdDeviation="4"
+            flood-color="#000000"
+            flood-opacity=".34"
+          />
+        </filter>
+
+
+        <filter
+          id="lesmasHatSoftShadow"
+          x="-40%"
+          y="-40%"
+          width="180%"
+          height="180%"
+        >
+          <feDropShadow
+            dx="0"
+            dy="2"
+            stdDeviation="2"
+            flood-color="#000000"
+            flood-opacity=".25"
+          />
+        </filter>
+
+      </defs>
+
+
+      <!-- Main red cap -->
+      <path
+        d="
+          M 20 78
+          C 28 57, 39 36, 57 21
+          C 71 9, 86 8, 105 18
+          C 94 23, 85 31, 80 41
+          C 73 53, 69 66, 67 78
+          Z
+        "
+        fill="url(#lesmasHatRed)"
+        filter="url(#lesmasHatShadow)"
+      />
+
+
+      <!-- Folded tip connecting the cap to the pom-pom -->
+      <path
+        d="
+          M 80 41
+          C 86 31, 94 23, 105 18
+          C 112 20, 117 25, 119 31
+          C 108 30, 99 34, 91 43
+          Z
+        "
+        fill="#b5082a"
+      />
+
+
+      <!-- Soft fabric highlight -->
+      <path
+        d="
+          M 39 64
+          C 45 45, 53 29, 67 19
+          C 73 15, 80 13, 86 14
+        "
+        fill="none"
+        stroke="url(#lesmasHatHighlight)"
+        stroke-width="7"
+        stroke-linecap="round"
+      />
+
+
+      <!-- Subtle lower fabric shadow -->
+      <path
+        d="
+          M 25 75
+          C 37 70, 52 68, 67 70
+        "
+        fill="none"
+        stroke="#650315"
+        stroke-opacity=".28"
+        stroke-width="5"
+        stroke-linecap="round"
+      />
+
+
+      <!-- White furry band -->
+      <path
+        d="
+          M 16 73
+          C 27 69, 41 69, 54 70
+          C 61 70, 69 71, 75 74
+          C 78 77, 77 84, 73 87
+          C 58 91, 35 90, 18 87
+          C 12 85, 11 77, 16 73
+          Z
+        "
+        fill="url(#lesmasHatFur)"
+        filter="url(#lesmasHatSoftShadow)"
+      />
+
+
+      <!-- Fur texture -->
+      <path
+        d="
+          M 20 78
+          C 27 75, 32 80, 38 77
+          C 44 74, 50 80, 56 77
+          C 62 74, 67 79, 72 77
+        "
+        fill="none"
+        stroke="#ffffff"
+        stroke-opacity=".74"
+        stroke-width="2.5"
+        stroke-linecap="round"
+      />
+
+
+      <!-- Pom-pom at the actual tip -->
+      <circle
+        cx="120"
+        cy="31"
+        r="13"
+        fill="url(#lesmasHatPom)"
+        filter="url(#lesmasHatSoftShadow)"
+      />
+
+
+      <!-- Pom-pom highlight -->
+      <circle
+        cx="116"
+        cy="27"
+        r="4"
+        fill="#ffffff"
+        opacity=".72"
+      />
+
+    </svg>
+  `;
+
+  return hat;
+}
+
+
 function startLesMasChristmasEffect() {
   /*
-    Avoid creating a second effect
-    if this function somehow runs twice.
+    Prevent duplicate layers.
   */
   if (
     document.querySelector(
@@ -138,8 +411,7 @@ function startLesMasChristmasEffect() {
 
 
   /*
-    Respect the visitor's reduced-motion
-    accessibility preference.
+    Respect reduced-motion preference.
   */
   if (
     window.matchMedia(
@@ -169,11 +441,16 @@ function startLesMasChristmasEffect() {
 
 
   /*
-    Snowflakes
+    ==================================================
+    SNOW
+    ==================================================
+
+    Slightly fewer flakes than before so the page
+    feels festive without covering the movie content.
   */
   for (
     let index = 0;
-    index < 42;
+    index < 34;
     index += 1
   ) {
     const snowflake =
@@ -194,27 +471,32 @@ function startLesMasChristmasEffect() {
 
     snowflake.style.setProperty(
       "--drift",
-      `${Math.random() * 12 - 6}vw`
+      `${Math.random() * 14 - 7}vw`
     );
 
     snowflake.style.setProperty(
       "--duration",
-      `${4.8 + Math.random() * 4.5}s`
+      `${5.5 + Math.random() * 4.5}s`
     );
 
     snowflake.style.setProperty(
       "--delay",
-      `${Math.random() * -7}s`
+      `${Math.random() * -8}s`
     );
 
     snowflake.style.setProperty(
       "--size",
-      `${0.55 + Math.random() * 1.05}rem`
+      `${0.5 + Math.random() * 0.9}rem`
     );
 
     snowflake.style.setProperty(
       "--opacity",
-      `${0.35 + Math.random() * 0.55}`
+      `${0.28 + Math.random() * 0.52}`
+    );
+
+    snowflake.style.setProperty(
+      "--spin",
+      `${180 + Math.random() * 260}deg`
     );
 
     layer.appendChild(
@@ -224,83 +506,53 @@ function startLesMasChristmasEffect() {
 
 
   /*
-    Santa hats
+    ==================================================
+    SANTA HATS
+    ==================================================
+
+    Use fewer, better-looking hats.
   */
   for (
     let index = 0;
-    index < 10;
+    index < 7;
     index += 1
   ) {
     const hat =
-      document.createElement(
-        "span"
-      );
-
-    hat.className =
-      "lesmas-hat";
+      createLesMasSantaHat();
 
     hat.style.setProperty(
       "--x",
-      `${Math.random() * 96}vw`
+      `${4 + Math.random() * 90}vw`
     );
 
     hat.style.setProperty(
       "--drift",
-      `${Math.random() * 18 - 9}vw`
+      `${Math.random() * 16 - 8}vw`
     );
 
     hat.style.setProperty(
       "--duration",
-      `${5.5 + Math.random() * 4}s`
+      `${6 + Math.random() * 3.5}s`
     );
 
     hat.style.setProperty(
       "--delay",
-      `${Math.random() * -6}s`
+      `${Math.random() * -5}s`
     );
 
     hat.style.setProperty(
       "--size",
-      `${1.6 + Math.random() * 1.3}rem`
+      `${2.6 + Math.random() * 1.5}rem`
     );
 
     hat.style.setProperty(
       "--rotation",
-      `${Math.random() * 100 - 50}deg`
+      `${Math.random() * 44 - 22}deg`
     );
 
-
-    const crown =
-      document.createElement(
-        "span"
-      );
-
-    crown.className =
-      "lesmas-hat-crown";
-
-
-    const band =
-      document.createElement(
-        "span"
-      );
-
-    band.className =
-      "lesmas-hat-band";
-
-
-    const pom =
-      document.createElement(
-        "span"
-      );
-
-    pom.className =
-      "lesmas-hat-pom";
-
-
-    hat.append(
-      crown,
-      band,
-      pom
+    hat.style.setProperty(
+      "--hat-spin",
+      `${90 + Math.random() * 100}deg`
     );
 
     layer.appendChild(
@@ -310,10 +562,7 @@ function startLesMasChristmasEffect() {
 
 
   /*
-    Christmas shower appears immediately,
-    then disappears by itself.
-
-    The detail page remains clean afterwards.
+    Let the effect run briefly, then fade away.
   */
   window.setTimeout(
     () => {
@@ -321,7 +570,7 @@ function startLesMasChristmasEffect() {
         "is-ending"
       );
     },
-    6500
+    6800
   );
 
 
@@ -329,7 +578,7 @@ function startLesMasChristmasEffect() {
     () => {
       layer.remove();
     },
-    7800
+    8100
   );
 }
 
