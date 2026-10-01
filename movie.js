@@ -546,9 +546,9 @@ function startLesMasChristmasEffect() {
     );
 
     hat.style.setProperty(
-      "--rotation",
-      `${Math.random() * 44 - 22}deg`
-    );
+  "--rotation",
+  `${Math.random() * 24 - 12}deg`
+);
 
     hat.style.setProperty(
       "--hat-spin",
