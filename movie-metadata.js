@@ -20,7 +20,8 @@ window.WLW_MOVIE_METADATA = {
   "Afternoon Breezes": {
     "year": 1980,
     "aliases": [
-      "午后微风"
+      "午后微风",
+      "午後微風"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/q4qSwZTXF0QuFHo1QxuJJHJhCA6.jpg",
     "tmdbId": "338371",
@@ -29,7 +30,8 @@ window.WLW_MOVIE_METADATA = {
   "Ajeeb Daastaans": {
     "year": 2021,
     "aliases": [
-      "爱情密语"
+      "爱情密语",
+      "脆弱的愛情"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg",
     "tmdbId": "802403",
@@ -39,7 +41,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2022,
     "aliases": [
       "永结同心",
-      "假結婚真幸福"
+      "假結婚真幸福",
+      "虛龍假鳳"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/2IOCys56t4iOMj9ZoVZ7zmi2RHL.jpg",
     "tmdbId": "754716",
@@ -65,7 +68,9 @@ window.WLW_MOVIE_METADATA = {
   },
   "I Fell, It's Fine": {
     "year": 2026,
-    "aliases": [],
+    "aliases": [
+      "坠落也无妨"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/5SWEjDI5lVZrKOWmtce12EZsd8j.jpg",
     "tmdbId": "1391450",
     "posterLanguage": "tl"
@@ -73,7 +78,8 @@ window.WLW_MOVIE_METADATA = {
   "Open Endings": {
     "year": 2025,
     "aliases": [
-      "未完的结局"
+      "未完的结局",
+      "結局未完"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/f93IqNFUMI83669uHiJDNd5vLlP.jpg",
     "tmdbId": "1422089",
@@ -104,7 +110,8 @@ window.WLW_MOVIE_METADATA = {
   "The World Unseen": {
     "year": 2007,
     "aliases": [
-      "看不见的世界"
+      "看不见的世界",
+      "看不見的世界"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/hBUptHdZZkR7bsuV8hLF9auCol.jpg",
     "tmdbId": "31031",
@@ -112,7 +119,10 @@ window.WLW_MOVIE_METADATA = {
   },
   "Ellie & Abbie (& Ellie's Dead Aunt)": {
     "year": 2020,
-    "aliases": [],
+    "aliases": [
+      "鬼阿姨之爱莉与艾比",
+      "鬼阿姨之愛莉與艾比"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/rmNQCI7wZkQb1nY9ILvXM3n383X.jpg",
     "tmdbId": "662541",
     "posterLanguage": "en"
@@ -121,7 +131,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2020,
     "aliases": [
       "恋恋初夏",
-      "戀在初夏升溫時"
+      "戀在初夏升溫時",
+      "戀戀初夏"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7GBMVO09clB7HUgfqbjZmOVAPOi.jpg",
     "tmdbId": "741011",
@@ -130,7 +141,8 @@ window.WLW_MOVIE_METADATA = {
   "Skin Deep": {
     "year": 2015,
     "aliases": [
-      "深触我心"
+      "深触我心",
+      "深觸我心"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jWVNsWzyBMdl6W8bmaXzAPLGdH1.jpg",
     "tmdbId": "320642",
@@ -164,7 +176,8 @@ window.WLW_MOVIE_METADATA = {
   "Sœur Sourire": {
     "year": 2009,
     "aliases": [
-      "阳光修女"
+      "阳光修女",
+      "陽光修女"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5J5AWp1L9BlXbQ3wuBPeH28G272.jpg",
     "tmdbId": "17486",
@@ -173,7 +186,8 @@ window.WLW_MOVIE_METADATA = {
   "The First Death of Joana": {
     "year": 2021,
     "aliases": [
-      "乔安娜的第一次死亡"
+      "乔安娜的第一次死亡",
+      "喬安娜的第一次死亡"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/390BBRWvgReAExtVW2K8ZcTpBT3.jpg",
     "tmdbId": "786375",
@@ -182,7 +196,8 @@ window.WLW_MOVIE_METADATA = {
   "Reaching for the Moon": {
     "year": 2013,
     "aliases": [
-      "月光诗篇"
+      "月光诗篇",
+      "月光詩篇"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/j5LU6RVdB0XG14mrqlYMGRUseOW.jpg",
     "tmdbId": "167683",
@@ -191,7 +206,8 @@ window.WLW_MOVIE_METADATA = {
   "Better Than Chocolate": {
     "year": 1999,
     "aliases": [
-      "比巧克力还甜"
+      "比巧克力还甜",
+      "比巧克力還甜"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7FC2UK7MyEwlmbJGCIIFg4U7VPU.jpg",
     "tmdbId": "18212",
@@ -210,9 +226,10 @@ window.WLW_MOVIE_METADATA = {
     "year": 2009,
     "aliases": [
       "克洛伊",
-      "色．誘"
+      "色．誘",
+      "色破孽緣"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/5baJdmw62obFQX9j5vnwbrFtBdr.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/b1SQETW5XglZb8eGnmb648lVANw.jpg",
     "tmdbId": "28211",
     "posterLanguage": "en"
   },
@@ -228,7 +245,8 @@ window.WLW_MOVIE_METADATA = {
   "Forbidden Love: The Unashamed Stories of Lesbian Lives": {
     "year": 1992,
     "aliases": [
-      "禁忌之恋：蕾丝们肆无忌惮的生活之曲"
+      "禁忌之恋：蕾丝们肆无忌惮的生活之曲",
+      "禁忌之戀：蕾絲們肆無忌憚的生活之曲"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/aoTA6sJT3NwOmaZVfMB8PKeeQiK.jpg",
     "tmdbId": "194926",
@@ -237,7 +255,8 @@ window.WLW_MOVIE_METADATA = {
   "Friends & Family Christmas": {
     "year": 2023,
     "aliases": [
-      "友爱圣诞"
+      "友爱圣诞",
+      "友愛聖誕"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/naLwVZJKN1G4OQatuoMNcHwQDRw.jpg",
     "tmdbId": "1180706",
@@ -255,7 +274,8 @@ window.WLW_MOVIE_METADATA = {
   "I've Heard the Mermaids Singing": {
     "year": 1987,
     "aliases": [
-      "去听美人鱼唱歌"
+      "去听美人鱼唱歌",
+      "去聽美人魚唱歌"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ms97uqYfxGVyT3X2J9KT08h1LFi.jpg",
     "tmdbId": "117233",
@@ -264,7 +284,8 @@ window.WLW_MOVIE_METADATA = {
   "Lost and Delirious": {
     "year": 2001,
     "aliases": [
-      "意乱情迷"
+      "意乱情迷",
+      "意亂情迷"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3HVCElP9BJLAX3ocC5GYBvSj6cs.jpg",
     "tmdbId": "17612",
@@ -299,7 +320,8 @@ window.WLW_MOVIE_METADATA = {
   "Polarized": {
     "year": 2023,
     "aliases": [
-      "极爱"
+      "极爱",
+      "極愛"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ePgEcNKGxfVV71FCzPDCClxq5kP.jpg",
     "tmdbId": "987427",
@@ -324,7 +346,8 @@ window.WLW_MOVIE_METADATA = {
   "You Can Live Forever": {
     "year": 2022,
     "aliases": [
-      "唯爱永存"
+      "唯爱永存",
+      "唯愛永存"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6JllNMDqHasBeqM5vFVxp1rB9Fk.jpg",
     "tmdbId": "887580",
@@ -379,7 +402,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2021,
     "aliases": [
       "主竞赛",
-      "瘋狂競賽片"
+      "瘋狂競賽片",
+      "玩謝天王巨星"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jVRPUtO6i13YuFf6uk4RWYHzvBh.jpg",
     "tmdbId": "668640",
@@ -388,7 +412,8 @@ window.WLW_MOVIE_METADATA = {
   "The Girl King": {
     "year": 2015,
     "aliases": [
-      "年轻的女王"
+      "年轻的女王",
+      "年輕的女王"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/cVENYeYgp4r8VI4mQCHd2uHMPHI.jpg",
     "tmdbId": "329829",
@@ -490,7 +515,10 @@ window.WLW_MOVIE_METADATA = {
   "The Dancer": {
     "year": 2016,
     "aliases": [
-      "La Danseuse"
+      "La Danseuse",
+      "舞女",
+      "巴黎影舞者",
+      "狂舞摯愛"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/yhRH3XTIyhPwG3iqNriwa2zq2ga.jpg",
     "tmdbId": "392794",
@@ -518,7 +546,8 @@ window.WLW_MOVIE_METADATA = {
   "Féminin plurielles": {
     "year": 2018,
     "aliases": [
-      "女性们"
+      "女性们",
+      "女性們"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/aULkKSk3xzswIzMAutKJSKSj3DR.jpg",
     "tmdbId": "578721",
@@ -538,7 +567,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2024,
     "aliases": [
       "外语",
-      "以妳的語言呼喚我"
+      "以妳的語言呼喚我",
+      "以你的語言呼喚我"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/NJEWmWS0zQyPTohN6DqzTm0aY7.jpg",
     "tmdbId": "803690",
@@ -594,7 +624,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2025,
     "aliases": [
       "蒙特利尔，我的美人",
-      "蒙特婁，我的愛"
+      "蒙特婁，我的愛",
+      "滿地可人兒"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/xgJqnAfbI7IlSre1zEdMFxrkRD5.jpg",
     "tmdbId": "1178620",
@@ -633,7 +664,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2019,
     "aliases": [
       "燃烧女子的肖像",
-      "燃燒女子的畫像"
+      "燃燒女子的畫像",
+      "浴火 的少女畫像"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lH2hSK6F1FZmS3ao384kZCMsbCl.jpg",
     "tmdbId": "531428",
@@ -699,7 +731,8 @@ window.WLW_MOVIE_METADATA = {
   "Violette": {
     "year": 2013,
     "aliases": [
-      "维奥莱特"
+      "维奥莱特",
+      "維奧萊特"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/qdIjSYwF7GS35yY0EQ6bcjW7raP.jpg",
     "tmdbId": "209282",
@@ -736,7 +769,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2024,
     "aliases": [
       "缆车之恋",
-      "浪漫纜車升空中"
+      "浪漫纜車升空中",
+      "貢多拉拉手"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jFd0pvIFMBM4nRZJLKeMJHsG03D.jpg",
     "tmdbId": "1186679",
@@ -745,7 +779,8 @@ window.WLW_MOVIE_METADATA = {
   "Affäre zu dritt": {
     "year": 2003,
     "aliases": [
-      "偷情两三事"
+      "偷情两三事",
+      "偷情兩三事"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/b1Xa4w3hKYngisHLand7qxqgbtL.jpg",
     "tmdbId": "345273",
@@ -814,7 +849,9 @@ window.WLW_MOVIE_METADATA = {
     "year": 2006,
     "aliases": [
       "情键四分钟",
-      "情鍵四分鐘"
+      "情鍵四分鐘",
+      "狂琴 4 分鐘",
+      "四分钟"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lyPYYhUlnGPnvBF4BASpKCZjzds.jpg",
     "tmdbId": "1294",
@@ -856,7 +893,10 @@ window.WLW_MOVIE_METADATA = {
   },
   "Nachbarinnen": {
     "year": 2005,
-    "aliases": [],
+    "aliases": [
+      "女邻居",
+      "女鄰居"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/poxv3tUT0pAreIG2ZVKvNYxSzxh.jpg",
     "tmdbId": "230680",
     "posterLanguage": "de"
@@ -901,7 +941,8 @@ window.WLW_MOVIE_METADATA = {
   "Unveiled": {
     "year": 2005,
     "aliases": [
-      "揭开面纱的女子"
+      "揭开面纱的女子",
+      "揭開面紗的女子"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/xtya1T81koBSa3uWBp21pLq2C5s.jpg",
     "tmdbId": "56823",
@@ -939,7 +980,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2018,
     "aliases": [
       "宠儿",
-      "真寵"
+      "真寵",
+      "爭寵"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wmjiWibK6Cxhh2DzuGC1Xp7WnRW.jpg",
     "tmdbId": "375262",
@@ -974,7 +1016,8 @@ window.WLW_MOVIE_METADATA = {
   "The Betrayal": {
     "year": 1969,
     "aliases": [
-      "毒气间谍战"
+      "毒气间谍战",
+      "毒氣間諜戰"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9WnXPJzedNcIeoLMtovpJBRHf9z.jpg",
     "tmdbId": "85617",
@@ -999,7 +1042,8 @@ window.WLW_MOVIE_METADATA = {
   "The Fine Art of Love: Mine Ha-Ha": {
     "year": 2005,
     "aliases": [
-      "爱的艺术"
+      "爱的艺术",
+      "愛的藝術"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/4qdcM5JP0W9HGV5ubY6YJvr173f.jpg",
     "tmdbId": "61950",
@@ -1027,7 +1071,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2002,
     "aliases": [
       "Aprimi il cuore",
-      "情色双姝"
+      "情色双姝",
+      "情色雙姝"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/tC4GfzSBwus7Nc06bLGPOk86xF0.jpg",
     "tmdbId": "80291",
@@ -1053,7 +1098,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2025,
     "aliases": [
       "性梦爱三部曲：梦",
-      "關於夢 (性與愛)"
+      "關於夢 (性與愛)",
+      "同夢奇緣之夢"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5BRlnpdZTzt2JDujAizDwDYQCNs.jpg",
     "tmdbId": "1228682",
@@ -1081,7 +1127,8 @@ window.WLW_MOVIE_METADATA = {
   "Twice a Woman": {
     "year": 1979,
     "aliases": [
-      "两个女人"
+      "两个女人",
+      "兩個女人"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/y4MbvU7MFiOFeau3uawL2gEkdxY.jpg",
     "tmdbId": "89366",
@@ -1091,7 +1138,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2017,
     "aliases": [
       "西尔玛",
-      "魔女席瑪"
+      "魔女席瑪",
+      "北國凶靈"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/l3ciaQdEBQdlOP2Bkc7BV7VkPdK.jpg",
     "tmdbId": "401898",
@@ -1119,7 +1167,8 @@ window.WLW_MOVIE_METADATA = {
   "On the Edge": {
     "year": 2020,
     "aliases": [
-      "锋刃边缘"
+      "锋刃边缘",
+      "鋒刃邊緣"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/r0kWn5O4Cv6MUbWiR6SHAxJfQcJ.jpg",
     "tmdbId": "579875",
@@ -1156,7 +1205,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2022,
     "aliases": [
       "爱上海史密斯",
-      "尋愛小說家：海史密斯"
+      "尋愛小說家：海史密斯",
+      "尋愛小説家：海史密斯"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/69FSnXoxlXTT9vdMN5qEKXXv0lP.jpg",
     "tmdbId": "915939",
@@ -1166,7 +1216,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2017,
     "aliases": [
       "极寒之城",
-      "極凍之城"
+      "極凍之城",
+      "原子殺姬"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/w90TVecrZrz1Nhc3wH8PS3BhCPS.jpg",
     "tmdbId": "341013",
@@ -1176,7 +1227,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2011,
     "aliases": [
       "Kyss mig",
-      "With Every Heartbeat"
+      "With Every Heartbeat",
+      "吻我"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3vu6xIVE48PaaF2qYxPYrMMcU67.jpg",
     "tmdbId": "71325",
@@ -1203,7 +1255,8 @@ window.WLW_MOVIE_METADATA = {
   "So Damn Easy Going": {
     "year": 2022,
     "aliases": [
-      "巨他妈好相处"
+      "巨他妈好相处",
+      "停不下來的她"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/86LtlTHdfduiDbOB7Var3xKNLhm.jpg",
     "tmdbId": "860709",
@@ -1267,7 +1320,8 @@ window.WLW_MOVIE_METADATA = {
   "The Celluloid Closet": {
     "year": 1995,
     "aliases": [
-      "赛璐路壁橱"
+      "赛璐路壁橱",
+      "賽璐路壁櫥"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ho9mGEWr3xfeKRpD9nsBP524XHW.jpg",
     "tmdbId": "32562",
@@ -1276,7 +1330,8 @@ window.WLW_MOVIE_METADATA = {
   "Chuck Chuck Baby": {
     "year": 2023,
     "aliases": [
-      "喳喳宝贝"
+      "喳喳宝贝",
+      "喳喳寶貝"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/am3Un9J5utoNhlIsxs81pwLYWMz.jpg",
     "tmdbId": "1066124",
@@ -1286,7 +1341,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2018,
     "aliases": [
       "柯莱特",
-      "花都教主柯蕾特"
+      "花都教主柯蕾特",
+      "寫我華麗緣"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5fvcs8x7k16wGdet16qkx1cKBPM.jpg",
     "tmdbId": "454652",
@@ -1295,7 +1351,8 @@ window.WLW_MOVIE_METADATA = {
   "Daphne": {
     "year": 2007,
     "aliases": [
-      "达芙妮"
+      "达芙妮",
+      "達芙妮"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3lcteA8yv13pXj8HO00Hq3dyv2c.jpg",
     "tmdbId": "204477",
@@ -1305,7 +1362,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2017,
     "aliases": [
       "违命",
-      "離經叛愛"
+      "離經叛愛",
+      "叛逆性百合"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/kPJTR7IUkzqjIu1SGnpQmGo9Iip.jpg",
     "tmdbId": "419743",
@@ -1315,7 +1373,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2024,
     "aliases": [
       "出走俏娇娃",
-      "浪跡女孩"
+      "浪跡女孩",
+      "走佬自由鳥"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6QPKmqntFgLm6sB47AtSelEGGPM.jpg",
     "tmdbId": "957304",
@@ -1352,7 +1411,10 @@ window.WLW_MOVIE_METADATA = {
   },
   "I Can't Think Straight": {
     "year": 2008,
-    "aliases": [],
+    "aliases": [
+      "同心难改",
+      "同心難改"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/ePbH29RdMlz8mDEQyUkxRVcsB73.jpg",
     "tmdbId": "31216",
     "posterLanguage": "en"
@@ -1360,7 +1422,8 @@ window.WLW_MOVIE_METADATA = {
   "Imagine Me & You": {
     "year": 2005,
     "aliases": [
-      "四角关系"
+      "四角关系",
+      "四角關係"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/a7CbxY3TMwFKX6awlBxhb7Es6tS.jpg",
     "tmdbId": "1544",
@@ -1369,7 +1432,8 @@ window.WLW_MOVIE_METADATA = {
   "The Investigator": {
     "year": 1997,
     "aliases": [
-      "调查者"
+      "调查者",
+      "調查者"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/bPQdHDmwF2aODftAwwQFO9S68fE.jpg",
     "tmdbId": "51783",
@@ -1416,7 +1480,8 @@ window.WLW_MOVIE_METADATA = {
   "My Summer of Love": {
     "year": 2004,
     "aliases": [
-      "夏日之恋"
+      "夏日之恋",
+      "夏日之戀"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wyCcQQkHqighSZOcT4hySPJpWIL.jpg",
     "tmdbId": "9709",
@@ -1450,7 +1515,8 @@ window.WLW_MOVIE_METADATA = {
   "The Secret Diaries of Miss Anne Lister": {
     "year": 2010,
     "aliases": [
-      "安妮·李斯特的秘密日记"
+      "安妮·李斯特的秘密日记",
+      "安妮·李斯特的秘密日記"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/fpJHzNNRkLFdY41JwOdZYuAmZ23.jpg",
     "tmdbId": "42548",
@@ -1476,7 +1542,9 @@ window.WLW_MOVIE_METADATA = {
   },
   "Sweetheart": {
     "year": 2021,
-    "aliases": [],
+    "aliases": [
+      "甜心"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/uopEzIMc9DBBQfbv28j9aXsLca9.jpg",
     "tmdbId": "786015",
     "posterLanguage": "en"
@@ -1508,7 +1576,8 @@ window.WLW_MOVIE_METADATA = {
   "A Marine Story": {
     "year": 2010,
     "aliases": [
-      "海军陆战队的故事"
+      "海军陆战队的故事",
+      "海軍陸戰隊的故事"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/pntBMDfGgPgIEeNBhT3JR7E3h5s.jpg",
     "tmdbId": "46564",
@@ -1517,7 +1586,8 @@ window.WLW_MOVIE_METADATA = {
   "A Perfect Ending": {
     "year": 2012,
     "aliases": [
-      "一个完美的结局"
+      "一个完美的结局",
+      "一個完美的結局"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/mjwWEwE1xdbtFGCOgeXi5jvQnOU.jpg",
     "tmdbId": "107257",
@@ -1526,7 +1596,8 @@ window.WLW_MOVIE_METADATA = {
   "A Secret Love": {
     "year": 2020,
     "aliases": [
-      "隐秘的爱"
+      "隐秘的爱",
+      "不能見光的愛"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/28LNd4KEpqt9i8sgXrVcrdr2kgI.jpg",
     "tmdbId": "687156",
@@ -1552,7 +1623,8 @@ window.WLW_MOVIE_METADATA = {
   "An Unexpected Love": {
     "year": 2003,
     "aliases": [
-      "意外的爱"
+      "意外的爱",
+      "意外的愛"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jcSWwAvjctdWEcVtS9eVLUmxGVI.jpg",
     "tmdbId": "125233",
@@ -1561,7 +1633,8 @@ window.WLW_MOVIE_METADATA = {
   "And Then There Was Eve": {
     "year": 2017,
     "aliases": [
-      "无法消弭的爱"
+      "无法消弭的爱",
+      "無法消弭的愛"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/1RBcNPAyZSpCoLmfOOM1jRYxFKd.jpg",
     "tmdbId": "460089",
@@ -1607,7 +1680,8 @@ window.WLW_MOVIE_METADATA = {
   "Bit": {
     "year": 2019,
     "aliases": [
-      "此生唯愿吸血鬼"
+      "此生唯愿吸血鬼",
+      "此生唯願吸血鬼"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9SlKmu0a1G1eihI29WMQogBWgzr.jpg",
     "tmdbId": "533985",
@@ -1616,7 +1690,8 @@ window.WLW_MOVIE_METADATA = {
   "Black Widow": {
     "year": 1987,
     "aliases": [
-      "黑寡妇"
+      "黑寡妇",
+      "黑寡婦"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/iAlUN6XFuvSz1it58aH2cuEITrt.jpg",
     "tmdbId": "19345",
@@ -1625,7 +1700,8 @@ window.WLW_MOVIE_METADATA = {
   "Bloomington": {
     "year": 2010,
     "aliases": [
-      "布卢明顿"
+      "布卢明顿",
+      "布盧明頓"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/vCHFXTpoDiQNwKB66ulnxOraQAt.jpg",
     "tmdbId": "51736",
@@ -1665,7 +1741,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 1999,
     "aliases": [
       "男孩别哭",
-      "男孩別哭"
+      "男孩別哭",
+      "沒哭聲的抉擇"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
     "tmdbId": "226",
@@ -1681,7 +1758,8 @@ window.WLW_MOVIE_METADATA = {
   "But I'm a Cheerleader": {
     "year": 1999,
     "aliases": [
-      "啦啦队长"
+      "啦啦队长",
+      "啦啦隊長"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/8huDg3Q0EmcWuN9HgYsO8ylAp9f.jpg",
     "tmdbId": "20770",
@@ -1691,7 +1769,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2015,
     "aliases": [
       "卡罗尔",
-      "因為愛你"
+      "因為愛你",
+      "卡露的情人"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/A8JV3ockAvWOXmcNZyAGqlyTTBw.jpg",
     "tmdbId": "258480",
@@ -1710,7 +1789,8 @@ window.WLW_MOVIE_METADATA = {
   "Chestnut": {
     "year": 2023,
     "aliases": [
-      "栗树街"
+      "栗树街",
+      "栗樹街"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6syFEUJQhXXw0BPHNwDKUgTReby.jpg",
     "tmdbId": "881517",
@@ -1729,7 +1809,8 @@ window.WLW_MOVIE_METADATA = {
   "Christmas at the Ranch": {
     "year": 2021,
     "aliases": [
-      "海莉的牧场暖心圣诞"
+      "海莉的牧场暖心圣诞",
+      "海莉的牧場暖心聖誕"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/griDO36hC0bSRnvAuNM6O0W5v20.jpg",
     "tmdbId": "805973",
@@ -1747,7 +1828,8 @@ window.WLW_MOVIE_METADATA = {
   "Cloudburst": {
     "year": 2011,
     "aliases": [
-      "骤雨"
+      "骤雨",
+      "驟雨"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/x4vlDX1xc0ZPRYnzyiGMpUOBSPv.jpg",
     "tmdbId": "117098",
@@ -1763,7 +1845,8 @@ window.WLW_MOVIE_METADATA = {
   "Concussion": {
     "year": 2013,
     "aliases": [
-      "脑震荡"
+      "脑震荡",
+      "腦震蕩"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uib2Khi2wynz9BEAoUBIvEE64vB.jpg",
     "tmdbId": "156965",
@@ -1772,7 +1855,8 @@ window.WLW_MOVIE_METADATA = {
   "D.E.B.S.": {
     "year": 2004,
     "aliases": [
-      "少女特工队"
+      "少女特工队",
+      "少女特攻隊"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/68BfXrFQPHg9iBWJVgp5R48gTix.jpg",
     "tmdbId": "540",
@@ -1791,7 +1875,8 @@ window.WLW_MOVIE_METADATA = {
   "Duck Butter": {
     "year": 2018,
     "aliases": [
-      "鸭油"
+      "鸭油",
+      "24 小時密蜜愛"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uhO5WFmf17ckCKwy6l3k9tt0z9z.jpg",
     "tmdbId": "499319",
@@ -1807,7 +1892,8 @@ window.WLW_MOVIE_METADATA = {
   "Elena Undone": {
     "year": 2010,
     "aliases": [
-      "埃伦娜"
+      "埃伦娜",
+      "埃倫娜"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/m4SDHYqLbYHnq5Lb6XPZPHgBbID.jpg",
     "tmdbId": "56743",
@@ -1816,7 +1902,8 @@ window.WLW_MOVIE_METADATA = {
   "Fall Risk": {
     "year": 2024,
     "aliases": [
-      "坠入她的深渊"
+      "坠入她的深渊",
+      "墜入她的深淵"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7y1fyqqPWwb1EmsjkAugRb6O1tw.jpg",
     "tmdbId": "1214713",
@@ -1834,21 +1921,33 @@ window.WLW_MOVIE_METADATA = {
   },
   "Fear Street: 1666": {
     "year": 2021,
-    "aliases": [],
+    "aliases": [
+      "恐惧街3",
+      "恐懼大街3：1666",
+      "恐懼大街 3：1666"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg",
     "tmdbId": "591275",
     "posterLanguage": "en"
   },
   "Fear Street: 1978": {
     "year": 2021,
-    "aliases": [],
+    "aliases": [
+      "恐惧街2",
+      "恐懼大街2：1978",
+      "恐懼大街 2：1978"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
     "tmdbId": "591274",
     "posterLanguage": "en"
   },
   "Fear Street: 1994": {
     "year": 2021,
-    "aliases": [],
+    "aliases": [
+      "恐惧街",
+      "恐懼大街1：1994",
+      "恐懼大街 1：1994"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/pxHo4FWIhwv2rETUPo0gvSceYJB.jpg",
     "tmdbId": "591273",
     "posterLanguage": "en"
@@ -1918,7 +2017,8 @@ window.WLW_MOVIE_METADATA = {
   "Go Fish": {
     "year": 1994,
     "aliases": [
-      "钓鱼去"
+      "钓鱼去",
+      "釣魚去"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wWSqWcTQpedYn0ZMJ06PqSmJUxb.jpg",
     "tmdbId": "18620",
@@ -1927,7 +2027,8 @@ window.WLW_MOVIE_METADATA = {
   "The Gymnast": {
     "year": 2006,
     "aliases": [
-      "飞翔的爱"
+      "飞翔的爱",
+      "飛翔的愛"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uJdFvnz9fVIqqrbUNh5JsskgbzT.jpg",
     "tmdbId": "31421",
@@ -1937,7 +2038,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2020,
     "aliases": [
       "校园情圣",
-      "青春未知數"
+      "青春未知數",
+      "真心半解"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
     "tmdbId": "597219",
@@ -1947,7 +2049,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2020,
     "aliases": [
       "最幸福的季节",
-      "求婚好意外"
+      "求婚好意外",
+      "攣愛季節"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/vzec9kkOSE93tygyfOktedkeOQ.jpg",
     "tmdbId": "520172",
@@ -1987,7 +2090,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 1998,
     "aliases": [
       "高潮艺术",
-      "高檔貨"
+      "高檔貨",
+      "高潮藝術"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lMXSGQIKTaM4bDkshmEHXHtfa7l.jpg",
     "tmdbId": "37636",
@@ -1997,7 +2101,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2020,
     "aliases": [
       "我很在乎",
-      "詐欺女王"
+      "詐欺女王",
+      "完美監護人"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg",
     "tmdbId": "601666",
@@ -2006,7 +2111,8 @@ window.WLW_MOVIE_METADATA = {
   "If These Walls Could Talk": {
     "year": 1996,
     "aliases": [
-      "为你钟情"
+      "为你钟情",
+      "為你鐘情"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5foda9jN8pAM9zvKP5iFdITepWj.jpg",
     "tmdbId": "35203",
@@ -2015,7 +2121,8 @@ window.WLW_MOVIE_METADATA = {
   "If These Walls Could Talk 2": {
     "year": 2000,
     "aliases": [
-      "为你钟情2"
+      "为你钟情2",
+      "為你鐘情 2"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/1bwmJfLJVoxmj96qKVuE9oSmEUS.jpg",
     "tmdbId": "28031",
@@ -2024,7 +2131,8 @@ window.WLW_MOVIE_METADATA = {
   "The Incredibly True Adventure of Two Girls in Love": {
     "year": 1995,
     "aliases": [
-      "双姝奇恋"
+      "双姝奇恋",
+      "雙姝奇戀"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/dPbYJaH1j7sgj1NuA4VRyb7O4Mt.jpg",
     "tmdbId": "29371",
@@ -2044,7 +2152,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2009,
     "aliases": [
       "詹妮弗的肉体",
-      "辣的要命"
+      "辣的要命",
+      "陰點鬼情人"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/nU0PlszZkTXjfp4DiJgT4plHNLn.jpg",
     "tmdbId": "19994",
@@ -2053,7 +2162,8 @@ window.WLW_MOVIE_METADATA = {
   "The Killing of Sister George": {
     "year": 1968,
     "aliases": [
-      "修女乔治的双重生活"
+      "修女乔治的双重生活",
+      "修女喬治的雙重生活"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/u9Cyc6mde7pthv7M2xvk3wmfAHP.jpg",
     "tmdbId": "54575",
@@ -2089,7 +2199,8 @@ window.WLW_MOVIE_METADATA = {
   "Lianna": {
     "year": 1983,
     "aliases": [
-      "丽阿娜"
+      "丽阿娜",
+      "麗阿娜"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/dcuMnWatb4AscTRfolGr1v1xH9n.jpg",
     "tmdbId": "78177",
@@ -2107,7 +2218,8 @@ window.WLW_MOVIE_METADATA = {
   "Losing Chase": {
     "year": 1996,
     "aliases": [
-      "迷失的钱斯夫人"
+      "迷失的钱斯夫人",
+      "迷失的錢斯夫人"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/t3RNxs4vHXTiO29Kr1YInrxOGhz.jpg",
     "tmdbId": "109614",
@@ -2125,7 +2237,8 @@ window.WLW_MOVIE_METADATA = {
   "Loving Annabelle": {
     "year": 2006,
     "aliases": [
-      "恋恋师情"
+      "恋恋师情",
+      "戀戀師情"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/a6p1Oexil6Z2XO5d1QVHR3F2OoM.jpg",
     "tmdbId": "19344",
@@ -2152,7 +2265,10 @@ window.WLW_MOVIE_METADATA = {
   },
   "Mercy's Girl": {
     "year": 2018,
-    "aliases": [],
+    "aliases": [
+      "梅西女孩",
+      "美斯女孩"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/dFLjJYqsZBkk1CkXfFTuqAp0j51.jpg",
     "tmdbId": "581790",
     "posterLanguage": "en"
@@ -2161,7 +2277,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2001,
     "aliases": [
       "穆赫兰道",
-      "穆荷蘭大道"
+      "穆荷蘭大道",
+      "失憶大道"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
     "tmdbId": "1018",
@@ -2176,7 +2293,9 @@ window.WLW_MOVIE_METADATA = {
   },
   "My Normal": {
     "year": 2010,
-    "aliases": [],
+    "aliases": [
+      "我很正常"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/9InMcynEA2Cne1qPreRITiAEr6C.jpg",
     "tmdbId": "62543",
     "posterLanguage": "en"
@@ -2193,7 +2312,8 @@ window.WLW_MOVIE_METADATA = {
   "Novitiate": {
     "year": 2017,
     "aliases": [
-      "见习修女"
+      "见习修女",
+      "見習修女"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ntsyazWKclgwObVftWVVAEBcvRq.jpg",
     "tmdbId": "411976",
@@ -2202,7 +2322,8 @@ window.WLW_MOVIE_METADATA = {
   "Out at the Wedding": {
     "year": 2007,
     "aliases": [
-      "婚礼进行时"
+      "婚礼进行时",
+      "婚禮進行時"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9wuOLR0yTdjiIVca9UWX2WErobo.jpg",
     "tmdbId": "85330",
@@ -2211,7 +2332,8 @@ window.WLW_MOVIE_METADATA = {
   "Pariah": {
     "year": 2011,
     "aliases": [
-      "贱民"
+      "贱民",
+      "賤民"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lX9Ss9LH3bsAoGWDvsPv4zZG9fa.jpg",
     "tmdbId": "73939",
@@ -2220,7 +2342,8 @@ window.WLW_MOVIE_METADATA = {
   "Personal Best": {
     "year": 1982,
     "aliases": [
-      "个人最佳"
+      "个人最佳",
+      "個人最佳"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg",
     "tmdbId": "27609",
@@ -2229,7 +2352,8 @@ window.WLW_MOVIE_METADATA = {
   "Princess Cyd": {
     "year": 2017,
     "aliases": [
-      "公主成人礼"
+      "公主成人礼",
+      "公主成人禮"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7ZhF8acObc0R5tIETl7doRO1Bac.jpg",
     "tmdbId": "454889",
@@ -2237,7 +2361,10 @@ window.WLW_MOVIE_METADATA = {
   },
   "Puccini for Beginners": {
     "year": 2006,
-    "aliases": [],
+    "aliases": [
+      "初学者普契尼",
+      "初學者普契尼"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/b5yBAYkXa6jSfBr0iayon8CkXC9.jpg",
     "tmdbId": "20405",
     "posterLanguage": "en"
@@ -2245,7 +2372,8 @@ window.WLW_MOVIE_METADATA = {
   "Sally": {
     "year": 2025,
     "aliases": [
-      "萨莉"
+      "萨莉",
+      "薩莉"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/g2d0ILwRhieN76HQNsACOpzQVDz.jpg",
     "tmdbId": "1242382",
@@ -2254,7 +2382,8 @@ window.WLW_MOVIE_METADATA = {
   "Season of Love": {
     "year": 2019,
     "aliases": [
-      "圣诞恋爱季"
+      "圣诞恋爱季",
+      "聖誕戀愛季"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/usx2sUMfr8XXI8QoQuzaxZzasvo.jpg",
     "tmdbId": "606243",
@@ -2263,7 +2392,8 @@ window.WLW_MOVIE_METADATA = {
   "See You Soon": {
     "year": 2025,
     "aliases": [
-      "细水长流"
+      "细水长流",
+      "細水長流"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6GBxXPVpZXLka2CBEBE9I77iEPc.jpg",
     "tmdbId": "1440931",
@@ -2290,7 +2420,8 @@ window.WLW_MOVIE_METADATA = {
   "Snapshots": {
     "year": 2018,
     "aliases": [
-      "独家记忆"
+      "独家记忆",
+      "獨家記憶"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/vLyx4n6Rcim8E57VRjU6B6Kspzw.jpg",
     "tmdbId": "507697",
@@ -2333,7 +2464,9 @@ window.WLW_MOVIE_METADATA = {
   },
   "Witchy Ways": {
     "year": 2024,
-    "aliases": [],
+    "aliases": [
+      "巫道"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
     "tmdbId": "1053987",
     "posterLanguage": "en"
@@ -2350,7 +2483,8 @@ window.WLW_MOVIE_METADATA = {
   "The Watermelon Woman": {
     "year": 1996,
     "aliases": [
-      "寻找西瓜女"
+      "寻找西瓜女",
+      "尋找西瓜女"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/mBBqKfkvzSk6Rk7bfRXU9kR916N.jpg",
     "tmdbId": "44479",
@@ -2377,7 +2511,8 @@ window.WLW_MOVIE_METADATA = {
   "Wild Nights with Emily": {
     "year": 2018,
     "aliases": [
-      "与艾米丽的疯狂夜晚"
+      "与艾米丽的疯狂夜晚",
+      "與艾米麗的瘋狂夜晚"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/acqCMjCP8nSPrUuWvE648kREXye.jpg",
     "tmdbId": "502147",
@@ -2386,7 +2521,8 @@ window.WLW_MOVIE_METADATA = {
   "Wild Side": {
     "year": 1995,
     "aliases": [
-      "狂野边缘"
+      "狂野边缘",
+      "狂野邊緣"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/pFRrKn9wqPECjN1QOrDdS3BVdL5.jpg",
     "tmdbId": "26674",
@@ -2394,7 +2530,10 @@ window.WLW_MOVIE_METADATA = {
   },
   "Chely Wright: Wish Me Away": {
     "year": 2012,
-    "aliases": [],
+    "aliases": [
+      "愿我离开",
+      "願我離開"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/ur3rR54oya50W5M4jaGK8FytFR0.jpg",
     "tmdbId": "100825",
     "posterLanguage": "en"
@@ -2418,91 +2557,138 @@ window.WLW_MOVIE_METADATA = {
   },
   "Practical Magic": {
     "year": 1998,
-    "aliases": [],
+    "aliases": [
+      "巫法闯情关",
+      "超異能快感",
+      "巫法闖情關"
+    ],
     "tmdbId": "6435",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg"
   },
   "Pitch Perfect": {
     "year": 2012,
-    "aliases": [],
+    "aliases": [
+      "完美音调",
+      "歌喉讚",
+      "辣妹合唱團"
+    ],
     "tmdbId": "114150",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg"
   },
   "Pitch Perfect 2": {
     "year": 2015,
-    "aliases": [],
+    "aliases": [
+      "完美音调2",
+      "歌喉讚2",
+      "完美巨聲幫"
+    ],
     "tmdbId": "254470",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg"
   },
   "Pitch Perfect 3": {
     "year": 2017,
-    "aliases": [],
+    "aliases": [
+      "歌喉讚3",
+      "完美音调3",
+      "完美巨聲幫 3",
+      "完美音调 3"
+    ],
     "tmdbId": "353616",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/v4tbRRX0OSOHcgz2869rEjcBwOJ.jpg"
   },
   "Mean Girls": {
     "year": 2024,
-    "aliases": [],
+    "aliases": [
+      "刁蛮女孩",
+      "辣妹過招"
+    ],
     "tmdbId": "673593",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/s5Z9zDA7CfG5RxQFVIXGPuOy70i.jpg"
   },
   "Wicked": {
     "year": 2024,
-    "aliases": [],
+    "aliases": [
+      "魔法坏女巫",
+      "魔法壞女巫"
+    ],
     "tmdbId": "402431",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/j5AVKdTm8mG7tjoxIPU5V7riaDy.jpg"
   },
   "Wicked: For Good": {
     "year": 2025,
-    "aliases": [],
+    "aliases": [
+      "魔法坏女巫2",
+      "魔法壞女巫 : 第二章",
+      "魔法壞女巫：第二部"
+    ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
     "tmdbId": "967941"
   },
   "Notes on a Scandal": {
     "year": 2006,
-    "aliases": [],
+    "aliases": [
+      "丑闻笔记",
+      "醜聞筆記",
+      "醜聞日記"
+    ],
     "tmdbId": "1259",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/ymFybaA0r7MpwWnmUCFHYAT6Djb.jpg"
   },
   "What Keeps You Alive": {
     "year": 2018,
-    "aliases": [],
+    "aliases": [
+      "週年忌",
+      "蜜谋逃杀"
+    ],
     "tmdbId": "503752",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg"
   },
   "Tully": {
     "year": 2018,
-    "aliases": [],
+    "aliases": [
+      "厭世媽咪日記",
+      "塔利",
+      "論盡爆煲媽咪"
+    ],
     "tmdbId": "400579",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/wDI4YXBXolMYi15Qx2kClvdSERM.jpg"
   },
   "Thoroughbreds": {
     "year": 2017,
-    "aliases": [],
+    "aliases": [
+      "良种动物",
+      "純種動物"
+    ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
     "tmdbId": "397722"
   },
   "The Novice": {
     "year": 2021,
-    "aliases": [],
+    "aliases": [
+      "新手",
+      "進擊的地才"
+    ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/dCujw00nVfBrIJc1osoR6HC92SV.jpg",
     "tmdbId": "821427"
   },
   "That's Not Us": {
     "year": 2015,
-    "aliases": [],
+    "aliases": [
+      "那不是我们",
+      "那不是我們"
+    ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/ztuQ3s8Pzt372xhD36WNjvMNuYW.jpg",
     "tmdbId": "343809"
@@ -2510,7 +2696,10 @@ window.WLW_MOVIE_METADATA = {
   "Only the Animals": {
     "year": 2019,
     "aliases": [
-      "Seules les bêtes"
+      "Seules les bêtes",
+      "只有野兽",
+      "謎夜拼圖",
+      "情獸迷宮"
     ],
     "posterLanguage": "fr",
     "poster": "https://image.tmdb.org/t/p/w500/eAww6EceJw88Mv00Zq2k7inEDtF.jpg",
@@ -2518,42 +2707,59 @@ window.WLW_MOVIE_METADATA = {
   },
   "Lizzie": {
     "year": 2018,
-    "aliases": [],
+    "aliases": [
+      "裸愛殺機",
+      "丽兹"
+    ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/z2iuBcwznen3kC9z4LeOzBSz1BB.jpg",
     "tmdbId": "460071"
   },
   "Hearts Beat Loud": {
     "year": 2018,
-    "aliases": [],
+    "aliases": [
+      "心跳砰砰响",
+      "躍動的心跳"
+    ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg",
     "tmdbId": "470333"
   },
   "Be with Me": {
     "year": 2005,
-    "aliases": [],
+    "aliases": [
+      "和我在一起"
+    ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/sP2Dmq7pANMhPxl8fbl04fxQHYH.jpg",
     "tmdbId": "29965"
   },
   "Babylon": {
     "year": 2022,
-    "aliases": [],
+    "aliases": [
+      "巴比倫",
+      "巴比伦",
+      "巴比倫：星聲追夢荷里活"
+    ],
     "tmdbId": "615777",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
   },
   "Aniara": {
     "year": 2018,
-    "aliases": [],
+    "aliases": [
+      "安尼亚拉号"
+    ],
     "tmdbId": "496743",
     "posterLanguage": "sv",
     "poster": "https://image.tmdb.org/t/p/w500/vgmrUSmhGwWQHEYtl6gikUGDt85.jpg"
   },
   "Black Swan": {
     "year": 2010,
-    "aliases": [],
+    "aliases": [
+      "黑天鹅",
+      "黑天鵝"
+    ],
     "tmdbId": "44214",
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg"
@@ -2561,7 +2767,10 @@ window.WLW_MOVIE_METADATA = {
   "Little Trouble Girls": {
     "year": 2025,
     "aliases": [
-      "Kaj ti je deklica"
+      "Kaj ti je deklica",
+      "花漾少女心",
+      "女孩，你怎么了？",
+      "少女的歧想"
     ],
     "posterLanguage": "sl",
     "poster": "https://image.tmdb.org/t/p/w500/b4S00GQaYQm3ThieNImvTMTHnip.jpg",

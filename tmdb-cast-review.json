@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T07:15:08.578Z",
+  "generatedAt": "2026-10-01T06:45:12.860Z",
   "titles": {
     "100 Nights of Hero": {
       "tmdbId": 1354518,
@@ -6210,7 +6210,7 @@
           "name": "Mónica Moreira",
           "character": "Infermera",
           "order": 15,
-          "profilePath": ""
+          "profilePath": "/l9lb6vuJesMjqEaYHWno3Q7kCti.jpg"
         },
         {
           "id": 1386967,
@@ -9007,19 +9007,6 @@
         }
       ]
     },
-    "Kommt Mausi raus?": {
-      "tmdbId": 292602,
-      "mediaType": "movie",
-      "candidates": [
-        {
-          "id": 1363753,
-          "name": "Walter Spiske",
-          "character": "",
-          "order": 12,
-          "profilePath": ""
-        }
-      ]
-    },
     "La Cigale et la Fourmi": {
       "tmdbId": 480256,
       "mediaType": "movie",
@@ -10960,13 +10947,6 @@
           "name": "John Xu",
           "character": "Wang Jun",
           "order": 2,
-          "profilePath": ""
-        },
-        {
-          "id": 2745193,
-          "name": "Pei Yao Xu",
-          "character": "Joy",
-          "order": 3,
           "profilePath": ""
         },
         {
@@ -20126,13 +20106,6 @@
           "name": "Bailie de Lacy",
           "character": "Tea Lady",
           "order": 67,
-          "profilePath": ""
-        },
-        {
-          "id": 2434541,
-          "name": "Austin Kase",
-          "character": "Wedding Guest",
-          "order": 69,
           "profilePath": ""
         }
       ]
