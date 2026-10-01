@@ -72,32 +72,61 @@ if (/^[A-Z]$/.test(legacyLetter)) {
   const searchInput = document.querySelector("#film-search");
   const searchResults = document.querySelector("#search-results");
 
-  // Desktop mouse hover indicator:
-  // small arrow only, following the mouse.
-  const heroArrow = document.createElement("div");
+  /*
+  Desktop Hero cursor.
 
-  heroArrow.setAttribute("aria-hidden", "true");
+  The normal pointer disappears while the mouse
+  is inside the left/right navigation zones.
 
-  heroArrow.style.position = "absolute";
-  heroArrow.style.zIndex = "20";
+  The arrow therefore visually becomes the cursor
+  itself instead of appearing next to it.
+*/
+const heroArrow =
+  document.createElement(
+    "div"
+  );
 
-  heroArrow.style.color = "#f7f3ee";
+heroArrow.setAttribute(
+  "aria-hidden",
+  "true"
+);
 
-  heroArrow.style.fontSize = "1.25rem";
-  heroArrow.style.fontWeight = "500";
-  heroArrow.style.lineHeight = "1";
+heroArrow.style.position =
+  "absolute";
 
-  heroArrow.style.pointerEvents = "none";
+heroArrow.style.zIndex =
+  "20";
 
-  heroArrow.style.opacity = "0";
+heroArrow.style.color =
+  "#f7f3ee";
 
-  heroArrow.style.transition =
-    "opacity 120ms ease";
+heroArrow.style.fontSize =
+  "1.55rem";
 
-  heroArrow.style.transform =
-    "translate(-50%, -50%)";
+heroArrow.style.fontWeight =
+  "400";
 
-  hero.appendChild(heroArrow);
+heroArrow.style.fontFamily =
+  "Arial, sans-serif";
+
+heroArrow.style.lineHeight =
+  "1";
+
+heroArrow.style.pointerEvents =
+  "none";
+
+heroArrow.style.opacity =
+  "0";
+
+heroArrow.style.transform =
+  "translate(-50%, -50%)";
+
+heroArrow.style.transition =
+  "opacity 80ms ease";
+
+hero.appendChild(
+  heroArrow
+);
 
   function showSearchResults(rawQuery) {
     const query = normalizeSearchText(rawQuery);
