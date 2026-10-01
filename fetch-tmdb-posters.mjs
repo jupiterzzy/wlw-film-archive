@@ -197,6 +197,66 @@ async function getMovieDetails(tmdbId) {
   });
 }
 
+async function getChineseAliases(
+  tmdbId,
+  movieTitle,
+  existingAliases = []
+) {
+  const aliases = Array.isArray(existingAliases)
+    ? [...existingAliases]
+    : [];
+
+  const seen = new Set(
+    [movieTitle, ...aliases]
+      .map(normalize)
+      .filter(Boolean)
+  );
+
+  try {
+    const data = await tmdb(
+      `/movie/${tmdbId}/translations`
+    );
+
+    const chineseTitles = (
+      data.translations || []
+    )
+      .filter(
+        translation =>
+          translation.iso_639_1 === "zh"
+      )
+      .map(
+        translation =>
+          translation.data?.title || ""
+      )
+      .filter(Boolean);
+
+    for (const title of chineseTitles) {
+      const normalizedTitle =
+        normalize(title);
+
+      if (
+        !normalizedTitle ||
+        seen.has(normalizedTitle)
+      ) {
+        continue;
+      }
+
+      aliases.push(title);
+      seen.add(normalizedTitle);
+    }
+  } catch (error) {
+    console.warn(
+      `Chinese title lookup failed for ${movieTitle}: ${
+        error instanceof Error
+          ? error.message
+          : String(error)
+      }`
+    );
+  }
+
+  return aliases;
+}
+
 async function getMovieImages(tmdbId, preferredLanguage) {
   const languages = [
     preferredLanguage,
@@ -320,12 +380,18 @@ for (const [index, movie] of movies.entries()) {
       details.poster_path ||
       "";
 
+    const aliases =
+  await getChineseAliases(
+    tmdbId,
+    movie.title,
+    entry.aliases
+  );
+
+
     metadata[movie.title] = {
       ...entry,
       year: movie.year,
-      aliases: Array.isArray(entry.aliases)
-        ? entry.aliases
-        : [],
+      aliases,
       ...(posterPath
         ? { poster: `${IMAGE_BASE}${posterPath}` }
         : {}),
