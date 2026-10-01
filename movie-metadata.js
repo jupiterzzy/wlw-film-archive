@@ -5,27 +5,41 @@ window.WLW_MOVIE_METADATA = {
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/mB0H5nP9f8ALnCVTwSfar517LV4.jpg",
     "tmdbId": "1104622",
-    "posterLanguage": "ko"
+    "posterLanguage": "ko",
+    "genres": [
+      "drama"
+    ]
   },
   "Accused": {
     "year": 2026,
     "aliases": [
       "指控之后",
-      "指控之後"
+      "指控之後",
+      "अक्यूज़्ड"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3FAQTMv64JINU5Pk6mePXQbze4M.jpg",
     "tmdbId": "1389149",
-    "posterLanguage": "hi"
+    "posterLanguage": "hi",
+    "genres": [
+      "thriller",
+      "mystery",
+      "drama"
+    ]
   },
   "Afternoon Breezes": {
     "year": 1980,
     "aliases": [
       "午后微风",
-      "午後微風"
+      "午後微風",
+      "風たちの午後"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/q4qSwZTXF0QuFHo1QxuJJHJhCA6.jpg",
     "tmdbId": "338371",
-    "posterLanguage": "ja"
+    "posterLanguage": "ja",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Ajeeb Daastaans": {
     "year": 2021,
@@ -35,18 +49,27 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5KHjF8H2bqvQdmvkmeAlFjKXkmB.jpg",
     "tmdbId": "802403",
-    "posterLanguage": "hi"
+    "posterLanguage": "hi",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Badhaai Do": {
     "year": 2022,
     "aliases": [
       "永结同心",
       "假結婚真幸福",
-      "虛龍假鳳"
+      "虛龍假鳳",
+      "बधाई दो"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/2IOCys56t4iOMj9ZoVZ7zmi2RHL.jpg",
     "tmdbId": "754716",
-    "posterLanguage": "hi"
+    "posterLanguage": "hi",
+    "genres": [
+      "comedy",
+      "drama"
+    ]
   },
   "Blind Love": {
     "year": 2025,
@@ -55,7 +78,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6f6cc6TuAQtpKwY26b8YE8o4rsh.jpg",
     "tmdbId": "1127656",
-    "posterLanguage": "zh"
+    "posterLanguage": "zh",
+    "genres": [
+      "romance",
+      "family",
+      "drama"
+    ]
   },
   "Girlfriends": {
     "year": 2025,
@@ -64,7 +92,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/bSokTwX3YVpbaeIGRbKWD9xf4dO.jpg",
     "tmdbId": "1388338",
-    "posterLanguage": "cn"
+    "posterLanguage": "cn",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "I Fell, It's Fine": {
     "year": 2026,
@@ -73,7 +105,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5SWEjDI5lVZrKOWmtce12EZsd8j.jpg",
     "tmdbId": "1391450",
-    "posterLanguage": "tl"
+    "posterLanguage": "tl",
+    "genres": [
+      "romance"
+    ]
   },
   "Open Endings": {
     "year": 2025,
@@ -83,7 +118,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/f93IqNFUMI83669uHiJDNd5vLlP.jpg",
     "tmdbId": "1422089",
-    "posterLanguage": "tl"
+    "posterLanguage": "tl",
+    "genres": [
+      "drama",
+      "comedy"
+    ]
   },
   "Sisterhood": {
     "year": 2016,
@@ -96,16 +135,25 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/cABxMvX0BuHLFVWfXGzr4wpNAfT.jpg",
     "tmdbId": "444973",
-    "posterLanguage": "zh"
+    "posterLanguage": "zh",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Take Me Home": {
     "year": 2020,
     "aliases": [
-      "常春藤"
+      "常春藤",
+      "담쟁이"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/qSvpuXySS85utsCaIUYngh3PYD5.jpg",
     "tmdbId": "705990",
-    "posterLanguage": "ko"
+    "posterLanguage": "ko",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "The World Unseen": {
     "year": 2007,
@@ -115,7 +163,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/hBUptHdZZkR7bsuV8hLF9auCol.jpg",
     "tmdbId": "31031",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Ellie & Abbie (& Ellie's Dead Aunt)": {
     "year": 2020,
@@ -125,7 +177,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/rmNQCI7wZkQb1nY9ILvXM3n383X.jpg",
     "tmdbId": "662541",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "romance"
+    ]
   },
   "My First Summer": {
     "year": 2020,
@@ -136,7 +192,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7GBMVO09clB7HUgfqbjZmOVAPOi.jpg",
     "tmdbId": "741011",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Skin Deep": {
     "year": 2015,
@@ -146,23 +206,33 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jWVNsWzyBMdl6W8bmaXzAPLGdH1.jpg",
     "tmdbId": "320642",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Maybe Tomorrow": {
     "year": 2016,
     "aliases": [
-      "如果还有明天"
+      "如果还有明天",
+      "La vie nous appartient"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/o2vcuZo9yoBIzH1vpxrMlu6LCKT.jpg",
     "tmdbId": "398694",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Para:dies": {
     "year": 2022,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/oCtROUZc3wHtQb8xKHebRVNZdse.jpg",
     "tmdbId": "917172",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "What a Feeling": {
     "year": 2024,
@@ -171,7 +241,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7eCwW8438cBtiPCYoD8ujERa2Mo.jpg",
     "tmdbId": "1240422",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "comedy",
+      "romance"
+    ]
   },
   "Sœur Sourire": {
     "year": 2009,
@@ -181,27 +255,39 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5J5AWp1L9BlXbQ3wuBPeH28G272.jpg",
     "tmdbId": "17486",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama"
+    ]
   },
   "The First Death of Joana": {
     "year": 2021,
     "aliases": [
       "乔安娜的第一次死亡",
-      "喬安娜的第一次死亡"
+      "喬安娜的第一次死亡",
+      "A Primeira Morte de Joana"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/390BBRWvgReAExtVW2K8ZcTpBT3.jpg",
     "tmdbId": "786375",
-    "posterLanguage": "pt"
+    "posterLanguage": "pt",
+    "genres": [
+      "drama"
+    ]
   },
   "Reaching for the Moon": {
     "year": 2013,
     "aliases": [
       "月光诗篇",
-      "月光詩篇"
+      "月光詩篇",
+      "Flores Raras"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/j5LU6RVdB0XG14mrqlYMGRUseOW.jpg",
     "tmdbId": "167683",
-    "posterLanguage": "pt"
+    "posterLanguage": "pt",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Better Than Chocolate": {
     "year": 1999,
@@ -211,7 +297,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7FC2UK7MyEwlmbJGCIIFg4U7VPU.jpg",
     "tmdbId": "18212",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance",
+      "comedy"
+    ]
   },
   "The Carmilla Movie": {
     "year": 2017,
@@ -220,7 +311,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jL8FaFdMLoxCaXhZfPY4tFbXwe7.jpg",
     "tmdbId": "421131",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "comedy",
+      "romance"
+    ]
   },
   "Chloe": {
     "year": 2009,
@@ -231,16 +327,26 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/b1SQETW5XglZb8eGnmb648lVANw.jpg",
     "tmdbId": "28211",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "thriller",
+      "mystery"
+    ]
   },
   "Days of Happiness": {
     "year": 2023,
     "aliases": [
-      "快乐的日子"
+      "快乐的日子",
+      "Les jours heureux"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/mmQg4SWVDs1qMtJGJvuVVK7jiiw.jpg",
     "tmdbId": "848987",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "music",
+      "drama"
+    ]
   },
   "Forbidden Love: The Unashamed Stories of Lesbian Lives": {
     "year": 1992,
@@ -250,7 +356,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/aoTA6sJT3NwOmaZVfMB8PKeeQiK.jpg",
     "tmdbId": "194926",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary",
+      "history"
+    ]
   },
   "Friends & Family Christmas": {
     "year": 2023,
@@ -260,7 +370,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/naLwVZJKN1G4OQatuoMNcHwQDRw.jpg",
     "tmdbId": "1180706",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "family",
+      "romance"
+    ]
   },
   "Fun": {
     "year": 1994,
@@ -269,7 +383,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/aUjxc8vFItbrBLPgYh0NPNOfCfv.jpg",
     "tmdbId": "33135",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "thriller",
+      "romance"
+    ]
   },
   "I've Heard the Mermaids Singing": {
     "year": 1987,
@@ -279,7 +398,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ms97uqYfxGVyT3X2J9KT08h1LFi.jpg",
     "tmdbId": "117233",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "drama"
+    ]
   },
   "Lost and Delirious": {
     "year": 2001,
@@ -289,14 +412,23 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3HVCElP9BJLAX3ocC5GYBvSj6cs.jpg",
     "tmdbId": "17612",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Maya & Samar": {
     "year": 2025,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/6UdKNWOlZFTiGxOyaOoNZcqMj7t.jpg",
     "tmdbId": "1513996",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance",
+      "thriller"
+    ]
   },
   "My Animal": {
     "year": 2023,
@@ -306,7 +438,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/qp0fLOf30L2pUA5gxEp0ZoUHPg2.jpg",
     "tmdbId": "1058689",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "romance",
+      "fantasy"
+    ]
   },
   "Ordinary Girl in a Tiara": {
     "year": 2025,
@@ -315,7 +452,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/a451h9T8FGFesCy6CXHKkzGL64e.jpg",
     "tmdbId": "1503322",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance"
+    ]
   },
   "Polarized": {
     "year": 2023,
@@ -325,7 +465,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ePgEcNKGxfVV71FCzPDCClxq5kP.jpg",
     "tmdbId": "987427",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Saving Face": {
     "year": 2004,
@@ -334,14 +478,22 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/iGfzgoqSbx2Z8NK5RSNtDXP1seW.jpg",
     "tmdbId": "19316",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "romance",
+      "drama"
+    ]
   },
   "Sweet Angel Baby": {
     "year": 2024,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/uPgmu9ie07xbWBTmn7x2YJrDk2z.jpg",
     "tmdbId": "1326055",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "You Can Live Forever": {
     "year": 2022,
@@ -351,43 +503,68 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6JllNMDqHasBeqM5vFVxp1rB9Fk.jpg",
     "tmdbId": "887580",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Attachment": {
     "year": 2022,
     "aliases": [
-      "附身"
+      "附身",
+      "Natten har øjne"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6lDvPZqDxS7erzFbnUwUb0uvu6Y.jpg",
     "tmdbId": "938600",
-    "posterLanguage": "da"
+    "posterLanguage": "da",
+    "genres": [
+      "horror",
+      "romance"
+    ]
   },
   "Carmen & Lola": {
     "year": 2018,
     "aliases": [
       "卡门和罗拉",
-      "卡門與蘿拉"
+      "卡門與蘿拉",
+      "Carmen y Lola"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lVZjTmho5OsJjQwNJ7D5QDak3Lc.jpg",
     "tmdbId": "519091",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Drea & Cloe": {
     "year": 2025,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/i0CekRC1hE1qLTLhdVJlmI7nKpc.jpg",
     "tmdbId": "1552407",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "thriller",
+      "drama",
+      "romance",
+      "comedy"
+    ]
   },
   "Elisa & Marcela": {
     "year": 2019,
     "aliases": [
       "埃莉莎与玛塞拉",
-      "艾莉莎與瑪榭拉"
+      "艾莉莎與瑪榭拉",
+      "Elisa y Marcela"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/nErhV8hYuU32owRkrgilFZRGkBj.jpg",
     "tmdbId": "535356",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Eloïse": {
     "year": 2009,
@@ -396,18 +573,27 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wB3iEvmYW0v1jCEsM41kwFrcgJi.jpg",
     "tmdbId": "44620",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Official Competition": {
     "year": 2021,
     "aliases": [
       "主竞赛",
       "瘋狂競賽片",
-      "玩謝天王巨星"
+      "玩謝天王巨星",
+      "Competencia oficial"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jVRPUtO6i13YuFf6uk4RWYHzvBh.jpg",
     "tmdbId": "668640",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "comedy",
+      "drama"
+    ]
   },
   "The Girl King": {
     "year": 2015,
@@ -417,26 +603,41 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/cVENYeYgp4r8VI4mQCHd2uHMPHI.jpg",
     "tmdbId": "329829",
-    "posterLanguage": "fi"
+    "posterLanguage": "fi",
+    "genres": [
+      "drama",
+      "history",
+      "romance"
+    ]
   },
   "Girl Picture": {
     "year": 2022,
     "aliases": [
       "女孩画像",
-      "當女孩戀愛時"
+      "當女孩戀愛時",
+      "Tytöt tytöt tytöt"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/sYY6zsuAkEaYdUmaffEWiIKtxRJ.jpg",
     "tmdbId": "683363",
-    "posterLanguage": "fi"
+    "posterLanguage": "fi",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Light Light Light": {
     "year": 2023,
     "aliases": [
-      "光，光，光"
+      "光，光，光",
+      "Valoa valoa valoa"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/2qNNhlJUB4WZDVwuePXeWKVotcZ.jpg",
     "tmdbId": "727414",
-    "posterLanguage": "fi"
+    "posterLanguage": "fi",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Tove": {
     "year": 2020,
@@ -446,33 +647,49 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/unkeMMGWfJUR739zcGMWl5Spgsl.jpg",
     "tmdbId": "608232",
-    "posterLanguage": "fi"
+    "posterLanguage": "fi",
+    "genres": [
+      "drama"
+    ]
   },
   "Amantes": {
     "year": 2025,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/qHzQcDAJ3kxmbD9C6WRVo8pisEQ.jpg",
     "tmdbId": "1535419",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "comedy"
+    ]
   },
   "Anaïs in Love": {
     "year": 2021,
     "aliases": [
       "阿娜伊斯的爱恋",
-      "安妮詩快跑"
+      "安妮詩快跑",
+      "Les Amours d’Anaïs"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/h56qm4Vdyi1lCvsf5QLPF2rcBIS.jpg",
     "tmdbId": "781453",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance",
+      "comedy"
+    ]
   },
   "The Beguines": {
     "year": 1972,
     "aliases": [
-      "欲孽明珠"
+      "欲孽明珠",
+      "Le Rempart des Béguines"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ppKLGOs4usWfakdZxi3UZfhX3QQ.jpg",
     "tmdbId": "442285",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama"
+    ]
   },
   "Benedetta": {
     "year": 2021,
@@ -482,7 +699,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg",
     "tmdbId": "454527",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "history",
+      "drama",
+      "romance"
+    ]
   },
   "Bilitis": {
     "year": 1977,
@@ -492,7 +714,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/dBvQyx0VgFjGVA5cJ1pJUlyVW8l.jpg",
     "tmdbId": "50435",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Bye Bye Blondie": {
     "year": 2012,
@@ -501,7 +727,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/v9PgVAwSSj7oWmurxnzXzkFy63K.jpg",
     "tmdbId": "134781",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ]
   },
   "Circumstance": {
     "year": 2011,
@@ -510,7 +741,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ome5GL908hFS6rUdk0HxwjtjeaU.jpg",
     "tmdbId": "60421",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama"
+    ]
   },
   "The Dancer": {
     "year": 2016,
@@ -522,7 +756,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/yhRH3XTIyhPwG3iqNriwa2zq2ga.jpg",
     "tmdbId": "392794",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "history"
+    ]
   },
   "Drone": {
     "year": 2024,
@@ -531,17 +769,28 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/flIYY0q6x5k6XpYSGtZz3hlOoBP.jpg",
     "tmdbId": "1001044",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance",
+      "thriller",
+      "science-fiction"
+    ]
   },
   "Farewell, My Queen": {
     "year": 2012,
     "aliases": [
       "再见，我的王后",
-      "情慾凡爾賽"
+      "情慾凡爾賽",
+      "Les Adieux à la reine"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/8Iqwsr1wSgYAyVeHBQuU2EFMBYN.jpg",
     "tmdbId": "99579",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "history"
+    ]
   },
   "Féminin plurielles": {
     "year": 2018,
@@ -551,28 +800,41 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/aULkKSk3xzswIzMAutKJSKSj3DR.jpg",
     "tmdbId": "578721",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "romance"
+    ]
   },
   "The Five Devils": {
     "year": 2022,
     "aliases": [
       "五恶魔",
-      "五個惡魔"
+      "五個惡魔",
+      "Les Cinq Diables"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/qkow3ApkIhFWcW9czIkvnrpdeEF.jpg",
     "tmdbId": "820697",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "fantasy",
+      "romance"
+    ]
   },
   "Foreign Language": {
     "year": 2024,
     "aliases": [
       "外语",
       "以妳的語言呼喚我",
-      "以你的語言呼喚我"
+      "以你的語言呼喚我",
+      "Langue étrangère"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/NJEWmWS0zQyPTohN6DqzTm0aY7.jpg",
     "tmdbId": "803690",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama"
+    ]
   },
   "Je Tu Il Elle": {
     "year": 1974,
@@ -581,34 +843,52 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/cyIlED3BQSYxV2mdGpcjcj26Tti.jpg",
     "tmdbId": "93934",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "La Cigale et la Fourmi": {
     "year": 2016,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/5FJ6NZLAkH23ZNnWyCW5fCpgvQU.jpg",
     "tmdbId": "480256",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "The Little Sister": {
     "year": 2025,
     "aliases": [
       "最小的女儿",
-      "同女之舞"
+      "同女之舞",
+      "La Petite Dernière"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/hiwHR2Ak9qrwfDjhLaB7pn8RuUO.jpg",
     "tmdbId": "961077",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Love Letters": {
     "year": 2025,
     "aliases": [
       "爱的证明",
-      "愛的證明"
+      "愛的證明",
+      "Des preuves d'amour"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uh8JHOrusqGhR02jCvk2mutuWef.jpg",
     "tmdbId": "1119537",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "comedy"
+    ]
   },
   "Love Me Tender": {
     "year": 2025,
@@ -618,38 +898,55 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/4F3lAOngHzNZtXiJ4zSB0CqXOZ.jpg",
     "tmdbId": "1290450",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama"
+    ]
   },
   "Montreal, My Beautiful": {
     "year": 2025,
     "aliases": [
       "蒙特利尔，我的美人",
       "蒙特婁，我的愛",
-      "滿地可人兒"
+      "滿地可人兒",
+      "Montréal, ma belle"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/xgJqnAfbI7IlSre1zEdMFxrkRD5.jpg",
     "tmdbId": "1178620",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "My Sole Desire": {
     "year": 2022,
     "aliases": [
       "欲望飞扬",
-      "慾望俱樂部"
+      "慾望俱樂部",
+      "À mon seul désir"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/A2nHPSdPlXoKC7s3RBfCGpDiSh7.jpg",
     "tmdbId": "960292",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "The New Girlfriend": {
     "year": 2014,
     "aliases": [
       "新女友",
-      "女朋友的女朋友"
+      "女朋友的女朋友",
+      "Une nouvelle amie"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/fNWIHMKGdLG5iXVL3oUyUrZr2zb.jpg",
     "tmdbId": "283726",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama"
+    ]
   },
   "Olivia": {
     "year": 1951,
@@ -658,46 +955,73 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6kVDX2TRoRPFoduH64vLnX4Yr8Q.jpg",
     "tmdbId": "257862",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Portrait of a Lady on Fire": {
     "year": 2019,
     "aliases": [
       "燃烧女子的肖像",
       "燃燒女子的畫像",
-      "浴火 的少女畫像"
+      "浴火 的少女畫像",
+      "Portrait de la jeune fille en feu"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lH2hSK6F1FZmS3ao384kZCMsbCl.jpg",
     "tmdbId": "531428",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Queens of Drama": {
     "year": 2024,
     "aliases": [
       "戏剧女王",
-      "戲劇女王"
+      "戲劇女王",
+      "Les reines du drame"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/gZtBtBJPpGSeFVXF0S2Kt388rE1.jpg",
     "tmdbId": "1001376",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "music",
+      "romance",
+      "drama",
+      "comedy",
+      "fantasy"
+    ]
   },
   "Replay": {
     "year": 2001,
     "aliases": [
-      "未了情未了"
+      "未了情未了",
+      "La Répétition"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/qlGdYZ4lsILxF5wnwvfU3XlYXq7.jpg",
     "tmdbId": "47254",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Summertime": {
     "year": 2015,
     "aliases": [
-      "美好时节"
+      "美好时节",
+      "La Belle Saison"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ovMmODOytr5ZdrVxkzdvrLSk9ci.jpg",
     "tmdbId": "273153",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Tomboy": {
     "year": 2011,
@@ -707,16 +1031,25 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/r2YHKqzktvq34JUJnXkhYG8V1G0.jpg",
     "tmdbId": "65229",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama"
+    ]
   },
   "Two People Exchanging Saliva": {
     "year": 2025,
     "aliases": [
-      "两个人交换唾液"
+      "两个人交换唾液",
+      "Deux personnes échangeant de la salive"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/yYSYO7neAeB4t75pWtentV60ivz.jpg",
     "tmdbId": "1340625",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "fantasy",
+      "science-fiction"
+    ]
   },
   "Un couteau dans le cœur": {
     "year": 2018,
@@ -726,7 +1059,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/nIIzYljzRPqtDmHP4SUpM6K6YFc.jpg",
     "tmdbId": "475930",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "horror",
+      "romance",
+      "mystery"
+    ]
   },
   "Violette": {
     "year": 2013,
@@ -736,34 +1074,52 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/qdIjSYwF7GS35yY0EQ6bcjW7raP.jpg",
     "tmdbId": "209282",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama"
+    ]
   },
   "Water Lilies": {
     "year": 2007,
     "aliases": [
-      "水仙花开"
+      "水仙花开",
+      "Naissance des pieuvres"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/g5tjRY3Xhz60aQ1yO0Qcy7lok7u.jpg",
     "tmdbId": "10818",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Why Not Me?": {
     "year": 1999,
     "aliases": [
-      "为何起舞"
+      "为何起舞",
+      "Pourquoi pas moi ?"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/zwClLIYHBNCa1A2orvBN7uBclbJ.jpg",
     "tmdbId": "61663",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "comedy",
+      "romance"
+    ]
   },
   "You Will Be Mine": {
     "year": 2009,
     "aliases": [
-      "我想吃掉你"
+      "我想吃掉你",
+      "Je te mangerais"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/njv5o3CQfjJ808REMIvI5TMDhP7.jpg",
     "tmdbId": "54865",
-    "posterLanguage": "fr"
+    "posterLanguage": "fr",
+    "genres": [
+      "music",
+      "drama"
+    ]
   },
   "Gondola": {
     "year": 2024,
@@ -774,7 +1130,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jFd0pvIFMBM4nRZJLKeMJHsG03D.jpg",
     "tmdbId": "1186679",
-    "posterLanguage": "ka"
+    "posterLanguage": "ka",
+    "genres": [
+      "drama",
+      "romance",
+      "comedy"
+    ]
   },
   "Affäre zu dritt": {
     "year": 2003,
@@ -784,7 +1145,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/b1Xa4w3hKYngisHLand7qxqgbtL.jpg",
     "tmdbId": "345273",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Aimée & Jaguar": {
     "year": 1999,
@@ -793,48 +1157,77 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6DXbzVRbAz5JmomAshoNhFwIcPK.jpg",
     "tmdbId": "2211",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama",
+      "history",
+      "romance"
+    ]
   },
   "Between Summer and Fall": {
     "year": 2018,
     "aliases": [
-      "夏末秋至"
+      "夏末秋至",
+      "Zwischen Sommer und Herbst"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9P3BftnI0ZV1NbOEtzrLp6W432I.jpg",
     "tmdbId": "528776",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "The Bitter Tears of Petra von Kant": {
     "year": 1972,
     "aliases": [
-      "柏蒂娜的苦泪"
+      "柏蒂娜的苦泪",
+      "Die bitteren Tränen der Petra von Kant"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/4Vl1yzj8CN8aF8yxI9HFxF58OIt.jpg",
     "tmdbId": "10310",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "The Chambermaid Lynn": {
     "year": 2014,
     "aliases": [
-      "女仆琳恩"
+      "女仆琳恩",
+      "Das Zimmermädchen Lynn"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/SYs7JKkrqEqpLDumxYnZ8XWlKU.jpg",
     "tmdbId": "293069",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Cocoon": {
     "year": 2018,
-    "aliases": [],
+    "aliases": [
+      "Casulo"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/im2vmci8OkLnxd8OY9tDhbW9TnJ.jpg",
     "tmdbId": "648811",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Das Floß!": {
     "year": 2015,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/b1rUtg1Ot7xj9p5asRYCrVPP3ad.jpg",
     "tmdbId": "322465",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ]
   },
   "Die Konkurrentin": {
     "year": 1997,
@@ -843,7 +1236,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/x8YGfBcgxToBB6TjCavrDUdrEP2.jpg",
     "tmdbId": "125227",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Four Minutes": {
     "year": 2006,
@@ -851,11 +1248,16 @@ window.WLW_MOVIE_METADATA = {
       "情键四分钟",
       "情鍵四分鐘",
       "狂琴 4 分鐘",
-      "四分钟"
+      "四分钟",
+      "Vier Minuten"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lyPYYhUlnGPnvBF4BASpKCZjzds.jpg",
     "tmdbId": "1294",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama",
+      "music"
+    ]
   },
   "Kiss Me Kosher": {
     "year": 2020,
@@ -864,23 +1266,37 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9BhFjDrW94Y3BVaFciHzrQXTDws.jpg",
     "tmdbId": "730585",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "comedy",
+      "romance"
+    ]
   },
   "Kommt Mausi raus?": {
     "year": 1995,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/AadOUqKC4Jspygf6rcnsAXxyVzM.jpg",
     "tmdbId": "292602",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama",
+      "comedy",
+      "romance",
+      "tv-movie"
+    ]
   },
   "Love and Desire": {
     "year": 2003,
     "aliases": [
-      "浪漫百合"
+      "浪漫百合",
+      "Liebe und Verlangen"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5tw2hz4w3P1OrXkqoUD0IjKwkKW.jpg",
     "tmdbId": "308765",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Mädchen in Uniform": {
     "year": 1958,
@@ -889,7 +1305,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/Ak09wks8lCeufB4ruseFFaEgWAN.jpg",
     "tmdbId": "4955",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Nachbarinnen": {
     "year": 2005,
@@ -899,7 +1318,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/poxv3tUT0pAreIG2ZVKvNYxSzxh.jpg",
     "tmdbId": "230680",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Rafiki": {
     "year": 2018,
@@ -909,7 +1331,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/letzgJyVmYYahcYNCYhzn75TyyE.jpg",
     "tmdbId": "517987",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Siebzehn": {
     "year": 2017,
@@ -918,35 +1344,54 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/oj0cqcuIwwom6JE66no2zXkxM8G.jpg",
     "tmdbId": "434504",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Steal Her Breath": {
     "year": 2024,
     "aliases": [
-      "偷走她的呼吸"
+      "偷走她的呼吸",
+      "Raub ihren Atem"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/8SA6YkPepVnmSA4iYyujvcaokcA.jpg",
     "tmdbId": "1336672",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "crime",
+      "thriller",
+      "comedy"
+    ]
   },
   "Unexpected": {
     "year": 2014,
     "aliases": [
-      "只想和你在一起"
+      "只想和你在一起",
+      "Ich will Dich"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/iTNW8eXi70qtYTFfyUYX1x7pSnU.jpg",
     "tmdbId": "325496",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama",
+      "romance",
+      "tv-movie"
+    ]
   },
   "Unveiled": {
     "year": 2005,
     "aliases": [
       "揭开面纱的女子",
-      "揭開面紗的女子"
+      "揭開面紗的女子",
+      "Fremde Haut"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/xtya1T81koBSa3uWBp21pLq2C5s.jpg",
     "tmdbId": "56823",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Vivere": {
     "year": 2007,
@@ -955,16 +1400,23 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wF6dcQYo4SdvyUzHr6ecwpegaIj.jpg",
     "tmdbId": "4921",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "drama"
+    ]
   },
   "Lesvia": {
     "year": 2024,
     "aliases": [
-      "拉拉 LAND"
+      "拉拉 LAND",
+      "Λεσβία"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/u645bAar9zsrvHRixsflDFXtZxh.jpg",
     "tmdbId": "1240099",
-    "posterLanguage": "el"
+    "posterLanguage": "el",
+    "genres": [
+      "documentary"
+    ]
   },
   "A Date for Mad Mary": {
     "year": 2016,
@@ -974,7 +1426,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/cAOkKIF8tJXdOOyHOIl6F8qDJgc.jpg",
     "tmdbId": "405473",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama",
+      "comedy"
+    ]
   },
   "The Favourite": {
     "year": 2018,
@@ -985,14 +1442,24 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wmjiWibK6Cxhh2DzuGC1Xp7WnRW.jpg",
     "tmdbId": "375262",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "history",
+      "comedy",
+      "drama"
+    ]
   },
   "Radical Hearts": {
     "year": 2023,
-    "aliases": [],
+    "aliases": [
+      "Croíthe Radacacha"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/z64dIgJrSzIyos2VRFRNhpQY6PK.jpg",
     "tmdbId": "1204663",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "Vita & Virginia": {
     "year": 2018,
@@ -1002,33 +1469,50 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/kNsMRldqZgsinyFjwNn1UzC0iln.jpg",
     "tmdbId": "447034",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "The Berlin Affair": {
     "year": 1985,
     "aliases": [
-      "柏林情事"
+      "柏林情事",
+      "Interno berlinese"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6a6oz6Xvcgg7yKSHPRnr7O1qjms.jpg",
     "tmdbId": "94754",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "drama"
+    ]
   },
   "The Betrayal": {
     "year": 1969,
     "aliases": [
       "毒气间谍战",
-      "毒氣間諜戰"
+      "毒氣間諜戰",
+      "Fräulein Doktor"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9WnXPJzedNcIeoLMtovpJBRHf9z.jpg",
     "tmdbId": "85617",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "action",
+      "drama",
+      "war"
+    ]
   },
   "Come Closer": {
     "year": 2024,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/57ouTerFzIwUMj0XN1IvgDywplR.jpg",
     "tmdbId": "1476702",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "drama"
+    ]
   },
   "Duse": {
     "year": 2025,
@@ -1037,7 +1521,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5PJ4DfW9T2uG9Bj6X20i2R3yW3A.jpg",
     "tmdbId": "1291202",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "drama",
+      "history"
+    ]
   },
   "The Fine Art of Love: Mine Ha-Ha": {
     "year": 2005,
@@ -1047,16 +1535,24 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/4qdcM5JP0W9HGV5ubY6YJvr173f.jpg",
     "tmdbId": "61950",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "mystery",
+      "drama"
+    ]
   },
   "Fragments of a Life Loved": {
     "year": 2023,
     "aliases": [
-      "逐愛絮語"
+      "逐愛絮語",
+      "Frammenti di un percorso amoroso"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/vRELxRezQ5oQvMJ4W3o8B1fKRvQ.jpg",
     "tmdbId": "1157128",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "documentary"
+    ]
   },
   "Girasoli": {
     "year": 2023,
@@ -1065,7 +1561,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/iMOpc7L0vvSZFLBQNutIm2bFS4G.jpg",
     "tmdbId": "1064119",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "drama"
+    ]
   },
   "Open My Heart": {
     "year": 2002,
@@ -1076,43 +1575,63 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/tC4GfzSBwus7Nc06bLGPOk86xF0.jpg",
     "tmdbId": "80291",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "drama"
+    ]
   },
   "Senza Fine": {
     "year": 2008,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/kPQ1vivnAnF6pmMhpJnnYxZNtPC.jpg",
     "tmdbId": "856367",
-    "posterLanguage": "it"
+    "posterLanguage": "it",
+    "genres": [
+      "documentary"
+    ]
   },
   "All the Silence": {
     "year": 2023,
     "aliases": [
-      "无声世界"
+      "无声世界",
+      "Todo el silencio"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/eJkk5XKSmYMq8IDBXInzPJzmzBY.jpg",
     "tmdbId": "1131443",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "drama"
+    ]
   },
   "Dreams": {
     "year": 2025,
     "aliases": [
       "性梦爱三部曲：梦",
       "關於夢 (性與愛)",
-      "同夢奇緣之夢"
+      "同夢奇緣之夢",
+      "Drømmer"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5BRlnpdZTzt2JDujAizDwDYQCNs.jpg",
     "tmdbId": "1228682",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "A Woman Like Eve": {
     "year": 1979,
     "aliases": [
-      "伊娃这样的女人"
+      "伊娃这样的女人",
+      "Een Vrouw als Eva"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/vopFwYyJjM8zr0aGMu3D7sV24fc.jpg",
     "tmdbId": "96597",
-    "posterLanguage": "nl"
+    "posterLanguage": "nl",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Silver Haze": {
     "year": 2023,
@@ -1122,17 +1641,26 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3mSdBEUjmkCytuEmCuTCvkZIF0d.jpg",
     "tmdbId": "936385",
-    "posterLanguage": "nl"
+    "posterLanguage": "nl",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Twice a Woman": {
     "year": 1979,
     "aliases": [
       "两个女人",
-      "兩個女人"
+      "兩個女人",
+      "Twee vrouwen"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/y4MbvU7MFiOFeau3uawL2gEkdxY.jpg",
     "tmdbId": "89366",
-    "posterLanguage": "nl"
+    "posterLanguage": "nl",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Thelma": {
     "year": 2017,
@@ -1143,7 +1671,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/l3ciaQdEBQdlOP2Bkc7BV7VkPdK.jpg",
     "tmdbId": "401898",
-    "posterLanguage": "no"
+    "posterLanguage": "no",
+    "genres": [
+      "drama",
+      "mystery",
+      "thriller"
+    ]
   },
   "Heavenly Creatures": {
     "year": 1994,
@@ -1152,7 +1685,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uvb86wVCIqD3Rlbr0GTNgWDF7Zo.jpg",
     "tmdbId": "1024",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "fantasy"
+    ]
   },
   "Intermission": {
     "year": 2022,
@@ -1162,44 +1699,65 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://kinoglaz.fr/ph_fil/f13582_2.jpg",
     "posterLanguage": "ru",
-    "tmdbId": "993495"
+    "tmdbId": "993495",
+    "genres": [
+      "drama"
+    ]
   },
   "On the Edge": {
     "year": 2020,
     "aliases": [
       "锋刃边缘",
-      "鋒刃邊緣"
+      "鋒刃邊緣",
+      "На острие"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/r0kWn5O4Cv6MUbWiR6SHAxJfQcJ.jpg",
     "tmdbId": "579875",
-    "posterLanguage": "ru"
+    "posterLanguage": "ru",
+    "genres": [
+      "drama"
+    ]
   },
   "Forgotten Roads": {
     "year": 2020,
     "aliases": [
-      "被遗忘的道路"
+      "被遗忘的道路",
+      "La nave del olvido"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/c0CQi8BOXNBti3bGJhkvEwq1JMr.jpg",
     "tmdbId": "735210",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "The Heiresses": {
     "year": 2018,
     "aliases": [
-      "女继承者"
+      "女继承者",
+      "Las herederas"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/yOSHb7SEK78tpTJo3JCFHwoZfNr.jpg",
     "tmdbId": "499152",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "drama"
+    ]
   },
   "One in a Thousand": {
     "year": 2020,
     "aliases": [
-      "千分之一"
+      "千分之一",
+      "Las mil y una"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/eDEH0UskbrTEOXgDk6H1k0btWUz.jpg",
     "tmdbId": "656276",
-    "posterLanguage": "es"
+    "posterLanguage": "es",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Loving Highsmith": {
     "year": 2022,
@@ -1210,7 +1768,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/69FSnXoxlXTT9vdMN5qEKXXv0lP.jpg",
     "tmdbId": "915939",
-    "posterLanguage": "de"
+    "posterLanguage": "de",
+    "genres": [
+      "documentary"
+    ]
   },
   "Atomic Blonde": {
     "year": 2017,
@@ -1221,7 +1782,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/w90TVecrZrz1Nhc3wH8PS3BhCPS.jpg",
     "tmdbId": "341013",
-    "posterLanguage": "sv"
+    "posterLanguage": "sv",
+    "genres": [
+      "action",
+      "thriller"
+    ]
   },
   "Kiss Me": {
     "year": 2011,
@@ -1232,35 +1797,54 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3vu6xIVE48PaaF2qYxPYrMMcU67.jpg",
     "tmdbId": "71325",
-    "posterLanguage": "sv"
+    "posterLanguage": "sv",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Nelly & Nadine": {
     "year": 2022,
     "aliases": [
-      "妮莉和讷亭"
+      "妮莉和讷亭",
+      "Nelly och Nadine"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/myY7EC3474WaQ2a7kxEa8VnODo5.jpg",
     "tmdbId": "916437",
-    "posterLanguage": "sv"
+    "posterLanguage": "sv",
+    "genres": [
+      "documentary"
+    ]
   },
   "Show Me Love": {
     "year": 1998,
     "aliases": [
-      "同窗的爱"
+      "同窗的爱",
+      "Fucking Åmål"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/z6FZFPpIqXVdrHUK3T0M7BFYp2J.jpg",
     "tmdbId": "11634",
-    "posterLanguage": "sv"
+    "posterLanguage": "sv",
+    "genres": [
+      "comedy",
+      "romance",
+      "drama"
+    ]
   },
   "So Damn Easy Going": {
     "year": 2022,
     "aliases": [
       "巨他妈好相处",
-      "停不下來的她"
+      "停不下來的她",
+      "Så jävla easy going"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/86LtlTHdfduiDbOB7Var3xKNLhm.jpg",
     "tmdbId": "860709",
-    "posterLanguage": "sv"
+    "posterLanguage": "sv",
+    "genres": [
+      "drama",
+      "comedy"
+    ]
   },
   "100 Nights of Hero": {
     "year": 2025,
@@ -1270,14 +1854,21 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/u2lCBD7ZjcBsCLnDgWVDP9TsghG.jpg",
     "tmdbId": "1354518",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "fantasy",
+      "romance"
+    ]
   },
   "A Bit of Scarlet": {
     "year": 1997,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/66MA8cvi7g8Aj3PCtkO4Lu6blBT.jpg",
     "tmdbId": "239495",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "Ammonite": {
     "year": 2020,
@@ -1287,7 +1878,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5lx4pUHWZoOKJWsVsvurRRNW9FK.jpg",
     "tmdbId": "568467",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Blue Jean": {
     "year": 2022,
@@ -1297,7 +1892,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/8kzhsiL340IDeaAuEz4RfiFilgf.jpg",
     "tmdbId": "971699",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Butterfly Kiss": {
     "year": 1995,
@@ -1306,7 +1904,13 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/dmQ2rKLSsofdXok2y9Xp5gfUqaB.jpg",
     "tmdbId": "48260",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "crime",
+      "drama",
+      "romance",
+      "thriller"
+    ]
   },
   "Carmilla": {
     "year": 2019,
@@ -1315,7 +1919,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jeVujtPRWHSusWGcNJ68BZYKIB1.jpg",
     "tmdbId": "475908",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "fantasy",
+      "drama"
+    ]
   },
   "The Celluloid Closet": {
     "year": 1995,
@@ -1325,7 +1934,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ho9mGEWr3xfeKRpD9nsBP524XHW.jpg",
     "tmdbId": "32562",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary",
+      "history"
+    ]
   },
   "Chuck Chuck Baby": {
     "year": 2023,
@@ -1335,7 +1948,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/am3Un9J5utoNhlIsxs81pwLYWMz.jpg",
     "tmdbId": "1066124",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance",
+      "music"
+    ]
   },
   "Colette": {
     "year": 2018,
@@ -1346,7 +1964,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5fvcs8x7k16wGdet16qkx1cKBPM.jpg",
     "tmdbId": "454652",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "history"
+    ]
   },
   "Daphne": {
     "year": 2007,
@@ -1356,7 +1978,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/3lcteA8yv13pXj8HO00Hq3dyv2c.jpg",
     "tmdbId": "204477",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "tv-movie",
+      "drama"
+    ]
   },
   "Disobedience": {
     "year": 2017,
@@ -1367,7 +1994,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/kPJTR7IUkzqjIu1SGnpQmGo9Iip.jpg",
     "tmdbId": "419743",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Drive-Away Dolls": {
     "year": 2024,
@@ -1378,7 +2009,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6QPKmqntFgLm6sB47AtSelEGGPM.jpg",
     "tmdbId": "957304",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "crime"
+    ]
   },
   "The Duke of Burgundy": {
     "year": 2014,
@@ -1388,7 +2023,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/72ctjjts0j8OFQkIFODT6RnYbBK.jpg",
     "tmdbId": "250225",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Eileen": {
     "year": 2023,
@@ -1397,7 +2036,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/x6kedRqcj8jH0cik9p1jzkDwZvM.jpg",
     "tmdbId": "664341",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "thriller",
+      "crime"
+    ]
   },
   "Hot Milk": {
     "year": 2025,
@@ -1407,7 +2050,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/rIIPeDBAr3eSKPaqCawxFywUHAU.jpg",
     "tmdbId": "933490",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "I Can't Think Straight": {
     "year": 2008,
@@ -1417,7 +2063,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ePbH29RdMlz8mDEQyUkxRVcsB73.jpg",
     "tmdbId": "31216",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Imagine Me & You": {
     "year": 2005,
@@ -1427,7 +2077,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/a7CbxY3TMwFKX6awlBxhb7Es6tS.jpg",
     "tmdbId": "1544",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "comedy",
+      "romance"
+    ]
   },
   "The Investigator": {
     "year": 1997,
@@ -1437,7 +2092,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/bPQdHDmwF2aODftAwwQFO9S68fE.jpg",
     "tmdbId": "51783",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "tv-movie"
+    ]
   },
   "Lee": {
     "year": 2023,
@@ -1447,7 +2106,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg",
     "tmdbId": "832964",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "history",
+      "drama",
+      "war"
+    ]
   },
   "Love Lies Bleeding": {
     "year": 2024,
@@ -1457,7 +2121,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/rKC5HifAZxm9NEQtvBuXBjQQGgZ.jpg",
     "tmdbId": "948549",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "crime",
+      "romance",
+      "thriller"
+    ]
   },
   "My Days of Mercy": {
     "year": 2017,
@@ -1466,7 +2135,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/adIPKAoKnKL9vCTkvfF4J9ZA7Ln.jpg",
     "tmdbId": "434714",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "My Mother's Wedding": {
     "year": 2023,
@@ -1475,7 +2148,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/feHTwv3BplNlLW3o9LtW2kqZLJg.jpg",
     "tmdbId": "985602",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "drama"
+    ]
   },
   "My Summer of Love": {
     "year": 2004,
@@ -1485,7 +2162,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wyCcQQkHqighSZOcT4hySPJpWIL.jpg",
     "tmdbId": "9709",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "The Night Watch": {
     "year": 2011,
@@ -1494,7 +2175,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ioEzgZFFZZGnrhI2rsIy7R0a4WI.jpg",
     "tmdbId": "70214",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "war",
+      "tv-movie"
+    ]
   },
   "Rebel Dykes": {
     "year": 2021,
@@ -1503,14 +2189,21 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/nzYY8UJfyiZqfNcb2LQmkeBd3Ao.jpg",
     "tmdbId": "797874",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary",
+      "animation"
+    ]
   },
   "Scrubbers": {
     "year": 1982,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/tCdc55EKzyJZVRdnlV9x2ilL8Ry.jpg",
     "tmdbId": "74329",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "The Secret Diaries of Miss Anne Lister": {
     "year": 2010,
@@ -1520,7 +2213,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/fpJHzNNRkLFdY41JwOdZYuAmZ23.jpg",
     "tmdbId": "42548",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance",
+      "tv-movie"
+    ]
   },
   "Sister My Sister": {
     "year": 1994,
@@ -1529,7 +2227,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/g1SwimqDPN3pP3LOcKuBi14bKIH.jpg",
     "tmdbId": "44925",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "thriller"
+    ]
   },
   "Straight on Till Morning": {
     "year": 2025,
@@ -1538,7 +2240,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/4VQ8PECqgdXxY3Wh62C9TBhy1D9.jpg",
     "tmdbId": "1352992",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "romance",
+      "thriller"
+    ]
   },
   "Sweetheart": {
     "year": 2021,
@@ -1547,7 +2254,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uopEzIMc9DBBQfbv28j9aXsLca9.jpg",
     "tmdbId": "786015",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ]
   },
   "Tell It to the Bees": {
     "year": 2018,
@@ -1557,21 +2269,34 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/Rj6zpHhMU1zFW3v28U4PSRSRgP.jpg",
     "tmdbId": "475888",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "A Girl Thing": {
     "year": 2001,
-    "aliases": [],
+    "aliases": [
+      "It's A Girl Thing"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/pJDSHOhvY02NQusyo9jWWOUZX6W.jpg",
     "tmdbId": "1510350",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "romance"
+    ]
   },
   "A Great Ride": {
     "year": 2018,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/eRUKmCtzn9oLn3L6KRceCqc6y3e.jpg",
     "tmdbId": "628890",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "A Marine Story": {
     "year": 2010,
@@ -1581,7 +2306,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/pntBMDfGgPgIEeNBhT3JR7E3h5s.jpg",
     "tmdbId": "46564",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "A Perfect Ending": {
     "year": 2012,
@@ -1591,7 +2319,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/mjwWEwE1xdbtFGCOgeXi5jvQnOU.jpg",
     "tmdbId": "107257",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "A Secret Love": {
     "year": 2020,
@@ -1601,14 +2333,23 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/28LNd4KEpqt9i8sgXrVcrdr2kgI.jpg",
     "tmdbId": "687156",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "A Winter to Remember": {
     "year": 2017,
-    "aliases": [],
+    "aliases": [
+      "El color de un invierno"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/861EAjpjzAHL2Nw0CHx8AxoLE3q.jpg",
     "tmdbId": "459918",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Am I OK?": {
     "year": 2022,
@@ -1618,7 +2359,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/zeXGPMKv8JN8wgmJjKgAZIAVI4y.jpg",
     "tmdbId": "641934",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "romance",
+      "drama"
+    ]
   },
   "An Unexpected Love": {
     "year": 2003,
@@ -1628,7 +2374,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jcSWwAvjctdWEcVtS9eVLUmxGVI.jpg",
     "tmdbId": "125233",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "tv-movie"
+    ]
   },
   "And Then There Was Eve": {
     "year": 2017,
@@ -1638,7 +2388,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/1RBcNPAyZSpCoLmfOOM1jRYxFKd.jpg",
     "tmdbId": "460089",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Ashley": {
     "year": 2013,
@@ -1647,7 +2400,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/eowIAh7dgGZgNKsUeG0llCW2rCL.jpg",
     "tmdbId": "212967",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Bad Girl": {
     "year": 2016,
@@ -1656,7 +2412,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/kqXK1EI5G5yVEQNyrbakWeewZ7F.jpg",
     "tmdbId": "405050",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "thriller",
+      "drama"
+    ]
   },
   "Bare": {
     "year": 2015,
@@ -1665,7 +2425,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/x9zfITPWEbMzRhw3Ci3bMwn8kz0.jpg",
     "tmdbId": "333091",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Beauty": {
     "year": 2022,
@@ -1675,7 +2438,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/yjAXHyMz0JZzYiQP7q1fT5kXLif.jpg",
     "tmdbId": "667642",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama",
+      "music"
+    ]
   },
   "Bit": {
     "year": 2019,
@@ -1685,7 +2453,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9SlKmu0a1G1eihI29WMQogBWgzr.jpg",
     "tmdbId": "533985",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "comedy"
+    ]
   },
   "Black Widow": {
     "year": 1987,
@@ -1695,7 +2467,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/iAlUN6XFuvSz1it58aH2cuEITrt.jpg",
     "tmdbId": "19345",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "thriller"
+    ]
   },
   "Bloomington": {
     "year": 2010,
@@ -1705,7 +2480,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/vCHFXTpoDiQNwKB66ulnxOraQAt.jpg",
     "tmdbId": "51736",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Booksmart": {
     "year": 2019,
@@ -1715,7 +2494,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
     "tmdbId": "505600",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy"
+    ]
   },
   "Bottoms": {
     "year": 2023,
@@ -1725,7 +2507,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/qVsNNFzl6aWhmyBnQPEYFyrGyk0.jpg",
     "tmdbId": "814776",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy"
+    ]
   },
   "Bound": {
     "year": 1996,
@@ -1735,7 +2520,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9qAy6UWVw44dGrsyKrdEMt5qIUM.jpg",
     "tmdbId": "9303",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "thriller",
+      "crime"
+    ]
   },
   "Boys Don't Cry": {
     "year": 1999,
@@ -1746,14 +2536,21 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
     "tmdbId": "226",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "crime",
+      "drama"
+    ]
   },
   "Bulletproof: A Lesbian's Guide to Surviving the Plot": {
     "year": 2024,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/fTGyoozBxrA0VpzfnwNGjDTo0zT.jpg",
     "tmdbId": "1284739",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "But I'm a Cheerleader": {
     "year": 1999,
@@ -1763,7 +2560,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/8huDg3Q0EmcWuN9HgYsO8ylAp9f.jpg",
     "tmdbId": "20770",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ]
   },
   "Carol": {
     "year": 2015,
@@ -1774,7 +2576,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/A8JV3ockAvWOXmcNZyAGqlyTTBw.jpg",
     "tmdbId": "258480",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Certain Women": {
     "year": 2016,
@@ -1784,7 +2590,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jIfW4p27B30zSfGCohB2S4cTRz4.jpg",
     "tmdbId": "340487",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Chestnut": {
     "year": 2023,
@@ -1794,7 +2603,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6syFEUJQhXXw0BPHNwDKUgTReby.jpg",
     "tmdbId": "881517",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "The Children's Hour": {
     "year": 1961,
@@ -1804,7 +2617,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/goyEWixvULM2IRN4KsKibyrJE4J.jpg",
     "tmdbId": "20139",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Christmas at the Ranch": {
     "year": 2021,
@@ -1814,7 +2630,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/griDO36hC0bSRnvAuNM6O0W5v20.jpg",
     "tmdbId": "805973",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "comedy",
+      "drama"
+    ]
   },
   "City of Trees": {
     "year": 2019,
@@ -1823,7 +2644,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jr7O0eqIKdrirBYsKp4OU961MYZ.jpg",
     "tmdbId": "663300",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Cloudburst": {
     "year": 2011,
@@ -1833,14 +2658,24 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/x4vlDX1xc0ZPRYnzyiGMpUOBSPv.jpg",
     "tmdbId": "117098",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "comedy",
+      "romance"
+    ]
   },
   "Codependent Lesbian Space Alien Seeks Same": {
     "year": 2011,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/jrc4kyKjTnXj6P8LNCqekXGjAuQ.jpg",
     "tmdbId": "105538",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "romance",
+      "science-fiction"
+    ]
   },
   "Concussion": {
     "year": 2013,
@@ -1850,7 +2685,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uib2Khi2wynz9BEAoUBIvEE64vB.jpg",
     "tmdbId": "156965",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "D.E.B.S.": {
     "year": 2004,
@@ -1860,7 +2698,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/68BfXrFQPHg9iBWJVgp5R48gTix.jpg",
     "tmdbId": "540",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "action",
+      "comedy",
+      "romance"
+    ]
   },
   "Desert Hearts": {
     "year": 1985,
@@ -1870,7 +2713,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/klAHoWOZgL8sR74Tnl7K7z4Lziq.jpg",
     "tmdbId": "294",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Duck Butter": {
     "year": 2018,
@@ -1880,14 +2727,25 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uhO5WFmf17ckCKwy6l3k9tt0z9z.jpg",
     "tmdbId": "499319",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance",
+      "comedy"
+    ]
   },
   "Edie & Thea: A Very Long Engagement": {
     "year": 2009,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/7HSMvRHsQyYpQcpUmFn9bqs8e0k.jpg",
     "tmdbId": "105778",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "documentary",
+      "romance",
+      "family"
+    ]
   },
   "Elena Undone": {
     "year": 2010,
@@ -1897,7 +2755,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/m4SDHYqLbYHnq5Lb6XPZPHgBbID.jpg",
     "tmdbId": "56743",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Fall Risk": {
     "year": 2024,
@@ -1907,7 +2769,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7y1fyqqPWwb1EmsjkAugRb6O1tw.jpg",
     "tmdbId": "1214713",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "thriller"
+    ]
   },
   "The Fallout": {
     "year": 2021,
@@ -1917,7 +2783,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/4ByHl9XRKR2iXbvF0ZilMRD1RcL.jpg",
     "tmdbId": "795514",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Fear Street: 1666": {
     "year": 2021,
@@ -1928,7 +2797,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg",
     "tmdbId": "591275",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "mystery",
+      "horror"
+    ]
   },
   "Fear Street: 1978": {
     "year": 2021,
@@ -1939,7 +2812,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg",
     "tmdbId": "591274",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "mystery",
+      "drama"
+    ]
   },
   "Fear Street: 1994": {
     "year": 2021,
@@ -1950,7 +2828,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/pxHo4FWIhwv2rETUPo0gvSceYJB.jpg",
     "tmdbId": "591273",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "mystery",
+      "drama"
+    ]
   },
   "Forbidden Fruits": {
     "year": 2026,
@@ -1959,14 +2842,22 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/nSlKzxvXWOeDC9qZiwkhGuTAKkq.jpg",
     "tmdbId": "1450527",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "comedy"
+    ]
   },
   "Forever Not Maybe": {
     "year": 2019,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/zVM8HglTvB2iCkfp68uxZBUnwww.jpg",
     "tmdbId": "663862",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Freeheld": {
     "year": 2015,
@@ -1976,7 +2867,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/794PfYjTz3yxMRdTRmdFYt6w6ff.jpg",
     "tmdbId": "306745",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Fried Green Tomatoes": {
     "year": 1991,
@@ -1986,14 +2881,21 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/g71l1vbJwyAAYk8zKCkIQQ58qcb.jpg",
     "tmdbId": "1633",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "comedy"
+    ]
   },
   "Gaysians": {
     "year": 2016,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/c10BW6Xp6flLMzUbSUHRn57f95D.jpg",
     "tmdbId": "646450",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "Gia": {
     "year": 1998,
@@ -2003,7 +2905,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/oFi5OIvBf59W1KFaN0cuiMEEbs1.jpg",
     "tmdbId": "14533",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Girls Like Girls": {
     "year": 2026,
@@ -2012,7 +2918,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/gbP30EOIwUW0HZY9BwQMTRrk8uX.jpg",
     "tmdbId": "1397485",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Go Fish": {
     "year": 1994,
@@ -2022,7 +2932,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/wWSqWcTQpedYn0ZMJ06PqSmJUxb.jpg",
     "tmdbId": "18620",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "comedy",
+      "drama"
+    ]
   },
   "The Gymnast": {
     "year": 2006,
@@ -2032,7 +2947,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/uJdFvnz9fVIqqrbUNh5JsskgbzT.jpg",
     "tmdbId": "31421",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "The Half of It": {
     "year": 2020,
@@ -2043,7 +2962,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jC1PNXGET1ZZQyrJvdFhPfXdPP1.jpg",
     "tmdbId": "597219",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "romance",
+      "drama"
+    ]
   },
   "Happiest Season": {
     "year": 2020,
@@ -2054,7 +2978,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/vzec9kkOSE93tygyfOktedkeOQ.jpg",
     "tmdbId": "520172",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "comedy"
+    ]
   },
   "Heart Shot": {
     "year": 2022,
@@ -2064,7 +2992,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ubaCN0FjWhxiu1uHhI9oXSgalVK.jpg",
     "tmdbId": "929477",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "crime"
+    ]
   },
   "Hedda": {
     "year": 2025,
@@ -2074,7 +3006,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
     "tmdbId": "997113",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "thriller",
+      "romance"
+    ]
   },
   "Henry & June": {
     "year": 1990,
@@ -2084,7 +3021,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/cDMQLwT5LpdbA4dc4Twn43sbGRw.jpg",
     "tmdbId": "17993",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance"
+    ]
   },
   "High Art": {
     "year": 1998,
@@ -2095,7 +3035,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lMXSGQIKTaM4bDkshmEHXHtfa7l.jpg",
     "tmdbId": "37636",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "I Care a Lot": {
     "year": 2020,
@@ -2106,7 +3050,13 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg",
     "tmdbId": "601666",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "crime",
+      "thriller",
+      "drama",
+      "comedy"
+    ]
   },
   "If These Walls Could Talk": {
     "year": 1996,
@@ -2116,7 +3066,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/5foda9jN8pAM9zvKP5iFdITepWj.jpg",
     "tmdbId": "35203",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "tv-movie",
+      "drama"
+    ]
   },
   "If These Walls Could Talk 2": {
     "year": 2000,
@@ -2126,7 +3080,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/1bwmJfLJVoxmj96qKVuE9oSmEUS.jpg",
     "tmdbId": "28031",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "The Incredibly True Adventure of Two Girls in Love": {
     "year": 1995,
@@ -2136,7 +3094,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/dPbYJaH1j7sgj1NuA4VRyb7O4Mt.jpg",
     "tmdbId": "29371",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ]
   },
   "Jagged Mind": {
     "year": 2023,
@@ -2146,7 +3109,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/llvoAqUBvnhuo6M4iQah1SGE6kZ.jpg",
     "tmdbId": "1115939",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror"
+    ]
   },
   "Jennifer's Body": {
     "year": 2009,
@@ -2157,7 +3123,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/nU0PlszZkTXjfp4DiJgT4plHNLn.jpg",
     "tmdbId": "19994",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "comedy"
+    ]
   },
   "The Killing of Sister George": {
     "year": 1968,
@@ -2167,7 +3137,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/u9Cyc6mde7pthv7M2xvk3wmfAHP.jpg",
     "tmdbId": "54575",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "drama"
+    ]
   },
   "Kokomo City": {
     "year": 2023,
@@ -2177,14 +3151,20 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/A6xJwNiO80OfA3YPwcJvtqWNgic.jpg",
     "tmdbId": "1058678",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "Lesbian Avengers Eat Fire Too": {
     "year": 1993,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/aOEssQCGgi0QKc6ZssSirGXvA2d.jpg",
     "tmdbId": "377364",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "Lesbian Space Princess": {
     "year": 2025,
@@ -2194,7 +3174,13 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/bmf6spk0WZ10lz4eAK95P1zRB4F.jpg",
     "tmdbId": "1333141",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "animation",
+      "comedy",
+      "science-fiction",
+      "adventure"
+    ]
   },
   "Lianna": {
     "year": 1983,
@@ -2204,7 +3190,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/dcuMnWatb4AscTRfolGr1v1xH9n.jpg",
     "tmdbId": "78177",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Looking for Her": {
     "year": 2022,
@@ -2213,7 +3203,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/pPvVZYfNY0xZPCcrP4zR5b4vGDt.jpg",
     "tmdbId": "1038157",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "comedy",
+      "drama"
+    ]
   },
   "Losing Chase": {
     "year": 1996,
@@ -2223,7 +3218,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/t3RNxs4vHXTiO29Kr1YInrxOGhz.jpg",
     "tmdbId": "109614",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Lovesong": {
     "year": 2016,
@@ -2232,7 +3231,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/tDyXOMnZhyCwUuBqdEwXMydMeiP.jpg",
     "tmdbId": "371447",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Loving Annabelle": {
     "year": 2006,
@@ -2242,7 +3245,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/a6p1Oexil6Z2XO5d1QVHR3F2OoM.jpg",
     "tmdbId": "19344",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Ma Belle, My Beauty": {
     "year": 2021,
@@ -2251,7 +3258,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ubEkuET55uLKJaYqr62bcL0EsD3.jpg",
     "tmdbId": "776586",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "May December": {
     "year": 2023,
@@ -2261,7 +3272,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/zhV7B610l7hjlri4ywikJ18ONuq.jpg",
     "tmdbId": "839369",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Mercy's Girl": {
     "year": 2018,
@@ -2271,7 +3285,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/dFLjJYqsZBkk1CkXfFTuqAp0j51.jpg",
     "tmdbId": "581790",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Mulholland Drive": {
     "year": 2001,
@@ -2282,14 +3299,24 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/tVxGt7uffLVhIIcwuldXOMpFBPX.jpg",
     "tmdbId": "1018",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "thriller",
+      "drama",
+      "mystery"
+    ]
   },
   "Murmur": {
     "year": 2022,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/epTrvXY89xhDXj1vrtM25wO9s0F.jpg",
     "tmdbId": "813848",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "science-fiction",
+      "thriller"
+    ]
   },
   "My Normal": {
     "year": 2010,
@@ -2298,7 +3325,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9InMcynEA2Cne1qPreRITiAEr6C.jpg",
     "tmdbId": "62543",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ]
   },
   "The Non-Actor": {
     "year": 2025,
@@ -2307,7 +3339,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6IxsnLmPxKALEpiz9ktwh3GAdAd.jpg",
     "tmdbId": "1396608",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Novitiate": {
     "year": 2017,
@@ -2317,7 +3352,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ntsyazWKclgwObVftWVVAEBcvRq.jpg",
     "tmdbId": "411976",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Out at the Wedding": {
     "year": 2007,
@@ -2327,7 +3365,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/9wuOLR0yTdjiIVca9UWX2WErobo.jpg",
     "tmdbId": "85330",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance"
+    ]
   },
   "Pariah": {
     "year": 2011,
@@ -2337,7 +3378,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/lX9Ss9LH3bsAoGWDvsPv4zZG9fa.jpg",
     "tmdbId": "73939",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Personal Best": {
     "year": 1982,
@@ -2347,7 +3391,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg",
     "tmdbId": "27609",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Princess Cyd": {
     "year": 2017,
@@ -2357,7 +3404,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/7ZhF8acObc0R5tIETl7doRO1Bac.jpg",
     "tmdbId": "454889",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Puccini for Beginners": {
     "year": 2006,
@@ -2367,7 +3418,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/b5yBAYkXa6jSfBr0iayon8CkXC9.jpg",
     "tmdbId": "20405",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "comedy",
+      "drama",
+      "romance"
+    ]
   },
   "Sally": {
     "year": 2025,
@@ -2377,7 +3433,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/g2d0ILwRhieN76HQNsACOpzQVDz.jpg",
     "tmdbId": "1242382",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "Season of Love": {
     "year": 2019,
@@ -2387,7 +3446,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/usx2sUMfr8XXI8QoQuzaxZzasvo.jpg",
     "tmdbId": "606243",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "comedy"
+    ]
   },
   "See You Soon": {
     "year": 2025,
@@ -2397,7 +3460,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6GBxXPVpZXLka2CBEBE9I77iEPc.jpg",
     "tmdbId": "1440931",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance"
+    ]
   },
   "The Serpent's Skin": {
     "year": 2025,
@@ -2406,7 +3472,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ui9LRsRX3YZiG210wagR6pI7IBS.jpg",
     "tmdbId": "1407278",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "horror",
+      "romance"
+    ]
   },
   "The Sign of the Cross": {
     "year": 1932,
@@ -2415,7 +3485,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/kW4w5uWkKvNTX6bM4GLmszj7PTR.jpg",
     "tmdbId": "50070",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "history"
+    ]
   },
   "Snapshots": {
     "year": 2018,
@@ -2425,24 +3499,36 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/vLyx4n6Rcim8E57VRjU6B6Kspzw.jpg",
     "tmdbId": "507697",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "Sugar Baby": {
     "year": 2024,
     "aliases": [
       "为何是你？",
-      "慾情故縱"
+      "慾情故縱",
+      "Почему ты?"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/kcREsnVDEFFXmt5GuPwyGqyDuDJ.jpg",
     "tmdbId": "1267217",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama"
+    ]
   },
   "Summer of Mesa": {
     "year": 2020,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/gV8RCNm1yu4zppS8icfIfDsQ3S7.jpg",
     "tmdbId": "974746",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Town Bloody Hall": {
     "year": 1979,
@@ -2451,7 +3537,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/1iZWzL8D1nQc7jThYxkdQ2gKYC9.jpg",
     "tmdbId": "274381",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "The Truth About Jane": {
     "year": 2000,
@@ -2460,7 +3549,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/e4BheMHfvzFxCKWOWG4CdV2YaOr.jpg",
     "tmdbId": "52805",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance",
+      "tv-movie"
+    ]
   },
   "Witchy Ways": {
     "year": 2024,
@@ -2469,7 +3563,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/aE6UNLmcpjaHGrLVsBjeF2OPoiS.jpg",
     "tmdbId": "1053987",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "fantasy",
+      "romance"
+    ]
   },
   "Walk with Me": {
     "year": 2021,
@@ -2478,7 +3576,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/iVhfX8DzckosrxLDBzyWPDE0XdB.jpg",
     "tmdbId": "809647",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama"
+    ]
   },
   "The Watermelon Woman": {
     "year": 1996,
@@ -2488,7 +3589,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/mBBqKfkvzSk6Rk7bfRXU9kR916N.jpg",
     "tmdbId": "44479",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "comedy",
+      "romance"
+    ]
   },
   "When Night Is Falling": {
     "year": 1995,
@@ -2497,7 +3603,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6Ac5GLwJ01uli5mCXqXwquR36Y1.jpg",
     "tmdbId": "8391",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Whistle": {
     "year": 2025,
@@ -2506,7 +3616,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jovDlv8PovRC42gDzKcYSEpgcJz.jpg",
     "tmdbId": "1526225",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary",
+      "music"
+    ]
   },
   "Wild Nights with Emily": {
     "year": 2018,
@@ -2516,7 +3630,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/acqCMjCP8nSPrUuWvE648kREXye.jpg",
     "tmdbId": "502147",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "history",
+      "comedy"
+    ]
   },
   "Wild Side": {
     "year": 1995,
@@ -2526,7 +3644,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/pFRrKn9wqPECjN1QOrDdS3BVdL5.jpg",
     "tmdbId": "26674",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "thriller",
+      "romance"
+    ]
   },
   "Chely Wright: Wish Me Away": {
     "year": 2012,
@@ -2536,14 +3658,21 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/ur3rR54oya50W5M4jaGK8FytFR0.jpg",
     "tmdbId": "100825",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary",
+      "music"
+    ]
   },
   "Word Is Out: Stories of Some of Our Lives": {
     "year": 1977,
     "aliases": [],
     "poster": "https://image.tmdb.org/t/p/w500/s3FercI7QurqOm5IpuaAIPV8uqj.jpg",
     "tmdbId": "143322",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "documentary"
+    ]
   },
   "The World to Come": {
     "year": 2020,
@@ -2553,7 +3682,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "poster": "https://image.tmdb.org/t/p/w500/6GJQXJ96FUbXtB01VXAdp854qOt.jpg",
     "tmdbId": "506281",
-    "posterLanguage": "en"
+    "posterLanguage": "en",
+    "genres": [
+      "romance",
+      "drama",
+      "western"
+    ]
   },
   "Practical Magic": {
     "year": 1998,
@@ -2564,7 +3698,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "6435",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg",
+    "genres": [
+      "romance",
+      "fantasy",
+      "comedy"
+    ]
   },
   "Pitch Perfect": {
     "year": 2012,
@@ -2575,7 +3714,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "114150",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/gsFoJk9g8W3zgaipRrrURk7LbiF.jpg",
+    "genres": [
+      "comedy",
+      "music",
+      "romance"
+    ]
   },
   "Pitch Perfect 2": {
     "year": 2015,
@@ -2586,7 +3730,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "254470",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/fQaEGzFmvTYu3G641WV0Tg9auAt.jpg",
+    "genres": [
+      "comedy",
+      "music"
+    ]
   },
   "Pitch Perfect 3": {
     "year": 2017,
@@ -2598,7 +3746,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "353616",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/v4tbRRX0OSOHcgz2869rEjcBwOJ.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/v4tbRRX0OSOHcgz2869rEjcBwOJ.jpg",
+    "genres": [
+      "music",
+      "comedy"
+    ]
   },
   "Mean Girls": {
     "year": 2024,
@@ -2608,7 +3760,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "673593",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/s5Z9zDA7CfG5RxQFVIXGPuOy70i.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/s5Z9zDA7CfG5RxQFVIXGPuOy70i.jpg",
+    "genres": [
+      "comedy"
+    ]
   },
   "Wicked": {
     "year": 2024,
@@ -2618,7 +3773,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "402431",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/j5AVKdTm8mG7tjoxIPU5V7riaDy.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/j5AVKdTm8mG7tjoxIPU5V7riaDy.jpg",
+    "genres": [
+      "drama",
+      "romance",
+      "fantasy"
+    ]
   },
   "Wicked: For Good": {
     "year": 2025,
@@ -2629,7 +3789,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
-    "tmdbId": "967941"
+    "tmdbId": "967941",
+    "genres": [
+      "fantasy",
+      "adventure",
+      "romance"
+    ]
   },
   "Notes on a Scandal": {
     "year": 2006,
@@ -2640,7 +3805,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "1259",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/ymFybaA0r7MpwWnmUCFHYAT6Djb.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/ymFybaA0r7MpwWnmUCFHYAT6Djb.jpg",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "What Keeps You Alive": {
     "year": 2018,
@@ -2650,7 +3819,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "503752",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/iHrNKFoG3XOy5oPygR90TR5nfJt.jpg",
+    "genres": [
+      "horror",
+      "thriller"
+    ]
   },
   "Tully": {
     "year": 2018,
@@ -2661,7 +3834,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "400579",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/wDI4YXBXolMYi15Qx2kClvdSERM.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/wDI4YXBXolMYi15Qx2kClvdSERM.jpg",
+    "genres": [
+      "comedy",
+      "drama"
+    ]
   },
   "Thoroughbreds": {
     "year": 2017,
@@ -2671,7 +3848,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/dBhskn3zQZu1DKy1ZjjmJRxJUxm.jpg",
-    "tmdbId": "397722"
+    "tmdbId": "397722",
+    "genres": [
+      "drama",
+      "thriller"
+    ]
   },
   "The Novice": {
     "year": 2021,
@@ -2681,7 +3862,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/dCujw00nVfBrIJc1osoR6HC92SV.jpg",
-    "tmdbId": "821427"
+    "tmdbId": "821427",
+    "genres": [
+      "drama"
+    ]
   },
   "That's Not Us": {
     "year": 2015,
@@ -2691,7 +3875,10 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/ztuQ3s8Pzt372xhD36WNjvMNuYW.jpg",
-    "tmdbId": "343809"
+    "tmdbId": "343809",
+    "genres": [
+      "drama"
+    ]
   },
   "Only the Animals": {
     "year": 2019,
@@ -2703,7 +3890,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "fr",
     "poster": "https://image.tmdb.org/t/p/w500/eAww6EceJw88Mv00Zq2k7inEDtF.jpg",
-    "tmdbId": "574321"
+    "tmdbId": "574321",
+    "genres": [
+      "drama",
+      "crime"
+    ]
   },
   "Lizzie": {
     "year": 2018,
@@ -2713,7 +3904,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/z2iuBcwznen3kC9z4LeOzBSz1BB.jpg",
-    "tmdbId": "460071"
+    "tmdbId": "460071",
+    "genres": [
+      "crime",
+      "drama",
+      "thriller"
+    ]
   },
   "Hearts Beat Loud": {
     "year": 2018,
@@ -2723,7 +3919,13 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/h1wKptD8iXJbtAUSz9OlXS3q4Co.jpg",
-    "tmdbId": "470333"
+    "tmdbId": "470333",
+    "genres": [
+      "music",
+      "drama",
+      "comedy",
+      "family"
+    ]
   },
   "Be with Me": {
     "year": 2005,
@@ -2732,7 +3934,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "en",
     "poster": "https://image.tmdb.org/t/p/w500/sP2Dmq7pANMhPxl8fbl04fxQHYH.jpg",
-    "tmdbId": "29965"
+    "tmdbId": "29965",
+    "genres": [
+      "drama",
+      "romance"
+    ]
   },
   "Babylon": {
     "year": 2022,
@@ -2743,7 +3949,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "615777",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/wjOHjWCUE0YzDiEzKv8AfqHj3ir.jpg",
+    "genres": [
+      "drama",
+      "comedy"
+    ]
   },
   "Aniara": {
     "year": 2018,
@@ -2752,7 +3962,11 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "496743",
     "posterLanguage": "sv",
-    "poster": "https://image.tmdb.org/t/p/w500/vgmrUSmhGwWQHEYtl6gikUGDt85.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/vgmrUSmhGwWQHEYtl6gikUGDt85.jpg",
+    "genres": [
+      "science-fiction",
+      "drama"
+    ]
   },
   "Black Swan": {
     "year": 2010,
@@ -2762,7 +3976,12 @@ window.WLW_MOVIE_METADATA = {
     ],
     "tmdbId": "44214",
     "posterLanguage": "en",
-    "poster": "https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/viWheBd44bouiLCHgNMvahLThqx.jpg",
+    "genres": [
+      "drama",
+      "thriller",
+      "horror"
+    ]
   },
   "Little Trouble Girls": {
     "year": 2025,
@@ -2774,6 +3993,9 @@ window.WLW_MOVIE_METADATA = {
     ],
     "posterLanguage": "sl",
     "poster": "https://image.tmdb.org/t/p/w500/b4S00GQaYQm3ThieNImvTMTHnip.jpg",
-    "tmdbId": "1019871"
+    "tmdbId": "1019871",
+    "genres": [
+      "drama"
+    ]
   }
 };
