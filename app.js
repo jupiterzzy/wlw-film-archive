@@ -101,10 +101,10 @@ heroArrow.style.color =
   "#f7f3ee";
 
 heroArrow.style.fontSize =
-  "1.55rem";
+  "1.8rem";
 
 heroArrow.style.fontWeight =
-  "400";
+  "900";
 
 heroArrow.style.fontFamily =
   "Arial, sans-serif";
