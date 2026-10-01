@@ -25,27 +25,25 @@ if (/^[A-Z]$/.test(legacyLetter)) {
       : `./alphabet.html?letter=${encodeURIComponent(legacyLetter)}`
   );
 } else {
-  const titleAliases = {
-    "Unexpected": ["Ich will dich"],
-    "A Woman Like Eve": ["Een vrouw als Eva"],
-    "Affäre zu dritt": ["Love and Desire"],
-    "Afternoon Breezes": ["Kaze-tachi no gogo", "風たちの午後"],
-    "Aimée & Jaguar": ["Aimée and Jaguar"],
-    "All the Silence": ["Todo el silencio"],
-    "Anaïs in Love": ["Les Amours d'Anaïs"],
-    "Attachment": ["Natten har øjne"]
-  };
+   const allMovies =
+    Object.values(
+      window.WLW_CATALOG
+    )
+      .flatMap(
+        group =>
+          group.movies
+      )
+      .map(
+        movie => ({
+          ...movie,
 
-  const allMovies = Object.values(window.WLW_CATALOG)
-    .flatMap(group => group.movies)
-    .map(movie => ({
-      ...movie,
-      aliases: [
-        ...(titleAliases[movie.title] || []),
-        ...window.getWLWAliases(movie.title)
-      ]
-    }));
-
+          aliases:
+            window.getWLWAliases(
+              movie.title
+            )
+        })
+      );
+  
   function navigationHref(movie) {
     return `./movie.html?title=${encodeURIComponent(movie.title)}`;
   }
