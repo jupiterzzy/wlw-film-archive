@@ -68,6 +68,7 @@ window.WLW_COLLECTIONS = [
     "slug": "lesmas",
     "label": "LesMas",
     "movies": [
+      "Carol",
       "Happiest Season",
       "Friends & Family Christmas",
       "Looking for Her",
@@ -78,6 +79,8 @@ window.WLW_COLLECTIONS = [
   {
     "slug": "toxic-yuri",
     "label": "Toxic Yuri",
-    "movies": []
+    "movies": [
+      "Mulholland Drive"
+    ]
   }
 ];
