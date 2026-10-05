@@ -1558,3 +1558,184 @@
   }
 
 }
+
+/* ------------------------------
+   Santa hats
+   ------------------------------ */
+
+.lesmas-hat {
+  position: absolute;
+  left: 0;
+  top: -5rem;
+
+  width: calc(var(--size) * 1.55);
+  height: calc(var(--size) * 1.18);
+
+  transform:
+    translate3d(
+      var(--x),
+      -5rem,
+      0
+    )
+    rotate(
+      var(--rotation)
+    );
+
+  transform-origin: 32% 76%;
+
+  animation:
+    lesmas-hat-fall
+    var(--duration)
+    linear
+    var(--delay)
+    infinite;
+}
+
+
+/*
+  Main red hat body
+  Flat cartoon style, closer to your reference
+*/
+.lesmas-hat-crown {
+  position: absolute;
+
+  left: 16%;
+  top: 2%;
+
+  width: 68%;
+  height: 70%;
+
+  background: #e51d35;
+
+  border: 0.14rem solid #141414;
+  border-bottom: none;
+
+  border-radius:
+    72% 38% 52% 42%
+    / 96% 42% 48% 36%;
+
+  transform: rotate(14deg);
+  transform-origin: 18% 90%;
+
+  box-shadow: none;
+  overflow: visible;
+}
+
+.lesmas-hat-crown::after {
+  content: "";
+  position: absolute;
+
+  right: -14%;
+  top: 8%;
+
+  width: 36%;
+  height: 20%;
+
+  background: #e51d35;
+
+  border: 0.14rem solid #141414;
+  border-left: none;
+  border-bottom: none;
+
+  border-radius: 0 999px 999px 0;
+
+  transform: rotate(24deg);
+  transform-origin: left center;
+}
+
+
+/*
+  White fluffy bottom band
+*/
+.lesmas-hat-band {
+  position: absolute;
+
+  left: 4%;
+  bottom: 8%;
+
+  width: 76%;
+  height: 24%;
+
+  background: #ffffff;
+
+  border: 0.14rem solid #141414;
+  border-radius: 999px;
+
+  box-shadow: none;
+}
+
+
+/*
+  White pom-pom at the tip
+*/
+.lesmas-hat-pom {
+  position: absolute;
+
+  right: -1%;
+  top: 12%;
+
+  width: 23%;
+  aspect-ratio: 1;
+
+  border-radius: 50%;
+  background: #ffffff;
+
+  border: 0.14rem solid #141414;
+
+  box-shadow: none;
+}
+
+
+@keyframes lesmas-hat-fall {
+  0% {
+    transform:
+      translate3d(
+        var(--x),
+        -5rem,
+        0
+      )
+      rotate(
+        var(--rotation)
+      );
+  }
+
+  50% {
+    transform:
+      translate3d(
+        calc(
+          var(--x) +
+          var(--drift)
+        ),
+        48vh,
+        0
+      )
+      rotate(
+        calc(
+          var(--rotation) +
+          8deg
+        )
+      );
+  }
+
+  100% {
+    transform:
+      translate3d(
+        calc(
+          var(--x) +
+          var(--drift)
+        ),
+        calc(
+          100vh +
+          7rem
+        ),
+        0
+      )
+      rotate(
+        calc(
+          var(--rotation) +
+          14deg
+        )
+      );
+  }
+}
+
