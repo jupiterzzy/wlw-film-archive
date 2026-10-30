@@ -90,7 +90,7 @@ window.WLW_MOVIE_METADATA = {
     "aliases": [
       "女孩不平凡"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/bSokTwX3YVpbaeIGRbKWD9xf4dO.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/yNxDFLoN2qw1dx2V4rH7rq0C17D.jpg",
     "tmdbId": "1388338",
     "posterLanguage": "cn",
     "genres": [
@@ -145,7 +145,8 @@ window.WLW_MOVIE_METADATA = {
     "year": 2020,
     "aliases": [
       "常春藤",
-      "담쟁이"
+      "담쟁이",
+      "與妳約定"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/qSvpuXySS85utsCaIUYngh3PYD5.jpg",
     "tmdbId": "705990",
@@ -420,7 +421,9 @@ window.WLW_MOVIE_METADATA = {
   },
   "Maya & Samar": {
     "year": 2025,
-    "aliases": [],
+    "aliases": [
+      "玛雅和萨马"
+    ],
     "poster": "https://image.tmdb.org/t/p/w500/6UdKNWOlZFTiGxOyaOoNZcqMj7t.jpg",
     "tmdbId": "1513996",
     "posterLanguage": "en",
@@ -541,7 +544,7 @@ window.WLW_MOVIE_METADATA = {
   "Drea & Cloe": {
     "year": 2025,
     "aliases": [],
-    "poster": "https://image.tmdb.org/t/p/w500/i0CekRC1hE1qLTLhdVJlmI7nKpc.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/196r9zq6TuV7rzCQFqooehujnHz.jpg",
     "tmdbId": "1552407",
     "posterLanguage": "es",
     "genres": [
@@ -2908,7 +2911,8 @@ window.WLW_MOVIE_METADATA = {
     "posterLanguage": "en",
     "genres": [
       "romance",
-      "drama"
+      "drama",
+      "tv-movie"
     ]
   },
   "Girls Like Girls": {
@@ -3135,7 +3139,7 @@ window.WLW_MOVIE_METADATA = {
       "修女乔治的双重生活",
       "修女喬治的雙重生活"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/u9Cyc6mde7pthv7M2xvk3wmfAHP.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/nDuiqB7DipybQfZEoMlwmK3GBpG.jpg",
     "tmdbId": "54575",
     "posterLanguage": "en",
     "genres": [
@@ -3350,7 +3354,7 @@ window.WLW_MOVIE_METADATA = {
       "见习修女",
       "見習修女"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/ntsyazWKclgwObVftWVVAEBcvRq.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/44D1sofF19zPZDuzcprLNStqQJM.jpg",
     "tmdbId": "411976",
     "posterLanguage": "en",
     "genres": [
@@ -3363,7 +3367,7 @@ window.WLW_MOVIE_METADATA = {
       "婚礼进行时",
       "婚禮進行時"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/9wuOLR0yTdjiIVca9UWX2WErobo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/6nTkDfOutM6qHGtmWsSVn45SZst.jpg",
     "tmdbId": "85330",
     "posterLanguage": "en",
     "genres": [
@@ -3612,7 +3616,8 @@ window.WLW_MOVIE_METADATA = {
   "Whistle": {
     "year": 2025,
     "aliases": [
-      "哨子"
+      "哨子",
+      "口哨大赛"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/jovDlv8PovRC42gDzKcYSEpgcJz.jpg",
     "tmdbId": "1526225",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T07:02:37.946Z",
+  "generatedAt": "2026-10-30T05:14:59.930Z",
   "titles": {
     "100 Nights of Hero": {
       "tmdbId": 1354518,
@@ -925,7 +925,7 @@
           "name": "Filippa Marcella Olesen Olsson",
           "character": "Rochel",
           "order": 8,
-          "profilePath": ""
+          "profilePath": "/rDCUAFCIkhLday2fZ3E47TKiaCM.jpg"
         },
         {
           "id": 5032222,
@@ -4209,7 +4209,7 @@
           "name": "Cornelia Dörr",
           "character": "Birgit",
           "order": 7,
-          "profilePath": ""
+          "profilePath": "/al3FwZesZRNrJQfVUiQQ4HBOPZN.jpg"
         },
         {
           "id": 1176092,
@@ -5379,13 +5379,6 @@
           "character": "Alley Thug",
           "order": 31,
           "profilePath": ""
-        },
-        {
-          "id": 1579377,
-          "name": "Angela Boehm",
-          "character": "Motorcycle Lesbian",
-          "order": 33,
-          "profilePath": "/c8f6ySDPHTFNSGjdJe7RYRKsZMf.jpg"
         },
         {
           "id": 4773401,
@@ -6578,13 +6571,6 @@
           "name": "Maurice Delaistier",
           "character": "Le secrétaire violoniste",
           "order": 31,
-          "profilePath": ""
-        },
-        {
-          "id": 21551,
-          "name": "Jean-Pierre Guérin",
-          "character": "Monsieur Janvier",
-          "order": 34,
           "profilePath": ""
         }
       ]
@@ -8074,13 +8060,6 @@
       "mediaType": "movie",
       "candidates": [
         {
-          "id": 2096276,
-          "name": "Elena Heuzé",
-          "character": "Nikki",
-          "order": 0,
-          "profilePath": ""
-        },
-        {
           "id": 3391794,
           "name": "Nia Sondaya",
           "character": "Samantha",
@@ -8195,13 +8174,6 @@
           "name": "Lou Dobson",
           "character": "Grandma Parker",
           "order": 17,
-          "profilePath": ""
-        },
-        {
-          "id": 2089830,
-          "name": "Nic Farra",
-          "character": "Boarder",
-          "order": 20,
           "profilePath": ""
         },
         {
@@ -8832,13 +8804,6 @@
           "name": "Zoe LaLiberté",
           "character": "Candlelight Vigil Singer",
           "order": 35,
-          "profilePath": ""
-        },
-        {
-          "id": 3236788,
-          "name": "Chelsey Smith",
-          "character": "Candlelight Vigil Singer",
-          "order": 36,
           "profilePath": ""
         },
         {
@@ -9898,7 +9863,7 @@
           "name": "Gustine Fudickar",
           "character": "Cat Pegrum",
           "order": 4,
-          "profilePath": ""
+          "profilePath": "/l8L6CrG56ZV8GIshE9xkpDtSD5P.jpg"
         },
         {
           "id": 1184769,
@@ -11219,7 +11184,7 @@
           "name": "Cori Glazer",
           "character": "Blue-Haired Lady",
           "order": 61,
-          "profilePath": ""
+          "profilePath": "/dvqtMmS89ybTcfN0g3elR8rXggx.jpg"
         },
         {
           "id": 1172401,
@@ -11261,13 +11226,6 @@
           "name": "Theresa Salazar",
           "character": "Dancer",
           "order": 68,
-          "profilePath": ""
-        },
-        {
-          "id": 1172407,
-          "name": "Thea Samuels",
-          "character": "Dancer",
-          "order": 69,
           "profilePath": ""
         }
       ]
@@ -11378,13 +11336,6 @@
           "character": "Daisy",
           "order": 15,
           "profilePath": ""
-        },
-        {
-          "id": 5567026,
-          "name": "Jaime Schneider",
-          "character": "Tom",
-          "order": 16,
-          "profilePath": "/8p6qWotRaeTfuWLUGREjgFRPQve.jpg"
         }
       ]
     },
@@ -11523,6 +11474,118 @@
           "character": "Client bavard",
           "order": 32,
           "profilePath": ""
+        },
+        {
+          "id": 6557999,
+          "name": "Luna Pozzi-Rastegar",
+          "character": "Eve, la fille de Mia",
+          "order": 38,
+          "profilePath": ""
+        },
+        {
+          "id": 3598987,
+          "name": "Bruno Martin",
+          "character": "Copain vergine tatoué",
+          "order": 39,
+          "profilePath": ""
+        },
+        {
+          "id": 6557983,
+          "name": "Victoire Boissont-Ferté",
+          "character": "Comédienne fête de fin de tournage",
+          "order": 40,
+          "profilePath": ""
+        },
+        {
+          "id": 2528968,
+          "name": "Vincent Overath",
+          "character": "Mec dans la rue 1",
+          "order": 41,
+          "profilePath": ""
+        },
+        {
+          "id": 6558008,
+          "name": "Clément Lonchart",
+          "character": "Mec dans la rue 2",
+          "order": 42,
+          "profilePath": ""
+        },
+        {
+          "id": 6558012,
+          "name": "Médard Kouassi",
+          "character": "Chauffeur taxi",
+          "order": 43,
+          "profilePath": ""
+        },
+        {
+          "id": 6558013,
+          "name": "Dimitri Brunet",
+          "character": "Futur marie",
+          "order": 44,
+          "profilePath": ""
+        },
+        {
+          "id": 1198780,
+          "name": "Dyana Gaye",
+          "character": "Metteuse en scéne",
+          "order": 46,
+          "profilePath": "/i7MkKcMlSBnBNs2DGsKA67RPUhH.jpg"
+        },
+        {
+          "id": 1371644,
+          "name": "Prune Beuchat",
+          "character": "Danseuse fête de la fin",
+          "order": 48,
+          "profilePath": ""
+        },
+        {
+          "id": 6558026,
+          "name": "Angélique Andreaz",
+          "character": "Danseuse fête de la fin",
+          "order": 53,
+          "profilePath": ""
+        },
+        {
+          "id": 4578090,
+          "name": "Karine Durance",
+          "character": "Danseuse fête de la fin",
+          "order": 54,
+          "profilePath": ""
+        },
+        {
+          "id": 6558030,
+          "name": "Corine Girault",
+          "character": "Danseuse fête de la fin",
+          "order": 55,
+          "profilePath": ""
+        },
+        {
+          "id": 6558032,
+          "name": "Gwen Guerdin",
+          "character": "Danseuse fête de la fin",
+          "order": 56,
+          "profilePath": ""
+        },
+        {
+          "id": 6558034,
+          "name": "Abigaïl Auperin",
+          "character": "Danseuse fête de la fin",
+          "order": 57,
+          "profilePath": ""
+        },
+        {
+          "id": 6558035,
+          "name": "Jumaï Laguna",
+          "character": "Danseuse fête de la fin",
+          "order": 58,
+          "profilePath": ""
+        },
+        {
+          "id": 3572257,
+          "name": "Lza Steyaert",
+          "character": "Danseuse fête de la fin",
+          "order": 59,
+          "profilePath": "/bQTnwXyrQ8iRSnixWcEwGzDuZ2d.jpg"
         }
       ]
     },
@@ -12412,6 +12475,202 @@
           "character": "Coctail Party Guest",
           "order": 22,
           "profilePath": ""
+        },
+        {
+          "id": 6518469,
+          "name": "Ana Belén Beas",
+          "character": "Cóctel",
+          "order": 23,
+          "profilePath": ""
+        },
+        {
+          "id": 2717428,
+          "name": "Víctor Huerta",
+          "character": "Cóctel",
+          "order": 26,
+          "profilePath": ""
+        },
+        {
+          "id": 6518471,
+          "name": "David Matesanz",
+          "character": "Cóctel",
+          "order": 28,
+          "profilePath": ""
+        },
+        {
+          "id": 2611235,
+          "name": "Conrado Granado",
+          "character": "Cóctel",
+          "order": 29,
+          "profilePath": "/7QlDaw1xiNBBWHWDN4yQz9wmLAs.jpg"
+        },
+        {
+          "id": 279,
+          "name": "Antonio Vega",
+          "character": "Cóctel",
+          "order": 30,
+          "profilePath": ""
+        },
+        {
+          "id": 4947761,
+          "name": "Mauro Motta",
+          "character": "Cóctel",
+          "order": 31,
+          "profilePath": ""
+        },
+        {
+          "id": 6518472,
+          "name": "Cristina Jiménez",
+          "character": "Cóctel",
+          "order": 32,
+          "profilePath": ""
+        },
+        {
+          "id": 6518473,
+          "name": "Antonio Calle",
+          "character": "Cóctel",
+          "order": 33,
+          "profilePath": ""
+        },
+        {
+          "id": 3501135,
+          "name": "Juan Miguel Bataller",
+          "character": "Cóctel",
+          "order": 34,
+          "profilePath": "/uWvnNjzr4mZGH8HrrEVnlJXIjYQ.jpg"
+        },
+        {
+          "id": 3060378,
+          "name": "Alfonso Martínez Poza",
+          "character": "Cóctel",
+          "order": 35,
+          "profilePath": ""
+        },
+        {
+          "id": 5651424,
+          "name": "Alejandra Chen Jiang",
+          "character": "Cóctel",
+          "order": 36,
+          "profilePath": ""
+        },
+        {
+          "id": 6518476,
+          "name": "Bharati Jiménez",
+          "character": "Cóctel",
+          "order": 37,
+          "profilePath": ""
+        },
+        {
+          "id": 6518477,
+          "name": "Mari Stern",
+          "character": "Cóctel",
+          "order": 38,
+          "profilePath": ""
+        },
+        {
+          "id": 6518478,
+          "name": "María Fernández Arzuaga",
+          "character": "Cóctel",
+          "order": 39,
+          "profilePath": ""
+        },
+        {
+          "id": 6518480,
+          "name": "Gloria García Baquero",
+          "character": "Cóctel",
+          "order": 40,
+          "profilePath": ""
+        },
+        {
+          "id": 6518481,
+          "name": "Tony Padilla",
+          "character": "Cóctel",
+          "order": 42,
+          "profilePath": ""
+        },
+        {
+          "id": 4612169,
+          "name": "Mercedes Leoni",
+          "character": "Cóctel",
+          "order": 43,
+          "profilePath": ""
+        },
+        {
+          "id": 2591015,
+          "name": "Mari Carmen Manzanares",
+          "character": "Cóctel",
+          "order": 44,
+          "profilePath": ""
+        },
+        {
+          "id": 3517047,
+          "name": "Nestor Aizcorbe",
+          "character": "Cóctel",
+          "order": 45,
+          "profilePath": ""
+        },
+        {
+          "id": 6518486,
+          "name": "Marta Oriol",
+          "character": "Cóctel",
+          "order": 46,
+          "profilePath": ""
+        },
+        {
+          "id": 6518496,
+          "name": "Silvia Peleija",
+          "character": "Cóctel",
+          "order": 47,
+          "profilePath": ""
+        },
+        {
+          "id": 6518502,
+          "name": "Jenry M. Velásquez Iza",
+          "character": "Rodaje serie astronauta",
+          "order": 49,
+          "profilePath": ""
+        },
+        {
+          "id": 6518503,
+          "name": "Bruno Gonzales Palomino",
+          "character": "Rodaje serie astronauta",
+          "order": 50,
+          "profilePath": ""
+        },
+        {
+          "id": 6518504,
+          "name": "Cristiano Pablo Morales Pijuango",
+          "character": "Rodaje serie astronauta",
+          "order": 51,
+          "profilePath": ""
+        },
+        {
+          "id": 6518505,
+          "name": "Steven Acosta",
+          "character": "Rodaje serie astronauta",
+          "order": 52,
+          "profilePath": ""
+        },
+        {
+          "id": 6518506,
+          "name": "Luis Ulises Acosta",
+          "character": "Rodaje serie astronauta",
+          "order": 53,
+          "profilePath": ""
+        },
+        {
+          "id": 1922383,
+          "name": "Jaime Reynolds",
+          "character": "Rodaje serie astronauta",
+          "order": 54,
+          "profilePath": ""
+        },
+        {
+          "id": 1277730,
+          "name": "Martín Brassesco",
+          "character": "Periodista festival",
+          "order": 58,
+          "profilePath": ""
         }
       ]
     },
@@ -12807,6 +13066,20 @@
           "character": "Rafa",
           "order": 7,
           "profilePath": "/24PQZdplFZqwZzXWXqV5FeOnJ6m.jpg"
+        },
+        {
+          "id": 6531214,
+          "name": "Cherina Javier",
+          "character": "Manager",
+          "order": 9,
+          "profilePath": ""
+        },
+        {
+          "id": 2166227,
+          "name": "Joanna Marie Katanyag",
+          "character": "Life Coach",
+          "order": 10,
+          "profilePath": ""
         }
       ]
     },
@@ -17941,13 +18214,6 @@
           "profilePath": ""
         },
         {
-          "id": 1803006,
-          "name": "Leah Hill",
-          "character": "Dancer",
-          "order": 233,
-          "profilePath": "/2ZWATSc8UUk325GHOfHZNyVFXCz.jpg"
-        },
-        {
           "id": 2535099,
           "name": "Lee Bridgman",
           "character": "Dancer",
@@ -19359,13 +19625,6 @@
           "character": "Dancer",
           "order": 134,
           "profilePath": ""
-        },
-        {
-          "id": 1803006,
-          "name": "Leah Hill",
-          "character": "Dancer",
-          "order": 135,
-          "profilePath": "/2ZWATSc8UUk325GHOfHZNyVFXCz.jpg"
         },
         {
           "id": 2535099,
