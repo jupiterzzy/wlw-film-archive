@@ -3,10 +3,12 @@ const AUTHOR_PICKS = [
   "D.E.B.S.",
   "Saving Face",
   "Intermission",
-  "When Night Is Falling",
+  "Jennifer's Body",
+  "Why Not Me?",
   "Imagine Me & You",
   "Sister My Sister",
   "The Celluloid Closet",
+  "Atomic Blonde",
   "Aimée & Jaguar"
 ];
 
