@@ -61,6 +61,11 @@ if (/^[A-Z]$/.test(legacyLetter)) {
     hero.style.backgroundImage =
       `linear-gradient(180deg,rgba(19,17,24,.08),rgba(19,17,24,.18)),url("${heroImages[currentSlide]}")`;
 
+    hero.style.backgroundPosition =
+  currentSlide === 2
+    ? "center calc(50% + 20px)"
+    : "center";
+    
     slideCount.textContent =
       `${String(
         currentSlide + 1
