@@ -70,7 +70,11 @@ window.WLW_CATALOG = {
         "title": "The World Unseen",
         "year": 2007,
         "poster": "the-world-unseen.jpg"
-      }
+      },
+      {
+ title: "All of a Sudden",
+ year: 2026
+}
     ]
   },
   "AUS": {
@@ -483,7 +487,15 @@ window.WLW_CATALOG = {
         "title": "You Will Be Mine",
         "year": 2009,
         "poster": "you-will-be-mine.jpg"
-      }
+      },
+      {
+ title: "Call My Agent!",
+ year: 2026
+},
+{
+ title: "Upon Her Lips: Pure Feels",
+ year: 2021
+}
     ]
   },
   "GEO": {
@@ -856,7 +868,11 @@ window.WLW_CATALOG = {
         "title": "So Damn Easy Going",
         "year": 2022,
         "poster": "so-damn-easy-going.jpg"
-      }
+      },
+      {
+ title: "Nova & Alice",
+ year: 2024
+}
     ]
   },
   "UK": {
@@ -1023,7 +1039,11 @@ window.WLW_CATALOG = {
         "title": "Tell It to the Bees",
         "year": 2018,
         "poster": "tell-it-to-the-bees.jpg"
-      }
+      },
+      {
+ title: "The Miseducation of Cameron Post",
+ year: 2018
+}
     ]
   },
   "USA": {
@@ -1625,7 +1645,27 @@ window.WLW_CATALOG = {
         "title": "The World to Come",
         "year": 2020,
         "poster": "the-world-to-come.jpg"
-      }
+      },
+      {
+ title: "Nosferatu",
+ year: 2024
+},
+{
+ title: "Bodies Bodies Bodies",
+ year: 2022
+},
+{
+ title: "She Creature",
+ year: 2001
+},
+{
+ title: "Teenage Sex and Death at Camp Miasma",
+ year: 2026
+},
+{
+ title: "The Center of the World",
+ year: 2001
+}
     ]
   }
 };
