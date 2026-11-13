@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T04:47:42.270Z",
+  "generatedAt": "2026-11-13T08:55:12.917Z",
   "titles": {
     "100 Nights of Hero": {
       "tmdbId": 1354518,
@@ -801,6 +801,188 @@
           "name": "Saúl Villa Guzmán",
           "character": "Chico Sordo",
           "order": 18,
+          "profilePath": ""
+        },
+        {
+          "id": 6652137,
+          "name": "Maria Shimizu Almaraz",
+          "character": "Asistente de Dirección",
+          "order": 19,
+          "profilePath": ""
+        },
+        {
+          "id": 4416885,
+          "name": "Yatzini Aparicio",
+          "character": "Mesera Restaurant",
+          "order": 20,
+          "profilePath": ""
+        },
+        {
+          "id": 2510946,
+          "name": "Maria Ayub",
+          "character": "Recepcionista Aparato Sordera",
+          "order": 21,
+          "profilePath": ""
+        },
+        {
+          "id": 1520426,
+          "name": "César Bañuelos",
+          "character": "Hombre Parada Camión",
+          "order": 22,
+          "profilePath": ""
+        },
+        {
+          "id": 6652149,
+          "name": "Brenda Ramos Beltrán",
+          "character": "Niña Escuela LSM",
+          "order": 23,
+          "profilePath": ""
+        },
+        {
+          "id": 6645057,
+          "name": "Amaranta Caravantes",
+          "character": "Amaranta",
+          "order": 24,
+          "profilePath": ""
+        },
+        {
+          "id": 6652156,
+          "name": "Sofia Motte Contreras",
+          "character": "Mesera Bar Sordos",
+          "order": 25,
+          "profilePath": ""
+        },
+        {
+          "id": 6376068,
+          "name": "Gonzalo de Esesarte",
+          "character": "Medvedenko",
+          "order": 26,
+          "profilePath": ""
+        },
+        {
+          "id": 6652171,
+          "name": "Daniela Diaz de León",
+          "character": "Chica Pantalla",
+          "order": 27,
+          "profilePath": ""
+        },
+        {
+          "id": 6652174,
+          "name": "Lourdes del Río",
+          "character": "Chica Pantalla",
+          "order": 28,
+          "profilePath": ""
+        },
+        {
+          "id": 3762507,
+          "name": "Pilar Flores del Valle",
+          "character": "Letty",
+          "order": 29,
+          "profilePath": ""
+        },
+        {
+          "id": 6652179,
+          "name": "Mario Solís González",
+          "character": "Chico Sordo 2 Bar",
+          "order": 30,
+          "profilePath": ""
+        },
+        {
+          "id": 4389526,
+          "name": "Mateo López",
+          "character": "Niño Escuela LSM",
+          "order": 31,
+          "profilePath": ""
+        },
+        {
+          "id": 6629728,
+          "name": "Lupita Martinez",
+          "character": "Directora Escuela LSM",
+          "order": 32,
+          "profilePath": ""
+        },
+        {
+          "id": 6652182,
+          "name": "Xóchitl Gabriela Martínez",
+          "character": "Niña Escuela LSM",
+          "order": 33,
+          "profilePath": ""
+        },
+        {
+          "id": 6652185,
+          "name": "Yamileth Alexander Márquez",
+          "character": "Niña Escuela LSM",
+          "order": 35,
+          "profilePath": ""
+        },
+        {
+          "id": 6652187,
+          "name": "Zarek Alexander Márquez",
+          "character": "Niño Escuela LSM",
+          "order": 36,
+          "profilePath": ""
+        },
+        {
+          "id": 6649659,
+          "name": "Lilia Navarro",
+          "character": "Luisa",
+          "order": 37,
+          "profilePath": ""
+        },
+        {
+          "id": 6652189,
+          "name": "Nancy Jaquelinne Ortiz",
+          "character": "Maestra Escuela LSM",
+          "order": 38,
+          "profilePath": ""
+        },
+        {
+          "id": 6652191,
+          "name": "Yamile Palacios",
+          "character": "Bar Tender",
+          "order": 39,
+          "profilePath": ""
+        },
+        {
+          "id": 6652193,
+          "name": "Jerry Vega Preciado",
+          "character": "Mesero Bar Sordos",
+          "order": 40,
+          "profilePath": ""
+        },
+        {
+          "id": 3427990,
+          "name": "Alan Yael Rojas",
+          "character": "Niño Escuela LSM",
+          "order": 41,
+          "profilePath": ""
+        },
+        {
+          "id": 6652197,
+          "name": "Israel Fernández Ruíz",
+          "character": "Niño Escuela LSM",
+          "order": 42,
+          "profilePath": ""
+        },
+        {
+          "id": 6642300,
+          "name": "Kenny Serratos",
+          "character": "Chico Pantalla",
+          "order": 43,
+          "profilePath": ""
+        },
+        {
+          "id": 4785029,
+          "name": "Fabiola Villalpando",
+          "character": "Ténico Audiometría",
+          "order": 45,
+          "profilePath": ""
+        },
+        {
+          "id": 6652202,
+          "name": "Jhon William Villanueva",
+          "character": "Niño Escuela LSM",
+          "order": 46,
           "profilePath": ""
         }
       ]
