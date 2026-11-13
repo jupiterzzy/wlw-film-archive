@@ -559,7 +559,8 @@ window.WLW_MOVIE_METADATA = {
     "aliases": [
       "埃莉莎与玛塞拉",
       "艾莉莎與瑪榭拉",
-      "Elisa y Marcela"
+      "Elisa y Marcela",
+      "伊莉莎与玛瑟拉"
     ],
     "poster": "https://image.tmdb.org/t/p/w500/nErhV8hYuU32owRkrgilFZRGkBj.jpg",
     "tmdbId": "535356",
@@ -1995,7 +1996,7 @@ window.WLW_MOVIE_METADATA = {
       "離經叛愛",
       "叛逆性百合"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/kPJTR7IUkzqjIu1SGnpQmGo9Iip.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/skPT4ffWhlmmDOMNEdxOiP6Emfz.jpg",
     "tmdbId": "419743",
     "posterLanguage": "en",
     "genres": [
@@ -2051,7 +2052,7 @@ window.WLW_MOVIE_METADATA = {
       "热牛奶",
       "熱浪之夏"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/rIIPeDBAr3eSKPaqCawxFywUHAU.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/oHmvjEHFqkGy9tCmxfYW9udvo9n.jpg",
     "tmdbId": "933490",
     "posterLanguage": "en",
     "genres": [
@@ -2078,7 +2079,7 @@ window.WLW_MOVIE_METADATA = {
       "四角关系",
       "四角關係"
     ],
-    "poster": "https://image.tmdb.org/t/p/w500/a7CbxY3TMwFKX6awlBxhb7Es6tS.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/wpDRczWzVHA6Az6UQq1ivvORPHK.jpg",
     "tmdbId": "1544",
     "posterLanguage": "en",
     "genres": [
@@ -4002,5 +4003,150 @@ window.WLW_MOVIE_METADATA = {
     "genres": [
       "drama"
     ]
+  },
+  "All of a Sudden": {
+    "year": 2026,
+    "aliases": [
+      "急に具合が悪くなる",
+      "突如其来",
+      "一瞬間",
+      "突緣其來"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/gniQjGg0LaLaiWQOqxdVJkMH0Jx.jpg",
+    "tmdbId": "1476614",
+    "posterLanguage": "ja"
+  },
+  "Bodies Bodies Bodies": {
+    "year": 2022,
+    "aliases": [
+      "尸体游戏",
+      "天黑請斃命"
+    ],
+    "genres": [
+      "comedy",
+      "mystery",
+      "horror"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/hSuTjDmqRdy7Dii8ymnF2WILTeP.jpg",
+    "tmdbId": "520023",
+    "posterLanguage": "en"
+  },
+  "Call My Agent!": {
+    "year": 2026,
+    "aliases": [
+      "Dix Pour Cent ! Le Film",
+      "百分之十：电影版",
+      "找我經紀人：電影版"
+    ],
+    "genres": [
+      "comedy",
+      "drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lJUmTDi1ssxcxkHrzVBlwhaB0v8.jpg",
+    "tmdbId": "1365884",
+    "posterLanguage": "fr"
+  },
+  "The Center of the World": {
+    "year": 2001,
+    "aliases": [
+      "世界中心"
+    ],
+    "genres": [
+      "drama",
+      "romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lmcabkCsSQ08yll4dIVclWc2RSX.jpg",
+    "tmdbId": "32590",
+    "posterLanguage": "en"
+  },
+  "The Miseducation of Cameron Post": {
+    "year": 2018,
+    "aliases": [
+      "卡梅伦的错误教育",
+      "她的錯誤教育",
+      "性教獄"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/xFLJDW3na8AADFzQJT6bM1VU5zs.jpg",
+    "tmdbId": "426613",
+    "posterLanguage": "en"
+  },
+  "Nosferatu": {
+    "year": 2024,
+    "aliases": [
+      "诺斯费拉图",
+      "吸血鬼：諾斯費拉圖",
+      "諾斯費拉圖"
+    ],
+    "genres": [
+      "horror",
+      "fantasy"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/d0B8xDdqBZlzlPEzES8lu5LlNQn.jpg",
+    "tmdbId": "426063",
+    "posterLanguage": "en"
+  },
+  "Nova & Alice": {
+    "year": 2024,
+    "aliases": [
+      "诺娃与爱丽丝",
+      "諾娃與愛麗絲"
+    ],
+    "genres": [
+      "drama",
+      "music",
+      "romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/lCiezbyJEozX5qYyyi2obveX3jG.jpg",
+    "tmdbId": "1278076",
+    "posterLanguage": "sv"
+  },
+  "She Creature": {
+    "year": 2001,
+    "aliases": [
+      "Mermaid Chronicles Part 1: She Creature",
+      "终极人鱼岛",
+      "終極人魚島"
+    ],
+    "genres": [
+      "horror",
+      "fantasy",
+      "tv-movie"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/9XujfUiyhNxPG48cQHvJnkMnqSw.jpg",
+    "tmdbId": "37254",
+    "posterLanguage": "en"
+  },
+  "Teenage Sex and Death at Camp Miasma": {
+    "year": 2026,
+    "aliases": [
+      "瘴气营地的青春性事与死亡",
+      "屍控片場性愛死",
+      "屍營片場性愛死"
+    ],
+    "genres": [
+      "comedy",
+      "horror",
+      "romance"
+    ],
+    "poster": "https://image.tmdb.org/t/p/w500/jcGvB76v8p1sqYXXkBetWASV0uM.jpg",
+    "tmdbId": "1240889",
+    "posterLanguage": "en"
+  },
+  "Upon Her Lips: Pure Feels": {
+    "year": 2021,
+    "aliases": [
+      "她嘴唇的触感",
+      "她嘴唇的觸感"
+    ],
+    "genres": [],
+    "poster": "https://image.tmdb.org/t/p/w500/og0LMU4MuqsHLKXkRQJxrU46rpU.jpg",
+    "tmdbId": "817491",
+    "posterLanguage": "en"
   }
 };
