@@ -1,3 +1,8 @@
+**完整代码分为 4 段**，按顺序复制并连续粘贴即可。每段之间不要额外添加内容。
+
+**第 1/4 段（开头至 FRA 分类中间）：**
+
+```javascript
 // Generated from the current Notion "有资源的wlw" page.
 // Add poster files to dist/assets/posters/ using each movie's poster filename.
 window.WLW_CATALOG = {
@@ -72,9 +77,10 @@ window.WLW_CATALOG = {
         "poster": "the-world-unseen.jpg"
       },
       {
- title: "All of a Sudden",
- year: 2026
-}
+        "title": "All of a Sudden",
+        "year": 2026,
+        "poster": "all-of-a-sudden.jpg"
+      }
     ]
   },
   "AUS": {
@@ -489,16 +495,19 @@ window.WLW_CATALOG = {
         "poster": "you-will-be-mine.jpg"
       },
       {
- title: "Call My Agent!",
- year: 2026
-},
-{
- title: "Upon Her Lips: Pure Feels",
- year: 2021
-}
+        "title": "Call My Agent!",
+        "year": 2026,
+        "poster": "call-my-agent.jpg"
+      },
+      {
+        "title": "Upon Her Lips: Pure Feels",
+        "year": 2021,
+        "poster": "upon-her-lips-pure-feels.jpg"
+      }
     ]
   },
-  "GEO": {
+
+    "GEO": {
     "code": "GEO",
     "title": "GEO",
     "type": "country",
@@ -870,12 +879,14 @@ window.WLW_CATALOG = {
         "poster": "so-damn-easy-going.jpg"
       },
       {
- title: "Nova & Alice",
- year: 2024
-}
+        "title": "Nova & Alice",
+        "year": 2024,
+        "poster": "nova-and-alice.jpg"
+      }
     ]
   },
-  "UK": {
+
+    "UK": {
     "code": "UK",
     "title": "UK",
     "type": "country",
@@ -1041,12 +1052,14 @@ window.WLW_CATALOG = {
         "poster": "tell-it-to-the-bees.jpg"
       },
       {
- title: "The Miseducation of Cameron Post",
- year: 2018
-}
+        "title": "The Miseducation of Cameron Post",
+        "year": 2018,
+        "poster": "the-miseducation-of-cameron-post.jpg"
+      }
     ]
   },
-  "USA": {
+
+    "USA": {
     "code": "USA",
     "title": "USA",
     "type": "country",
@@ -1647,25 +1660,30 @@ window.WLW_CATALOG = {
         "poster": "the-world-to-come.jpg"
       },
       {
- title: "Nosferatu",
- year: 2024
-},
-{
- title: "Bodies Bodies Bodies",
- year: 2022
-},
-{
- title: "She Creature",
- year: 2001
-},
-{
- title: "Teenage Sex and Death at Camp Miasma",
- year: 2026
-},
-{
- title: "The Center of the World",
- year: 2001
-}
+        "title": "Nosferatu",
+        "year": 2024,
+        "poster": "nosferatu.jpg"
+      },
+      {
+        "title": "Bodies Bodies Bodies",
+        "year": 2022,
+        "poster": "bodies-bodies-bodies.jpg"
+      },
+      {
+        "title": "She Creature",
+        "year": 2001,
+        "poster": "she-creature.jpg"
+      },
+      {
+        "title": "Teenage Sex and Death at Camp Miasma",
+        "year": 2026,
+        "poster": "teenage-sex-and-death-at-camp-miasma.jpg"
+      },
+      {
+        "title": "The Center of the World",
+        "year": 2001,
+        "poster": "the-center-of-the-world.jpg"
+      }
     ]
   }
 };
