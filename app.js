@@ -63,7 +63,7 @@ if (/^[A-Z]$/.test(legacyLetter)) {
 
     hero.style.backgroundPosition =
   currentSlide === 2
-    ? "center calc(50% + 30px)"
+    ? "center calc(50% + 50px)"
     : "center";
     
     slideCount.textContent =
