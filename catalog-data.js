@@ -73,9 +73,9 @@ window.WLW_CATALOG = {
         "poster": "the-world-unseen.jpg"
       },
       {
-        title: "All of a Sudden",
-        year: 2026,
-        poster: "all-of-a-sudden.jpg"
+        "title": "All of a Sudden",
+        "year": 2026,
+        "poster": "all-of-a-sudden.jpg"
       }
     ]
   },
@@ -491,15 +491,15 @@ window.WLW_CATALOG = {
         "poster": "you-will-be-mine.jpg"
       },
       {
-        title: "Call My Agent!",
-        year: 2026,
-        poster: "call-my-agent.jpg"
-      },
-      {
-        title: "Upon Her Lips: Pure Feels",
-        year: 2021,
-        poster: "upon-her-lips-pure-feels.jpg"
-      }
+  "title": "Call My Agent!",
+  "year": 2026,
+  "poster": "call-my-agent.jpg"
+},
+{
+  "title": "Upon Her Lips: Pure Feels",
+  "year": 2021,
+  "poster": "upon-her-lips-pure-feels.jpg"
+}
     ]
   },
   "GEO": {
@@ -874,10 +874,10 @@ window.WLW_CATALOG = {
         "poster": "so-damn-easy-going.jpg"
       },
       {
-        title: "Nova & Alice",
-        year: 2024,
-        poster: "nova-and-alice.jpg"
-      }
+  "title": "Nova & Alice",
+  "year": 2024,
+  "poster": "nova-and-alice.jpg"
+}
     ]
   },
   "UK": {
@@ -1046,10 +1046,10 @@ window.WLW_CATALOG = {
         "poster": "tell-it-to-the-bees.jpg"
       },
       {
-        title: "The Miseducation of Cameron Post",
-        year: 2018,
-        poster: "the-miseducation-of-cameron-post.jpg"
-      }
+  "title": "The Miseducation of Cameron Post",
+  "year": 2018,
+  "poster": "the-miseducation-of-cameron-post.jpg"
+}
     ]
   },
   "USA": {
@@ -1653,30 +1653,30 @@ window.WLW_CATALOG = {
         "poster": "the-world-to-come.jpg"
       },
       {
-        title: "Nosferatu",
-        year: 2024,
-        poster: "nosferatu.jpg"
-      },
-      {
-        title: "Bodies Bodies Bodies",
-        year: 2022,
-        poster: "bodies-bodies-bodies.jpg"
-      },
-      {
-        title: "She Creature",
-        year: 2001,
-        poster: "she-creature.jpg"
-      },
-      {
-        title: "Teenage Sex and Death at Camp Miasma",
-        year: 2026,
-        poster: "teenage-sex-and-death-at-camp-miasma.jpg"
-      },
-      {
-        title: "The Center of the World",
-        year: 2001,
-        poster: "the-center-of-the-world.jpg"
-      }
+  "title": "Nosferatu",
+  "year": 2024,
+  "poster": "nosferatu.jpg"
+},
+{
+  "title": "Bodies Bodies Bodies",
+  "year": 2022,
+  "poster": "bodies-bodies-bodies.jpg"
+},
+{
+  "title": "She Creature",
+  "year": 2001,
+  "poster": "she-creature.jpg"
+},
+{
+  "title": "Teenage Sex and Death at Camp Miasma",
+  "year": 2026,
+  "poster": "teenage-sex-and-death-at-camp-miasma.jpg"
+},
+{
+  "title": "The Center of the World",
+  "year": 2001,
+  "poster": "the-center-of-the-world.jpg"
+}
     ]
   }
 };
